@@ -1,0 +1,33 @@
+[09:57:55]:[QLT][Villa Jacinta]:[Start] : Sent by Harold Cale (Technical Support)
+[09:57:55]:[QLT][Villa Jacinta]:[Message] :
+Hello, some may experience loss of internet connection due to a fiber break in our main line. Sorry for this inconvenience.
+[09:57:59]:[QLT][Villa Jacinta]:[Sent] : ['1) 09856202948: ALICIA M. PIRAMIDE', '1) 09709944298: DANTE S. ANDOY', '1) 09979472667: MYRNA E. ANDOY']
+[09:58:04]:[QLT][Villa Jacinta]:[Sent] : ['1) 09942603678: WINZIEL ALIBANGBANG']
+[09:58:08]:[QLT][Villa Jacinta]:[End]
+
+
+[09:58:33]:[QLT][Lower Villa Jacinta]:[Start] : Sent by Harold Cale (Technical Support)
+[09:58:33]:[QLT][Lower Villa Jacinta]:[Message] :
+Hello, some may experience loss of internet connection due to a fiber break in our main line. Sorry for this inconvenience.
+[09:58:35]:[QLT][Lower Villa Jacinta]:[Sent] : ['1) 09352704188: ALEX G. MONTILLA. JR.', '1) 09481871881: ARCELY E. BERONIO', '1) 09107969966: BARANGAY LOWER VILLA JACINTA/SHIELA MAE M. PLORIDA']
+[09:58:41]:[QLT][Lower Villa Jacinta]:[Sent] : ['1) 09287088720: BRENDA M. MINDAJAO', '1) 09267124046: DOMINGA B. BELLO', '1) 09550183665: ELENA S. LOLO']
+[09:58:47]:[QLT][Lower Villa Jacinta]:[Sent] : ['1) 09202690353: ERLINA M. ROSELLO', '1) 09392838201: EVELYN A. PLUSNIN', '1) 09265540899: FELIPE NERI DONAYRE OCTOT']
+[09:58:53]:[QLT][Lower Villa Jacinta]:[Sent] : ['1) 09812873819: JELLY ANN PIA', '1) 09202713443: NORMAN M. SOTTO', '1) 09480551649: ROCKY LOLO']
+[09:58:59]:[QLT][Lower Villa Jacinta]:[Sent] : ['1) 09971075279: VILLA JACINTA NATIONAL VOCATIONAL HIGH SCHOOL', '1) 09858776423: VIRGINIA MALAKI', '1) 09205262890: WILSON S. ACERO']
+[09:59:03]:[QLT][Lower Villa Jacinta]:[Rejected] : Invalid contact number
+08984022314: MARIA FAITH BELLO
+[09:59:03]:[QLT][Lower Villa Jacinta]:[End]
+
+
+[09:59:44]:[QLT][Upper Villa Jacinta]:[Start] : Sent by Harold Cale (Technical Support)
+[09:59:44]:[QLT][Upper Villa Jacinta]:[Message] :
+Hello, some may experience loss of internet connection due to a fiber break in our main line. Sorry for this inconvenience.
+[09:59:56]:[QLT][Upper Villa Jacinta]:[Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09977736862', '=message=Hello, some may experience loss of internet connection due to a fiber break in our main line. Sorry for this inconvenience.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[10:00:04]:[QLT][Upper Villa Jacinta]:[Sent] : ['1) 09977736862: ERNESTO M. GENOSA JR.', '1) 09127930586: JENNY MAE BETARMOS', '1) 09395006179: LEONIL ELVIRA']
+[10:00:10]:[QLT][Upper Villa Jacinta]:[Sent] : ['1) 09566490418: LUZ C LIBOON', '1) 09694896279: MELONIE AMPOAN', '1) 09919318734: MYRNA P. CAPISTRANO']
+[10:00:15]:[QLT][Upper Villa Jacinta]:[Sent] : ['1) 09154156954: RACHIL MENDOZA', '1) 09750126185: REMEDIOS M. CENIZA', '1) 09469224082: ROBINSON PELIGRO']
+[10:00:19]:[QLT][Upper Villa Jacinta]:[End]
+
+

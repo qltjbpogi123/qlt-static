@@ -1,0 +1,55 @@
+01/09/2025 - 11:53:59
+FTTH Monthly Notification
+Branch : Queens Link - St. Bernard
+Message : Hello, as of January 2025, you have # pending monthly bills. Contact us at 09637959812 or on our Facebook page. By Queens Link - St. Bernard.
+   [Fail][11:53:59] : ['09556904553, ARIEL CAJATE: 1 pending monthly bill', '09631850586, ARLYN Y. MANATAD: 1 pending monthly bill', '09708994376, ARMAN B. PEY: 1 pending monthly bill']
+   [Fail][11:54:08] : ['09177051715, BEBENITH D. OMPOY: 1 pending monthly bill', '09274387614, BERNEDITH C. BAIGAN: 1 pending monthly bill', '09973209180, BERNIE M. GALEA: 1 pending monthly bill']
+[Success][11:54:13] : ['09157703416, BETSY C GESTUPA: 1 pending monthly bill', '09703543894, BRYAN OCON GALANO: 1 pending monthly bill', '09352748812, CARMELITA S. SY: 1 pending monthly bill']
+[Success][11:54:19] : ['09627491462, CARMEN GARRIDO MADJUS: 1 pending monthly bill', '09550793714, CHARISH M. BAJAO: 1 pending monthly bill', '09955682907, CHARLES JIM CUSTODIO: 1 pending monthly bill']
+[Success][11:54:25] : ['09945922781, DANILO DAPO JR.: 1 pending monthly bill', '09063339382, DANTE A. GUTUAL: 1 pending monthly bill', '09264562547, EMILOU C. MANCIO: 1 pending monthly bill']
+[Success][11:54:31] : ['09978536016, EMMA MONDALA: 2 pending monthly bills', '09067626008, ENRIQUE PLAR GAMBA: 1 pending monthly bill', '09978536557, ERNESTO M.MACAPAL: 1 pending monthly bill']
+[Success][11:54:37] : ['09162813664, FELICITY KAYE B. MIRANG: 2 pending monthly bills', '09750183332, FLOYD DIAZ CINCO: 1 pending monthly bill', '09510345192, JANE LIBRES: 1 pending monthly bill']
+[Success][11:54:44] : ['09499123396, JAY CATUYAN: 1 pending monthly bill', '09501160863, JEANY MAGANDAN: 1 pending monthly bill', '09662082746, JEFREY M. ANDALES: 1 pending monthly bill']
+[Success][11:54:50] : ['09959128051, JEMALHENE PAGULONG: 2 pending monthly bills', '09196406050, JERRY T. BAJAO: 2 pending monthly bills', '09701267965, JOANNE P. DOLLETE: 1 pending monthly bill']
+[Success][11:54:56] : ['09672159631, JOHNSON MONGHIT: 1 pending monthly bill', '09638168645, JOMAR TANGPOS: 1 pending monthly bill', '09366202665, JOY S. DELA TORRE: 1 pending monthly bill']
+[Success][11:55:02] : ['09635232268, LOURDES P. MAPAIT: 1 pending monthly bill', '09661375825, LYNFREY Q. LOPEZ: 1 pending monthly bill', '09641798137, MADELYN C. DIANOPRA: 1 pending monthly bill']
+[Success][11:55:08] : ['09555667993, MAE G. NAVOS: 1 pending monthly bill', '09354334198, MARA S.BILLONES: 1 pending monthly bill', '09367659468, MARIE FE Q. JUANICO: 2 pending monthly bills']
+[Success][11:55:15] : ['09351296115, MARILOU TERO: 1 pending monthly bill', '09309791155, MARISSA B. MADJUS: 1 pending monthly bill', '09265932645, MARLOU B. SANICO: 1 pending monthly bill']
+[Success][11:55:21] : ['09855882742, MIA MABALHIN: 1 pending monthly bill', '09972896908, PETCHE MAE L. MANCIO: 1 pending monthly bill', '09550793882, RACHEL GARAO: 1 pending monthly bill']
+[Success][11:55:27] : ['09535607931, RANDY S. CUTAYAN: 1 pending monthly bill', '09355786099, REYJAY B. HINANIBAN: 1 pending monthly bill', '09519836586, RHODA BELEN OCLARIT: 1 pending monthly bill']
+[Success][11:55:33] : ['09512224487, RIZA M. HINANIBAN: 1 pending monthly bill', '09945008331, ROBERT A. SEGADOR JR.: 1 pending monthly bill', '09551368039, ROBERTO D. RELENTE JR.: 1 pending monthly bill']
+[Success][11:55:39] : ['09120854546, ROLAND C. TOREJOS: 2 pending monthly bills', '09512685585, ROSANA M. ABRINICA: 1 pending monthly bill', '09056179528, ROWENA DELLOSA: 1 pending monthly bill']
+[Success][11:55:45] : ['09563673382, RUTH C. AMBALONG: 1 pending monthly bill', '09464751011, RYAN C. SERATA: 1 pending monthly bill', '09398157161, SEAN DAVIS V. BICOL: 2 pending monthly bills']
+[Success][11:55:52] : ['09631158331, STANLEY CASTRODES: 1 pending monthly bill', '09637959812, QLTSB: Success notification!', '09094180770, QLTSB: Success notification!']
+[Success][11:55:58] : ['09556904553, ARIEL CAJATE: 1 pending monthly bill', '09631850586, ARLYN Y. MANATAD: 1 pending monthly bill', '09708994376, ARMAN B. PEY: 1 pending monthly bill']
+[Success][11:56:04] : ['09177051715, BEBENITH D. OMPOY: 1 pending monthly bill', '09274387614, BERNEDITH C. BAIGAN: 1 pending monthly bill', '09973209180, BERNIE M. GALEA: 1 pending monthly bill']
+
+[Rejected Records]:
+ANGELICA L. DURO, 099553195092: Invalid Contact Number
+CRISEL JARENCIO, 9705816264: Invalid Contact Number
+ERIBERTO M. LAMBAN, 9302046906/956: Invalid Contact Number
+FRECILLA MAE O. BARACCA, 0994970076: Invalid Contact Number
+JAIVIN B. DIGNOS, 0967468354: Invalid Contact Number
+JAYLOU A. PULAN, 9610177371: Invalid Contact Number
+JIANNE PERAS, Himay-angan, L: Invalid Contact Number
+LEAH M. ALBINO, 099732990101: Invalid Contact Number
+LEONILYN BERNABE, 092683111057: Invalid Contact Number
+LISA DAGANGAN, 9554265985: Invalid Contact Number
+LOIDA A. VALLEJOS, 0951003295: Invalid Contact Number
+MANELITO B. CASERA, 0965082348: Invalid Contact Number
+MARIA CECILLE SIMBORIO, 0965492883: Invalid Contact Number
+MARJORIE R. PATUAL, 9661528398: Invalid Contact Number
+MARY JANE M. ABOYLO, 0936729647: Invalid Contact Number
+NANET A. FERNANDEZ, 0935479188: Invalid Contact Number
+RICHARD O. VALIC, 9676879127: Invalid Contact Number
+SHAIRA JOY S. LIBATO, 9056730030: Invalid Contact Number
+VENERANDO ALFARO, 9153943781: Invalid Contact Number
+
+[Error Records]:
+[Error Message][11:53:59] : timed out
+[Error Message][11:54:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09177051715', '=message=Hello, as of January 2025, you have 1 pending monthly bill. Contact us at 09637959812 or on our Facebook page. By Queens Link - St. Bernard.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+
+
+

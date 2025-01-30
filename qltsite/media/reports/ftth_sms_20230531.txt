@@ -1,0 +1,114 @@
+Location : Bogo (Brgy. Bogo, Tomas Oppus, Southern Leyte)
+Message : To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod
+
+[Success][13:32:46] : ['09557812518: AILYN BERNADIT', '09067555324: AMALIA L. CADAY', '09555062218: BRGY. BOGO T.O.']
+[Success][13:32:53] : ['09151732809: CASTRENCE VECINA', '09156575226: CHERRY FE MORANO', '09151162470: CHRISTIAN AVES']
+[Success][13:33:00] : ['09275587479: CHRISTIAN TRIMUCHA', '09617330044: DAFENHS 1-JUNIOR HIGH SCHOOL 1', '09617330044: DAFENHS 2-JUNIOR HIGH SCHOOL 2']
+[Success][13:33:07] : ['09617330044: DAFENHS 3-SENIOR HIGH SCHOOL', '09054020193: EMETERIO OBRA', '09561109782: JEMAR BATAL']
+[Success][13:33:14] : ['09218507216: JOHN CARLO CABALE', '09157377688: JOHN PATRICK TORRES', '09772607791: JONATHAN M. KUIZON']
+[Success][13:33:21] : ['09171126909: JONNAH CHERE CADAYONA', '09762084093: JOVELYN S. MAUNES', '09659243040: JUNBERT S. MATONDO']
+[Success][13:33:28] : ['09465274886: LGU TOMAS OPPUS-AGRICULTURE', '09630598098: LGU TOMAS OPPUS-ENGINEERING DEPT', '09173061169: LGU TOMAS OPPUS-LDRRMO']
+[Success][13:33:35] : ['09171195461: LGU TOMAS OPPUS-LEGISLATIVE OFFICE', '09159332405: LGU TOMAS OPPUS-LIGA NG BRGY', '09973148578: LGU TOMAS OPPUS-MPDC']
+[Success][13:33:42] : ['09631174082: LGU TOMAS OPPUS-MTO', '09269349924: LGU TOMAS OPPUS-RHU', '09973148578: LGU TOMAS OPPUS-TECH 4 ED CENTER']
+[Success][13:33:48] : ['09700610007: LIZIEL B. PUGOY', '09758780870: MA. CECEL MITARAN', '09261001416: MARILOU B. MATULIN']
+[Success][13:33:55] : ['09058172767: MARK RJ MARTE', '09552007588: MARY GRACE TAPIA', '09363775224: MERCY P. ESCOLANO']
+[Success][13:34:02] : ['09979221747: MERLINA RODEN', '09554709077: MICHAEL L. TACLE', '09953769278: NICOLAS TORRES JR.']
+[Success][13:34:09] : ['09164276657: PNP TOMAS OPPUS', '09771101553: RAUL P. MAHUMAS JR.', '09776425327: SANTIAGO A. MERCADO']
+[Success][13:34:16] : ['09679178296: SATURNINA MEKING', '09654530745: TEODORO CHIONG JR', '09651336557: TITO TINAMBACAN']
+[Success][13:34:31] : ['09175501303: TOCS 1-CLASS ROOM', '09175501303: TOCS-2-PRINCIPAL', '09661476462: TOMAS OPPUS - FIRESTATION']
+[Success][13:34:38] : ['09566404029: VLADEMIR ESCANO']
+
+
+
+Location : Candatag (Brgy. Candatag, Malitbog, Southern Leyte)
+Message : To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod
+
+[Success][13:36:31] : ['09972857279: AGNES Q. MACALDO', '09061227844: AILEEN DALUGDUGAN', '09562295759: ALEXA B. TALISAYSAY']
+   [Fail][13:36:40] : ['09174535079: ALLAN AGAPAY', '09397327399: ANECITO CAMINGAO JR', '09458199126: ARMANDO FIGURA']
+   [Fail][13:37:45] : ['09665747731: ERMILIN M. WEILER', '09275648136: FREDERICK DALUGDUGAN', '09273609758: JODEZZA L. CADAY']
+   [Fail][13:37:50] : ['09540487505: JOSEPHINE B. DALUGDUGAN', '09563196317: KARENFAYE CERRO', '09059057877: LA RHAINE T. PONGOS']
+   [Fail][13:37:55] : ['09562436988: LEONORA MIOLE', '09661486971: MARIA T. GONZALES', '09279375834: MICHELLE D. JACOBA']
+   [Fail][13:38:00] : ['09268004873: NELSON P. FIGURA', '09351498672: NESTOR GONZALES', '09692587171: RANDY ABREA']
+   [Fail][13:38:05] : ['09169386604: SONIA B. TALISAYSAY', '09957191054: TENIO EPIFANIA', '09174535079: ALLAN AGAPAY']
+   [Fail][13:38:10] : ['09397327399: ANECITO CAMINGAO JR', '09458199126: ARMANDO FIGURA', '09665747731: ERMILIN M. WEILER']
+   [Fail][13:38:15] : ['09275648136: FREDERICK DALUGDUGAN', '09273609758: JODEZZA L. CADAY', '09540487505: JOSEPHINE B. DALUGDUGAN']
+   [Fail][13:38:20] : ['09563196317: KARENFAYE CERRO', '09059057877: LA RHAINE T. PONGOS', '09562436988: LEONORA MIOLE']
+   [Fail][13:38:26] : ['09661486971: MARIA T. GONZALES', '09279375834: MICHELLE D. JACOBA', '09268004873: NELSON P. FIGURA']
+   [Fail][13:38:31] : ['09351498672: NESTOR GONZALES', '09692587171: RANDY ABREA', '09169386604: SONIA B. TALISAYSAY']
+   [Fail][13:38:36] : ['09957191054: TENIO EPIFANIA', '09174535079: ALLAN AGAPAY', '09397327399: ANECITO CAMINGAO JR']
+   [Fail][13:38:41] : ['09458199126: ARMANDO FIGURA', '09665747731: ERMILIN M. WEILER', '09275648136: FREDERICK DALUGDUGAN']
+   [Fail][13:38:46] : ['09273609758: JODEZZA L. CADAY', '09540487505: JOSEPHINE B. DALUGDUGAN', '09563196317: KARENFAYE CERRO']
+   [Fail][13:38:51] : ['09059057877: LA RHAINE T. PONGOS', '09562436988: LEONORA MIOLE', '09661486971: MARIA T. GONZALES']
+   [Fail][13:38:56] : ['09279375834: MICHELLE D. JACOBA', '09268004873: NELSON P. FIGURA', '09351498672: NESTOR GONZALES']
+   [Fail][13:39:01] : ['09692587171: RANDY ABREA', '09169386604: SONIA B. TALISAYSAY', '09957191054: TENIO EPIFANIA']
+   [Fail][13:39:06] : ['09174535079: ALLAN AGAPAY', '09397327399: ANECITO CAMINGAO JR', '09458199126: ARMANDO FIGURA']
+   [Fail][13:39:11] : ['09665747731: ERMILIN M. WEILER', '09275648136: FREDERICK DALUGDUGAN', '09273609758: JODEZZA L. CADAY']
+   [Fail][13:39:16] : ['09540487505: JOSEPHINE B. DALUGDUGAN', '09563196317: KARENFAYE CERRO', '09059057877: LA RHAINE T. PONGOS']
+[Success][13:39:21] : ['09562436988: LEONORA MIOLE', '09661486971: MARIA T. GONZALES', '09279375834: MICHELLE D. JACOBA']
+[Success][13:39:38] : ['09268004873: NELSON P. FIGURA', '09351498672: NESTOR GONZALES', '09692587171: RANDY ABREA']
+[Success][13:39:45] : ['09169386604: SONIA B. TALISAYSAY', '09957191054: TENIO EPIFANIA', '09174535079: ALLAN AGAPAY']
+[Success][13:39:52] : ['09397327399: ANECITO CAMINGAO JR', '09458199126: ARMANDO FIGURA', '09665747731: ERMILIN M. WEILER']
+[Success][13:39:59] : ['09275648136: FREDERICK DALUGDUGAN', '09273609758: JODEZZA L. CADAY', '09540487505: JOSEPHINE B. DALUGDUGAN']
+[Success][13:40:06] : ['09563196317: KARENFAYE CERRO', '09059057877: LA RHAINE T. PONGOS']
+
+[Error Records]:
+[Error Message][13:36:40] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09174535079', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+[Error Message][13:37:45] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09665747731', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:37:50] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09540487505', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:37:55] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09562436988', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:38:00] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09268004873', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:38:05] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09169386604', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:38:10] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09397327399', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:38:15] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09275648136', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:38:20] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09563196317', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:38:26] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09661486971', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:38:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09351498672', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:38:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09957191054', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][13:38:41] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09458199126', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][13:38:46] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09273609758', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][13:38:51] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09059057877', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][13:38:56] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09279375834', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][13:39:01] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09692587171', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][13:39:06] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09174535079', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+[Error Message][13:39:11] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09665747731', '=message=To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us. #QLTSogod')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+
+
+

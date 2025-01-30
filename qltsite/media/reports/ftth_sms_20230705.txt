@@ -1,0 +1,12 @@
+Location : San Vicente (Ormoc) (Brgy. San Vicente, Ormoc City)
+Message : To our valued subscribers, you may be experiencing intermittent to no internet connectivity, due to maintenance. Thank you and please bear with us.
+
+[Success][09:21:45] : ['09279555311: ALOHNA DIOLA', '09923505350: BOBBY ANDREW H TAGALOG', '09666518675: Christianne Kyle Esperanza']
+[Success][09:21:51] : ['09753909544: EMILY S. ALICABA', '09759756761: ESTRELLA UDTOHAN', '09654055482: ISIDRO UBAY VALEZ']
+[Success][09:21:58] : ['09105493803: Janice A. Boholst', '09215922867: JOSHUA JUMAO-AS', '09661356254: Jovelyn R. Pitogo']
+[Success][09:22:05] : ['09777836096: JURDICK A. RIBO', '09673244011: KARLA MAE D. LEOVERAS', '09174261178: Leizl M. Yumang / Elvin Manoriña']
+[Success][09:22:12] : ['09771105733: MARICEL PITOGO', '09674025988: MELAGROS VILLASENCIO', '09927828882: RENATO V. DONDOYANO']
+[Success][09:22:18] : ['09952739313: SAN VICENTE ELEM. SCHOOL', '09709260487: SONNYMON A. SOBREVILLA', '09817759652: WILMAR R. PITOGO']
+
+
+

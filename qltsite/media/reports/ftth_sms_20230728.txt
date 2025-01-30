@@ -1,0 +1,299 @@
+Location : San Jose (Malitbog) (Brgy. San Jose, Malitbog, Southern Leyte)
+Message : ADVISORY: JULY 28, 2023 10:11 AM
+To all subscribers, you may be experiencing no internet connectivity.
+Reason: Maintenance
+Area affected: Brgy. San Jose
+
+   [Fail][10:14:25] : ['09385051210: ARMAN MASANGKAY', '09639641938: CATALINA M. LAGATIERRA', '09709938049: CATHERINE ROSE MACABATA']
+   [Fail][10:15:31] : ['09317313931: CONSUELO SUMBISE', '09518520122: FEDILA C. CAPUNAYAN', '09308687392: FELITA AMPONG']
+   [Fail][10:15:36] : ['09105833926: FLORENCIA AMPARO', '09214066421: FRANCES MAE DURIA', '09956318108: FURTONATO S. CONOCIDO']
+   [Fail][10:15:41] : ['09474614329: GIL MORENO', '09207966897: JANCILL G. PEÑAFIEL', '09465307656: JESSIREYL Q. CADAY']
+   [Fail][10:15:46] : ['09215804815: JOCELYN LOMOTOS', '09282726703: JOSE TALISAYSAY', '09125782666: JOSEPHINE B. ABOGADEI']
+   [Fail][10:15:51] : ['09997309897: JOVELIZA AMPONG', '09631154460: JOVIE L. LASQUITES', '09510447475: JUANITA A. CELLO']
+   [Fail][10:15:56] : ['09505245260: JUMIL ALVAREZ', '09709938642: LEABERNA BOHOL', '09383922942: LITA D. ESCARDA']
+   [Fail][10:16:01] : ['09475193893: LURINA C. CABARRUBIAS', '09281825630: MA. ELEANOR M. NACU', '09614359483: MACARIO IHALAD']
+   [Fail][10:16:06] : ['09630520388: MARIA MIRENDA C. SALAN', '09632675320: MARICHE MADRONA', '09518511623: MARK ALDRIN OCLARIT']
+   [Fail][10:16:11] : ['09983160922: NORMAE JANE MIOLE', '09306221369: RENZ CABODBOD BARONG', '09518027865: REOLITA C. CASTIL']
+   [Fail][10:16:16] : ['09684565212: RIZA C. MAÑEGO', '09700572875: ROWENA CAPALARAN', '09630718274: RUTH G. MUTIA']
+   [Fail][10:16:21] : ['09178788124: SAN JOSE ELEMENTARY SCHOOL MALITBOG', '09473969796: ZENAIDA A. ANDUYO', '09385051210: ARMAN MASANGKAY']
+   [Fail][10:16:26] : ['09639641938: CATALINA M. LAGATIERRA', '09709938049: CATHERINE ROSE MACABATA', '09317313931: CONSUELO SUMBISE']
+   [Fail][10:16:31] : ['09518520122: FEDILA C. CAPUNAYAN', '09308687392: FELITA AMPONG', '09105833926: FLORENCIA AMPARO']
+   [Fail][10:16:36] : ['09214066421: FRANCES MAE DURIA', '09956318108: FURTONATO S. CONOCIDO', '09474614329: GIL MORENO']
+   [Fail][10:16:41] : ['09207966897: JANCILL G. PEÑAFIEL', '09465307656: JESSIREYL Q. CADAY', '09215804815: JOCELYN LOMOTOS']
+   [Fail][10:16:46] : ['09282726703: JOSE TALISAYSAY', '09125782666: JOSEPHINE B. ABOGADEI', '09997309897: JOVELIZA AMPONG']
+   [Fail][10:16:51] : ['09631154460: JOVIE L. LASQUITES', '09510447475: JUANITA A. CELLO', '09505245260: JUMIL ALVAREZ']
+   [Fail][10:16:56] : ['09709938642: LEABERNA BOHOL', '09383922942: LITA D. ESCARDA', '09475193893: LURINA C. CABARRUBIAS']
+   [Fail][10:17:01] : ['09281825630: MA. ELEANOR M. NACU', '09614359483: MACARIO IHALAD', '09630520388: MARIA MIRENDA C. SALAN']
+   [Fail][10:17:06] : ['09632675320: MARICHE MADRONA', '09518511623: MARK ALDRIN OCLARIT', '09983160922: NORMAE JANE MIOLE']
+[Success][10:17:11] : ['09306221369: RENZ CABODBOD BARONG', '09518027865: REOLITA C. CASTIL', '09684565212: RIZA C. MAÑEGO']
+[Success][10:17:18] : ['09700572875: ROWENA CAPALARAN', '09630718274: RUTH G. MUTIA', '09178788124: SAN JOSE ELEMENTARY SCHOOL MALITBOG']
+[Success][10:17:26] : ['09473969796: ZENAIDA A. ANDUYO', '09385051210: ARMAN MASANGKAY', '09639641938: CATALINA M. LAGATIERRA']
+[Success][10:17:32] : ['09709938049: CATHERINE ROSE MACABATA', '09317313931: CONSUELO SUMBISE', '09518520122: FEDILA C. CAPUNAYAN']
+[Success][10:17:39] : ['09308687392: FELITA AMPONG', '09105833926: FLORENCIA AMPARO', '09214066421: FRANCES MAE DURIA']
+[Success][10:17:46] : ['09956318108: FURTONATO S. CONOCIDO', '09474614329: GIL MORENO', '09207966897: JANCILL G. PEÑAFIEL']
+[Success][10:17:53] : ['09465307656: JESSIREYL Q. CADAY', '09215804815: JOCELYN LOMOTOS', '09282726703: JOSE TALISAYSAY']
+[Success][10:18:00] : ['09125782666: JOSEPHINE B. ABOGADEI', '09997309897: JOVELIZA AMPONG', '09631154460: JOVIE L. LASQUITES']
+[Success][10:18:17] : ['09510447475: JUANITA A. CELLO', '09505245260: JUMIL ALVAREZ', '09709938642: LEABERNA BOHOL']
+[Success][10:18:24] : ['09383922942: LITA D. ESCARDA', '09475193893: LURINA C. CABARRUBIAS', '09281825630: MA. ELEANOR M. NACU']
+   [Fail][10:18:30] : ['09614359483: MACARIO IHALAD', '09630520388: MARIA MIRENDA C. SALAN', '09632675320: MARICHE MADRONA']
+   [Fail][10:19:35] : ['09518511623: MARK ALDRIN OCLARIT', '09983160922: NORMAE JANE MIOLE', '09614359483: MACARIO IHALAD']
+   [Fail][10:19:40] : ['09630520388: MARIA MIRENDA C. SALAN', '09632675320: MARICHE MADRONA', '09518511623: MARK ALDRIN OCLARIT']
+   [Fail][10:19:45] : ['09983160922: NORMAE JANE MIOLE', '09614359483: MACARIO IHALAD', '09630520388: MARIA MIRENDA C. SALAN']
+   [Fail][10:19:50] : ['09632675320: MARICHE MADRONA', '09518511623: MARK ALDRIN OCLARIT', '09983160922: NORMAE JANE MIOLE']
+   [Fail][10:19:55] : ['09614359483: MACARIO IHALAD', '09630520388: MARIA MIRENDA C. SALAN', '09632675320: MARICHE MADRONA']
+   [Fail][10:20:00] : ['09518511623: MARK ALDRIN OCLARIT', '09983160922: NORMAE JANE MIOLE', '09614359483: MACARIO IHALAD']
+   [Fail][10:20:05] : ['09630520388: MARIA MIRENDA C. SALAN', '09632675320: MARICHE MADRONA', '09518511623: MARK ALDRIN OCLARIT']
+   [Fail][10:20:10] : ['09983160922: NORMAE JANE MIOLE', '09614359483: MACARIO IHALAD', '09630520388: MARIA MIRENDA C. SALAN']
+   [Fail][10:20:15] : ['09632675320: MARICHE MADRONA', '09518511623: MARK ALDRIN OCLARIT', '09983160922: NORMAE JANE MIOLE']
+   [Fail][10:20:20] : ['09614359483: MACARIO IHALAD', '09630520388: MARIA MIRENDA C. SALAN', '09632675320: MARICHE MADRONA']
+   [Fail][10:20:25] : ['09518511623: MARK ALDRIN OCLARIT', '09983160922: NORMAE JANE MIOLE', '09614359483: MACARIO IHALAD']
+   [Fail][10:20:30] : ['09630520388: MARIA MIRENDA C. SALAN', '09632675320: MARICHE MADRONA', '09518511623: MARK ALDRIN OCLARIT']
+   [Fail][10:20:35] : ['09983160922: NORMAE JANE MIOLE', '09614359483: MACARIO IHALAD', '09630520388: MARIA MIRENDA C. SALAN']
+   [Fail][10:20:40] : ['09632675320: MARICHE MADRONA', '09518511623: MARK ALDRIN OCLARIT', '09983160922: NORMAE JANE MIOLE']
+   [Fail][10:20:45] : ['09614359483: MACARIO IHALAD', '09630520388: MARIA MIRENDA C. SALAN', '09632675320: MARICHE MADRONA']
+   [Fail][10:20:50] : ['09518511623: MARK ALDRIN OCLARIT', '09983160922: NORMAE JANE MIOLE', '09614359483: MACARIO IHALAD']
+   [Fail][10:20:55] : ['09630520388: MARIA MIRENDA C. SALAN', '09632675320: MARICHE MADRONA', '09518511623: MARK ALDRIN OCLARIT']
+   [Fail][10:21:01] : ['09983160922: NORMAE JANE MIOLE', '09614359483: MACARIO IHALAD', '09630520388: MARIA MIRENDA C. SALAN']
+   [Fail][10:21:06] : ['09632675320: MARICHE MADRONA', '09518511623: MARK ALDRIN OCLARIT', '09983160922: NORMAE JANE MIOLE']
+   [Fail][10:21:11] : ['09614359483: MACARIO IHALAD', '09630520388: MARIA MIRENDA C. SALAN', '09632675320: MARICHE MADRONA']
+[Success][10:21:16] : ['09518511623: MARK ALDRIN OCLARIT', '09983160922: NORMAE JANE MIOLE', '09614359483: MACARIO IHALAD']
+[Success][10:21:22] : ['09630520388: MARIA MIRENDA C. SALAN', '09632675320: MARICHE MADRONA']
+
+[Error Records]:
+[Error Message][10:14:25] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09709938049', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+[Error Message][10:15:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09317313931', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:15:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09105833926', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:15:41] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09474614329', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:15:46] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09215804815', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:15:51] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09997309897', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:15:56] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09505245260', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:16:01] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09475193893', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:16:06] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09630520388', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:16:11] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09983160922', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:16:16] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09684565212', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:16:21] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09178788124', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:16:26] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09639641938', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:16:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09518520122', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:16:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09214066421', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:16:41] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09207966897', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:16:46] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09282726703', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:16:51] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09631154460', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:16:56] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09709938642', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+[Error Message][10:17:01] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09281825630', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:17:06] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09632675320', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:18:30] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09614359483', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+[Error Message][10:19:35] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09518511623', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:19:55] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09614359483', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:20:25] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09518511623', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:20:30] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09630520388', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:20:35] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09983160922', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:20:40] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09632675320', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:20:45] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09614359483', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:20:55] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09630520388', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+[Error Message][10:21:01] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09983160922', '=message=ADVISORY: JULY 28, 2023 10:11 AM\r\nTo all subscribers, you may be experiencing no internet connectivity.\r\nReason: Maintenance\r\nArea affected: Brgy. San Jose')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+
+
+
+Location : San Roque (Malitbog) (Brgy. San Roque, Malitbog, Southern Leyte)
+Message : ADVISORY: JULY 28, 2023
+To all our subscribers, you may be experiencing no internet connectivity.
+Area affected: Brgy San Roque, Malitbog
+Reason: Maintenance
+
+[Success][13:41:24] : ['09302417553: BASILISA R. IHALAD', '09471879824: BLAIR T. CAPILITAN', '09695360601: EDMUNDO C. LIQUIDO']
+[Success][13:41:31] : ['09771620786: GLORIA A. RAGAS', '09171829340: IMEE DUHAYLUNGSOD', '09970681454: JEDDABEL HONRADA #2']
+[Success][13:41:38] : ['09631164042: JENNISA I. CAJES', '09162664144: JOAN C. GATCHO', '09053625581: JOHN OLREY ELIJAH D. BERNANTE']
+[Success][13:41:44] : ['09631001057: LEONESE ANDREW LASQUITES', '09639152503: MA-ANN JUSAYAN #1', '09639152503: MA. ANN JUNIO JUSAYAN #2']
+[Success][13:41:51] : ['09510339544: MA. ARLENE MARFA', '09606628177: MA. TERESA CABARRUBIAS', '09393919963: MANUEL T. HENDOY']
+[Success][13:41:58] : ['09473468917: MARIA CORAZON L. CARRILLO', '09396321541: PRISCILA CONGSON', '09630746017: RASS O. DUHAYLUNGSOD']
+[Success][13:42:05] : ['09682161429: ROSARIO R. VALLINAS', '09615603203: SHEILAME M. LIQUIDO']
+
+
+
+Location : San Roque (Malitbog) (Brgy. San Roque, Malitbog, Southern Leyte)
+Message : ADVISORY: JULY 28, 2023
+To our subscribers, you may be experiencing no internet connectivity.
+Area affected: Brgy. San Roque, Malitbog
+Reason: Maintenance
+
+   [Fail][13:44:30] : ['09302417553: BASILISA R. IHALAD', '09471879824: BLAIR T. CAPILITAN', '09695360601: EDMUNDO C. LIQUIDO']
+[Success][13:44:43] : ['09771620786: GLORIA A. RAGAS', '09171829340: IMEE DUHAYLUNGSOD', '09970681454: JEDDABEL HONRADA #2']
+   [Fail][13:44:51] : ['09631164042: JENNISA I. CAJES', '09162664144: JOAN C. GATCHO', '09053625581: JOHN OLREY ELIJAH D. BERNANTE']
+   [Fail][13:44:56] : ['09631001057: LEONESE ANDREW LASQUITES', '09639152503: MA-ANN JUSAYAN #1', '09639152503: MA. ANN JUNIO JUSAYAN #2']
+   [Fail][13:45:01] : ['09510339544: MA. ARLENE MARFA', '09606628177: MA. TERESA CABARRUBIAS', '09393919963: MANUEL T. HENDOY']
+   [Fail][13:45:06] : ['09473468917: MARIA CORAZON L. CARRILLO', '09396321541: PRISCILA CONGSON', '09630746017: RASS O. DUHAYLUNGSOD']
+   [Fail][13:45:11] : ['09682161429: ROSARIO R. VALLINAS', '09615603203: SHEILAME M. LIQUIDO', '09302417553: BASILISA R. IHALAD']
+   [Fail][13:45:16] : ['09471879824: BLAIR T. CAPILITAN', '09695360601: EDMUNDO C. LIQUIDO', '09631164042: JENNISA I. CAJES']
+   [Fail][13:45:21] : ['09162664144: JOAN C. GATCHO', '09053625581: JOHN OLREY ELIJAH D. BERNANTE', '09631001057: LEONESE ANDREW LASQUITES']
+   [Fail][13:45:26] : ['09639152503: MA-ANN JUSAYAN #1', '09639152503: MA. ANN JUNIO JUSAYAN #2', '09510339544: MA. ARLENE MARFA']
+   [Fail][13:45:31] : ['09606628177: MA. TERESA CABARRUBIAS', '09393919963: MANUEL T. HENDOY', '09473468917: MARIA CORAZON L. CARRILLO']
+   [Fail][13:45:36] : ['09396321541: PRISCILA CONGSON', '09630746017: RASS O. DUHAYLUNGSOD', '09682161429: ROSARIO R. VALLINAS']
+   [Fail][13:45:41] : ['09615603203: SHEILAME M. LIQUIDO', '09302417553: BASILISA R. IHALAD', '09471879824: BLAIR T. CAPILITAN']
+   [Fail][13:45:46] : ['09695360601: EDMUNDO C. LIQUIDO', '09631164042: JENNISA I. CAJES', '09162664144: JOAN C. GATCHO']
+   [Fail][13:45:52] : ['09053625581: JOHN OLREY ELIJAH D. BERNANTE', '09631001057: LEONESE ANDREW LASQUITES', '09639152503: MA-ANN JUSAYAN #1']
+   [Fail][13:45:57] : ['09639152503: MA. ANN JUNIO JUSAYAN #2', '09510339544: MA. ARLENE MARFA', '09606628177: MA. TERESA CABARRUBIAS']
+   [Fail][13:46:02] : ['09393919963: MANUEL T. HENDOY', '09473468917: MARIA CORAZON L. CARRILLO', '09396321541: PRISCILA CONGSON']
+   [Fail][13:46:07] : ['09630746017: RASS O. DUHAYLUNGSOD', '09682161429: ROSARIO R. VALLINAS', '09615603203: SHEILAME M. LIQUIDO']
+   [Fail][13:46:12] : ['09302417553: BASILISA R. IHALAD', '09471879824: BLAIR T. CAPILITAN', '09695360601: EDMUNDO C. LIQUIDO']
+   [Fail][13:46:17] : ['09631164042: JENNISA I. CAJES', '09162664144: JOAN C. GATCHO', '09053625581: JOHN OLREY ELIJAH D. BERNANTE']
+   [Fail][13:46:22] : ['09631001057: LEONESE ANDREW LASQUITES', '09639152503: MA-ANN JUSAYAN #1', '09639152503: MA. ANN JUNIO JUSAYAN #2']
+   [Fail][13:46:27] : ['09510339544: MA. ARLENE MARFA', '09606628177: MA. TERESA CABARRUBIAS', '09393919963: MANUEL T. HENDOY']
+   [Fail][13:46:32] : ['09473468917: MARIA CORAZON L. CARRILLO', '09396321541: PRISCILA CONGSON', '09630746017: RASS O. DUHAYLUNGSOD']
+   [Fail][13:46:37] : ['09682161429: ROSARIO R. VALLINAS', '09615603203: SHEILAME M. LIQUIDO', '09302417553: BASILISA R. IHALAD']
+   [Fail][13:46:42] : ['09471879824: BLAIR T. CAPILITAN', '09695360601: EDMUNDO C. LIQUIDO', '09631164042: JENNISA I. CAJES']
+   [Fail][13:46:47] : ['09162664144: JOAN C. GATCHO', '09053625581: JOHN OLREY ELIJAH D. BERNANTE', '09631001057: LEONESE ANDREW LASQUITES']
+   [Fail][13:46:52] : ['09639152503: MA-ANN JUSAYAN #1', '09639152503: MA. ANN JUNIO JUSAYAN #2', '09510339544: MA. ARLENE MARFA']
+   [Fail][13:46:57] : ['09606628177: MA. TERESA CABARRUBIAS', '09393919963: MANUEL T. HENDOY', '09473468917: MARIA CORAZON L. CARRILLO']
+   [Fail][13:47:02] : ['09396321541: PRISCILA CONGSON', '09630746017: RASS O. DUHAYLUNGSOD', '09682161429: ROSARIO R. VALLINAS']
+   [Fail][13:47:07] : ['09615603203: SHEILAME M. LIQUIDO', '09302417553: BASILISA R. IHALAD', '09471879824: BLAIR T. CAPILITAN']
+   [Fail][13:47:12] : ['09695360601: EDMUNDO C. LIQUIDO', '09631164042: JENNISA I. CAJES', '09162664144: JOAN C. GATCHO']
+   [Fail][13:47:17] : ['09053625581: JOHN OLREY ELIJAH D. BERNANTE', '09631001057: LEONESE ANDREW LASQUITES', '09639152503: MA-ANN JUSAYAN #1']
+   [Fail][13:47:22] : ['09639152503: MA. ANN JUNIO JUSAYAN #2', '09510339544: MA. ARLENE MARFA', '09606628177: MA. TERESA CABARRUBIAS']
+   [Fail][13:47:27] : ['09393919963: MANUEL T. HENDOY', '09473468917: MARIA CORAZON L. CARRILLO', '09396321541: PRISCILA CONGSON']
+   [Fail][13:47:32] : ['09630746017: RASS O. DUHAYLUNGSOD', '09682161429: ROSARIO R. VALLINAS', '09615603203: SHEILAME M. LIQUIDO']
+   [Fail][13:47:37] : ['09302417553: BASILISA R. IHALAD', '09471879824: BLAIR T. CAPILITAN', '09695360601: EDMUNDO C. LIQUIDO']
+[Success][13:47:42] : ['09631164042: JENNISA I. CAJES', '09162664144: JOAN C. GATCHO', '09053625581: JOHN OLREY ELIJAH D. BERNANTE']
+[Success][13:47:49] : ['09631001057: LEONESE ANDREW LASQUITES', '09639152503: MA-ANN JUSAYAN #1', '09639152503: MA. ANN JUNIO JUSAYAN #2']
+[Success][13:47:55] : ['09510339544: MA. ARLENE MARFA', '09606628177: MA. TERESA CABARRUBIAS', '09393919963: MANUEL T. HENDOY']
+[Success][13:48:02] : ['09473468917: MARIA CORAZON L. CARRILLO', '09396321541: PRISCILA CONGSON', '09630746017: RASS O. DUHAYLUNGSOD']
+[Success][13:48:09] : ['09682161429: ROSARIO R. VALLINAS', '09615603203: SHEILAME M. LIQUIDO', '09302417553: BASILISA R. IHALAD']
+[Success][13:48:16] : ['09471879824: BLAIR T. CAPILITAN', '09695360601: EDMUNDO C. LIQUIDO']
+
+[Error Records]:
+[Error Message][13:44:30] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09695360601', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[Error Message][13:44:51] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09631164042', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:44:56] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09631001057', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:45:01] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09510339544', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:45:06] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09473468917', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:45:11] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09682161429', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:45:16] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09471879824', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:45:21] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09162664144', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:45:26] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09639152503', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:45:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09606628177', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:45:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09396321541', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:45:41] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09615603203', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:45:46] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09695360601', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:45:52] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09053625581', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:46:02] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09393919963', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:46:07] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09630746017', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:46:12] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09302417553', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][13:46:57] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09606628177', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][13:47:02] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09396321541', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][13:47:07] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09615603203', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][13:47:12] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09695360601', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][13:47:17] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09053625581', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][13:47:22] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09639152503', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][13:47:27] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09393919963', '=message=ADVISORY: JULY 28, 2023\r\nTo our subscribers, you may be experiencing no internet connectivity.\r\nArea affected: Brgy. San Roque, Malitbog\r\nReason: Maintenance')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+
+
+

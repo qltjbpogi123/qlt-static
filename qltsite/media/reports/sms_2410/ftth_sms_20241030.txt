@@ -1,0 +1,61 @@
+[09:46:34]:[QLT][Lungsodaan]:[Start] : Sent by Harold Cale (Technical Support)
+[09:46:34]:[QLT][Lungsodaan]:[Message] :
+To our valued subscribers, a fiber break in Lungsodaan, Dinahugan, and Sto. Rosario is still being repaired by our technical teams. Please bear with us.
+[09:46:36]:[QLT][Lungsodaan]:[Sent] : ['1) 09954334355: ALLEN DAVE BUHAT 2ND ACCOUNT', '1) 09454830952: ALREN L. PACATE', '1) 09365149390: ANARIA C. ESTRERA']
+[09:46:42]:[QLT][Lungsodaan]:[Sent] : ['1) 09163760064: ANNALYN TINIO', '1) 09262921568: BARANGGAY LUNGSODAAN', '1) 09955044985: BRYAN ABEJO']
+[09:46:47]:[QLT][Lungsodaan]:[Sent] : ['1) 09973309575: CELMA BESLIG', '1) 09061166428: CHERYL ANN P. BESLIG', '1) 09975070912: DANHEL S. COSTILLAS']
+[09:46:53]:[QLT][Lungsodaan]:[Sent] : ['1) 09659847152: DARWIN T. LERCANA', '1) 09952909720: DAVID BUCK', '1) 09537150398: DAVID N. LABRADOR (2ND ACCOUNT)']
+[09:46:59]:[QLT][Lungsodaan]:[Sent] : ['1) 09759955281: EDGARDO S. MADERA', '1) 09056822494: EPHRAIM R. ODIAS', '1) 09056822494: EPHRAIM R. ODIAS 2']
+[09:47:05]:[QLT][Lungsodaan]:[Sent] : ['1) 09654886485: ESTER A. AMPO', '1) 09455201416: FLOR MANAUG', '1) 09275106426: FLORAMIE N. LABRADOR']
+[09:47:10]:[QLT][Lungsodaan]:[Sent] : ['1) 09360375177: GARY P. BACTIDON', '1) 09706943752: GILDA MARIE C. CASTINO', '1) 09365102170: GLENDA FAMADOR']
+[09:47:16]:[QLT][Lungsodaan]:[Sent] : ['1) 09353070128: HAZEL P. TINOMA', '1) 09268312865: HERMELINA ESCLAMADO', '1) 09665768927: JESSICA JOY D. OCTOBRE']
+[09:47:22]:[QLT][Lungsodaan]:[Sent] : ['1) 09677281316: JHEL-ANJOY G. BERNALES', '1) 09062130545: JIMMLYN S. PALEN', '1) 09096747398: JIMMY BESLIG BALLESPIN']
+[09:47:27]:[QLT][Lungsodaan]:[Sent] : ['1) 09364078232: JONNA FERNANDEZ ARROGANTE', '1) 09054896125: JUANITA P. LICAYAN', '1) 09692381940: JUDITH LUIZ S. CASTINO']
+[09:47:33]:[QLT][Lungsodaan]:[Sent] : ['1) 09656713047: LONGFELLOW E. PALERMO', '1) 09158205900: LUCIA  M. LICAYAN', '1) 09064320897: MARICEL M. MURILLO']
+[09:47:39]:[QLT][Lungsodaan]:[Sent] : ['1) 09565202247: MARISTELA NARONA PALERMO', '1) 09457130898: MARJORIE B. MEPAÑA', '1) 09950365697: MARY ANN BERNALES']
+[09:47:44]:[QLT][Lungsodaan]:[Sent] : ['1) 09175701435: MARY JEAN MIRA (3RD ACCOUNT)', '1) 09359712173: MERCEDES MACCONN', '1) 09661489535: MERHIL CAÑON STORK']
+[09:47:50]:[QLT][Lungsodaan]:[Sent] : ['1) 09468636694: METRA, MARIA IRENE ROSE R.', '1) 09051683410: MYRNA BIONG DUNNING', '1) 09277558291: MYRNA C. DALUGDUGAN']
+[09:47:56]:[QLT][Lungsodaan]:[Sent] : ['1) 09268622281: NELFA TAN BACALSO', '1) 09856195554: NOLFREN CASTINO', '1) 09164281351: Peregrina M. Solana']
+[09:48:01]:[QLT][Lungsodaan]:[Sent] : ['1) 09551367306: RECHELL C. PAGANGPANG', '1) 09551367306: RECHELL PAGANGPANG 2ND ACC', '1) 09165242998: RICO A. MAUSISA']
+[09:48:07]:[QLT][Lungsodaan]:[Sent] : ['1) 09355191325: ROBERT T. PERALTA', '1) 09265330763: ROSA DUBLOIS', '1) 09952820640: ROSE ANN PALERO']
+[09:48:13]:[QLT][Lungsodaan]:[Sent] : ['1) 09155207274: SOGOD BAY SCUBA RESORT, INC.', '1) 09211748441: SYLVIUS SOLANA', '1) 09158205900: TELMA N. MADERA']
+[09:48:18]:[QLT][Lungsodaan]:[Sent] : ['1) 09167992310: TORBEN CHRISTIANSEN', '1) 09270825607: WIVINA COÑADO', '1) 09566533592: YOLANDA N. SIAO']
+[09:48:23]:[QLT][Lungsodaan]:[Sent] : ['09260879916: Success notification!']
+[09:48:27]:[QLT][Lungsodaan]:[End]
+
+
+[09:49:35]:[QLT][Dinahugan]:[Start] : Sent by Harold Cale (Technical Support)
+[09:49:35]:[QLT][Dinahugan]:[Message] :
+To our valued subscribers, a fiber break in Lungsodaan, Dinahugan, and Sto. Rosario is still being repaired by our technical teams. Please bear with us.
+[09:49:38]:[QLT][Dinahugan]:[Sent] : ['1) 09682532302: ALLEN T. ESCLAMADO', '1) 09359326343: BARANGAY HALL DINAHUGAN', '1) 09659846390: CAREN SOLANA']
+[09:49:43]:[QLT][Dinahugan]:[Sent] : ['1) 09164246625: CRISOSTOMO F. GANAR', '1) 09366710905: DINAHUGAN ELEMENTARY SCHOOL', '1) 09557415182: EDDIE I. DALANGIN']
+[09:49:49]:[QLT][Dinahugan]:[Sent] : ['1) 09568701365: ELJEAN MARIE E. MONDIA', '1) 09556545160: ERNESTO G. IMBOC', '1) 09178730034: FERDINAND C. DIEZ']
+[09:49:54]:[QLT][Dinahugan]:[Sent] : ['1) 09972862575: GINA M. MORIE', '1) 09197163110: JERLYN I. GALON', '1) 09474210366: JEROME T  JACABO']
+[09:50:00]:[QLT][Dinahugan]:[Sent] : ['1) 09915691778: JHON MARTIN DAMAYO', '1) 09270327641: JOHN BALLESPIN DALANGIN', '1) 09664983184: JUNDINO CASE RAZON']
+[09:50:06]:[QLT][Dinahugan]:[Sent] : ['1) 09369658690: MARILOU R. IMBOC', '1) 09983443175: MARITES MORE SVENSSON', '1) 09538705406: MARYCRIS PIRAMIDE']
+[09:50:11]:[QLT][Dinahugan]:[Sent] : ['1) 09363932282: MILDRED ELACRE', '1) 09550791334: OLIVIA BITOS NARONA', '1) 09261863018: Ronald M.Estampa']
+[09:50:17]:[QLT][Dinahugan]:[Sent] : ['1) 09058835984: ROSELYN G. FLORES', '1) 09950586949: SOFIA J. DALUGDUGAN', '1) 09976494541: VIRGENIA B. PALER']
+[09:50:22]:[QLT][Dinahugan]:[Sent] : ['09260879916: Success notification!']
+[09:50:26]:[QLT][Dinahugan]:[End]
+
+
+[09:50:56]:[QLT][Santo Rosario (Padre Burgos)]:[Start] : Sent by Harold Cale (Technical Support)
+[09:50:56]:[QLT][Santo Rosario (Padre Burgos)]:[Message] :
+To our valued subscribers, a fiber break in Lungsodaan, Dinahugan, and Sto. Rosario is still being repaired by our technical teams. Please bear with us.
+[09:51:07]:[QLT][Santo Rosario (Padre Burgos)]:[Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09052616481', '=message=To our valued subscribers, a fiber break in Lungsodaan, Dinahugan, and Sto. Rosario is still being repaired by our technical teams. Please bear with us.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[09:51:15]:[QLT][Santo Rosario (Padre Burgos)]:[Sent] : ['1) 09052616481: ANNADEL R. RANQUE', '1) 09179853357: AUBREY Z. LUCERO', '1) 09279382384: BLGU- STO. ROSARIO']
+[09:51:20]:[QLT][Santo Rosario (Padre Burgos)]:[Sent] : ['1) 09566239379: CHERRYL J. OCTOBRE', '1) 09265919150: CIPRIANA ALMUETE SUMARAY', '1) 09369811186: EDITO R. GUILAO JR.']
+[09:51:25]:[QLT][Santo Rosario (Padre Burgos)]:[Sent] : ['1) 09673275387: EDMER QUIJANO', '1) 09272908871: GINA M. BERNALES', '1) 09757715723: HELBERT A. BALILI']
+[09:51:32]:[QLT][Santo Rosario (Padre Burgos)]:[Error] : timed out
+[09:51:40]:[QLT][Santo Rosario (Padre Burgos)]:[Sent] : ['1) 09667559656: J.A. ELEAZAR A. RANQUE/KYLIE MARIE GRAHAM', '1) 09270822757: JANET N. RANQUE', '1) 09952710225: JUNETH R. DAIN']
+[09:51:44]:[QLT][Santo Rosario (Padre Burgos)]:[Sent] : ['1) 09154039113: LITA D. RANQUE', '1) 09948864469: MANILYN G. ASEOCHE/ BARANGAY STA. SOFIA', '1) 09262911029: MARIEL PALABON']
+[09:51:49]:[QLT][Santo Rosario (Padre Burgos)]:[Sent] : ['1) 09152087894: MELANIE M. ORBETA', '1) 09166010031: MELANIO C MAXINO SR.', '1) 09352179670: NELMAR P. BARSABAL']
+[09:51:53]:[QLT][Santo Rosario (Padre Burgos)]:[Sent] : ['1) 09075171079: PAULINE QUILLOPE', '1) 09653766222: PRINCESS MAE RANQUE', '1) 09757345927: RACQUE E. FERRER']
+[09:51:58]:[QLT][Santo Rosario (Padre Burgos)]:[Sent] : ['1) 09679166820: RISTY V. OCTOBRE', '1) 09362116633: ROBERT F. TEJADA', '1) 09171182458: SANTO ROSARIO ELEMENTARY SCHOOL']
+[09:52:03]:[QLT][Santo Rosario (Padre Burgos)]:[Sent] : ['1) 09157285385: SHALIMAR CASTRO', '1) 09176862080: SHERYL L. PALERO III', '1) 09121639917: VILLA NORA T. CLARIN']
+[09:52:07]:[QLT][Santo Rosario (Padre Burgos)]:[Sent] : ['1) 09774042697: WILMA MANTILLA VALENCIA', '09260879916: Success notification!']
+[09:52:11]:[QLT][Santo Rosario (Padre Burgos)]:[End]
+
+

@@ -1,0 +1,310 @@
+OLT : Valencia OLT
+Message : Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.
+Sent By : Nelio Pono (Technical Supervisor)
+
+[Success][09:11:34] : ['09284488379: AGAPITO CAOCTOY JR', '09177232821: AGUITING ELEMENTARY SCHOOL', '09367961075: AILANE COSIDO']
+[Success][09:11:41] : ['09331233203: AILEENE HERMOSILLA', '09067519934: AIZA SOCO', '09434148201: ALBERTA J. ESTRERA']
+[Success][09:11:48] : ['09770831273: ALDRIN D. ASIS', '09283878830: ALDRIN MIAGA', '09393962736: ALDWIN JUDILLA']
+[Error Message][09:11:54] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09063118396', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+   [Fail][09:11:54] : ['09063118396: ALEXANDER PANIMDIM', '09383915587: AMELITA ROA', '09396029804: AMEN ESTRERA']
+[Error Message][09:12:59] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09774576030', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][09:12:59] : ['09774576030: ANA DONNA RELANO', '09464503817: ANALYN DEGELLO', '09268946142: ANGELICA P. GERALDO']
+[Error Message][09:13:04] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09199490872', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][09:13:04] : ['09199490872: ANNA LIZA DIANO', '09475837964: ANNABEL ALIGWAY', '09688793499: ANNABELLE A. WENSESLAO (CONCEPCION ELEM. SCHOOL)']
+[Error Message][09:13:09] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09706953442', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][09:13:09] : ['09706953442: ANNABELLE C. TUNDAG', '09452999191: ANNALISA  C. YGANA', '09071110438: ARLENE MARIE CONSTANTINO']
+[Error Message][09:13:14] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09651853092', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][09:13:14] : ['09651853092: ARMANDO DONDOYANO', '09128987900: ARNIDA ANIONG', '09563624837: BALTAZAR C. CASAS']
+[Error Message][09:13:19] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09187161864', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][09:13:19] : ['09187161864: BERNA F. DERLA', '09128365455: BERNARD D. LAVEZARES', '09653343872: BETTY GARBO']
+[Error Message][09:13:24] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09109099378', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][09:13:24] : ['09109099378: BRGY.HALL DAYHAGAN', '09063954022: BRYAN L. MECASIA', '09196420896: Cabuhangin Brgy. Hall']
+[Error Message][09:13:29] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09485717876', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][09:13:29] : ['09485717876: CAESAR DARIUS CORBO', '09190057257: CATALINA PEDONG', '09104494469: CECILE BANZON']
+[Error Message][09:13:34] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09772687222', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][09:13:34] : ['09772687222: CECILIA JUBAY', '09262984487: CHARMIE SONGCOG', '09691894670: CHERYL VILLAFLOR']
+[Error Message][09:13:39] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09975414974', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][09:13:39] : ['09975414974: CHONA AMIGO', '09993039221: CLIFF GARCERA', '09070582521: DANNAISY ANNE I. FUMAR']
+[Error Message][09:13:44] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09540436325', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][09:13:44] : ['09540436325: DARRELL LEE SAVAGE', '09295445813: DEDACE ARSENIO', '09168583654: EDGAR ALFRED B. PONCE']
+[Error Message][09:13:49] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09176256790', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][09:13:49] : ['09176256790: EDGARDO FUENTES', '09513664565: Edmar Patriana Yagong', '09098598351: ELLA YGOT']
+[Error Message][09:13:54] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09161794138', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][09:13:54] : ['09161794138: ENRIQUE P. CONOPIO', '09675606801: ERNA  S  ALARCON', '09771390894: ERWIN M. PEQUIÑO']
+[Error Message][09:13:59] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09483202598', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][09:13:59] : ['09483202598: Fe Myra C. Galo', '09152352998: FIDEL MANATAD', '09088874683: First Global Alliance Transport Service Inc.']
+[Error Message][09:14:05] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09207927406', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][09:14:05] : ['09207927406: FLORCELA RIVERA', '09190057257: GENARO B. LUREÑANA NHS (COM. LAB.)', '09190057257: Genaro B.Lureñana  NHS (Office)']
+[Error Message][09:14:10] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09753424210', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][09:14:10] : ['09753424210: GERARDO ETANG', '09394538338: GHIA CRISTI CELLAR', '09951496058: GIL CABANGAL']
+[Error Message][09:14:15] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09152226561', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][09:14:15] : ['09152226561: Gleen Pepito Panimdim', '09366588716: GLENDA PASTOR', '09266238445: GLENN FRANCIS D. TIMTIM']
+[Error Message][09:14:20] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09060556725', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][09:14:20] : ['09060556725: GRACELDA MARAASIN', '09987270373: GRANDELL ALLAIN DENSING', '09451323532: GRESYL CABALLERO']
+[Error Message][09:14:25] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09289828139', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+   [Fail][09:14:25] : ['09289828139: HAZEL BANZON', '09999199613: HELENIDA IMPAS', '09380353872: ILONAH M. DAMAS']
+[Error Message][09:14:30] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09504226003', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][09:14:30] : ['09504226003: IRISH MAY PINGOY', '09465393406: JACKYLIN APUYA', '09199749141: JAEZEL A. HANDUMON']
+[Error Message][09:14:35] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09703579737', '=message=Greetings from Queens Link. We are aware of the internet loss some people have been experiencing. Our technical team are already working to fix this problem.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][09:14:35] : ['09703579737: JANET BEBANCO', '09208835297: JASMINE A. RIZADA', '09161984503: Jaypee Felias']
+[Success][09:14:40] : ['09638166772: JAYSON TANEO', '09975277587: JEHDEIA SOLAMO', '09954714339: JEMAR PANA']
+[Success][09:14:47] : ['09260725354: JEONICE C. AMOSCO', '09264672476: JESUS SALONDAGA MARAPOC JR', '09513654575: JEVAN B. COSTORIO']
+[Success][09:14:54] : ['09362768682: JHEESHEIL MARAPOC', '09665604616: JIMMY GATO', '09075058056: JIMMY LOU C. DIVA']
+[Success][09:15:01] : ['09996816557: JOCELYN NUÑEZ', '09161983081: JOENARD NUNEZ', '09358659084: JOHN BERT M. GOTIS']
+[Success][09:15:08] : ['09513699836: JOHN PAUL ROTA', '09678499084: JOMBOY T. SALVATIERRA', '09502509485: JONNEL M. MAQUILAN']
+[Success][09:15:15] : ['09267918122: JOSEPHINE RIZADA', '09773596708: JOVIE M. DOLINO', '09560038199: JOY A. MAGALLANES']
+[Success][09:15:22] : ['09274396702: JUDY VIE BUYA', '09277749138: JULIACRIS MANATAD', '09214420728: JUNA DENITIA SOROÑO']
+[Success][09:15:29] : ['09510348385: Juvelyn T. Mahayag', '09471473313: KATHERINE LAURETO', '09954716463: KEZZEL ANN A. GALOS']
+[Success][09:15:35] : ['09213606539: LAURA FIGUEROA', '09510453256: Lea Joy B. Gingco', '09302081905: LEADY DARIN B. DUTULLO']
+[Success][09:15:42] : ['09936307698: LEAH B. OMEGA', '09473747721: LEAH MAY CABAHUG', '09610569490: LIEZEL BALTONADO']
+[Success][09:15:49] : ['09487322071: LORENA DIENDO', '09617962130: LORETA FLORES', '09294925973: LORETO A. ROLDAN']
+[Success][09:15:56] : ['09152350039: Lyca Ulan-ulan', '09156507896: LYDIA A. TANGKAY', '09106316715: MANILYN BELARMINO']
+[Success][09:16:02] : ['09270285324: MANUEL L. BRIONES', '09213466075: MARCOS BENSIG', '09462296374: MARGARET ADOLFO']
+[Success][09:16:09] : ['09489284550: Margarita Dalton', '09082917371: MARIA ARLEEN MADRONO/JESUS RANARA', '09207314255: MARIA FE DAYANAN']
+[Success][09:16:16] : ['09518332257: MARIA KYLA C. CAPORAS', '09499135546: MARIA NORA PADAYAO/T. AVILES ELEMENTARY SCHOOL', '09612607027: MARIA THERESA AYSO']
+[Success][09:16:23] : ['09504175783: MARIA VICTORIA LAMOC', '09125187641: MARIANITO CAMORISTA', '09070797476: MARICEL LAPINID']
+[Success][09:16:30] : ['09532455449: MARICRIS T. BARQUEZ', '09380353870: MARIFE A. HERDA', '09474547943: MARIFE ACEBUCHE']
+[Success][09:16:37] : ['09074201819: MARILOU M. MAGALLANES', '09302470796: MARIO APUYA', '09309590540: MARVIN INTALIS']
+[Success][09:16:44] : ['09467129572: MARYJANE HERNANE', '09052923147: MAY SUBRIO', '09195721390: MC GILL VERALLO']
+[Success][09:16:51] : ['09166247798: MEL JUN TRANGIA', '09392549494: MERLE MANATAD', '09306028185: MERLIE D. ALIGWAY']
+[Success][09:16:58] : ['09774082284: MICHEL IMPAS/MONTEBELLO CENTRAL ELEM SCHOOL', '09156500794: MITZI LUCABAN', '09078266278: MITZIL FLORES']
+[Success][09:17:04] : ['09362754565: MYRISIA DERIQUITO', '09156500772: NELVIE ALCOBER', '09518212665: NORBERTO CUTA TAMBIS III']
+[Success][09:17:11] : ['09263682752: ORDANILO OCENAR', '09082450044: OSCAR D. YBANEZ', '09085286786: PAULA ELLAINE BAÑEZ']
+[Success][09:17:18] : ['09952749621: PERLA TAN', '09338109095: PROSERFINA CANOY YBAÑEZ', '09097920394: PSYCHIE NAVARRO']
+[Success][09:17:25] : ['09991982955: RAFFY T. FERNANDEZ', '09455219911: RAM SURIMA', '09073454505: RANDY G. BALTONADO']
+[Success][09:17:32] : ['09074669310: RECHELLE RAMA/JUATON ELEMENTARY SCHOOL', '09277135669: REDENTOR N. CODILLA SR.', '09631000394: REYNETTE C. FORTICH']
+[Success][09:17:39] : ['09489289533: RICHARD SOTTO', '09515112997: RICO ORGE', '09383272904: RITA ASUZENA']
+[Success][09:17:46] : ['09260721030: RITCHEL PALAMOS', '09776167829: ROGELIO NABASQUES', '09467513908: ROMULO LERIOS JR.']
+[Success][09:17:52] : ['09154388193: Ronald Sabayle', '09508670766: Roselyn A. Dacal', '09063214067: ROVELIN M. ABHER']
+[Success][09:17:59] : ['09176256882: ROWENA BELARMINO', '09073454065: RUBELYN POLIDO', '09178566483: RUBEN FLORES']
+[Success][09:18:06] : ['09461377083: RUTH MIRAFUENTES', '09153484460: SAMUEL C. VILLARTA', '09209385186: SANDY CABALSE']
+[Success][09:18:13] : ['09154768593: Sara Jane Costorio', '09277748779: SHIELA MARIE GLORI PAEL', '09773721402: SHIELA ORZALES']
+[Success][09:18:20] : ['09203934065: THELMA RITA RAZON', '09502778659: TIMOTEO A. DIASALO', '09650528071: VANESSA LUMANTA']
+[Success][09:18:27] : ['09639621825: VICENTE CAYANONG', '09683877438: Wenefreda Baltonado', '09984671466: ZORAIDA GUAYAN']
+[Success][09:18:33] : ['09063118396: ALEXANDER PANIMDIM', '09383915587: AMELITA ROA', '09396029804: AMEN ESTRERA']
+[Success][09:18:40] : ['09774576030: ANA DONNA RELANO', '09464503817: ANALYN DEGELLO', '09268946142: ANGELICA P. GERALDO']
+[Success][09:18:47] : ['09199490872: ANNA LIZA DIANO', '09475837964: ANNABEL ALIGWAY', '09688793499: ANNABELLE A. WENSESLAO (CONCEPCION ELEM. SCHOOL)']
+[Success][09:18:54] : ['09706953442: ANNABELLE C. TUNDAG', '09452999191: ANNALISA  C. YGANA', '09071110438: ARLENE MARIE CONSTANTINO']
+[Success][09:19:01] : ['09651853092: ARMANDO DONDOYANO', '09128987900: ARNIDA ANIONG', '09563624837: BALTAZAR C. CASAS']
+[Success][09:19:08] : ['09187161864: BERNA F. DERLA', '09128365455: BERNARD D. LAVEZARES', '09653343872: BETTY GARBO']
+[Success][09:19:15] : ['09109099378: BRGY.HALL DAYHAGAN', '09063954022: BRYAN L. MECASIA', '09196420896: Cabuhangin Brgy. Hall']
+[Success][09:19:22] : ['09485717876: CAESAR DARIUS CORBO', '09190057257: CATALINA PEDONG', '09104494469: CECILE BANZON']
+[Success][09:19:29] : ['09772687222: CECILIA JUBAY', '09262984487: CHARMIE SONGCOG', '09691894670: CHERYL VILLAFLOR']
+[Success][09:19:36] : ['09975414974: CHONA AMIGO', '09993039221: CLIFF GARCERA', '09070582521: DANNAISY ANNE I. FUMAR']
+[Success][09:19:43] : ['09540436325: DARRELL LEE SAVAGE', '09295445813: DEDACE ARSENIO', '09168583654: EDGAR ALFRED B. PONCE']
+[Success][09:19:50] : ['09176256790: EDGARDO FUENTES', '09513664565: Edmar Patriana Yagong', '09098598351: ELLA YGOT']
+[Success][09:19:57] : ['09161794138: ENRIQUE P. CONOPIO', '09675606801: ERNA  S  ALARCON', '09771390894: ERWIN M. PEQUIÑO']
+[Success][09:20:04] : ['09483202598: Fe Myra C. Galo', '09152352998: FIDEL MANATAD', '09088874683: First Global Alliance Transport Service Inc.']
+[Success][09:20:11] : ['09207927406: FLORCELA RIVERA', '09190057257: GENARO B. LUREÑANA NHS (COM. LAB.)', '09190057257: Genaro B.Lureñana  NHS (Office)']
+[Success][09:20:18] : ['09753424210: GERARDO ETANG', '09394538338: GHIA CRISTI CELLAR', '09951496058: GIL CABANGAL']
+[Success][09:20:24] : ['09152226561: Gleen Pepito Panimdim', '09366588716: GLENDA PASTOR', '09266238445: GLENN FRANCIS D. TIMTIM']
+[Success][09:20:31] : ['09060556725: GRACELDA MARAASIN', '09987270373: GRANDELL ALLAIN DENSING', '09451323532: GRESYL CABALLERO']
+[Success][09:20:38] : ['09289828139: HAZEL BANZON', '09999199613: HELENIDA IMPAS', '09380353872: ILONAH M. DAMAS']
+[Success][09:20:45] : ['09504226003: IRISH MAY PINGOY', '09465393406: JACKYLIN APUYA', '09199749141: JAEZEL A. HANDUMON']
+[Success][09:20:52] : ['09703579737: JANET BEBANCO', '09208835297: JASMINE A. RIZADA', '09161984503: Jaypee Felias']
+
+
+
+OLT : Valencia OLT
+Message : Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.
+Sent By : Nelio Pono (Technical Supervisor)
+
+[Success][12:40:02] : ['09284488379: AGAPITO CAOCTOY JR', '09177232821: AGUITING ELEMENTARY SCHOOL', '09367961075: AILANE COSIDO']
+[Success][12:40:09] : ['09331233203: AILEENE HERMOSILLA', '09067519934: AIZA SOCO', '09434148201: ALBERTA J. ESTRERA']
+[Success][12:40:16] : ['09770831273: ALDRIN D. ASIS', '09283878830: ALDRIN MIAGA', '09393962736: ALDWIN JUDILLA']
+[Success][12:40:23] : ['09063118396: ALEXANDER PANIMDIM', '09383915587: AMELITA ROA', '09396029804: AMEN ESTRERA']
+[Success][12:40:30] : ['09774576030: ANA DONNA RELANO', '09464503817: ANALYN DEGELLO', '09268946142: ANGELICA P. GERALDO']
+[Success][12:40:37] : ['09199490872: ANNA LIZA DIANO', '09475837964: ANNABEL ALIGWAY', '09688793499: ANNABELLE A. WENSESLAO (CONCEPCION ELEM. SCHOOL)']
+[Success][12:40:44] : ['09706953442: ANNABELLE C. TUNDAG', '09452999191: ANNALISA  C. YGANA', '09071110438: ARLENE MARIE CONSTANTINO']
+[Success][12:41:02] : ['09651853092: ARMANDO DONDOYANO', '09128987900: ARNIDA ANIONG', '09563624837: BALTAZAR C. CASAS']
+[Success][12:41:09] : ['09187161864: BERNA F. DERLA', '09128365455: BERNARD D. LAVEZARES', '09653343872: BETTY GARBO']
+[Success][12:41:16] : ['09109099378: BRGY.HALL DAYHAGAN', '09063954022: BRYAN L. MECASIA', '09196420896: Cabuhangin Brgy. Hall']
+[Success][12:41:23] : ['09485717876: CAESAR DARIUS CORBO', '09190057257: CATALINA PEDONG', '09104494469: CECILE BANZON']
+[Success][12:41:29] : ['09772687222: CECILIA JUBAY', '09262984487: CHARMIE SONGCOG', '09691894670: CHERYL VILLAFLOR']
+[Success][12:41:44] : ['09975414974: CHONA AMIGO', '09993039221: CLIFF GARCERA', '09070582521: DANNAISY ANNE I. FUMAR']
+[Success][12:41:51] : ['09540436325: DARRELL LEE SAVAGE', '09295445813: DEDACE ARSENIO', '09168583654: EDGAR ALFRED B. PONCE']
+[Success][12:41:58] : ['09176256790: EDGARDO FUENTES', '09513664565: Edmar Patriana Yagong', '09098598351: ELLA YGOT']
+[Success][12:42:04] : ['09161794138: ENRIQUE P. CONOPIO', '09675606801: ERNA  S  ALARCON', '09771390894: ERWIN M. PEQUIÑO']
+[Success][12:42:12] : ['09483202598: Fe Myra C. Galo', '09152352998: FIDEL MANATAD', '09088874683: First Global Alliance Transport Service Inc.']
+[Success][12:42:19] : ['09207927406: FLORCELA RIVERA', '09190057257: GENARO B. LUREÑANA NHS (COM. LAB.)', '09190057257: Genaro B.Lureñana  NHS (Office)']
+[Success][12:42:25] : ['09753424210: GERARDO ETANG', '09394538338: GHIA CRISTI CELLAR', '09951496058: GIL CABANGAL']
+[Success][12:42:33] : ['09152226561: Gleen Pepito Panimdim', '09366588716: GLENDA PASTOR', '09266238445: GLENN FRANCIS D. TIMTIM']
+[Success][12:42:40] : ['09060556725: GRACELDA MARAASIN', '09987270373: GRANDELL ALLAIN DENSING', '09451323532: GRESYL CABALLERO']
+[Success][12:42:46] : ['09289828139: HAZEL BANZON', '09999199613: HELENIDA IMPAS', '09380353872: ILONAH M. DAMAS']
+[Success][12:42:53] : ['09504226003: IRISH MAY PINGOY', '09465393406: JACKYLIN APUYA', '09199749141: JAEZEL A. HANDUMON']
+[Success][12:43:01] : ['09703579737: JANET BEBANCO', '09208835297: JASMINE A. RIZADA', '09161984503: Jaypee Felias']
+[Success][12:43:08] : ['09638166772: JAYSON TANEO', '09975277587: JEHDEIA SOLAMO', '09954714339: JEMAR PANA']
+[Success][12:43:15] : ['09260725354: JEONICE C. AMOSCO', '09264672476: JESUS SALONDAGA MARAPOC JR', '09513654575: JEVAN B. COSTORIO']
+[Success][12:43:22] : ['09362768682: JHEESHEIL MARAPOC', '09665604616: JIMMY GATO', '09075058056: JIMMY LOU C. DIVA']
+[Success][12:43:29] : ['09996816557: JOCELYN NUÑEZ', '09161983081: JOENARD NUNEZ', '09358659084: JOHN BERT M. GOTIS']
+[Success][12:43:36] : ['09513699836: JOHN PAUL ROTA', '09678499084: JOMBOY T. SALVATIERRA', '09502509485: JONNEL M. MAQUILAN']
+[Success][12:43:43] : ['09267918122: JOSEPHINE RIZADA', '09773596708: JOVIE M. DOLINO', '09560038199: JOY A. MAGALLANES']
+[Success][12:43:50] : ['09274396702: JUDY VIE BUYA', '09277749138: JULIACRIS MANATAD', '09214420728: JUNA DENITIA SOROÑO']
+[Success][12:43:57] : ['09510348385: Juvelyn T. Mahayag', '09471473313: KATHERINE LAURETO', '09954716463: KEZZEL ANN A. GALOS']
+[Success][12:44:04] : ['09213606539: LAURA FIGUEROA', '09510453256: Lea Joy B. Gingco', '09302081905: LEADY DARIN B. DUTULLO']
+[Success][12:44:11] : ['09936307698: LEAH B. OMEGA', '09473747721: LEAH MAY CABAHUG', '09610569490: LIEZEL BALTONADO']
+[Success][12:44:18] : ['09487322071: LORENA DIENDO', '09617962130: LORETA FLORES', '09294925973: LORETO A. ROLDAN']
+[Success][12:44:25] : ['09152350039: Lyca Ulan-ulan', '09156507896: LYDIA A. TANGKAY', '09106316715: MANILYN BELARMINO']
+[Success][12:44:32] : ['09270285324: MANUEL L. BRIONES', '09213466075: MARCOS BENSIG', '09462296374: MARGARET ADOLFO']
+[Success][12:44:39] : ['09489284550: Margarita Dalton', '09082917371: MARIA ARLEEN MADRONO/JESUS RANARA', '09207314255: MARIA FE DAYANAN']
+[Success][12:44:46] : ['09518332257: MARIA KYLA C. CAPORAS', '09499135546: MARIA NORA PADAYAO/T. AVILES ELEMENTARY SCHOOL', '09612607027: MARIA THERESA AYSO']
+[Success][12:44:53] : ['09504175783: MARIA VICTORIA LAMOC', '09125187641: MARIANITO CAMORISTA', '09070797476: MARICEL LAPINID']
+[Success][12:44:59] : ['09532455449: MARICRIS T. BARQUEZ', '09380353870: MARIFE A. HERDA', '09474547943: MARIFE ACEBUCHE']
+[Success][12:45:06] : ['09074201819: MARILOU M. MAGALLANES', '09302470796: MARIO APUYA', '09309590540: MARVIN INTALIS']
+[Success][12:45:13] : ['09467129572: MARYJANE HERNANE', '09052923147: MAY SUBRIO', '09195721390: MC GILL VERALLO']
+[Success][12:45:20] : ['09166247798: MEL JUN TRANGIA', '09392549494: MERLE MANATAD', '09306028185: MERLIE D. ALIGWAY']
+[Error Message][12:45:29] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09774082284', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:45:29] : ['09774082284: MICHEL IMPAS/MONTEBELLO CENTRAL ELEM SCHOOL', '09156500794: MITZI LUCABAN', '09078266278: MITZIL FLORES']
+[Error Message][12:45:35] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09362754565', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:45:35] : ['09362754565: MYRISIA DERIQUITO', '09156500772: NELVIE ALCOBER', '09518212665: NORBERTO CUTA TAMBIS III']
+[Error Message][12:45:40] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09263682752', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:45:40] : ['09263682752: ORDANILO OCENAR', '09082450044: OSCAR D. YBANEZ', '09085286786: PAULA ELLAINE BAÑEZ']
+[Success][12:45:45] : ['09952749621: PERLA TAN', '09338109095: PROSERFINA CANOY YBAÑEZ', '09097920394: PSYCHIE NAVARRO']
+[Success][12:45:52] : ['09991982955: RAFFY T. FERNANDEZ', '09455219911: RAM SURIMA', '09073454505: RANDY G. BALTONADO']
+[Success][12:45:59] : ['09074669310: RECHELLE RAMA/JUATON ELEMENTARY SCHOOL', '09277135669: REDENTOR N. CODILLA SR.', '09631000394: REYNETTE C. FORTICH']
+[Success][12:46:06] : ['09489289533: RICHARD SOTTO', '09515112997: RICO ORGE', '09383272904: RITA ASUZENA']
+[Error Message][12:46:12] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09260721030', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+   [Fail][12:46:12] : ['09260721030: RITCHEL PALAMOS', '09776167829: ROGELIO NABASQUES', '09467513908: ROMULO LERIOS JR.']
+[Error Message][12:47:17] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09154388193', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:47:17] : ['09154388193: Ronald Sabayle', '09508670766: Roselyn A. Dacal', '09063214067: ROVELIN M. ABHER']
+[Error Message][12:47:22] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09176256882', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:47:22] : ['09176256882: ROWENA BELARMINO', '09073454065: RUBELYN POLIDO', '09178566483: RUBEN FLORES']
+[Error Message][12:47:27] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09461377083', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:47:27] : ['09461377083: RUTH MIRAFUENTES', '09153484460: SAMUEL C. VILLARTA', '09209385186: SANDY CABALSE']
+[Error Message][12:47:32] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09154768593', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:47:32] : ['09154768593: Sara Jane Costorio', '09277748779: SHIELA MARIE GLORI PAEL', '09773721402: SHIELA ORZALES']
+[Error Message][12:47:37] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09203934065', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:47:37] : ['09203934065: THELMA RITA RAZON', '09502778659: TIMOTEO A. DIASALO', '09650528071: VANESSA LUMANTA']
+[Error Message][12:47:42] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09639621825', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:47:42] : ['09639621825: VICENTE CAYANONG', '09683877438: Wenefreda Baltonado', '09984671466: ZORAIDA GUAYAN']
+[Error Message][12:47:47] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09774082284', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:47:47] : ['09774082284: MICHEL IMPAS/MONTEBELLO CENTRAL ELEM SCHOOL', '09156500794: MITZI LUCABAN', '09078266278: MITZIL FLORES']
+[Error Message][12:47:52] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09362754565', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:47:52] : ['09362754565: MYRISIA DERIQUITO', '09156500772: NELVIE ALCOBER', '09518212665: NORBERTO CUTA TAMBIS III']
+[Error Message][12:47:57] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09263682752', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:47:57] : ['09263682752: ORDANILO OCENAR', '09082450044: OSCAR D. YBANEZ', '09085286786: PAULA ELLAINE BAÑEZ']
+[Error Message][12:48:02] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09260721030', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:48:02] : ['09260721030: RITCHEL PALAMOS', '09776167829: ROGELIO NABASQUES', '09467513908: ROMULO LERIOS JR.']
+[Error Message][12:48:07] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09154388193', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:48:07] : ['09154388193: Ronald Sabayle', '09508670766: Roselyn A. Dacal', '09063214067: ROVELIN M. ABHER']
+[Error Message][12:48:12] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09176256882', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:48:12] : ['09176256882: ROWENA BELARMINO', '09073454065: RUBELYN POLIDO', '09178566483: RUBEN FLORES']
+[Error Message][12:48:17] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09461377083', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:48:17] : ['09461377083: RUTH MIRAFUENTES', '09153484460: SAMUEL C. VILLARTA', '09209385186: SANDY CABALSE']
+[Error Message][12:48:22] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09154768593', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:48:22] : ['09154768593: Sara Jane Costorio', '09277748779: SHIELA MARIE GLORI PAEL', '09773721402: SHIELA ORZALES']
+[Error Message][12:48:27] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09203934065', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:48:27] : ['09203934065: THELMA RITA RAZON', '09502778659: TIMOTEO A. DIASALO', '09650528071: VANESSA LUMANTA']
+[Error Message][12:48:32] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09639621825', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:48:32] : ['09639621825: VICENTE CAYANONG', '09683877438: Wenefreda Baltonado', '09984671466: ZORAIDA GUAYAN']
+[Error Message][12:48:37] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09774082284', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+   [Fail][12:48:37] : ['09774082284: MICHEL IMPAS/MONTEBELLO CENTRAL ELEM SCHOOL', '09156500794: MITZI LUCABAN', '09078266278: MITZIL FLORES']
+[Error Message][12:48:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09362754565', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+   [Fail][12:48:43] : ['09362754565: MYRISIA DERIQUITO', '09156500772: NELVIE ALCOBER', '09518212665: NORBERTO CUTA TAMBIS III']
+[Error Message][12:48:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09263682752', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:48:48] : ['09263682752: ORDANILO OCENAR', '09082450044: OSCAR D. YBANEZ', '09085286786: PAULA ELLAINE BAÑEZ']
+[Error Message][12:48:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09260721030', "=message=Greetings from Queens Link. Internet connection has been restored. If you're still experiencing internet loss, please inform us at 09088741603.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:48:53] : ['09260721030: RITCHEL PALAMOS', '09776167829: ROGELIO NABASQUES', '09467513908: ROMULO LERIOS JR.']
+[Success][12:48:58] : ['09154388193: Ronald Sabayle', '09508670766: Roselyn A. Dacal', '09063214067: ROVELIN M. ABHER']
+[Success][12:49:05] : ['09176256882: ROWENA BELARMINO', '09073454065: RUBELYN POLIDO', '09178566483: RUBEN FLORES']
+[Success][12:49:11] : ['09461377083: RUTH MIRAFUENTES', '09153484460: SAMUEL C. VILLARTA', '09209385186: SANDY CABALSE']
+[Success][12:49:18] : ['09154768593: Sara Jane Costorio', '09277748779: SHIELA MARIE GLORI PAEL', '09773721402: SHIELA ORZALES']
+[Success][12:49:25] : ['09203934065: THELMA RITA RAZON', '09502778659: TIMOTEO A. DIASALO', '09650528071: VANESSA LUMANTA']
+[Success][12:49:41] : ['09639621825: VICENTE CAYANONG', '09683877438: Wenefreda Baltonado', '09984671466: ZORAIDA GUAYAN']
+[Success][12:49:47] : ['09774082284: MICHEL IMPAS/MONTEBELLO CENTRAL ELEM SCHOOL', '09156500794: MITZI LUCABAN', '09078266278: MITZIL FLORES']
+[Success][12:49:54] : ['09362754565: MYRISIA DERIQUITO', '09156500772: NELVIE ALCOBER', '09518212665: NORBERTO CUTA TAMBIS III']
+[Success][12:50:01] : ['09263682752: ORDANILO OCENAR', '09082450044: OSCAR D. YBANEZ', '09085286786: PAULA ELLAINE BAÑEZ']
+[Success][12:50:08] : ['09260721030: RITCHEL PALAMOS', '09776167829: ROGELIO NABASQUES', '09467513908: ROMULO LERIOS JR.']
+
+
+

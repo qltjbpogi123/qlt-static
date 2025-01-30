@@ -1,0 +1,20 @@
+[08:28:51]:[QLT][Manlilinao OLT]:[Start] : Sent by Ramon Denzo Jr. (Technical Support)
+[08:28:51]:[QLT][Manlilinao OLT]:[Message] :
+Good day! You may experience no internet connection due to our devices affected by the lighting that struck our station. We are currently fixing this problem.
+[08:28:53]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09051646498: ALLAN VILLARMINO', '1) 09267920914: DANIEL AGUINOD', '1) 09261802781: DARIO O. ASIS']
+[08:28:59]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09165297180: ELAINE ANDO LUMANTA', '1) 09517549522: EVANGILIN T. SEGURA', '1) 09770141908: FELECIANO DUMAGSA']
+[08:29:05]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09973276260: JENALEN M. MANSING', '1) 09774658412: JOHN CARLO V. TOREJOS', '1) 09772403629: JULIAN C. GANTUANGCO NATIONAL HIGH SCHOOL']
+[08:29:10]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09155485477: LOURDES P.SAMSON', '1) 09355925354: MA. CRISTINA NEVALLO', '1) 09353106734: MARIA ELINA MEDIL']
+[08:29:16]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09169055270: MARIEJOY C. DUMAGSA', '1) 09454275124: MIKE KIMBER CUESTA', '1) 09753376838: NIÑA DANICA ALFORJA']
+[08:29:21]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09265471692: RUBELYN L. MADJUS']
+[08:29:25]:[QLT][Manlilinao OLT]:[End]
+[10:50:44]:[QLT][Manlilinao OLT]:[Start] : Sent by Ramon Denzo Jr. (Technical Support)
+[10:50:44]:[QLT][Manlilinao OLT]:[Message] :
+For those affected, the internet connection has been restored; please unplug, then plug-in your router. Inform us if you still have no internet. Thank you.
+[10:50:47]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09051646498: ALLAN VILLARMINO', '1) 09267920914: DANIEL AGUINOD', '1) 09261802781: DARIO O. ASIS']
+[10:50:52]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09165297180: ELAINE ANDO LUMANTA', '1) 09517549522: EVANGILIN T. SEGURA', '1) 09770141908: FELECIANO DUMAGSA']
+[10:50:58]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09973276260: JENALEN M. MANSING', '1) 09774658412: JOHN CARLO V. TOREJOS', '1) 09772403629: JULIAN C. GANTUANGCO NATIONAL HIGH SCHOOL']
+[10:51:04]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09155485477: LOURDES P.SAMSON', '1) 09355925354: MA. CRISTINA NEVALLO', '1) 09353106734: MARIA ELINA MEDIL']
+[10:51:10]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09169055270: MARIEJOY C. DUMAGSA', '1) 09454275124: MIKE KIMBER CUESTA', '1) 09753376838: NIÑA DANICA ALFORJA']
+[10:51:15]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09265471692: RUBELYN L. MADJUS']
+[10:51:19]:[QLT][Manlilinao OLT]:[End]

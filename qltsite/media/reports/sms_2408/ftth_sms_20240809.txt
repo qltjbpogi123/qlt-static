@@ -1,0 +1,22 @@
+[08:54:40]:[QLT][Matica-a]:[Start] : Sent by Harold Cale (Technical Support)
+[08:54:40]:[QLT][Matica-a]:[Message] :
+Good morning. You may be experiencing no internet connection due to a fiber break in our main line. We are working to fix this issue. Please bear with us.
+[08:54:42]:[QLT][Matica-a]:[Sent] : ['1) 09284488379: AGAPITO CAOCTOY JR', '1) 09063118396: ALEXANDER PANIMDIM', '1) 09186815568: ALLAN S. COLO']
+[08:54:48]:[QLT][Matica-a]:[Sent] : ['1) 09383915587: AMELITA ROA', '1) 09774576030: ANA DONNA RELANO', '1) 09295445813: ARSENIO DEDACE']
+[08:54:54]:[QLT][Matica-a]:[Sent] : ['1) 09661654383: BRETCHE C. VILLAFLOR', '1) 09513664565: EDMAR PATRIANA YAGONG', '1) 09366588716: GLENDA PASTOR']
+[08:55:00]:[QLT][Matica-a]:[Sent] : ['1) 09947121602: HENRY M. TUMANG', '1) 09610569490: LIEZEL BALTONADO', '1) 09207314255: MARIA FE DAYANAN']
+[08:55:06]:[QLT][Matica-a]:[Sent] : ['1) 09518332257: MARIA KYLA C. CAPORAS', '1) 09612607027: MARIA THERESA AYSO', '1) 09815529917: NENITA D. BALTONADO']
+[08:55:11]:[QLT][Matica-a]:[Sent] : ['1) 09073454065: RUBELYN POLIDO', '1) 09209385186: SANDY CABALSE', '1) 09773721402: SHIELA ORZALES']
+[08:55:16]:[QLT][Matica-a]:[Sent] : ['1) 09683877438: WENEFREDA BALTONADO']
+[08:55:20]:[QLT][Matica-a]:[End]
+
+
+[08:56:40]:[QLT][Kadaohan]:[Start] : Sent by Harold Cale (Technical Support)
+[08:56:40]:[QLT][Kadaohan]:[Message] :
+Good morning. You may be experiencing no internet connection due to a fiber break in our main line. We are working to fix this issue. Please bear with us.
+[08:56:42]:[QLT][Kadaohan]:[Sent] : ['1) 09475837964: ANNABEL ALIGWAY', '1) 09055912388: ERNESTO DAUSAN', '1) 09951496058: GIL CABANGAL']
+[08:56:48]:[QLT][Kadaohan]:[Sent] : ['1) 09156507896: LYDIA A. TANGKAY', '1) 09156500772: NELVIE ALCOBER', '1) 09277748779: SHIELA MARIE GLORI PAEL']
+[08:56:53]:[QLT][Kadaohan]:[Sent] : ['1) 09069203551: TEODORO R. ABANTO JR', '1) 09155257968: YSRAEL I FLORES']
+[08:56:57]:[QLT][Kadaohan]:[End]
+
+

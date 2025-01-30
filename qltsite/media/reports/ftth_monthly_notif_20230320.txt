@@ -1,0 +1,974 @@
+03/20/2023 - 12:13:40
+FTTH Monthly Notification
+Queens Link Technology
+[Success][12:13:40] : ['09065591605, CARLA MAGBAGO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09454304604, CARMEN ABAPO ANONG: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09954342120, CAROL KETH M. ABUNDO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:13:55] : ['09461729761, Cary Loreto Gallardo: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09358536507, Cary Mangubat: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09399130303, CASILDA ELEMENTARY SCHOOL: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:14:02] : ['09190057257, CATALINA PEDONG: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09263117509, CATHERINE C. PADAGDAG: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09269068551, Cecile Daño: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:14:09] : ['09458536575, CELSA P. YGANA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09479572468, CERCIO QUIRANTE: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09177911251, CESAR L. SERVACIO JR.: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:14:24] : ['09161706739, CESAR S. GERA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09088923430, CHARIS ROSAL: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09957484347, CHARISSA B. TEQUILLO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:14:31] : ['09195595804, CHARLES L. RAMOS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09262984487, CHARMIE SONGCOG: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09171361479, CHEMICAL ALLOY CORPORATION: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:14:37] : ['09751406974, CHEN CHEN GUMILAN: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09675604201, CHERLITA T. CARAMPATAN: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09532209087, CHERRY V. GALAURA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:14:44] : ['09061952710, CHERYL PETEROS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09975414974, CHONA AMIGO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09504221309, CHONA M. ESMERO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:14:51] : ['09185239308, Chona T. Sarana: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09069276344, Chonita Kilapio: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09177911251, CHRISTE SERVACIO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:14:58] : ['09666518675, Christianne Kyle Esperanza: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09093327438, CHRISTINE LIZA B. SALVACION: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09457126736, CHRISTINE MAY COLON: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:15:04] : ['09100038879, CHRISTINE S. QUIAMCO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09956671252, Cielo G. Estampa: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09309008976, Cinet Pardillo: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:15:11] : ['09639117675, CITADEL L. PAREJA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09465290850, CLARIVELLE PARILLA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09993039221, CLIFF GARCERA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:15:18] : ['09171008810, COLINA S. MERCADO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09972440032, Conigondes Taguik: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09458533131, CORAZON GUMOP-AS BERNAL: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:15:25] : ['09265471908, CRESILA C. INDOLOS: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09983490995, CRISTINA FE DAFFON: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09975417161, CRISTINA VELORIA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:15:31] : ['09267928047, CRISTINE CABAHUG: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09156713761, CRISTINE MAE NOVAL: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09351600610, CRISTY B. PAGLINAWAN: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:15:38] : ['09956185676, DAHLHIA BATOY: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09472712896, DANDY HIMONGAYA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09615380398, DANIEL GARRIDO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:15:45] : ['09513663817, DANIEL JOHN MOJADO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09452502062, DANIEL R. BECERA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09950097727, DANILO M. LLEVER JR.: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:15:52] : ['09482401575, Daryl Candelasa: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09751595958, DEEJAY M. LUMANAO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09174082529, Delia R. Warren / Padre Burgus Castle: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:16:07] : ['09676002326, DELYN NIVAL: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09167859787, DENNIS D. INGENTE: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09564487254, DENNIS DUMAGUIT: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:16:13] : ['09551269733, DESIREE PAJO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09464562818, DIANE JANE PACAANAS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09171057225, DILG  PADRE BURGOS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:16:20] : ['09673243991, DIONALDO BAGCAT: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09368421211, DIONICO G. RIVERA: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09051204997, Dioscoro Amistad: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:16:27] : ['09300482771, DIOSCORO BATUCAN JR.: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09192503687, DOROTEA ROM: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09702241033, DYAN AGORDO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:16:34] : ['09480137712, Eden Vanie L. Elegio: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09176256790, EDGARDO FUENTES: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09701708142, EDITHA GULANE: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:16:49] : ['09151353815, EDITHA MANING: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09368418214, Edito Perico Sr.: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09362600959, EDOT TEODOSIO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:16:56] : ['09125613450, EDU MARK VEGA: Hello, as of March 2023, you have 7 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09098476510, EFREN DAYAME: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09153570388, ELDA S. ELISAN: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:17:02] : ['09550183665, Elena S. LoLo: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09704524969, Elisa Pino: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09510446409, ELIZER EDURIA: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:17:09] : ['09098598351, ELLA YGOT: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09098291643, ELLIZABETH PEPITO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09095380173, ELMER C. ALKUINO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:17:16] : ['09260717547, Elmer R. Ang Jr.: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09051037416, ELOISA GRACE V. MANCILLA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09325845378, Elsie A. Maalat: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:17:23] : ['09207518796, ELSIE ROSALES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09966685162, ELTON JAY EMCARGUEZ: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09362739895, Elvira B. Guilao: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:17:30] : ['09262782088, EMELINDA C. NALDOZA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09302683520, Emelita S. Cantila: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09184629116, EMELITO I. FLORES: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:17:37] : ['09662495223, EMELY B. NOGAR: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09127092858, EMM PEREZ: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09277087576, EMMA C. ESTELLA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:17:44] : ['09161794138, ENRIQUE P. CONOPIO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09478520759, ERENIO DINDIN: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09675606801, ERNA  S  ALARCON: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:17:50] : ['09503462104, ERNEL JAE E. PRESBITERO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09759756761, ESTRELLA UDTOHAN: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09129093465, ETHEL B. GORON: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:17:57] : ['09280823454, Evamae Pavilion Daplas: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09164288547, EVELYN A. ESCARPE: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09368420714, EVELYN MADIS: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:18:04] : ['09163470273, EVELYN SUGAROL: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09532458558, EVJAINE S. LAGARDE: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09278152496, FABIAN E. DOLORES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:18:11] : ['09274171829, Fe Arlene J. Mondragon: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09675613772, Fe Erbito Diaz: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09925967212, Fe Ligad Siegmund: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:18:26] : ['09464441863, FEBIE A. ALISON: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09129692893, FEBIE CAPUYAN: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09686907000, FELIPE OSIP JR: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:18:33] : ['09483406386, FELIZA MOJADO MATUGUINA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09127092798, FERNANDO C. SIOS-E JR./JONG: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09176302242, Fernando E. Moralde: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:18:40] : ['09152352998, FIDEL MANATAD: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09350310407, FLOR E. RUIZ: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09658446456, FLORABEL TAGSIP/ Camille Sabelino: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:18:47] : ['09207927406, FLORCELA RIVERA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09292621012, FLOREZA AQUINO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09384766830, FRANCES DEANNE BONSILAO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:18:54] : ['09700554935, FREDESWIDA F. MAMATO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09165487400, FRETZIE C. TOMINGBANG/RHU PADRE BURGOS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09169143247, GARRY GUIANAN: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:19:01] : ['09358614753, GARY GABRIEL S. CASIA: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09268175244, GEMCORE INDUSTRIAL RESOURCES CORP: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09532209003, Gemma G.Jarabe: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:19:08] : ['09354896171, GEMMA GARBE: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09266736984, GENARA CALABIA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09471015792, GENECIL E. CAACOY : Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:19:15] : ['09505952819, GENEVEVE BAISE: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09165040250, GENOVEVA P. POLIQUIT: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09174236738, Gerald Labuca: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:19:22] : ['09518234791, GERALDINE TALABOC: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09753424210, GERARDO ETANG: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09267021067, Gerhard Lang: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:19:29] : ['09177740634, GERRY A. MAUREAL: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09177740634, GERRY A. MAUREAL 2: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09394538338, GHIA CRISTI CELLAR: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:19:36] : ['09281472218, GIFFREY TIBRE HIMZON: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09504960159, GIRLIE CABANDOG: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09567832864, GLAIZA GRACE P. LAURITO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:19:43] : ['09152226561, Gleen Pepito Panimdim: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09559640426, GLENDA D. VILLARENTE: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09513664894, GLENN B. TOLEDO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:19:50] : ['09266238445, GLENN FRANCIS D. TIMTIM: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09983842737, GRACE M. ECO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09384450164, GRACE P. TIBIL: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:19:57] : ['09060556725, GRACELDA MARAASIN: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09987270373, GRANDELL ALLAIN DENSING: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09451323532, GRESYL CABALLERO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:20:04] : ['09352461415, GRETCHEN TARIPE: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09988446272, GUIAN VINCE DIMOL: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09655524963, HANNIE PEARL G. PIANO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:20:11] : ['09677020147, HANSEL LAVESORES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09062223827, HAROLD CATIIL: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09289828139, HAZEL BANZON: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:20:18] : ['09999199613, HELENIDA IMPAS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09104812017, HUBERT LAPITAN: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09272728119, Ian Jeylo E. Laodeño: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:20:33] : ['09277576097, Ikhalyn Roble: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09209731470, IRENE TASAN: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09504226003, IRISH MAY PINGOY: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:20:40] : ['09105498578, IRVIN JAY COLALJO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09469328176, ISMAEL T. ANDO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09362966618, IVY B. TEQUILLO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:20:47] : ['09052853684, JACKLYN AVILA DEL ROSARIO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09465393406, JACKYLIN APUYA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09199749141, JAEZEL A. HANDUMON: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:20:54] : ['09266861887, JAMES RAYMOND LAÑOJAN: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09703579737, JANET BEBANCO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09261001648, JANETTE ESCOBIDAL: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:21:00] : ['09709254615, JAQUILO CONDE: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09659103783, JASSA R. NEMOTEO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09161984503, Jaypee Felias: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:21:07] : ['09638166772, JAYSON TANEO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09452488479, JAYVEE C. DIMAS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09983459211, JEANET M. MALINAO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:21:14] : ['09973356248, JECYLMAE L. RUIZO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09514794626, JEFF YARAS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09675579038, JEFFREY PEPITO JR.: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:21:21] : ['09058234217, JEFY MANORINA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09975277587, JEHDEIA SOLAMO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09971952308, JEHSA M. TUMULAK: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:21:28] : ['09971698606, JENELLIE BASTATAS: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09654275673, JENELYN M. REPOLIDO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09533199340, JENEVEB E. MORENO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:21:35] : ['09186123245, Jenju A. Rom: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09155765712, JENNELYN L. PELICANO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09773509040, Jennes C. Plaza: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:21:42] : ['09673521195, JENNESA BERNAL: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09551581434, JENNIFER GONZAGA: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09989899181, JEONEL R. LISTON: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:21:48] : ['09265020978, JEORGE B. PERIDA: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09468193460, JERALD C. MOJADO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09483673868, Jeraldine Jay C.Bazarte: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:21:55] : ['09678266483, JERALYN M. CAMPO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09265444263, JEROME O. CAJES: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09154204881, JESSAN P. LEQUIN: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:22:01] : ['09514966813, JESSICA C. INTUD: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09061021712, JESTONI OMOTO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09354420319, JETHRO DAGMOC: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:22:08] : ['09757047446, JHADE D. CONDES: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09271746463, JHAY B. PULOD: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09639182523, JHEA WENCY PARILLA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:22:15] : ['09468881103, JHOMELYN VILLASENCIO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09773875405, JIEBOY P. BERTOS: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09359324727, Jillian Hope C. Carungay: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:22:22] : ['09677022147, JIMMY S. RADORES JR.: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09606628221, JISBERT PABLO AMPO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09692602491, JOAN B. PEREZ: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:22:29] : ['09684581771, Joan O. Kinazo: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09550794277, Joan T. Narona: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09560943459, JOANA DOMINQUE B. YUNSON: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:22:36] : ['09653341838, JOCELYN JUSTO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09753908048, JOCELYN L. CANONIGO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09058037820, JOCELYN P. VILLAMOR: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:22:43] : ['09558439053, JOEBERT MADIS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09918457332, JOEL P. MERIN: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09161983081, JOENARD NUNEZ: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:22:50] : ['09358659084, John Bert M. Gotis: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09654275673, JOHN CARL REPOLIDO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09069630587, John Mariel M. Piñon: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:22:57] : ['09166904150, JOHN MICHAEL D. ABANTO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09513699836, JOHN PAUL ROTA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09639111787, JOHN PHILIP SACAY: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:23:03] : ['09566470216, John Rey B. Guianan: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09976640900, JONATHAN BACALSO OMAMBAC: Hello, as of March 2023, you have 5 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09481706627, JONATHAN CASINILLO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:23:10] : ['09066266349, JONATHAN ROMO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09502509485, JONNEL M. MAQUILAN: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09817763275, JOSEFA U. MENDOZA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:23:17] : ['09096672187, JOSELITO C. MANAPCO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09973504228, JOSEPHINE M. CORPIN: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09956096001, JOSEPHINE R. ORTULA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:23:24] : ['09215922867, JOSHUA JUMAO-AS: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09265352298, Joy Olorvida: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09667356604, JOYCE D. NUÑEZ: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:23:31] : ['09051757517, JUANITO CELEDIO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09274396702, JUDY VIE BUYA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09277749138, JULIACRIS MANATAD: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:23:38] : ['09098783730, JULITO SARINO BOLANO/JURISA BOLANO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09533504309, Junrel Pobadora: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09510348385, Juvelyn T. Mahayag: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:23:45] : ['09267923530, KAREN ANTIGUA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09471473313, KATHERINE LAURETO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09384444970, Kay Kent Cantero (Bryg. Hall): Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:23:52] : ['09058349909, KAYE P. MERALLES: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09677018244, KAYESHA O. JANSON: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09350319355, KEIRO JAY M. BOHOL: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:23:58] : ['09176335366, KENN KANGLEON: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09972586436, KENT JEROME C. DIAZ: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09954716463, KEZZEL ANN A. GALOS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:24:05] : ['09058615820, KIET L. APORADOR: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09672544172, KIMBERLY D. PASIGNA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09120576233, La Arnie R. Godinez: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:24:12] : ['09066094975, LAURIE ASTAIRE BAYAOA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09510453256, Lea Joy B. Gingco: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09770294013, LEA LUNZAGA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:24:18] : ['09473747721, LEAH MAY CABAHUG: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09174261178, Leizl M. Yumang / Elvin Manoriña: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09631170488, LEMARD MEÑOZA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:24:34] : ['09561049660, LENIE PARILLA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09096255023, LESLIE MAE MOPON: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09630622163, LESTER M. LLENAS: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:24:40] : ['09158607071, LGU PADRE BURGOS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09815944126, LGU PADRE BURGUS (MUNICIPAL TREASURES OFFICE  ): Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09175701396, LGU PADRE BURGUS ACCOUNTING OFFICE: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:24:47] : ['09265014990, LIBRADA N. DELAGANAR: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09610569490, LIEZEL BALTONADO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09972588115, LIMELEY DE LEON: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:24:53] : ['09758866069, LIMUEL T. CAGULADA: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09638126554, LINDY JANE CAYANONG: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09354421403, LINDY JANE L. ANDO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:25:00] : ['09618919936, LOENORA CABRAHAN: Hello, as of March 2023, you have 6 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09639640813, Lolando Muaña: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09385053416, LOREDETH A. ALQUINO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:25:07] : ['09487322071, LORENA DIENDO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09338238825, LORENZO CADAO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09656679732, LORJE MAGDAONG: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:25:13] : ['09288962876, LOSIE P. SIABOC: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09391088282, LOVELY F. DE LEON: Hello, as of March 2023, you have 6 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09569262140, LOVELY PARILLA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:25:20] : ['09275464479, LUCENA T. JUANILLO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09976875998, LUCRESIA DELA CRUZ: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09152350039, Lyca Ulan-ulan: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:25:26] : ['09058813451, MA. IRIS IMPING: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09606635068, MA. JESSICA N. IBAY: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09973511153, MA. LOURDES M. CALIZAR: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:25:33] : ['09958092558, MA. LOURGEN ARINASA: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09154384194, MA. PERLITA C. LUNDAY: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09557749838, MA. REVLYN C. CAÑALITA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:25:40] : ['09483800232, MA.FRANS KRISTINE GARCISO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09061692335, MABEL V. PARILLA: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09464550779, MACKY BOY C. NUDALO: Hello, as of March 2023, you have 5 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:25:46] : ['09954714889, MALOU GICA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09567987685, MANDEL B. BUCABUCA: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09106316715, MANILYN BELARMINO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:25:53] : ['09270285324, MANUEL L. BRIONES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09274742289, Maraley T. Timbal: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09213466075, MARCOS BENSIG: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:25:59] : ['09393573719, MARGIE EÑIGO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09566145043, Maria A.Egay: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09207314255, MARIA FE DAYANAN: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:26:06] : ['09759945206, MARIA GENEZEN C. POLIQUIT: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09083662739, Maria Isabel Cabonergo: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09368421026, MARIA JEVEE P. LUMAPAS: Hello, as of March 2023, you have 4 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:26:13] : ['09275183598, MARIA JINKY NODALO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09518332257, MARIA KYLA C. CAPORAS: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09486593013, MARIA LILIBETH MATUGUINA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:26:21] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09296623482', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:26:21] : ['09296623482, MARIA M. NUNEZ: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09499135546, MARIA NORA PADAYAO/T. AVILES ELEMENTARY SCHOOL: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09653602961, MARIA REGINE P. CAPARAS: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:26:26] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09972852469', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:26:26] : ['09972852469, MARIA SALOME E. CANTIGA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09612607027, MARIA THERESA AYSO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09504175783, MARIA VICTORIA LAMOC: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:26:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09091748909', '=message=Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:26:31] : ['09091748909, MARIA VILMA CANTERO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09350229616, MARIAN CATAG-CATAG: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09125187641, MARIANITO CAMORISTA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:26:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09273976325', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:26:36] : ['09273976325, MARIANNE MAE L. CARMELOTES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09285210604, Maricar N. Deguia: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09353521045, MARICEL ANDO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:26:41] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09070797476', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:26:41] : ['09070797476, MARICEL LAPINID: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09771105733, MARICEL PITOGO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09978533757, Marie Erl H. Arnaiz: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:26:46] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09615916398', '=message=Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:26:46] : ['09615916398, MARIETA T. MACAPAÑAS: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09074201819, MARILOU M. MAGALLANES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09465314063, MARILYN URBANO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:26:51] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09308769810', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:26:51] : ['09308769810, MARINA JARDIN: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09302470796, MARIO APUYA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09169579673, MARIPOL PEARSON CELEDIO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:26:56] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09451270765', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:26:56] : ['09451270765, MARISSA DOLLENTAS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09368421299, MARITES E. CABAÑERO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09319713632, MARIVIC B. ROMO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:27:01] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09060574505', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:27:01] : ['09060574505, MARJORIE PADILLA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09317928352, MARK ANTHONY BOISER: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09661481047, MARK P. BACALSO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:27:07] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09533506066', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:27:07] : ['09533506066, MARK ROY CASTAÑARES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09488878061, Marlito D. Apas: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09367862644, Marlon G. Catubig: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:27:12] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09309590540', '=message=Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:27:12] : ['09309590540, MARVIN INTALIS: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09983113214, MARY JANE CASINILLO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09955342018, MARY JANE NIVENS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:27:17] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09759771048', '=message=Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:27:17] : ['09759771048, MARY VENICE BOOK: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09458511139, MAY ANNE JAVIER: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09052923147, MAY SUBRIO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:27:22] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09068214569', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:27:22] : ['09068214569, MAYRA FLOR ROBLE: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09195721390, MC GILL VERALLO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09758184482, MDRRMO OFFICE-LGU PADRE BURGOS: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:27:27] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09166247798', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:27:27] : ['09166247798, MEL JUN TRANGIA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09975280922, MELISSA IGOT OCLARIT: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09466809767, MELVIN BACALSO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:27:32] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09487101271', '=message=Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:27:32] : ['09487101271, MEQUIAS BARRO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09380356018, Mercedes Evangelista: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09955029330, MICHELL C. CAÑALITA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:27:37] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09675538523', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:27:37] : ['09675538523, Michelle Olavidez: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09303954113, MILA C. VERANO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09513697587, MILFRED R. REVALO: Hello, as of March 2023, you have 4 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:27:42] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09363917586', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:27:42] : ['09363917586, MINERVA V. MORADA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09532708948, MITOS A. DE VILLENA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09659447996, MOLAVE G. LABOGA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:27:47] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09363926824', '=message=Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:27:47] : ['09363926824, MYLENE MARTIN: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09362754565, MYRISIA DERIQUITO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09205039353, MYRLA J. SABANDAL: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:27:52] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09399041653', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:27:52] : ['09399041653, MYRLA J. SABANDAL (Mohon): Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09972706139, MYRNA E. TIDOY: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09499430492, NANITA TASAN: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:27:57] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09975282813', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:27:57] : ['09975282813, NEIL PELARIOS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09061992761, NELSON GELIG SR.: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09510402713, NENITA L. LEONES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:28:02] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09996523307', '=message=Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:28:02] : ['09996523307, NENITA P. NARCISO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09336033191, NENITA-LAURENTE: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09510446884, NESTOR DONAYRE: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:28:07] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09156510626', '=message=Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:28:07] : ['09156510626, NICHEL SABINO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09514409905, NIEL C. CONGSON: Hello, as of March 2023, you have 4 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09082011997, Niel Sudaria: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:28:12] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09557761171', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:28:12] : ['09557761171, NILDA MING: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09755788173, NILO C. LUCERO: Hello, as of March 2023, you have 4 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09285732200, NINO B. MAHINAY: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:28:17] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09269780317', '=message=Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:28:17] : ['09269780317, NOE ALMADEN: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09208968044, Noel T. Reparado: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09751862722, NORA B. MISPEROS: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:28:22] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09164073861', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:28:22] : ['09164073861, NORA BASUBAS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09489094764, Orias Roque: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09677267142, Oscar Cruz Oliver: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:28:27] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09124363223', '=message=Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:28:27] : ['09124363223, PATROCINIA GOMEZ: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09085286786, PAULA ELLAINE BAÑEZ: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09651274974, PEDRO Y. CABUYAO JR.: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:28:32] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09383528445', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:28:32] : ['09383528445, PRESCILLA G. OUANO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09338109095, PROSERFINA CANOY YBAÑEZ: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09097920394, PSYCHIE NAVARRO: Hello, as of March 2023, you have 4 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:28:37] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09163077021', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:28:37] : ['09163077021, RACHEL DECINA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09532451782, RACHEL W. DALANON: Hello, as of March 2023, you have 4 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09754450485, Rachelle R. Leones: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:28:42] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09991982955', '=message=Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:28:42] : ['09991982955, RAFFY T. FERNANDEZ: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09455219911, RAM SURIMA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09308573774, RAMELITO BATING: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:28:47] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09950211368', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:28:47] : ['09950211368, Randy M. Tomalcin: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09777138052, RAY JHAY ALAG: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09074669310, RECHELLE RAMA/JUATON ELEMENTARY SCHOOL: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:28:52] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09363918851', '=message=Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:28:52] : ['09363918851, REGINA A. POLIQUIT: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09617502605, Reinhard G. Macasero: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09927828882, RENATO V. DONDOYANO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:28:57] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09389845895', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:28:57] : ['09389845895, RENIE IGOT ROMO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09059608657, Reyls G. Yangson: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09068204738, REYNALDO PO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:29:02] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09517998223', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:29:02] : ['09517998223, REYNAND A. CANONIGO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09631000394, REYNETTE C. FORTICH: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09391007961, REZZA MAE P. SANCHEZ: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:29:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09977182191', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+   [Fail][12:29:08] : ['09977182191, RHEA MAE P. SAMUELE: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09510404143, RHODORA GARCIANO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09700228862, RHYME OTIDA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:29:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09362960650', '=message=Hello, as of March 2023, you have 5 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:29:13] : ['09362960650, RICHARD LAZO: Hello, as of March 2023, you have 5 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09489289533, RICHARD SOTTO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09510455298, RICKY CAÑONEO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:29:18] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09383272904', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:29:18] : ['09383272904, RITA ASUZENA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09700569930, RIZA MAE LUCEÑOS: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09514196441, RIZA RIVERA: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:29:23] : ['09317287969, RIZALYN R. CASTELLAS: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09978543493, RIZZA A. MENESES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09487459866, RO-ANNE FLAYNE L. GOPIO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:29:29] : ['09265014088, ROBELYN M. MATIGA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09155989113, ROBERT MODINA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09063948994, ROBERT REY ALAMIL: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:29:36] : ['09392473469, ROCHELL D. PEROSO/MICHAEL PEROSO ( UT): Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09354420901, Rodel Yu - LEA GRACE BENITUA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09214838683, RODEL YU RAMAS/MERIDA GOLDIN SHOWER: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:29:43] : ['09089560292, RODELYN BACALSO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09267126039, RODOLFO B. ATON: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09273510736, RODRIGO P. CELEDIO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:29:50] : ['09654063927, ROGELIO AQUILES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09776167829, ROGELIO NABASQUES: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09465262155, ROGYN B. PEPITO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:29:57] : ['09619691961, ROILAND VILLASENCIO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09551325864, ROLANDO G. ROMO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09281893326, ROLANDO P. CABAHUG: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:30:04] : ['09150028748, ROLANDO POLIQUIT: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09560672401, ROMEL MORATA: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09184594323, ROMEO BULLO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:30:11] : ['09467513908, ROMULO LERIOS JR.: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09353519890, ROMULO T. DIEZ JR.: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09154388193, Ronald Sabayle: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:30:17] : ['09465667755, RONILO L. ESMERO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09950239754, RONNEL P. PASANA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09171533244, RONNEL PADERNAL: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:30:23] : ['09168681394, ROSA MARIA B. ARQUILLANO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09265573322, ROSAL CARLOSITA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09169143423, ROSALINDA COLANAG: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:30:30] : ['09125566009, ROSALINDA M. BILLIONES: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09300162056, ROSALITA ROSAL: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09054262139, ROSE ANN P. MIRA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:30:36] : ['09657103536, ROSEBELLIA A. CARAMPATAN: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09654990611, ROSEBY SENILLO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09754771692, ROSEL MINGAO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:30:43] : ['09563792755, ROSEMARIE CANONIGO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09457353392, Rosevi Robertson: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09551461921, ROSITA PECORRE: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:30:50] : ['09176177720, ROSMEL LESTINO / MACARIO COOP MART: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09176256882, ROWENA BELARMINO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09503586847, ROWENA C. CAHAPAY: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:30:57] : ['09666521182, ROXAN M. CORPIN: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09356268315, ROXANNE A. BASTASA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09073454065, RUBELYN POLIDO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:31:04] : ['09659603832, Ruben Imping Hitohat: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09651333820, RUBY ADOLFO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09753904002, RUBY MAE A. BACANG: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:31:10] : ['09461377083, RUTH MIRAFUENTES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09262300203, RYZA ARETHA CLAIRE A. BOOC: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09469456289, SALVACION AMO JOMANTOC: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:31:17] : ['09461324094, SAMUEL C. VILLARTA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09069323502, SAMUEL L. MIAGA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09121987724, SARAH SUMAGANG: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:31:24] : ['09677020719, SEVERINO REPOLLO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09489437111, SHAINA MAE JAVIER: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09999194958, Sheila G. Irlandez: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:31:31] : ['09277748779, SHIELA MARIE GLORI PAEL: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09533508008, SHIRLY SACAY: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09203934065, THELMA RITA RAZON: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:31:38] : ['09750696800, TIMOTHY ASEO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09777141967, TRECIA C. MEDELO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09498941787, TREVOR WINSON: Hello, as of March 2023, you have 5 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:31:45] : ['09650528071, VANESSA LUMANTA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09386769971, VENICE CONGSON: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09087090552, VENUS ASTUDILLO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:31:51] : ['09058247055, VHIE JEAN B. MELANEZ: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09639621825, VICENTE CAYANONG: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09350319355, VICTORIA M. BOHOL: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:31:58] : ['09971075279, VILLA JACINTA NATIONAL VOCATIONAL HIGH SCHOOL: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09154995095, Villasencio Global Development Corp.: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09677982041, VIOLITA G. MALAYAN: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:32:05] : ['09639648679, VIRGINIA C. BALILI: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09354896014, VIRGINIA EGAY: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09513696241, VIVERLYN A. DIMASUHID: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:32:12] : ['09171139395, Vychille Ann Ramos: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09502994202, WARLYN GATO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09165887172, WARREN WAFFER: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:32:19] : ['09683877438, Wenefreda Baltonado: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09475199181, WILLIAM CLAUDE STEVENSON: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09675528999, WILLIAM S.PALADA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:32:26] : ['09353865162, WILLIAM TAN JR.: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09973574247, WINSTON O. SOLEJON: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09263672860, YNA MARIE GICA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:32:32] : ['09984671466, ZORAIDA GUAYAN: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09296623482, MARIA M. NUNEZ: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09499135546, MARIA NORA PADAYAO/T. AVILES ELEMENTARY SCHOOL: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:32:39] : ['09653602961, MARIA REGINE P. CAPARAS: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09972852469, MARIA SALOME E. CANTIGA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09612607027, MARIA THERESA AYSO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:32:46] : ['09504175783, MARIA VICTORIA LAMOC: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09091748909, MARIA VILMA CANTERO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09350229616, MARIAN CATAG-CATAG: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:32:53] : ['09125187641, MARIANITO CAMORISTA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09273976325, MARIANNE MAE L. CARMELOTES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09285210604, Maricar N. Deguia: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:32:59] : ['09353521045, MARICEL ANDO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09070797476, MARICEL LAPINID: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09771105733, MARICEL PITOGO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:33:06] : ['09978533757, Marie Erl H. Arnaiz: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09615916398, MARIETA T. MACAPAÑAS: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09074201819, MARILOU M. MAGALLANES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:33:13] : ['09465314063, MARILYN URBANO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09308769810, MARINA JARDIN: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09302470796, MARIO APUYA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:33:19] : ['09169579673, MARIPOL PEARSON CELEDIO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09451270765, MARISSA DOLLENTAS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09368421299, MARITES E. CABAÑERO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:33:26] : ['09319713632, MARIVIC B. ROMO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09060574505, MARJORIE PADILLA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09317928352, MARK ANTHONY BOISER: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:33:33] : ['09661481047, MARK P. BACALSO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09533506066, MARK ROY CASTAÑARES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09488878061, Marlito D. Apas: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:33:40] : ['09367862644, Marlon G. Catubig: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09309590540, MARVIN INTALIS: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09983113214, MARY JANE CASINILLO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:33:46] : ['09955342018, MARY JANE NIVENS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09759771048, MARY VENICE BOOK: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09458511139, MAY ANNE JAVIER: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:33:53] : ['09052923147, MAY SUBRIO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09068214569, MAYRA FLOR ROBLE: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09195721390, MC GILL VERALLO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:34:00] : ['09758184482, MDRRMO OFFICE-LGU PADRE BURGOS: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09166247798, MEL JUN TRANGIA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09975280922, MELISSA IGOT OCLARIT: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:34:07] : ['09466809767, MELVIN BACALSO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09487101271, MEQUIAS BARRO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09380356018, Mercedes Evangelista: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:34:14] : ['09955029330, MICHELL C. CAÑALITA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09675538523, Michelle Olavidez: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09303954113, MILA C. VERANO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:34:20] : ['09513697587, MILFRED R. REVALO: Hello, as of March 2023, you have 4 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09363917586, MINERVA V. MORADA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09532708948, MITOS A. DE VILLENA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:34:27] : ['09659447996, MOLAVE G. LABOGA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09363926824, MYLENE MARTIN: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09362754565, MYRISIA DERIQUITO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:34:34] : ['09205039353, MYRLA J. SABANDAL: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09399041653, MYRLA J. SABANDAL (Mohon): Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09972706139, MYRNA E. TIDOY: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:34:40] : ['09499430492, NANITA TASAN: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09975282813, NEIL PELARIOS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09061992761, NELSON GELIG SR.: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:34:47] : ['09510402713, NENITA L. LEONES: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09996523307, NENITA P. NARCISO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09336033191, NENITA-LAURENTE: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:34:54] : ['09510446884, NESTOR DONAYRE: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09156510626, NICHEL SABINO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09514409905, NIEL C. CONGSON: Hello, as of March 2023, you have 4 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:35:01] : ['09082011997, Niel Sudaria: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09557761171, NILDA MING: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09755788173, NILO C. LUCERO: Hello, as of March 2023, you have 4 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:35:08] : ['09285732200, NINO B. MAHINAY: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09269780317, NOE ALMADEN: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09208968044, Noel T. Reparado: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:35:15] : ['09751862722, NORA B. MISPEROS: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09164073861, NORA BASUBAS: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09489094764, Orias Roque: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:35:22] : ['09677267142, Oscar Cruz Oliver: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09124363223, PATROCINIA GOMEZ: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09085286786, PAULA ELLAINE BAÑEZ: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:35:28] : ['09651274974, PEDRO Y. CABUYAO JR.: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09383528445, PRESCILLA G. OUANO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09338109095, PROSERFINA CANOY YBAÑEZ: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:35:49] : ['09097920394, PSYCHIE NAVARRO: Hello, as of March 2023, you have 4 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09163077021, RACHEL DECINA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09532451782, RACHEL W. DALANON: Hello, as of March 2023, you have 4 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Error Message][12:35:56] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09754450485', '=message=Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+   [Fail][12:35:56] : ['09754450485, Rachelle R. Leones: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09991982955, RAFFY T. FERNANDEZ: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09455219911, RAM SURIMA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:37:01] : ['09308573774, RAMELITO BATING: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09950211368, Randy M. Tomalcin: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09777138052, RAY JHAY ALAG: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:37:08] : ['09074669310, RECHELLE RAMA/JUATON ELEMENTARY SCHOOL: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09363918851, REGINA A. POLIQUIT: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09617502605, Reinhard G. Macasero: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:37:14] : ['09927828882, RENATO V. DONDOYANO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09389845895, RENIE IGOT ROMO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09059608657, Reyls G. Yangson: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:37:21] : ['09068204738, REYNALDO PO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09517998223, REYNAND A. CANONIGO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09631000394, REYNETTE C. FORTICH: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:37:28] : ['09391007961, REZZA MAE P. SANCHEZ: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09977182191, RHEA MAE P. SAMUELE: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09510404143, RHODORA GARCIANO: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:37:34] : ['09700228862, RHYME OTIDA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09362960650, RICHARD LAZO: Hello, as of March 2023, you have 5 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09489289533, RICHARD SOTTO: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:37:41] : ['09510455298, RICKY CAÑONEO: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09383272904, RITA ASUZENA: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09700569930, RIZA MAE LUCEÑOS: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:37:48] : ['09514196441, RIZA RIVERA: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09754450485, Rachelle R. Leones: Hello, as of March 2023, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.', '09991982955, RAFFY T. FERNANDEZ: Hello, as of March 2023, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+[Success][12:37:54] : ['09455219911, RAM SURIMA: Hello, as of March 2023, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.']
+
+[Advanced Records]:
+ABEGAIL M. DIMAS, 09168785808: Advanced payment of 1 month(s)
+ABRAM T. CAJIGAS, 09380234553: Advanced payment of 1 month(s)
+Adrian Peter T. Mosch, 09216631592: Advanced payment of 1 month(s)
+AGAPITO CAOCTOY JR, 09284488379: Advanced payment of 1 month(s)
+AGUITING ELEMENTARY SCHOOL, 09177232821: Advanced payment of 1 month(s)
+AILANE COSIDO, 09367961075: Advanced payment of 1 month(s)
+AILEEN HERMOSO / KIESHA S. DELA CORTA, 09756358467: Advanced payment of 1 month(s)
+Aileen I. Tagbak, 09264736407: Advanced payment of 1 month(s)
+AILEEN PARILLA, 09472201315: Advanced payment of 1 month(s)
+AIRA C. SALILI, 09093529532: Advanced payment of 2 month(s)
+AIRENE A. MIRO, 09759061015: Advanced payment of 1 month(s)
+ALAN JOSE K. AROY, 09177954961: Advanced payment of 1 month(s)
+ALBERT APAS, 09566530630: Advanced payment of 1 month(s)
+ALBERTO SABALONES RUAYA, 09357742729: Advanced payment of 1 month(s)
+ALDRIN D. ASIS, 09770831273: Advanced payment of 1 month(s)
+ALDRIN M. DEMETERIO, 09950536157: Advanced payment of 1 month(s)
+ALDRIN-LAGADAN-PUNASIN, 09358923342: Advanced payment of 2 month(s)
+ALEJANDRO C. BORINAGA, 09122512476: Advanced payment of 1 month(s)
+ALEX ROM, 09554965970: Advanced payment of 1 month(s)
+Alexander Bacalso, 09568334476: Advanced payment of 1 month(s)
+ALEXANDER E. FLORITO, 09106036618: Advanced payment of 1 month(s)
+ALEXANDER PANIMDIM, 09063118396: Advanced payment of 1 month(s)
+ALICIA ROSALES, 09062039092: Advanced payment of 1 month(s)
+ALLAN B. DENDEN, 09985771460: Advanced payment of 1 month(s)
+ALLAN O. CELEDONIO, 09260461761: Advanced payment of 1 month(s)
+ALLAN R. CAGALAWAN, 09666219129: Advanced payment of 1 month(s)
+ALMA C. CAYANONG, 09154766807: Advanced payment of 1 month(s)
+ALOHA S. LAPAY, 09164812279: Advanced payment of 1 month(s)
+ALOHNA DIOLA, 09279555311: Advanced payment of 1 month(s)
+Amando P. Luceños Sr., 09199748585: Advanced payment of 1 month(s)
+AMELITA MACAMAY, 09263386274: Advanced payment of 1 month(s)
+AMELITA ROA, 09383915587: Advanced payment of 1 month(s)
+Amor Constantino Oribe, 09495891909: Advanced payment of 1 month(s)
+Ana Flatley, 09423352281: Advanced payment of 2 month(s)
+ANA MARIE A. PAGLINAWAN, 09955205925: Advanced payment of 1 month(s)
+Anabella J.Macaraob, 09676340448: Advanced payment of 1 month(s)
+ANABELLE MULLEJON, 09635844625: Advanced payment of 1 month(s)
+ANALYN C. TAGLE, 09282925009: Advanced payment of 1 month(s)
+ANALYN DEGELLO, 09464503817: Advanced payment of 1 month(s)
+ANALYN LUCENOS, 09501767056: Advanced payment of 2 month(s)
+ANDREY P. COLLO, 09551463959: Advanced payment of 1 month(s)
+ANECITA D. CRUDA, 09384766831: Advanced payment of 1 month(s)
+ANGEL R. NAPISA, 09556543574: Advanced payment of 1 month(s)
+ANGELICA P. GERALDO, 09268946142: Advanced payment of 1 month(s)
+ANGELINE D. DEGOMA, 09924425913: Advanced payment of 1 month(s)
+ANGELO C. GALLARDO, 09559642178: Advanced payment of 1 month(s)
+ANITA ALAO, 09186418612: Advanced payment of 1 month(s)
+ANNA MARIE Y. TUMAMAK, 09751542772: Advanced payment of 2 month(s)
+ANNABEL ALIGWAY, 09475837964: Advanced payment of 1 month(s)
+ANNABELLE A. WENSESLAO (CONCEPCION ELEM. SCHOOL), 09688793499: Advanced payment of 1 month(s)
+ANNABELLE C. TAMPOS, 09991559701: Advanced payment of 2 month(s)
+ANSELMA E. ABAJON, 09150029013: Advanced payment of 2 month(s)
+ANSELMO L. PEGANO, 09289789103: Advanced payment of 1 month(s)
+ANTHONY PETER FENTON, 09195738499: Advanced payment of 2 month(s)
+Antonio G.Gloria, 09659248974: Advanced payment of 1 month(s)
+Antonio Gaviola, 09283758911: Advanced payment of 1 month(s)
+Antonio liston, 09359320622: Advanced payment of 1 month(s)
+ARBIE C. VALLIEJOS, 09936258916: Advanced payment of 1 month(s)
+ARCHIE E. CASTRO, 09677018225: Advanced payment of 1 month(s)
+ARGELINA A. OCANG, 09064203857: Advanced payment of 1 month(s)
+Arianne Joy M. Bala, 09352336844: Advanced payment of 1 month(s)
+Ariel D. Kaindoy, 09995715448: Advanced payment of 1 month(s)
+Ariel S. Mosot, 09176596965: Advanced payment of 1 month(s)
+ARJEN U. WAFFER, 09771681587: Advanced payment of 1 month(s)
+ARMANDO DONDOYANO, 09651853092: Advanced payment of 1 month(s)
+ARMELO M. BETONIO, 09553217460: Advanced payment of 1 month(s)
+Armolina V. Amorin , 09306964846: Advanced payment of 1 month(s)
+ARTHUR P. MONTEDERAMOS, 09265534593: Advanced payment of 1 month(s)
+ARTHUR SUMONDONG, 09362072050: Advanced payment of 1 month(s)
+ARYANE JANE WAFFER, 09657019404: Advanced payment of 1 month(s)
+AUBRINA P. TABAR, 09101029155: Advanced payment of 1 month(s)
+AURELIO QUIRIM, 09673243544: Advanced payment of 1 month(s)
+AUREO A. MELLEJOR, 09153600516: Advanced payment of 1 month(s)
+BABY JANE M. AMOYIN, 09179562017: Advanced payment of 1 month(s)
+BACALSO NINOLITO OMAMBAC, 09569262448: Advanced payment of 1 month(s)
+Balugo National H.S. (Junior), 09064441681: Advanced payment of 2 month(s)
+Balugo National H.S. (Senior), 09064441681: Advanced payment of 2 month(s)
+BARANGAY CASILDA BARANGAY HALL, 09209020807: Advanced payment of 1 month(s)
+BEBAY HERMOSILLA, 09508646737: Advanced payment of 1 month(s)
+BENEDICTO MATUGUINA, 09531265373: Advanced payment of 1 month(s)
+Benjilyn-Tolibas, 09925624463: Advanced payment of 1 month(s)
+BERLITO PADILLA, 09639119654: Advanced payment of 2 month(s)
+BERNADETTE ALDIANO, 09075810003: Advanced payment of 1 month(s)
+BERNARD D. LAVEZARES, 09128365455: Advanced payment of 1 month(s)
+BLESSED GRACE BADA, 09076159355: Advanced payment of 2 month(s)
+BLGU BUNGA, 09551379555: Advanced payment of 2 month(s)
+BOBBY ANDREW H TAGALOG, 09923505350: Advanced payment of 1 month(s)
+BRIAN BINUEZA , 09054712645: Advanced payment of 1 month(s)
+Brian M. Gilles, 09079938434: Advanced payment of 2 month(s)
+BRIAN TABON, 09058397281: Advanced payment of 1 month(s)
+BRITNEY APAS, 09262328784: Advanced payment of 1 month(s)
+Bryan Parrilla, 09550691625: Advanced payment of 1 month(s)
+Cabuhangin Brgy. Hall, 09196420896: Advanced payment of 1 month(s)
+CAESAR DARIUS CORBO, 09485717876: Advanced payment of 1 month(s)
+CAREN JANE A. ATANACIO, 09159602611: Advanced payment of 1 month(s)
+CARLOS CUESTA, 09393767399: Advanced payment of 1 month(s)
+CARREN JUPIA, 09675614593: Advanced payment of 1 month(s)
+CATHERINE R. SCHUBERG, 09567341324: Advanced payment of 1 month(s)
+CATHY M.TALISIC, 09058554098: Advanced payment of 1 month(s)
+CEBUANA LHUILLIER PAWNSHOP. P. BURGOS BR, 09276491712: Advanced payment of 2 month(s)
+CECILE BANZON, 09104494469: Advanced payment of 1 month(s)
+CECILIA JUBAY, 09772687222: Advanced payment of 1 month(s)
+CESAR IAN C. BORER, 09669564688: Advanced payment of 1 month(s)
+CESAR MARVIN A. FERNANDEZ, 09365360756: Advanced payment of 1 month(s)
+CHARITO BAGUION, 09198890166: Advanced payment of 1 month(s)
+CHARMAINE CANONIGO 1 (Baugo), 09972482114: Advanced payment of 1 month(s)
+CHARMAINE CANONIGO 2 (Proper), 09959142259: Advanced payment of 1 month(s)
+CHERRY FE M. CATAAG, 09489146734: Advanced payment of 1 month(s)
+Cherry Ve C. Vasquez , 09770910747: Advanced payment of 1 month(s)
+CHERYL ENG, 09420218952: Advanced payment of 1 month(s)
+CHRISTIAN PAUL ECOY, 09062459164: Advanced payment of 1 month(s)
+CHRISTINE E. BALABA, 09982838924: Advanced payment of 2 month(s)
+Christine M. Senosin, 09317296791: Advanced payment of 1 month(s)
+Christopher Jahn Paloma, 09468471445: Advanced payment of 1 month(s)
+CLAIRE CANTERO, 09073062661: Advanced payment of 1 month(s)
+CLAIRE GARCIANO, 09164825703: Advanced payment of 1 month(s)
+CONCHITA YNOT, 09495720389: Advanced payment of 1 month(s)
+CONRADO D. OCHAVILLO, 09096630249: Advanced payment of 1 month(s)
+CONRADO S. DUALLO JR., 09560038021: Advanced payment of 2 month(s)
+CONSTANTINE, JOHN DEJON, 09202901896: Advanced payment of 1 month(s)
+CORAZON GUMOP-AS (2nd Account), 09458533131: Advanced payment of 1 month(s)
+Corazon P. Lascoña, 09300828328: Advanced payment of 1 month(s)
+CRISTINA AVILA, 09569123547: Advanced payment of 1 month(s)
+CRISTINA D. JANSON, 09953209928: Advanced payment of 1 month(s)
+CRISTINE C. DINDIN, 09262332881: Advanced payment of 2 month(s)
+CRISTY ANN PENING, 09066093203: Advanced payment of 1 month(s)
+CRISTY TOROCTOCON, 09169565982: Advanced payment of 1 month(s)
+CRUZ V. MENDEZ, 09273097881: Advanced payment of 1 month(s)
+CURVA CHURCH, 09934957633: Advanced payment of 1 month(s)
+CURVA ELEMENTARY SCHOOL, 09510348827: Advanced payment of 1 month(s)
+CURVA ELEMENTARY SCHOOL 2, 09510348827: Advanced payment of 1 month(s)
+DAINA C. DESADES, 09532454118: Advanced payment of 1 month(s)
+DAISY D. PADLA, 09677510675: Advanced payment of 1 month(s)
+DAMULAAN NATIONAL HIGH SCHOOL (SENIOR HIGH), 09568500850: Advanced payment of 1 month(s)
+DANHEL S. COSTILLAS, 09975070912: Advanced payment of 2 month(s)
+DANNAISY ANNE I. FUMAR, 09070582521: Advanced payment of 1 month(s)
+DANTE M. RAMOS, 09278249665: Advanced payment of 1 month(s)
+DAPROSA PEREZ / Jennie Lyn Perez, 09614643352: Advanced payment of 1 month(s)
+Darlene Belle A. Caballero, 09501530356: Advanced payment of 1 month(s)
+DARRELL LEE SAVAGE, 09540436325: Advanced payment of 1 month(s)
+DAYNA B. GUBALANE, 09126563463: Advanced payment of 1 month(s)
+DEDACE ARSENIO, 09295445813: Advanced payment of 1 month(s)
+DELIA B. ROYERAS, 09462123869: Advanced payment of 1 month(s)
+DELIA C. ASEO, 09461736172: Advanced payment of 1 month(s)
+DENNIS B. SAAVEDRA, 09752862735: Advanced payment of 1 month(s)
+DINDO B. TIMON, 09358347554: Advanced payment of 1 month(s)
+DINDO B. TIMON (2ND ACCOUNT), 09358347554: Advanced payment of 1 month(s)
+DIOSCORA LAO JARABE, 09065895367: Advanced payment of 2 month(s)
+DIOSCORA ROMO, 09161827110: Advanced payment of 1 month(s)
+DIVINA VELEZ, 09354209724: Advanced payment of 1 month(s)
+Dominga Octobre, 09753172760: Advanced payment of 1 month(s)
+DORESA RICA, 09756762952: Advanced payment of 1 month(s)
+DULCE C. NAPALA, 09455521928: Advanced payment of 1 month(s)
+EDA F. SUMANGYAY, 09617330208: Advanced payment of 1 month(s)
+EDGAR ALFRED B. PONCE, 09168583654: Advanced payment of 2 month(s)
+EDGARDO C. OCHAVILLO, 09468032910: Advanced payment of 1 month(s)
+EDISA MANULAT, 09709937129: Advanced payment of 1 month(s)
+EDITHA POLE, 09663495183: Advanced payment of 2 month(s)
+EDITO R. GUILAO JR., 09369811186: Advanced payment of 1 month(s)
+EDIZA LUNA M. ALFAJARDO, 09518313525: Advanced payment of 1 month(s)
+Edmar Patriana Yagong, 09513664565: Advanced payment of 1 month(s)
+EDMER QUIJANO, 09673275387: Advanced payment of 2 month(s)
+EDMOND ROJAS ANAVEZA, 09925332117: Advanced payment of 1 month(s)
+EDNALY D. ANGOLO, 09385610413: Advanced payment of 1 month(s)
+EDUARDO GUBALANE, 09302084140: Advanced payment of 1 month(s)
+Edwina C. Estela, 09351800474: Advanced payment of 1 month(s)
+EFRENIA CANTERO, 09531279519: Advanced payment of 1 month(s)
+ELENA GRAFILON, 09773564158: Advanced payment of 1 month(s)
+ELENA M. EBERO, 09063951750: Advanced payment of 1 month(s)
+ELEZABETH R. MARAPOC, 09268753806: Advanced payment of 1 month(s)
+ELIZABETH MAHINAY, 09363747524: Advanced payment of 1 month(s)
+Ellen Jean Parrilla Nodalo, 09651278989: Advanced payment of 2 month(s)
+Elsie C. Estela, 09639178166: Advanced payment of 2 month(s)
+ELVIRA MONTEHERMOSO, 09058234678: Advanced payment of 1 month(s)
+EMELYN V. FELIPE, 09913316001: Advanced payment of 2 month(s)
+EMETERIA-PIRAMIDE, 09171055274: Advanced payment of 1 month(s)
+EMMAR J. CABILOGAN, 09977487389: Advanced payment of 1 month(s)
+ENRICO L. PAÑA, 09166463305: Advanced payment of 1 month(s)
+ERIC RE BONIEL, 09917897219: Advanced payment of 1 month(s)
+ERIC TAN CAPISTRANO, 09055153274: Advanced payment of 1 month(s)
+ERLINA LABISTE, 09973677580: Advanced payment of 1 month(s)
+ERNESTO BALASABAS JR., 09663542407: Advanced payment of 1 month(s)
+ERWIN M. PEQUIÑO, 09771390894: Advanced payment of 1 month(s)
+ESMERALDA C. TAGANAHAN, 09458533332: Advanced payment of 1 month(s)
+ESTELITA EBERO, 09562367025: Advanced payment of 1 month(s)
+EUGENIO CUASE ACERO, 09457353392: Advanced payment of 1 month(s)
+EUNICE OLACAO, 09157590015: Advanced payment of 2 month(s)
+Evangeline S. Van Keken, 09277257423: Advanced payment of 1 month(s)
+Evelyn Estela Magoncia, 09173271033: Advanced payment of 1 month(s)
+EVELYN G. POLANGCUS, 09398174183: Advanced payment of 1 month(s)
+EVELYN TAPANG, 09983842930: Advanced payment of 1 month(s)
+FATIMA O. LAUDE, 09359336093: Advanced payment of 1 month(s)
+Fatima R. Etang , 09753864973: Advanced payment of 1 month(s)
+Fe Myra C. Galo, 09483202598: Advanced payment of 1 month(s)
+FE SHIRLEY CARMILLE G. TAGBAK, 09955658389: Advanced payment of 1 month(s)
+FELICISIMO NAZARIO, 09484809290: Advanced payment of 1 month(s)
+FERDINAND C. DIEZ, 09178730034: Advanced payment of 1 month(s)
+FERLINA ESTUBO, 09755573813: Advanced payment of 1 month(s)
+FERNANDO LAGMAN, 09513662149: Advanced payment of 1 month(s)
+FEVIE MANTILLA, 09606628648: Advanced payment of 1 month(s)
+First Global Alliance Transport Service Inc., 09088874683: Advanced payment of 1 month(s)
+FLORAMIE N. LABRADOR, 09275106426: Advanced payment of 1 month(s)
+FLORDELIZA G. MANILA, 09357454906: Advanced payment of 1 month(s)
+Florencia Reondo, 09273307056: Advanced payment of 1 month(s)
+FLUOERDELEZ A. DACLAN, 09654926859: Advanced payment of 2 month(s)
+FR. MARLON CUA, 09655562572: Advanced payment of 1 month(s)
+GEMALYN R. CUERVO, 09554717991: Advanced payment of 1 month(s)
+GEMMA MORTA, 09260341251: Advanced payment of 1 month(s)
+GENARO B. LUREÑANA NHS (COM. LAB.), 09190057257: Advanced payment of 1 month(s)
+Genaro B.Lureñana  NHS (Office), 09190057257: Advanced payment of 1 month(s)
+GENREY JESSA POGOSA, 09099048186: Advanced payment of 1 month(s)
+GERALDINE CABARUBIAS, 09928573561: Advanced payment of 1 month(s)
+GERLYN R. MALATAMBAN, 09510326533: Advanced payment of 1 month(s)
+GERRY CROSBY BONITA, 09058502600: Advanced payment of 1 month(s)
+GIL CABANGAL, 09951496058: Advanced payment of 1 month(s)
+GILDA MARIE C. CASTINO, 09706943752: Advanced payment of 2 month(s)
+GLAIZA CHAZEN M. GARAY, 09067119542: Advanced payment of 1 month(s)
+GLENDA PASTOR, 09366588716: Advanced payment of 2 month(s)
+GRACE A. CONOPIO, 09983842427: Advanced payment of 1 month(s)
+Grace Estobañez, 09508203170: Advanced payment of 1 month(s)
+GRACE J. OLAYVAR, 09261596675: Advanced payment of 1 month(s)
+GRACE NUNEZ, 09453374902: Advanced payment of 1 month(s)
+GRACE R. PEÑAFIEL, 09062459164: Advanced payment of 1 month(s)
+GRACE YGAÑA, 09278589811: Advanced payment of 1 month(s)
+Grechie Cortel, 09567145505: Advanced payment of 1 month(s)
+GRESA B. ALMENDRAS, 09263687201: Advanced payment of 1 month(s)
+HAIDE M. VILLASENCIO, 09362771732: Advanced payment of 2 month(s)
+Hannah Joy K. Salomon, 09105382246: Advanced payment of 1 month(s)
+HELEN C. TAGALOG, 09125239333: Advanced payment of 1 month(s)
+ILONAH M. DAMAS, 09380353872: Advanced payment of 1 month(s)
+IMEE CUYOS NEGRITE, 09102652263: Advanced payment of 2 month(s)
+ISAEL BULLO JUEVESANO, 09564017452: Advanced payment of 2 month(s)
+Isagane Mainit, 09486105345: Advanced payment of 1 month(s)
+ISIDRO LUSANTA, 09674025933: Advanced payment of 2 month(s)
+IVIC MAITEM, 09061678256: Advanced payment of 2 month(s)
+IVY G. BAGUIO, 09532209453: Advanced payment of 1 month(s)
+J.A ELEAZAR A. RANQUE, 09667559656: Advanced payment of 2 month(s)
+JACQUELINE GOC-ONG, 09550689769: Advanced payment of 1 month(s)
+JAIME T. ENERO JR., 09659625016: Advanced payment of 1 month(s)
+JAIME VELARDE, 09651338927: Advanced payment of 1 month(s)
+JAIRYL TAGOCTOC ANGUB, 09273383253: Advanced payment of 1 month(s)
+JAKE SINGSON, 09208777293: Advanced payment of 1 month(s)
+JAMES A. CARIÑO, 09659448360: Advanced payment of 1 month(s)
+JAN ANTHONY L. PAREDES, 09773639058: Advanced payment of 1 month(s)
+JANEH T. ACODESIN, 09067564062: Advanced payment of 2 month(s)
+JANET PELIÑO HERTEL, 09056332972: Advanced payment of 1 month(s)
+JANETTE MORALDE CLARUS, 09178781437: Advanced payment of 1 month(s)
+Janice A. Boholst, 09105493803: Advanced payment of 1 month(s)
+JANICE IMAZEKI, 09604062965: Advanced payment of 2 month(s)
+JANICE R. BANAC, 09684568447: Advanced payment of 1 month(s)
+JARREL SINDAY, 09504987222: Advanced payment of 2 month(s)
+Jasper Kooijmans, 09055476353: Advanced payment of 2 month(s)
+JAY LYZANDER C. SEPRADO, 09678250300: Advanced payment of 1 month(s)
+Jay Ryan F. Suico, 09383269276: Advanced payment of 1 month(s)
+JAY-AR BATING, 09975416852: Advanced payment of 1 month(s)
+Jed C.Mabitad C/O HARMONY BEACH, 09178959592: Advanced payment of 1 month(s)
+JEDEL TAYONG, 09063947476: Advanced payment of 1 month(s)
+Jeevee Serenio, 09261991282: Advanced payment of 1 month(s)
+JEHOVAH JIRAH SOMBILON, 09760301484: Advanced payment of 1 month(s)
+JEMAR PANA, 09954714339: Advanced payment of 1 month(s)
+JEMIE C. JIMENEZ, 09396075385: Advanced payment of 1 month(s)
+JENIC P. MORENO, 09355831832: Advanced payment of 1 month(s)
+JENNA MEA MIRIQUILLO, 09751890254: Advanced payment of 2 month(s)
+Jennifer A. Saga, 09513644697: Advanced payment of 2 month(s)
+JEONICE C. AMOSCO, 09260725354: Advanced payment of 1 month(s)
+JERAME HERMOSO, 09558644997: Advanced payment of 1 month(s)
+JERAMEL COSE, 09985503878: Advanced payment of 1 month(s)
+Jerry Imboc, 09693280546: Advanced payment of 1 month(s)
+JESSA OBAOB, 09954346253: Advanced payment of 1 month(s)
+JESSEL L. NODALO, 09924425871: Advanced payment of 2 month(s)
+JESSON O. EBERO, 09067732608: Advanced payment of 1 month(s)
+JEVAN B. COSTORIO, 09513654575: Advanced payment of 1 month(s)
+JHEESHEIL MARAPOC, 09362768682: Advanced payment of 1 month(s)
+Jhunriel P. Gaspar, 09662403659: Advanced payment of 1 month(s)
+JILIEJOY TEVES ANDO, 09558646007: Advanced payment of 1 month(s)
+JIMMLYN S. PALEN, 09062130545: Advanced payment of 1 month(s)
+JIMMY GATO, 09665604616: Advanced payment of 1 month(s)
+JIMMY LOU C. DIVA, 09075058056: Advanced payment of 1 month(s)
+JINGLE MARIE P. IGSOLO, 09855909378: Advanced payment of 1 month(s)
+JOAN ABAYON S., 09855146422: Advanced payment of 1 month(s)
+Joan Alipao Demeterio, 09365147818: Advanced payment of 1 month(s)
+JOCELYN NUÑEZ, 09996816557: Advanced payment of 1 month(s)
+JOCELYN QUIRANTE, 09066203424: Advanced payment of 1 month(s)
+JOCELYN ROSAL/LIBAS ELEMENTARY SCHOOL, 09065794549: Advanced payment of 2 month(s)
+JOELA U. PITOGO, 09918921242: Advanced payment of 1 month(s)
+JOGEN MANOREÑA, 09199852693: Advanced payment of 1 month(s)
+JOHN MARTE, 09363926732: Advanced payment of 1 month(s)
+JOHN PAUL POLE, 09500316811: Advanced payment of 1 month(s)
+JOMAR MAGDADARO, 09058353002: Advanced payment of 1 month(s)
+JOMBOY T. SALVATIERRA, 09678499084: Advanced payment of 2 month(s)
+Jonalyn manuel, 09567932170: Advanced payment of 1 month(s)
+JONATHAN ALCALA, 09124919992: Advanced payment of 1 month(s)
+JONATHAN ALCALA 2, 09124919992: Advanced payment of 1 month(s)
+Jorge C. Miniao jr., 09685497632: Advanced payment of 2 month(s)
+JOSE MANUEL A. DAMAYO, 09300327913: Advanced payment of 1 month(s)
+Josefina m. Salili, 09235114301: Advanced payment of 1 month(s)
+JOSEFINA P. AMISTAD, 09208999772: Advanced payment of 1 month(s)
+JOSELITO K. RODAS, 09176543266: Advanced payment of 2 month(s)
+Joseph Cogay, 09693838766: Advanced payment of 1 month(s)
+JOSEPH SINGSON, 09512683673: Advanced payment of 1 month(s)
+JOSEPHINES IGNACIO, 09263610578: Advanced payment of 1 month(s)
+JOVANIE C. PEREZ/EDERLINA S. GRANADA, 09277043117: Advanced payment of 1 month(s)
+Jovelyn R. Pitogo, 09661356254: Advanced payment of 1 month(s)
+JOVIE M. DOLINO, 09773596708: Advanced payment of 3 month(s)
+JOVY LUCAÑAS TYANNIKOV, 09673277637: Advanced payment of 1 month(s)
+Joy Ebero Masula, 09755782510: Advanced payment of 2 month(s)
+JOY M. GOFF/POBLACION PADRE BURGOS CENTRAL ELEMENTARY SCHOOL, 09473711619: Advanced payment of 1 month(s)
+JOY MAY MACEDA, 09069638205: Advanced payment of 2 month(s)
+JOYLEN ANTONINO, 09554936435: Advanced payment of 1 month(s)
+JOYMEE VILLA, 09703332606: Advanced payment of 1 month(s)
+Jube Elma C. Calatrava, 09177266421: Advanced payment of 2 month(s)
+JUDITH DEMASUHID, 09107116936: Advanced payment of 1 month(s)
+JULIE ANN LOPEZ, 09164824839: Advanced payment of 1 month(s)
+JULIE M. GALDO, 09173237586: Advanced payment of 1 month(s)
+JULITO MONIEZA, 09481703216: Advanced payment of 1 month(s)
+JUNA DENITIA SOROÑO, 09214420728: Advanced payment of 1 month(s)
+JUNGIE A. PEGUERA, 09066882671: Advanced payment of 1 month(s)
+JUNJELEN R. TENEBROSO, 09365803963: Advanced payment of 2 month(s)
+JUSAN E. GAMUSA, 09273102625: Advanced payment of 1 month(s)
+Juvy S. Cayanan, 09709257567: Advanced payment of 1 month(s)
+KAREN CARTAGENA, 09300830990: Advanced payment of 1 month(s)
+KARLO JAMES SEMILLA, 09156565365: Advanced payment of 1 month(s)
+KATHRYN D. ESPINA, 09267020405: Advanced payment of 2 month(s)
+KENNETH LEOVERAS, 09565390118: Advanced payment of 1 month(s)
+KERR GLENJIE T. BONIEL, 09661351130: Advanced payment of 2 month(s)
+KEVIN ROBLE, 09287171227: Advanced payment of 1 month(s)
+KRISTINE JOY MAGSANAY, 09283761628: Advanced payment of 1 month(s)
+KRISTINE L. MAUGHMER, 09433327793: Advanced payment of 2 month(s)
+LAARNIE MECA SAMSON, 09317434716: Advanced payment of 1 month(s)
+LALAINE C. ANTONINO, 09531346499: Advanced payment of 1 month(s)
+LARINA B. VALLEJOS, 09317205394: Advanced payment of 1 month(s)
+LARRAH JANE ESMERO, 09317305097: Advanced payment of 1 month(s)
+LARRY LORENO, 09513692584: Advanced payment of 1 month(s)
+LAURA FIGUEROA, 09213606539: Advanced payment of 1 month(s)
+Laura T. Agapay, 09562659098: Advanced payment of 1 month(s)
+LEADY DARIN B. DUTULLO, 09302081905: Advanced payment of 1 month(s)
+LENITH J. CABISON, 09262584150: Advanced payment of 1 month(s)
+LEONARDO E. RAMELLETE JR., 09991574229: Advanced payment of 2 month(s)
+LEONIDES D. LIPARDO, 09265010661: Advanced payment of 1 month(s)
+LEONIL ELVIRA, 09395006179: Advanced payment of 2 month(s)
+Leonora E. Carigara, 09352455380: Advanced payment of 1 month(s)
+LEZABETH M. CASTAÑARES, 09533506066: Advanced payment of 2 month(s)
+LILEBETH C. LONGAKIT, 09169459050: Advanced payment of 2 month(s)
+LILIA BOHOLST, 09706882064: Advanced payment of 1 month(s)
+LIMUEL P. OMEGA, 09505096082: Advanced payment of 2 month(s)
+LITA D. RANQUE, 09154039113: Advanced payment of 2 month(s)
+Lito B. Labado, 09363345967: Advanced payment of 1 month(s)
+Lolita D. Arabejo, 09972292722: Advanced payment of 1 month(s)
+LOLITA L. LOPEZ, 09204378156: Advanced payment of 1 month(s)
+LORANIEN TAGOLINO, 09772590065: Advanced payment of 1 month(s)
+LORETO A. ROLDAN, 09294925973: Advanced payment of 1 month(s)
+Lorna C. Gabad, 09453053065: Advanced payment of 2 month(s)
+LORNA GECAIN, 09215222070: Advanced payment of 1 month(s)
+LOURDES B. VISBAL, 09083708015: Advanced payment of 2 month(s)
+Lowie A. Arellano, 09452268518: Advanced payment of 1 month(s)
+LUCIA D. SABETE , 09168600544: Advanced payment of 1 month(s)
+Lucilo D. Pepito, 09169125256: Advanced payment of 1 month(s)
+LUDIVINA DOLORES, 09121926185: Advanced payment of 1 month(s)
+LUISITO DIMAIN ALIDO, 09653663393: Advanced payment of 1 month(s)
+Luneta G. Orias, 09939085695: Advanced payment of 1 month(s)
+LUZ HAJHAMDO, 09462228191: Advanced payment of 1 month(s)
+LYDIA A. TANGKAY, 09156507896: Advanced payment of 1 month(s)
+LYDIA C. DIONOSA, 09654928727: Advanced payment of 2 month(s)
+LYDIA GORRE, 09067563276: Advanced payment of 1 month(s)
+Lynette M. Eman, 09164260316: Advanced payment of 1 month(s)
+Ma. Gina M. Kinazo, 09279312508: Advanced payment of 2 month(s)
+MA. JANET C. PAQUETTE, 09461320106: Advanced payment of 1 month(s)
+MA. JULIETA ARCINA, 09061177442: Advanced payment of 1 month(s)
+MA. KRISTHINE MAE BARBA, 09751859836: Advanced payment of 1 month(s)
+MA. LINDA G. QUISADO, 09099525776: Advanced payment of 1 month(s)
+MA. LOLITA L. AERNI, 09063947579: Advanced payment of 1 month(s)
+MA. MEDA MIRAMONTE, 09062926894: Advanced payment of 1 month(s)
+Ma. Veronica Anelina M. Celera, 09120875405: Advanced payment of 1 month(s)
+MACARIO ELEMENTARY SCHOOL, 09193290902: Advanced payment of 2 month(s)
+MACROHON MPS, 09052498269: Advanced payment of 1 month(s)
+MANILYN ORIAS, 09563793128: Advanced payment of 1 month(s)
+MANNY B. MERCOLITA, 09353520322: Advanced payment of 1 month(s)
+Manuel Caturan Jr., 09454251288: Advanced payment of 1 month(s)
+MARGARET ADOLFO, 09462296374: Advanced payment of 1 month(s)
+Margarita Dalton, 09489284550: Advanced payment of 1 month(s)
+MARGEN ELEMENTARY SCHOOL, 09753907152: Advanced payment of 1 month(s)
+MARGEN NATIONAL HIGH SCHOOL, 09979565029: Advanced payment of 1 month(s)
+MARGIE BIALAO LIMBING, 09351256530: Advanced payment of 2 month(s)
+MARIA ARLEEN MADRONO/JESUS RANARA, 09082917371: Advanced payment of 1 month(s)
+MARIA CHARITO O L. TODAVIA, 09062612012: Advanced payment of 2 month(s)
+MARIA CORAZON RABE, 09509217458: Advanced payment of 1 month(s)
+Maria Cristina Parrilla, 09380383094: Advanced payment of 1 month(s)
+MARIA CRISTINA RAMOS, 09107631738: Advanced payment of 1 month(s)
+MARIA EVSLYN C. GABRIEL, 09265225149: Advanced payment of 2 month(s)
+Maria Fe Crispina B. Poblete, 09173146178: Advanced payment of 1 month(s)
+MARIA FE CRISPINA B. POBLETE 2ND ACC, 09173146178: Advanced payment of 2 month(s)
+MARIA LIZA P. MIRARAN, 09277524320: Advanced payment of 1 month(s)
+MARIA LOINA TRIGOSA, 09157626353: Advanced payment of 1 month(s)
+MARIA MONESSA JIMENEZ, 09771105757: Advanced payment of 1 month(s)
+MARIA NENITA PULVERA, 09305901186: Advanced payment of 1 month(s)
+MARIA SHERLITA QUIRINO ABARILLA, 09503655732: Advanced payment of 2 month(s)
+MARIA TERESA R.MULLER, 09554207166: Advanced payment of 2 month(s)
+Maria Teresita B. Luyao, 09762871556: Advanced payment of 1 month(s)
+Marianita A. Gabas, 09083748794: Advanced payment of 1 month(s)
+Maribel I. Asuncion, 09776024519: Advanced payment of 1 month(s)
+MARIBEL S. MANTE, 09482982629: Advanced payment of 2 month(s)
+MARICAR C. CASINILLO, 09506516668: Advanced payment of 1 month(s)
+Marichu Dalugdugan, 09063528986: Advanced payment of 1 month(s)
+MARICRIS LEOBERAS GARRIDO, 09927838478: Advanced payment of 1 month(s)
+MARICRIS SOLAMO, 09064204037: Advanced payment of 1 month(s)
+MARICRIS T. BARQUEZ, 09532455449: Advanced payment of 2 month(s)
+MARIE MAE F. BERNALDEZ, 09666536480: Advanced payment of 1 month(s)
+MARIEL M. MURILLO, 09064320897: Advanced payment of 1 month(s)
+MARIEL PALABON, 09262911029: Advanced payment of 2 month(s)
+MARIFE A. HERDA, 09380353870: Advanced payment of 1 month(s)
+MARIFE ACEBUCHE, 09474547943: Advanced payment of 1 month(s)
+MARILOU A. CASTELLANO, 09518520615: Advanced payment of 2 month(s)
+Marilyn Espinosa, 09639818162: Advanced payment of 1 month(s)
+MARINA PERFECTUA, 09058285649: Advanced payment of 2 month(s)
+MARIO A. DACILLO, 09951489609: Advanced payment of 1 month(s)
+MARIO M. LAGUNA, 09950022206: Advanced payment of 1 month(s)
+MARIO PAJARON JR, 09854538739: Advanced payment of 1 month(s)
+MARIS A. BERMUDEZ, 09532453899: Advanced payment of 1 month(s)
+MARISSA M. MOAÑA, 09054442917: Advanced payment of 1 month(s)
+MARK DOMINIC MONSANTO, 09267224775: Advanced payment of 1 month(s)
+MARK GEL MARAPOC, 09391011320: Advanced payment of 1 month(s)
+MARK JOY PIRAMIDE, 09192201963: Advanced payment of 1 month(s)
+MARK LORENZ AREÑA, 09967148843: Advanced payment of 1 month(s)
+MARLON FRANCIS SABINO, 09365344799: Advanced payment of 1 month(s)
+MARLON O. ESTELA, 09398829336: Advanced payment of 1 month(s)
+MARVIN JAPSON, 09173264103: Advanced payment of 1 month(s)
+MARY APPLE P. REPONTE, 09218686052: Advanced payment of 1 month(s)
+MARY CRIS A. DIVA, 09756509815: Advanced payment of 1 month(s)
+MARY JEAN L. TANGUAL, 09207464966: Advanced payment of 1 month(s)
+MARY JEAN MIRA, 09175701435: Advanced payment of 1 month(s)
+MARY JEAN YANGSON, 09922295830: Advanced payment of 1 month(s)
+MARYJANE HERNANE, 09467129572: Advanced payment of 1 month(s)
+MARYJEAN SANTIAÑEZ, 09532451352: Advanced payment of 1 month(s)
+MAXIMO COLONIA, 09325939107: Advanced payment of 1 month(s)
+MAYETH R. PLASQUITA, 09362428805: Advanced payment of 2 month(s)
+MAYETH R. PLASQUITA 2, 09362428805: Advanced payment of 2 month(s)
+MECEL ALVARES, 09951564570: Advanced payment of 1 month(s)
+MELAGROS VILLASENCIO, 09674025988: Advanced payment of 1 month(s)
+MELANIE M. ORBETA, 09152087894: Advanced payment of 1 month(s)
+Melba M. Lutero, 09977735437: Advanced payment of 1 month(s)
+MELINDA B. MANTILLA, 09924954255: Advanced payment of 1 month(s)
+MERCEDITA A. BONGO, 09158841613: Advanced payment of 1 month(s)
+MERCI GRACE R. FERNANDEZ, 09065338805: Advanced payment of 1 month(s)
+MERLE MANATAD, 09392549494: Advanced payment of 1 month(s)
+MERLIE D. ALIGWAY, 09306028185: Advanced payment of 1 month(s)
+MERLINDA P. MARTINEZ, 09564355438: Advanced payment of 2 month(s)
+MERYJEC C. VERZOSA, 09195694579: Advanced payment of 1 month(s)
+MICHEL IMPAS/MONTEBELLO CENTRAL ELEM SCHOOL, 09774082284: Advanced payment of 2 month(s)
+MICHELLE LANUTAN, 09556136075: Advanced payment of 1 month(s)
+MILDRED ELACRE, 09363932282: Advanced payment of 1 month(s)
+MITZI LUCABAN, 09156500794: Advanced payment of 1 month(s)
+MITZIL FLORES, 09078266278: Advanced payment of 1 month(s)
+MONICA EGAY, 09666517593: Advanced payment of 2 month(s)
+Monroe Magdadaro, 09284918181: Advanced payment of 1 month(s)
+MYLES ADRIAN J. SABANDAL, 09655409311: Advanced payment of 3 month(s)
+MYNIE M. PAYUD, 09164535364: Advanced payment of 1 month(s)
+NADINE KRISTENE MABIYA, 09981817203: Advanced payment of 1 month(s)
+NANCY T. MARAON, 09165775304: Advanced payment of 1 month(s)
+NANCY T. MARAON 2 / PADRE BURGOS DISTRICT, 09165775304: Advanced payment of 2 month(s)
+NATIVIDAD C. GUINIPA.AN, 09814538787: Advanced payment of 1 month(s)
+NECO CANTILA, 09279627535: Advanced payment of 1 month(s)
+NELSON R. DELGADO, 09755316067: Advanced payment of 1 month(s)
+NELVIE ALCOBER, 09156500772: Advanced payment of 1 month(s)
+NENITO ANONAT, 09369541988: Advanced payment of 1 month(s)
+NESTOR D. FLORES, 09058346768: Advanced payment of 1 month(s)
+NEW BARRACKS MAASIN, 09853014204: Advanced payment of 2 month(s)
+NICANOR G. BENDIJO JR., 09658371583: Advanced payment of 1 month(s)
+NICOLAS D. BERNALES JR., 09690678323: Advanced payment of 1 month(s)
+NICOLE FAITH LAURENTE, 09161182658: Advanced payment of 1 month(s)
+NICSON GLEN MATURAN, 09686361254: Advanced payment of 1 month(s)
+NIEVES TUBO, 09653343801: Advanced payment of 2 month(s)
+Nimfa B. Tiempo, 09171286442: Advanced payment of 1 month(s)
+NOEL S. COMINGKING, 09561446720: Advanced payment of 1 month(s)
+NORALYN ABELA, 09518511009: Advanced payment of 1 month(s)
+NORBERTO CUTA TAMBIS III, 09518212665: Advanced payment of 2 month(s)
+NORLYN A. BAMBAO, 09155734997: Advanced payment of 1 month(s)
+ODON TOYONG, 09533506210: Advanced payment of 2 month(s)
+OFELIA ENSOY, 09709941944: Advanced payment of 1 month(s)
+ORDANILO OCENAR, 09263682752: Advanced payment of 1 month(s)
+Orlando C. Angub, 09977117598: Advanced payment of 2 month(s)
+OSCAR D. YBANEZ, 09165060306: Advanced payment of 1 month(s)
+PAMELA P. ORITO, 09072128823: Advanced payment of 1 month(s)
+PAULINA DUMAGUIT, 09677015301: Advanced payment of 1 month(s)
+PEDELITA P. PATONOG, 09274093443: Advanced payment of 1 month(s)
+PEDRITO F. RIVERA, JR., 09260460728: Advanced payment of 1 month(s)
+Peregrina M. Solana, 09164281351: Advanced payment of 1 month(s)
+PERLA TAN, 09952749621: Advanced payment of 1 month(s)
+Peter Louis Johnson, 09668893363: Advanced payment of 1 month(s)
+PETERS DIVE RESORT, 09177910993: Advanced payment of 1 month(s)
+PRECY MAE B. VALERIO, 09677506135: Advanced payment of 1 month(s)
+PRIMARIO C. POZON, 09273518242: Advanced payment of 1 month(s)
+Princess Zyrah Tero, 09466747436: Advanced payment of 1 month(s)
+RACEL SABANDAL, 09654571424: Advanced payment of 1 month(s)
+Rachelle M. Tillo, 09261971165: Advanced payment of 2 month(s)
+Racque E. Ferer, 09757345927: Advanced payment of 1 month(s)
+RAFAEL PINAT, 09173249309: Advanced payment of 1 month(s)
+RAMIL RYAN T. TORREFIEL, 09751387731: Advanced payment of 1 month(s)
+RAMON CINCO JR, 09977189575: Advanced payment of 1 month(s)
+RAN-RAN S. BAQUERO, 09382137965: Advanced payment of 1 month(s)
+RANDY G. BALTONADO, 09073454505: Advanced payment of 1 month(s)
+RANULFO M. CUSTODIO, JR., 09993641783: Advanced payment of 1 month(s)
+RAQUEL MANDRAS, 09099610201: Advanced payment of 1 month(s)
+Rayline T. Cahapay, 09509415844: Advanced payment of 1 month(s)
+RAYMOND ESPANTE, 09771105503: Advanced payment of 1 month(s)
+Raymond O. Garces, 09051683537: Advanced payment of 1 month(s)
+Raymund Balondra, 09566066332: Advanced payment of 1 month(s)
+REAGAN S. DEGILLO, 09985103543: Advanced payment of 2 month(s)
+REBECCA SIABOC, 09991941942: Advanced payment of 1 month(s)
+Rechell C. Pagangpang, 09551367306: Advanced payment of 1 month(s)
+RECHELL PAGANGPANG 2ND ACC, 09551367306: Advanced payment of 2 month(s)
+Redentor C. Navarro Jr., 09062393374: Advanced payment of 1 month(s)
+REDENTOR N. CODILLA SR., 09277135669: Advanced payment of 1 month(s)
+REMEDIOS M. CABEROS, 09068517182: Advanced payment of 1 month(s)
+RENATO CASTAÑARES, 09157835869: Advanced payment of 2 month(s)
+RENATO T. VELASQUEZ, 09551059894: Advanced payment of 1 month(s)
+RESTITUTO C. VELIGANIO, 09561549760: Advanced payment of 2 month(s)
+Rex G. Miras, 09675048818: Advanced payment of 1 month(s)
+Rey M. Espejo Jr., 09977744443: Advanced payment of 2 month(s)
+REYNA CORDEÑO, 09102649656: Advanced payment of 1 month(s)
+REYNETH MARIE L. OLAVIDEZ, 09265355008: Advanced payment of 1 month(s)
+RHAMSHIE COLITANA, 09085206674: Advanced payment of 1 month(s)
+Rhoda Pañares, 09100396848: Advanced payment of 1 month(s)
+RICARDO CABRERA, 09363916681: Advanced payment of 1 month(s)
+RICARDO CANTERO, 09122531442: Advanced payment of 1 month(s)
+RICHARD CASTRO, 09306738483: Advanced payment of 1 month(s)
+RICHARD DEEN L. POGOY, 09062036402: Advanced payment of 1 month(s)
+RICO ORGE, 09515112997: Advanced payment of 1 month(s)
+RIKY N. BALCO, 09102647555: Advanced payment of 1 month(s)
+RISTY V. OCTOBRE, 09679166820: Advanced payment of 2 month(s)
+RITCHE N.SINGSON, 09919404700: Advanced payment of 1 month(s)
+RITCHEL M. CASOY, 09261736631: Advanced payment of 1 month(s)
+RITCHEL PALAMOS, 09260721030: Advanced payment of 1 month(s)
+Rito j. Maitem, 09638753368: Advanced payment of 1 month(s)
+Riva A. Hibrada, 09161657217: Advanced payment of 1 month(s)
+ROBERT AMITH, 09988634506: Advanced payment of 1 month(s)
+ROBERTO I. CAMACHO, 09561177115: Advanced payment of 1 month(s)
+ROBIN BELTRAN, 09192718676: Advanced payment of 1 month(s)
+ROBINSON PELIGRO, 09469224082: Advanced payment of 1 month(s)
+Rodel Yu Ramas (2nd account), 09214838683: Advanced payment of 2 month(s)
+RODNEY L. PAÑA, 09567423063: Advanced payment of 1 month(s)
+RODNEY QUIRANTE, 09561327396: Advanced payment of 1 month(s)
+RODOLFO OMANITO, 09367962853: Advanced payment of 1 month(s)
+Rodulfo L. Rafael , 09668967692: Advanced payment of 1 month(s)
+ROEL W. OLIVERIO, 09267922118: Advanced payment of 1 month(s)
+ROGELIO MAGLASANG, 09950729032: Advanced payment of 1 month(s)
+ROGELIO RODRIGUEZ, 09308875493: Advanced payment of 1 month(s)
+ROGER OLILA, 09510450128: Advanced payment of 1 month(s)
+ROGER PLUMAS, 09975417399: Advanced payment of 1 month(s)
+ROLANDO T. POSADAS, 09666536418: Advanced payment of 1 month(s)
+Rolando Villasencio, 09457438727: Advanced payment of 1 month(s)
+ROLANDO VILLASENCIO (Macatol), 09063204492: Advanced payment of 4 month(s)
+Rollin Jude T. Manaug, 09172711991: Advanced payment of 1 month(s)
+ROLLY S. CASENILLO, 09564417180: Advanced payment of 1 month(s)
+ROMELYN TOLO, 09319701445: Advanced payment of 1 month(s)
+Romeo B. Saavedra, 09278902554: Advanced payment of 1 month(s)
+ROMILYN JUPIA, 09072205036: Advanced payment of 1 month(s)
+Ronald M.Estampa, 09261863018: Advanced payment of 1 month(s)
+Ronalie Pumar, 09063952749: Advanced payment of 1 month(s)
+ROQUE MAZAREDO, 09157442704: Advanced payment of 1 month(s)
+ROSALIA C.BORNIE, 09151702230: Advanced payment of 2 month(s)
+ROSALIA MARTINITO ALCARAZ, 09085835236: Advanced payment of 1 month(s)
+ROSALINDA MASONG, 09069501219: Advanced payment of 1 month(s)
+ROSARIO BATING, 09777133809: Advanced payment of 1 month(s)
+ROSARIO MAGLINTE, 09178785066: Advanced payment of 2 month(s)
+ROSE ANN PALERO, 09952820640: Advanced payment of 2 month(s)
+Roselyn A. Dacal, 09508670766: Advanced payment of 1 month(s)
+ROSELYN CAPUCAO, 09065499241: Advanced payment of 1 month(s)
+ROSEMARIE B. SOLEJON, 09759755882: Advanced payment of 1 month(s)
+Rosemarie Jean Pernito Torrejos, 09677521300: Advanced payment of 1 month(s)
+ROSEMARIE Y. MENDEZ, 09532696161: Advanced payment of 1 month(s)
+ROWELL GICA, 09501321713: Advanced payment of 1 month(s)
+ROXAN FLORENTINO, 09451000234: Advanced payment of 1 month(s)
+ROY PERNITO, 09162354767: Advanced payment of 1 month(s)
+RUBEN FLORES, 09178566483: Advanced payment of 1 month(s)
+RUBY ABINGUNA, 09639605194: Advanced payment of 1 month(s)
+RUEL DELA CRUZ, 09267150637: Advanced payment of 1 month(s)
+RUNETH ANN SOLANO, 09915492193: Advanced payment of 1 month(s)
+RUSSEL C. GUBALANI, 09384444890: Advanced payment of 2 month(s)
+RUSTICO CAPAHI SR. MEMORIAL NHS, 09688539851: Advanced payment of 1 month(s)
+RYAN ALLISTAIRE J. BERAY, 09927826399: Advanced payment of 1 month(s)
+RYAN BINOYA, 09663021840: Advanced payment of 1 month(s)
+RYAN GONZAGA, 09972482114: Advanced payment of 1 month(s)
+RYAN LAPLANA DIOLA, 09451103419: Advanced payment of 1 month(s)
+SALVE M. RELENTE, 09977181167: Advanced payment of 1 month(s)
+SAMUEL B. DEGELLO, 09661430758: Advanced payment of 1 month(s)
+SAMUEL L. MIAGA 2, 09069323502: Advanced payment of 1 month(s)
+SAN JUAN ELEM. SCHOOL, 09273209794: Advanced payment of 1 month(s)
+SAN JUAN ELEMENTARY SCHOOL, 09706943752: Advanced payment of 2 month(s)
+SAN VICENTE ELEM. SCHOOL, 09952739313: Advanced payment of 1 month(s)
+SANDY CABALSE, 09209385186: Advanced payment of 3 month(s)
+SANITO BASAN JR., 09565513400: Advanced payment of 1 month(s)
+SANREA C. BASTATAS, 09973276648: Advanced payment of 1 month(s)
+Sara Jane Costorio, 09154768593: Advanced payment of 1 month(s)
+Sarrah Claire Ranque, 09260436131: Advanced payment of 1 month(s)
+SATURNINO LABATOS JR., 09064863008: Advanced payment of 1 month(s)
+SHERYL L. PALERO, 09176862080: Advanced payment of 1 month(s)
+SHIELA ARO, 09195999294: Advanced payment of 1 month(s)
+SHIELA ORZALES, 09773721402: Advanced payment of 1 month(s)
+SHIELA P. LAGRAMA, 09924955012: Advanced payment of 2 month(s)
+SHIRLEY A. VITAL/ROLEX OMOT, 09753926263: Advanced payment of 1 month(s)
+SOGOD BAY SCUBA RESORT, INC., 09155207274: Advanced payment of 1 month(s)
+Sonia Maria Goc-ong, 09465179702: Advanced payment of 1 month(s)
+SONNY BOLANIO, 09513688640: Advanced payment of 1 month(s)
+SONNYMON A. SOBREVILLA, 09709260487: Advanced payment of 1 month(s)
+STAR GAS/MANUEL C SALINAS, 09167670334: Advanced payment of 1 month(s)
+STELLA MARIE T. CAGULADA, 09163002878: Advanced payment of 1 month(s)
+SUSANA B. CALVARIO, 09059723047: Advanced payment of 1 month(s)
+TABGAS ELEM. SCHOOL, 09753901218: Advanced payment of 2 month(s)
+TEODORA B.PEPITO, 09187369947: Advanced payment of 1 month(s)
+TEODORO BADION, 09212130741: Advanced payment of 1 month(s)
+TERISITA C. TURNER, 09774651536: Advanced payment of 1 month(s)
+THYAM T. FOOKSON, 09177937155: Advanced payment of 1 month(s)
+TIMOTEO A. DIASALO, 09502778659: Advanced payment of 1 month(s)
+Titus Rodulfo D. Palermo, 09618866083: Advanced payment of 1 month(s)
+TITUS RODULFO D. PALERMO LL, 09618866083: Advanced payment of 1 month(s)
+Torben Christiansen, 09167992310: Advanced payment of 1 month(s)
+VENUS D. SIMANGCA, 09054356857: Advanced payment of 2 month(s)
+VERNA CABUDOL, 09670126977: Advanced payment of 1 month(s)
+VICTORIA DEBIL, 09054163439: Advanced payment of 1 month(s)
+Victoriano Mibulos, 09364548746: Advanced payment of 1 month(s)
+VINCENT B. MILO, 09651335090: Advanced payment of 2 month(s)
+VINZ KEVIN CAÑON, 09120496502: Advanced payment of 1 month(s)
+VIVIAN B. JABALLA, 09179647831: Advanced payment of 1 month(s)
+WB WATER REFILLING STATION / JENNY ANN SALINAS, 09167670334: Advanced payment of 1 month(s)
+Wealtha A. Jabonero, 09308966039: Advanced payment of 2 month(s)
+WENCESLAO M. QUIROS, 09563600008: Advanced payment of 1 month(s)
+WILFREDA E. TAGBAK, 09676004795: Advanced payment of 1 month(s)
+WILLIAM C. CALALO, 09695080018: Advanced payment of 1 month(s)
+WILMA M. ESTRERA, 09454330136: Advanced payment of 1 month(s)
+Wilma M. Samarez, 09072930563: Advanced payment of 1 month(s)
+WILMAR BACALSO, 09066093706: Advanced payment of 1 month(s)
+WILSON GULAYAN, 09496449381: Advanced payment of 1 month(s)
+YNIER GULFO ENERO, 09164276409: Advanced payment of 1 month(s)
+YOLANDA N. SIAO, 09566533592: Advanced payment of 1 month(s)
+ZENY E. GALO, 09106035120: Advanced payment of 1 month(s)
+ZIMBO A. CASTRODES, 09388385288: Advanced payment of 1 month(s)
+ZOSIMA SOLIVA, 09464781530: Advanced payment of 2 month(s)
+ZURIEL MARLX TIEMPO, 09981662357: Advanced payment of 2 month(s)
+
+[Rejected Records]:
+EDA M. DECASTRO, 0995063034: Invalid Contact Number
+ELIZABETH BUCOG, 0926899546: Invalid Contact Number
+Felix Michael Tan, 0968891588: Invalid Contact Number
+JIG CASTILLO, +6391615726: Invalid Contact Number
+LARRY ABUEVA, NHA,MARGEN,: Invalid Contact Number
+LILIA B. BATUCAN, 0946687539: Invalid Contact Number
+Maria Analou M. Estella, 0968891588: Invalid Contact Number
+MARIETA C. COTO, 0946665641: Invalid Contact Number
+May Ann P. Tanio, 0998984324: Invalid Contact Number
+Selina cruda, Purok Balim: Invalid Contact Number
+
+
+

@@ -1,0 +1,257 @@
+Location : Benit (Brgy. Benit, Malitbog, Southern Leyte)
+Message : ADVISORY #1  (10/12/2023 1:00PM):
+Good day, Dear QLT subscriber! There will be upcoming maintenance activity or service interruption in your area today.
+Sent By : Melanie Sampaton (Account Officer)
+
+
+[Error Records]:
+[Error Message][15:26:08] : Error: API failed to connect to socket. Host: 10.47.53.1, port: 8728.
+
+
+
+Location : Benit (Brgy. Benit, Malitbog, Southern Leyte)
+Message : Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you
+Sent By : Melanie Sampaton (Account Officer)
+
+[Success][15:43:25] : ['09684565203: CHERLITA L. IGCAS', '09552508368: ERNAN LAPRESA', '09606628211: ESTER GONO']
+   [Fail][15:43:32] : ['09617702246: EVANGELINE VILLASIN', '09497611246: GLADYS ATANOZA', '09195062261: LIZA SIERVO ITCHON']
+   [Fail][15:43:37] : ['09178788124: LORNA CAHAYAG', '09263166331: MARIA LINDA JAYMA', '09540749262: MARICAR ODIAZ BORBONGA']
+   [Fail][15:43:42] : ['09382141976: NELSON B. CAHAYAG-RENAME FROM JULIBERT BATINO', '09472042070: NESTOR LAPLANA', '09281884680: PANFILO B. RESPECIA #2']
+   [Fail][15:43:47] : ['09603560796: ROLANDO CAHUCOM', '09510342587: SILVIA CAHAYAG', '09617702246: EVANGELINE VILLASIN']
+   [Fail][15:43:52] : ['09497611246: GLADYS ATANOZA', '09195062261: LIZA SIERVO ITCHON', '09178788124: LORNA CAHAYAG']
+   [Fail][15:43:57] : ['09263166331: MARIA LINDA JAYMA', '09540749262: MARICAR ODIAZ BORBONGA', '09382141976: NELSON B. CAHAYAG-RENAME FROM JULIBERT BATINO']
+   [Fail][15:44:02] : ['09472042070: NESTOR LAPLANA', '09281884680: PANFILO B. RESPECIA #2', '09603560796: ROLANDO CAHUCOM']
+   [Fail][15:44:07] : ['09510342587: SILVIA CAHAYAG', '09617702246: EVANGELINE VILLASIN', '09497611246: GLADYS ATANOZA']
+   [Fail][15:44:12] : ['09195062261: LIZA SIERVO ITCHON', '09178788124: LORNA CAHAYAG', '09263166331: MARIA LINDA JAYMA']
+   [Fail][15:44:17] : ['09540749262: MARICAR ODIAZ BORBONGA', '09382141976: NELSON B. CAHAYAG-RENAME FROM JULIBERT BATINO', '09472042070: NESTOR LAPLANA']
+   [Fail][15:44:22] : ['09281884680: PANFILO B. RESPECIA #2', '09603560796: ROLANDO CAHUCOM', '09510342587: SILVIA CAHAYAG']
+   [Fail][15:44:27] : ['09617702246: EVANGELINE VILLASIN', '09497611246: GLADYS ATANOZA', '09195062261: LIZA SIERVO ITCHON']
+   [Fail][15:44:32] : ['09178788124: LORNA CAHAYAG', '09263166331: MARIA LINDA JAYMA', '09540749262: MARICAR ODIAZ BORBONGA']
+   [Fail][15:44:37] : ['09382141976: NELSON B. CAHAYAG-RENAME FROM JULIBERT BATINO', '09472042070: NESTOR LAPLANA', '09281884680: PANFILO B. RESPECIA #2']
+   [Fail][15:44:42] : ['09603560796: ROLANDO CAHUCOM', '09510342587: SILVIA CAHAYAG', '09617702246: EVANGELINE VILLASIN']
+   [Fail][15:44:47] : ['09497611246: GLADYS ATANOZA', '09195062261: LIZA SIERVO ITCHON', '09178788124: LORNA CAHAYAG']
+   [Fail][15:44:52] : ['09263166331: MARIA LINDA JAYMA', '09540749262: MARICAR ODIAZ BORBONGA', '09382141976: NELSON B. CAHAYAG-RENAME FROM JULIBERT BATINO']
+   [Fail][15:44:57] : ['09472042070: NESTOR LAPLANA', '09281884680: PANFILO B. RESPECIA #2', '09603560796: ROLANDO CAHUCOM']
+   [Fail][15:45:02] : ['09510342587: SILVIA CAHAYAG', '09617702246: EVANGELINE VILLASIN', '09497611246: GLADYS ATANOZA']
+   [Fail][15:45:07] : ['09195062261: LIZA SIERVO ITCHON', '09178788124: LORNA CAHAYAG', '09263166331: MARIA LINDA JAYMA']
+   [Fail][15:45:12] : ['09540749262: MARICAR ODIAZ BORBONGA', '09382141976: NELSON B. CAHAYAG-RENAME FROM JULIBERT BATINO', '09472042070: NESTOR LAPLANA']
+   [Fail][15:45:18] : ['09281884680: PANFILO B. RESPECIA #2', '09603560796: ROLANDO CAHUCOM', '09510342587: SILVIA CAHAYAG']
+   [Fail][15:45:23] : ['09617702246: EVANGELINE VILLASIN', '09497611246: GLADYS ATANOZA', '09195062261: LIZA SIERVO ITCHON']
+   [Fail][15:45:28] : ['09178788124: LORNA CAHAYAG', '09263166331: MARIA LINDA JAYMA', '09540749262: MARICAR ODIAZ BORBONGA']
+   [Fail][15:45:33] : ['09382141976: NELSON B. CAHAYAG-RENAME FROM JULIBERT BATINO', '09472042070: NESTOR LAPLANA', '09281884680: PANFILO B. RESPECIA #2']
+   [Fail][15:45:38] : ['09603560796: ROLANDO CAHUCOM', '09510342587: SILVIA CAHAYAG', '09617702246: EVANGELINE VILLASIN']
+   [Fail][15:45:43] : ['09497611246: GLADYS ATANOZA', '09195062261: LIZA SIERVO ITCHON', '09178788124: LORNA CAHAYAG']
+   [Fail][15:45:48] : ['09263166331: MARIA LINDA JAYMA', '09540749262: MARICAR ODIAZ BORBONGA', '09382141976: NELSON B. CAHAYAG-RENAME FROM JULIBERT BATINO']
+   [Fail][15:45:53] : ['09472042070: NESTOR LAPLANA', '09281884680: PANFILO B. RESPECIA #2', '09603560796: ROLANDO CAHUCOM']
+   [Fail][15:45:58] : ['09510342587: SILVIA CAHAYAG', '09617702246: EVANGELINE VILLASIN', '09497611246: GLADYS ATANOZA']
+   [Fail][15:46:03] : ['09195062261: LIZA SIERVO ITCHON', '09178788124: LORNA CAHAYAG', '09263166331: MARIA LINDA JAYMA']
+   [Fail][15:46:08] : ['09540749262: MARICAR ODIAZ BORBONGA', '09382141976: NELSON B. CAHAYAG-RENAME FROM JULIBERT BATINO', '09472042070: NESTOR LAPLANA']
+   [Fail][15:46:13] : ['09281884680: PANFILO B. RESPECIA #2', '09603560796: ROLANDO CAHUCOM', '09510342587: SILVIA CAHAYAG']
+   [Fail][15:46:18] : ['09617702246: EVANGELINE VILLASIN', '09497611246: GLADYS ATANOZA', '09195062261: LIZA SIERVO ITCHON']
+   [Fail][15:46:23] : ['09178788124: LORNA CAHAYAG', '09263166331: MARIA LINDA JAYMA', '09540749262: MARICAR ODIAZ BORBONGA']
+   [Fail][15:46:32] : ['09382141976: NELSON B. CAHAYAG-RENAME FROM JULIBERT BATINO', '09472042070: NESTOR LAPLANA', '09281884680: PANFILO B. RESPECIA #2']
+[Success][15:46:39] : ['09603560796: ROLANDO CAHUCOM', '09510342587: SILVIA CAHAYAG', '09617702246: EVANGELINE VILLASIN']
+[Success][15:46:45] : ['09497611246: GLADYS ATANOZA', '09195062261: LIZA SIERVO ITCHON', '09178788124: LORNA CAHAYAG']
+[Success][15:46:51] : ['09263166331: MARIA LINDA JAYMA', '09540749262: MARICAR ODIAZ BORBONGA', '09382141976: NELSON B. CAHAYAG-RENAME FROM JULIBERT BATINO']
+[Success][15:46:57] : ['09472042070: NESTOR LAPLANA', '09281884680: PANFILO B. RESPECIA #2']
+
+[Rejected Records]:
+LORENA M. HILL, 091621451495: Invalid Contact Number
+
+[Error Records]:
+[Error Message][15:43:32] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09617702246', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:43:37] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09178788124', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:43:42] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09382141976', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:43:47] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09603560796', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:43:52] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09497611246', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:43:57] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09263166331', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:44:02] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09472042070', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:44:07] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09510342587', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:44:12] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09195062261', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:44:17] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09540749262', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:44:22] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09281884680', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:45:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09382141976', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][15:45:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09603560796', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][15:45:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09497611246', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][15:45:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09263166331', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][15:45:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09472042070', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][15:45:58] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09510342587', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][15:46:03] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09195062261', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+[Error Message][15:46:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09540749262', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+[Error Message][15:46:23] : timed out
+[Error Message][15:46:32] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09382141976', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+
+
+
+Location : Caaga (Brgy. Caaga, Malitbog, Southern Leyte)
+Message : Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you
+Sent By : Melanie Sampaton (Account Officer)
+
+[Success][15:47:39] : ['09631145227: BELINDA ODAR', '09335793275: BEVERLY GARCES', '09513640217: FLORANTE L. QUILING']
+   [Fail][15:47:47] : ['09308918654: JAN SHERRY BALABA #2', '09124858042: JERAMAINE S. BATALLER', '09475195030: JUANITO V. JUSAY']
+   [Fail][15:47:52] : ['09614359483: MACARIO IHALAD # 2', '09122636665: MANUEL LAMBO CORTEL', '09152354396: MARY GRACE MESA']
+   [Fail][15:47:57] : ['09294828217: NASARINA VILLANUEVA', '09617702249: NICHOLE CORAINE SABANDAL', '09631154230: ODELON M. LARGADAS']
+   [Fail][15:48:02] : ['09207143827: RALPH LAURENCE ESPINA', '09308918654: JAN SHERRY BALABA #2', '09124858042: JERAMAINE S. BATALLER']
+   [Fail][15:48:07] : ['09475195030: JUANITO V. JUSAY', '09614359483: MACARIO IHALAD # 2', '09122636665: MANUEL LAMBO CORTEL']
+   [Fail][15:48:12] : ['09152354396: MARY GRACE MESA', '09294828217: NASARINA VILLANUEVA', '09617702249: NICHOLE CORAINE SABANDAL']
+   [Fail][15:48:17] : ['09631154230: ODELON M. LARGADAS', '09207143827: RALPH LAURENCE ESPINA', '09308918654: JAN SHERRY BALABA #2']
+   [Fail][15:48:22] : ['09124858042: JERAMAINE S. BATALLER', '09475195030: JUANITO V. JUSAY', '09614359483: MACARIO IHALAD # 2']
+   [Fail][15:48:27] : ['09122636665: MANUEL LAMBO CORTEL', '09152354396: MARY GRACE MESA', '09294828217: NASARINA VILLANUEVA']
+   [Fail][15:48:32] : ['09617702249: NICHOLE CORAINE SABANDAL', '09631154230: ODELON M. LARGADAS', '09207143827: RALPH LAURENCE ESPINA']
+   [Fail][15:48:37] : ['09308918654: JAN SHERRY BALABA #2', '09124858042: JERAMAINE S. BATALLER', '09475195030: JUANITO V. JUSAY']
+   [Fail][15:48:42] : ['09614359483: MACARIO IHALAD # 2', '09122636665: MANUEL LAMBO CORTEL', '09152354396: MARY GRACE MESA']
+   [Fail][15:48:47] : ['09294828217: NASARINA VILLANUEVA', '09617702249: NICHOLE CORAINE SABANDAL', '09631154230: ODELON M. LARGADAS']
+   [Fail][15:48:52] : ['09207143827: RALPH LAURENCE ESPINA', '09308918654: JAN SHERRY BALABA #2', '09124858042: JERAMAINE S. BATALLER']
+   [Fail][15:48:57] : ['09475195030: JUANITO V. JUSAY', '09614359483: MACARIO IHALAD # 2', '09122636665: MANUEL LAMBO CORTEL']
+   [Fail][15:49:02] : ['09152354396: MARY GRACE MESA', '09294828217: NASARINA VILLANUEVA', '09617702249: NICHOLE CORAINE SABANDAL']
+   [Fail][15:49:07] : ['09631154230: ODELON M. LARGADAS', '09207143827: RALPH LAURENCE ESPINA', '09308918654: JAN SHERRY BALABA #2']
+   [Fail][15:49:13] : ['09124858042: JERAMAINE S. BATALLER', '09475195030: JUANITO V. JUSAY', '09614359483: MACARIO IHALAD # 2']
+   [Fail][15:49:18] : ['09122636665: MANUEL LAMBO CORTEL', '09152354396: MARY GRACE MESA', '09294828217: NASARINA VILLANUEVA']
+   [Fail][15:49:23] : ['09617702249: NICHOLE CORAINE SABANDAL', '09631154230: ODELON M. LARGADAS', '09207143827: RALPH LAURENCE ESPINA']
+   [Fail][15:49:28] : ['09308918654: JAN SHERRY BALABA #2', '09124858042: JERAMAINE S. BATALLER', '09475195030: JUANITO V. JUSAY']
+   [Fail][15:49:33] : ['09614359483: MACARIO IHALAD # 2', '09122636665: MANUEL LAMBO CORTEL', '09152354396: MARY GRACE MESA']
+   [Fail][15:49:38] : ['09294828217: NASARINA VILLANUEVA', '09617702249: NICHOLE CORAINE SABANDAL', '09631154230: ODELON M. LARGADAS']
+   [Fail][15:49:43] : ['09207143827: RALPH LAURENCE ESPINA', '09308918654: JAN SHERRY BALABA #2', '09124858042: JERAMAINE S. BATALLER']
+   [Fail][15:49:48] : ['09475195030: JUANITO V. JUSAY', '09614359483: MACARIO IHALAD # 2', '09122636665: MANUEL LAMBO CORTEL']
+   [Fail][15:49:53] : ['09152354396: MARY GRACE MESA', '09294828217: NASARINA VILLANUEVA', '09617702249: NICHOLE CORAINE SABANDAL']
+   [Fail][15:49:58] : ['09631154230: ODELON M. LARGADAS', '09207143827: RALPH LAURENCE ESPINA', '09308918654: JAN SHERRY BALABA #2']
+   [Fail][15:50:03] : ['09124858042: JERAMAINE S. BATALLER', '09475195030: JUANITO V. JUSAY', '09614359483: MACARIO IHALAD # 2']
+   [Fail][15:50:08] : ['09122636665: MANUEL LAMBO CORTEL', '09152354396: MARY GRACE MESA', '09294828217: NASARINA VILLANUEVA']
+   [Fail][15:50:13] : ['09617702249: NICHOLE CORAINE SABANDAL', '09631154230: ODELON M. LARGADAS', '09207143827: RALPH LAURENCE ESPINA']
+   [Fail][15:50:18] : ['09308918654: JAN SHERRY BALABA #2', '09124858042: JERAMAINE S. BATALLER', '09475195030: JUANITO V. JUSAY']
+   [Fail][15:50:23] : ['09614359483: MACARIO IHALAD # 2', '09122636665: MANUEL LAMBO CORTEL', '09152354396: MARY GRACE MESA']
+   [Fail][15:50:28] : ['09294828217: NASARINA VILLANUEVA', '09617702249: NICHOLE CORAINE SABANDAL', '09631154230: ODELON M. LARGADAS']
+   [Fail][15:50:33] : ['09207143827: RALPH LAURENCE ESPINA', '09308918654: JAN SHERRY BALABA #2', '09124858042: JERAMAINE S. BATALLER']
+[Success][15:50:38] : ['09475195030: JUANITO V. JUSAY', '09614359483: MACARIO IHALAD # 2', '09122636665: MANUEL LAMBO CORTEL']
+[Success][15:50:45] : ['09152354396: MARY GRACE MESA', '09294828217: NASARINA VILLANUEVA', '09617702249: NICHOLE CORAINE SABANDAL']
+[Success][15:50:52] : ['09631154230: ODELON M. LARGADAS', '09207143827: RALPH LAURENCE ESPINA', '09308918654: JAN SHERRY BALABA #2']
+[Success][15:50:59] : ['09124858042: JERAMAINE S. BATALLER']
+
+[Error Records]:
+[Error Message][15:47:47] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09308918654', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:47:52] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09614359483', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:47:57] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09294828217', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:48:02] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09207143827', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:48:07] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09475195030', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:48:12] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09152354396', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:48:17] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09631154230', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:48:22] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09124858042', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:48:27] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09122636665', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:48:32] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09617702249', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][15:49:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09475195030', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][15:49:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09152354396', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][15:49:58] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09631154230', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][15:50:03] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09124858042', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][15:50:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09122636665', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][15:50:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09617702249', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][15:50:18] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09308918654', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+[Error Message][15:50:23] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09614359483', '=message=Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+
+
+
+Location : Timba (Brgy. Timba, Malitbog, Southern Leyte)
+Message : Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you
+Sent By : Melanie Sampaton (Account Officer)
+
+[Success][15:53:25] : ['09706816941: ALBETH MAY M. BERNALES', '09171154288: ANGELO BERINGUEL', '09297877574: ANITO OLAYVAR']
+[Success][15:53:32] : ['09302460879: ANNA LEE P. MONTE DE RAMOS', '09075424084: ARNEL DAGATAN', '09091846849: CAROLINA P. BATIAO']
+[Success][15:53:39] : ['09672102369: CHARLIE FLORES', '09309874819: CHRISTINE JALIPOT #1', '09061644640: EDITO T. FIGURA']
+[Success][15:53:46] : ['09207144004: ERMELINDA A. MIOLE', '09398865119: ERNANITA B. BERINGUEL', '09700895710: FE MERLINDA M. LIBRE']
+[Success][15:53:52] : ['09631169078: FRANCISCO BEJARASCO JR #2', '09500323114: GRETA C. BATIAO', '09169130908: JEAN CELESTY M. BERINGUEL']
+[Success][15:53:59] : ['09128754648: JESIL ZAMORA JUNIO', '09637524533: JINALIN SUMAYA', '09309361846: JOCELYN / REYNALDO MAMADO']
+[Success][15:54:06] : ['09317313779: JOEL ESOREM', '09183842494: LEOLY BERINGUEL', '09076017500: LIEZL BOYBOY']
+[Success][15:54:13] : ['09507945720: LLIXINNE MAE PEPITO', '09105871848: LORAINE B. BALAGON', '09105871848: LORAINE BALAGON-2']
+[Success][15:54:19] : ['09310001779: LORENA B. SERIT', '09602221233: LUCELA B. LAGAHIT', '09501355472: LUCIA ABREU']
+[Success][15:54:26] : ['09352684084: LYSLIE E. LILI', '09319710648: MARIA ODESSA B. MANLIGAS', '09855910176: MARISA INDIC']
+[Success][15:54:33] : ['09485207569: MARY JANE BELOY', '09308655480: MELBA E. BIAG', '09634613620: MICHAEL A. ABINON']
+[Success][15:54:40] : ['09281884680: PANFILO BERINGUEL RESPECIA', '09479175099: RANIEL ABOGADO', '09072165975: REGINA L. PERME']
+[Success][15:54:46] : ['09606628219: RENREN C. MANLIGAS', '09631150889: REYNALDO G. MARAMARA', '09079212831: ROCHEL B. MONTAOS']
+[Success][15:54:53] : ['09389877796: ROSALIA BURDAS', '09501811975: THELMA P. ESTORPE', '09473968917: TIMBA ELEMENTARY SCHOOL']
+[Success][15:55:00] : ['09308676291: VICTORIA BERINGUEL', '09178781736: YOLEA JANE SEVILLA']
+
+
+
+Location : Asuncion (Brgy. Asuncion, Malitbog, Southern Leyte)
+Message : Good day, Dear QLT subscriber! We would like to inform you that we have scheduled server maintenance today in your area. thank you
+Sent By : Melanie Sampaton (Account Officer)
+
+[Success][16:04:31] : ['09108642337: BENIT ELEMENTARY SCHOOL']
+
+
+

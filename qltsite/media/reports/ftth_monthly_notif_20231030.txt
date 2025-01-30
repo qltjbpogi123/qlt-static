@@ -1,0 +1,40 @@
+10/30/2023 - 08:44:27
+FTTH Monthly Notification
+Branch : Queens Link - Baybay
+Message : Hello, as of October 2023, you have # pending monthly bills. Contact us at 09854476003 or on our Facebook page. By Queens Link - Baybay.
+
+[Error Records]:
+[Error Message][08:44:27] : list index out of range
+
+
+
+10/30/2023 - 08:46:32
+FTTH Monthly Notification
+Branch : Queens Link - Sogod
+Message : Hello, as of October 2023, you have # pending monthly bills. Contact us at 09198603662 or on our Facebook page. By Queens Link - Sogod.
+
+[Error Records]:
+[Error Message][08:46:32] : list index out of range
+
+
+
+10/30/2023 - 09:46:04
+FTTH Monthly Notification
+Branch : Queens Link - Baybay
+Message : Hello, as of October 2023, you have # pending monthly bills. Contact us at 09854476003 or on our Facebook page. By Queens Link - Baybay.
+
+[Error Records]:
+[Error Message][09:46:04] : [WinError 10054] An existing connection was forcibly closed by the remote host
+
+
+
+10/30/2023 - 09:47:00
+FTTH Monthly Notification
+Branch : Queens Link - Baybay
+Message : Hello, as of October 2023, you have # pending monthly bills. Contact us at 09854476003 or on our Facebook page. By Queens Link - Baybay.
+
+[Error Records]:
+[Error Message][09:47:00] : list index out of range
+
+
+

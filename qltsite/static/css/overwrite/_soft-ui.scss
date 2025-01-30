@@ -1,0 +1,103 @@
+a {
+    letter-spacing: normal;
+}
+
+.bg-primary,
+.btn-primary {
+    background-color: $bs-primary !important;
+}
+
+.bg-success {
+    background-color: $bs-success !important;
+}
+
+.text-xxs {
+    line-height: 1.25;
+}
+
+.navbar-vertical.navbar-expand-xs .navbar-collapse {
+    height: calc(100vh - 140px);
+}
+
+.card {
+    border-radius: .25rem;
+    .card-body {
+        font-family: inherit !important;
+    }
+}
+
+.btn {
+    border-radius: 0.25rem;
+    letter-spacing: normal;
+    text-transform: none;
+
+    &:hover {
+        &:not(.btn-icon-only) {
+            transform: none;
+            box-shadow: 0 2px 7px 3px rgba(0, 0, 0, .2);
+        }
+    }
+}
+
+.form-control {
+    line-height: 1.5;
+}
+
+.form-check {
+    &:not(.form-switch) {
+        .form-check-input {
+            width: 1.125rem;
+            height: 1.125rem;
+            &[type=checkbox] {
+                border-radius: .25rem;
+                margin-top: .125rem;
+                &:after {
+                    display: flex;
+                    align-items: center;
+                    // margin-top: 1px;
+                    font-size: .5625rem !important;
+                }
+            }
+            
+            &:checked[type=checkbox],
+            &:checked[type=radio] {
+                background: $qlt-purple;
+                background-image: none;
+            }
+            // &:checked[type=checkbox] {
+            //     border-radius: .25rem;
+            // }
+        }
+    }
+    &.form-switch {
+        .form-check-input {
+            &:checked[type=checkbox],
+            &:checked[type=radio] {
+                background: $qlt-purple;
+                background-image: none;
+            }
+        }
+    }
+}
+
+// .form-check:not(.form-switch) .form-check-input[type=checkbox] {
+//     margin-top: .125rem;
+//     &:after {
+//         display: flex;
+//         align-items: center;
+//         // margin-top: 1px;
+//         font-size: .5625rem !important;
+//     }
+// }
+
+// .form-check:not(.form-switch) .form-check-input[type=checkbox]:checked:after {
+//     margin-top: 1px;
+// }
+.form-check:not(.form-switch) .form-check-input[type=radio]:after {
+    width: .5rem;
+    height: .5rem;
+}
+
+.navbar-vertical.navbar-expand-xs .navbar-collapse {
+    height: calc(100vh - 140px);
+}

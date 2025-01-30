@@ -1,0 +1,11 @@
+   /* for the profile pic 
+/* Circle preview styles */
+.cropper-view-box,
+.cropper-face {
+    border-radius: 50% !important; /* Makes the cropping area circular */
+}
+
+/* Modal hidden by default */
+#imageModal {
+    display: none;
+}

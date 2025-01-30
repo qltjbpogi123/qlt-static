@@ -1,0 +1,20 @@
+OLT : Albuera OLT
+Message : Greetings from Queens Link. Internet connection has been restored. kindly Turn Off and On your router.
+Sent By : John Niño  Sios-e (Technical Support)
+
+
+[Error Records]:
+[Error Message][16:43:16] : Error: API failed to connect to socket. Host: 192.168.53.5, port: 8728.
+
+
+
+OLT : Hinaplitan OLT
+Message : Greetings from Queens Link. Internet connection has been restored. kindly Turn Off and On your router.
+Sent By : John Niño  Sios-e (Technical Support)
+
+
+[Error Records]:
+[Error Message][16:43:28] : Error: API failed to connect to socket. Host: 192.168.53.5, port: 8728.
+
+
+

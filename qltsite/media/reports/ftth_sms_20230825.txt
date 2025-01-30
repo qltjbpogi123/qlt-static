@@ -1,0 +1,31 @@
+OLT : Hinaplitan OLT
+Message : Good morning, some may have experience loss of internet connection, this is due to a fiber break in the main line. Our tech is on the way to fix this ASAP.
+Sent By : Edu Mark Vega (Technical Support)
+
+
+[Error Records]:
+[Error Message][10:24:41] : Error: API failed to connect to socket. Host: 10.47.53.1, port: 8728.
+
+
+
+OLT : Hinaplitan OLT
+Message : Good morning, some may have experience loss of internet connection, this is due to a fiber break in the main line. Our tech is on the way to fix this ASAP.
+Sent By : Edu Mark Vega (Technical Support)
+
+
+[Error Records]:
+[Error Message][10:26:43] : Error: API failed to connect to socket. Host: 10.47.53.1, port: 8728.
+
+
+
+OLT : Hinaplitan OLT
+Message : Good morning, some may have experience loss of internet connection, this is due to a fiber break in the main line. Our tech is on the way to fix this ASAP.
+Sent By : Edu Mark Vega (Technical Support)
+
+   [Fail][10:50:19] : ['09926354429: ALECRIS G. MANTILLO', '09854648065: ELMA CHUA', '09650834271: HILAPNITAN BRGY. HALL']
+[Success][10:50:26] : ['09754642037: KEVIN M. RADAM', '09361956522: LORAME M. CORTES', '09269058722: MATEA CAPANGPANGAN']
+[Success][10:50:33] : ['09169078955: MERLYN G. MANTILLO', '09056527916: ROCHE MAE CASTRO', '09926354429: ALECRIS G. MANTILLO']
+[Success][10:50:40] : ['09854648065: ELMA CHUA', '09650834271: HILAPNITAN BRGY. HALL']
+
+
+

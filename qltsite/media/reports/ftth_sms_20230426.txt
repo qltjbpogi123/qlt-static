@@ -1,0 +1,709 @@
+OLT : Maasin OLT
+Message : We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.
+Sent By : Nelio Pono (Technical Supervisor)
+
+[Success][08:50:54] : ['09656245195: ADINA A. TOLIBAS', '09216631592: Adrian Peter T. Mosch', '09264736407: Aileen I. Tagbak']
+[Success][08:51:01] : ['09177954961: ALAN JOSE K. AROY', '09950536157: ALDRIN M. DEMETERIO', '09567857266: AMELIA M. DEMETERIO']
+[Success][08:51:08] : ['09423352281: Ana Flatley', '09659248974: Antonio G.Gloria', '09283758911: Antonio Gaviola']
+[Success][08:51:15] : ['09936258916: ARBIE C. VALLIEJOS', '09551581062: Arfe D. Magallano', '09352336844: Arianne Joy M. Bala']
+[Success][08:51:22] : ['09995715448: Ariel D. Kaindoy', '09176596965: Ariel S. Mosot', '09553217460: ARMELO M. BETONIO']
+[Success][08:51:29] : ['09553217460: ARMELO M. BETONIO -2', '09306964846: Armolina V. Amorin ', '09265534593: ARTHUR P. MONTEDERAMOS']
+[Success][08:51:36] : ['09550922550: ARVIN A. CARAAN', '09475173707: AVELINO G. PIZON', '09665316782: BARANGAY RIZAL']
+[Success][08:51:43] : ['09050223548: BARBIE A. VENTURA', '09925624463: Benjilyn-Tolibas', '09079938434: Brian M. Gilles']
+[Success][08:51:49] : ['09358536507: Cary Mangubat', '09567341324: CATHERINE R. SCHUBERG', '09058554098: CATHY M.TALISIC']
+[Success][08:51:56] : ['09669564688: CESAR IAN C. BORER', '09177911251: CESAR L. SERVACIO JR.', '09195595804: CHARLES L. RAMOS']
+[Success][08:52:03] : ['09770910747: Cherry Ve C. Vasquez ', '09177911251: CHRISTE SERVACIO', '09468471445: Christopher Jahn Paloma']
+[Success][08:52:10] : ['09171008810: COLINA S. MERCADO', '09972440032: Conigondes Taguik', '09278249665: DANTE M. RAMOS']
+[Success][08:52:17] : ['09752862735: DENNIS B. SAAVEDRA', '09551269733: DESIREE PAJO', '09358347554: DINDO B. TIMON']
+[Success][08:52:24] : ['09358347554: DINDO B. TIMON (2ND ACCOUNT)', '09065895367: DIOSCORA LAO JARABE', '09706943344: DOMINGA OCTOBRE']
+[Success][08:52:31] : ['09455521928: DULCE C. NAPALA', '09617330208: EDA F. SUMANGYAY', '09925332117: EDMOND ROJAS ANAVEZA']
+[Success][08:52:38] : ['09351800474: Edwina C. Estela', '09550183665: Elena S. LoLo', '09325845378: Elsie A. Maalat']
+[Success][08:52:44] : ['09639178166: Elsie C. Estela', '09362739895: Elvira B. Guilao', '09171055274: EMETERIA-PIRAMIDE']
+[Success][08:52:51] : ['09277087576: EMMA C. ESTELLA', '09055153274: ERIC TAN CAPISTRANO', '09457353392: EUGENIO CUASE ACERO']
+[Error Message][08:52:58] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09277257423', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:52:58] : ['09277257423: Evangeline S. Van Keken', '09274171829: Fe Arlene J. Mondragon', '09925967212: Fe Ligad Siegmund']
+[Error Message][08:53:03] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09955658389', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:53:03] : ['09955658389: FE SHIRLEY CARMILLE G. TAGBAK', '09971857385: FELIX B. PAGOLONG JR.', '09178730034: FERDINAND C. DIEZ']
+[Error Message][08:53:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09755573813', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:53:08] : ['09755573813: FERLINA ESTUBO', '09176302242: Fernando E. Moralde', '09606628648: FEVIE MANTILLA']
+[Error Message][08:53:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09169143247', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:53:13] : ['09169143247: GARRY GUIANAN', '09532209003: Gemma G.Jarabe', '09260341251: GEMMA MORTA']
+[Error Message][08:53:18] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09267021067', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:53:18] : ['09267021067: Gerhard Lang', '09177740634: GERRY A. MAUREAL', '09177740634: GERRY A. MAUREAL 2']
+[Error Message][08:53:23] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09058502600', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:53:23] : ['09058502600: GERRY CROSBY BONITA', '09067119542: GLAIZA CHAZEN M. GARAY', '09983842737: GRACE M. ECO']
+[Error Message][08:53:28] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09452996407', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:53:28] : ['09452996407: GRACE ORAIS', '09567145505: Grechie Cortel', '09272728119: Ian Jeylo E. Laodeño']
+[Error Message][08:53:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09156003617', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:53:33] : ['09156003617: IVY VILLARANDA', '09273383253: JAIRYL TAGOCTOC ANGUB', '09056332972: JANET PELIÑO HERTEL']
+[Error Message][08:53:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09178781437', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:53:38] : ['09178781437: JANETTE MORALDE CLARUS', '09365149076: JANETTE S. BORBONGA', '09055476353: Jasper Kooijmans']
+[Error Message][08:53:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09178959592', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:53:43] : ['09178959592: Jed C.Mabitad C/O HARMONY BEACH', '09261991282: Jeevee Serenio', '09499883247: JEFFREY BAROLA']
+[Error Message][08:53:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09773509040', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:53:48] : ['09773509040: Jennes C. Plaza', '09513644697: Jennifer A. Saga', '09693280546: Jerry Imboc']
+[Error Message][08:53:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09662403659', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:53:53] : ['09662403659: Jhunriel P. Gaspar', '09062130545: JIMMLYN S. PALEN', '09606628221: JISBERT PABLO AMPO']
+[Error Message][08:53:58] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09365147818', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:53:58] : ['09365147818: Joan Alipao Demeterio', '09684581771: Joan O. Kinazo', '09550794277: Joan T. Narona']
+[Error Message][08:54:03] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09566470216', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:54:03] : ['09566470216: John Rey B. Guianan', '09567932170: Jonalyn manuel', '09685497632: Jorge C. Miniao jr.']
+[Error Message][08:54:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09177266421', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:54:08] : ['09177266421: Jube Elma C. Calatrava', '09173237586: JULIE M. GALDO', '09260220767: JUNALYN VECINA']
+[Error Message][08:54:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09365803963', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:54:13] : ['09365803963: JUNJELEN R. TENEBROSO', '09709257567: Juvy S. Cayanan', '09661351130: KERR GLENJIE T. BONIEL']
+[Error Message][08:54:18] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09283761628', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:54:18] : ['09283761628: KRISTINE JOY MAGSANAY', '09120576233: La Arnie R. Godinez', '09562659098: Laura T. Agapay']
+[Error Message][08:54:23] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09395006179', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:54:23] : ['09395006179: LEONIL ELVIRA', '09352455380: Leonora E. Carigara', '09158607071: LGU PADRE BURGOS']
+[Error Message][08:54:28] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09815944126', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:54:28] : ['09815944126: LGU PADRE BURGUS (MUNICIPAL TREASURES OFFICE  )', '09175701396: LGU PADRE BURGUS ACCOUNTING OFFICE', '09363345967: Lito B. Labado']
+[Error Message][08:54:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09653663393', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:54:33] : ['09653663393: LUISITO DIMAIN ALIDO', '09939085695: Luneta G. Orias', '09279312508: Ma. Gina M. Kinazo']
+[Error Message][08:54:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09099525776', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:54:38] : ['09099525776: MA. LINDA G. QUISADO', '09120875405: Ma. Veronica Anelina M. Celera', '09052498269: MACROHON MPS']
+[Error Message][08:54:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09454251288', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:54:43] : ['09454251288: Manuel Caturan Jr.', '09173146178: MARIA FE CRISPINA B. POBLETE/SANGUNIANG BAYAN OFFICE', '09554207166: MARIA TERESA R.MULLER']
+[Error Message][08:54:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09762871556', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][08:54:48] : ['09762871556: Maria Teresita B. Luyao', '09776024519: Maribel I. Asuncion', '09285210604: Maricar N. Deguia']
+[Error Message][08:54:54] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09063528986', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][08:54:54] : ['09063528986: Marichu Dalugdugan', '09064320897: MARIEL M. MURILLO', '09262911029: MARIEL PALABON']
+[Error Message][08:54:59] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09176587296', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][08:54:59] : ['09176587296: MARILYN E. SABALO', '09058285649: MARINA PERFECTUA', '09367862644: Marlon G. Catubig']
+[Error Message][08:55:04] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09398829336', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][08:55:04] : ['09398829336: MARLON O. ESTELA', '09173264103: MARVIN JAPSON', '09175701435: MARY JEAN MIRA']
+[Error Message][08:55:09] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09922295830', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][08:55:09] : ['09922295830: MARY JEAN YANGSON', '09171057225: MAUREEN EVITA S. BALILI', '09362428805: MAYETH R. PLASQUITA']
+[Error Message][08:55:14] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09362428805', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][08:55:14] : ['09362428805: MAYETH R. PLASQUITA 2', '09758184482: MDRRMO OFFICE-LGU PADRE BURGOS', '09152087894: MELANIE M. ORBETA']
+[Error Message][08:55:19] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09924954255', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][08:55:19] : ['09924954255: MELINDA B. MANTILLA', '09065338805: MERCI GRACE R. FERNANDEZ', '09363932282: MILDRED ELACRE']
+[Error Message][08:55:24] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09655409311', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+   [Fail][08:55:24] : ['09655409311: MYLES ADRIAN J. SABANDAL', '09205039353: MYRLA J. SABANDAL', '09399041653: MYRLA J. SABANDAL (Mohon)']
+[Error Message][08:55:29] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09165775304', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:55:29] : ['09165775304: NANCY T. MARAON', '09853014204: NEW BARRACKS MAASIN', '09658371583: NICANOR G. BENDIJO JR.']
+[Error Message][08:55:34] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09051933589', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:55:34] : ['09051933589: NICOLETTE M. NARISMA', '09686361254: NICSON GLEN MATURAN', '09171286442: Nimfa B. Tiempo']
+[Success][08:55:39] : ['09208968044: Noel T. Reparado', '09977117598: Orlando C. Angub', '09174082529: PADRE BURGOS CASTLE RESORT']
+[Error Message][08:55:45] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09164281351', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+   [Fail][08:55:45] : ['09164281351: Peregrina M. Solana', '09668893363: Peter Louis Johnson', '09177910993: PETERS DIVE RESORT']
+[Error Message][08:56:50] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09654571424', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:56:50] : ['09654571424: RACEL SABANDAL', '09261971165: Rachelle M. Tillo', '09754450485: Rachelle R. Leones']
+[Error Message][08:56:55] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09757345927', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:56:55] : ['09757345927: Racque E. Ferer', '09509415844: Rayline T. Cahapay', '09051683537: Raymond O. Garces']
+[Error Message][08:57:00] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09566066332', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:57:00] : ['09566066332: Raymund Balondra', '09551367306: Rechell C. Pagangpang', '09062393374: Redentor C. Navarro Jr.']
+[Error Message][08:57:05] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09617502605', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:57:05] : ['09617502605: Reinhard G. Macasero', '09561549760: RESTITUTO C. VELIGANIO', '09675048818: Rex G. Miras']
+[Error Message][08:57:11] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09977744443', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:57:11] : ['09977744443: Rey M. Espejo Jr.', '09059608657: Reyls G. Yangson', '09265355008: REYNETH MARIE L. OLAVIDEZ']
+[Error Message][08:57:16] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09638753368', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:57:16] : ['09638753368: Rito j. Maitem', '09362116633: ROBERT F. TEJADA', '09469224082: ROBINSON PELIGRO']
+[Error Message][08:57:21] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09668967692', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:57:21] : ['09668967692: Rodulfo L. Rafael ', '09172711991: Rollin Jude T. Manaug', '09278902554: Romeo B. Saavedra']
+[Error Message][08:57:26] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09261863018', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:57:26] : ['09261863018: Ronald M.Estampa', '09532696161: ROSEMARIE Y. MENDEZ', '09639605194: RUBY ABINGUNA']
+[Error Message][08:57:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09451103419', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:57:31] : ['09451103419: RYAN LAPLANA DIOLA', '09260436131: Sarrah Claire Ranque', '09924955012: SHIELA P. LAGRAMA']
+[Error Message][08:57:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09155207274', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:57:36] : ['09155207274: SOGOD BAY SCUBA RESORT, INC.', '09167670334: STAR GAS/MANUEL C SALINAS', '09774651536: TERISITA C. TURNER']
+[Error Message][08:57:41] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09177937155', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:57:41] : ['09177937155: THYAM T. FOOKSON', '09618866083: Titus Rodulfo D. Palermo', '09167992310: Torben Christiansen']
+[Error Message][08:57:46] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09054356857', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:57:46] : ['09054356857: VENUS D. SIMANGCA', '09364548746: Victoriano Mibulos', '09971075279: VILLA JACINTA NATIONAL VOCATIONAL HIGH SCHOOL']
+[Error Message][08:57:51] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09651335090', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][08:57:51] : ['09651335090: VINCENT B. MILO', '09120496502: VINZ KEVIN CAÑON', '09171139395: Vychille Ann Ramos']
+[Error Message][08:57:56] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09167670334', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][08:57:56] : ['09167670334: WB WATER REFILLING STATION / JENNY ANN SALINAS', '09308966039: Wealtha A. Jabonero', '09676004795: WILFREDA E. TAGBAK']
+[Error Message][08:58:01] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09981662357', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][08:58:01] : ['09981662357: ZURIEL MARLX TIEMPO', '09277257423: Evangeline S. Van Keken', '09274171829: Fe Arlene J. Mondragon']
+[Error Message][08:58:06] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09925967212', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][08:58:06] : ['09925967212: Fe Ligad Siegmund', '09955658389: FE SHIRLEY CARMILLE G. TAGBAK', '09971857385: FELIX B. PAGOLONG JR.']
+[Error Message][08:58:11] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09178730034', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][08:58:11] : ['09178730034: FERDINAND C. DIEZ', '09755573813: FERLINA ESTUBO', '09176302242: Fernando E. Moralde']
+[Error Message][08:58:16] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09606628648', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][08:58:16] : ['09606628648: FEVIE MANTILLA', '09169143247: GARRY GUIANAN', '09532209003: Gemma G.Jarabe']
+[Error Message][08:58:21] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09260341251', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+   [Fail][08:58:21] : ['09260341251: GEMMA MORTA', '09267021067: Gerhard Lang', '09177740634: GERRY A. MAUREAL']
+[Error Message][08:58:26] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09177740634', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+   [Fail][08:58:26] : ['09177740634: GERRY A. MAUREAL 2', '09058502600: GERRY CROSBY BONITA', '09067119542: GLAIZA CHAZEN M. GARAY']
+[Error Message][08:58:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09983842737', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:58:31] : ['09983842737: GRACE M. ECO', '09452996407: GRACE ORAIS', '09567145505: Grechie Cortel']
+[Error Message][08:58:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09272728119', '=message=We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][08:58:36] : ['09272728119: Ian Jeylo E. Laodeño', '09156003617: IVY VILLARANDA', '09273383253: JAIRYL TAGOCTOC ANGUB']
+[Success][08:58:41] : ['09056332972: JANET PELIÑO HERTEL', '09178781437: JANETTE MORALDE CLARUS', '09365149076: JANETTE S. BORBONGA']
+[Success][08:58:48] : ['09055476353: Jasper Kooijmans', '09178959592: Jed C.Mabitad C/O HARMONY BEACH', '09261991282: Jeevee Serenio']
+[Success][08:58:55] : ['09499883247: JEFFREY BAROLA', '09773509040: Jennes C. Plaza', '09513644697: Jennifer A. Saga']
+[Success][08:59:02] : ['09693280546: Jerry Imboc', '09662403659: Jhunriel P. Gaspar', '09062130545: JIMMLYN S. PALEN']
+[Success][08:59:09] : ['09606628221: JISBERT PABLO AMPO', '09365147818: Joan Alipao Demeterio', '09684581771: Joan O. Kinazo']
+[Success][08:59:16] : ['09550794277: Joan T. Narona', '09566470216: John Rey B. Guianan', '09567932170: Jonalyn manuel']
+[Success][08:59:22] : ['09685497632: Jorge C. Miniao jr.', '09177266421: Jube Elma C. Calatrava', '09173237586: JULIE M. GALDO']
+[Success][08:59:29] : ['09260220767: JUNALYN VECINA', '09365803963: JUNJELEN R. TENEBROSO', '09709257567: Juvy S. Cayanan']
+[Success][08:59:36] : ['09661351130: KERR GLENJIE T. BONIEL', '09283761628: KRISTINE JOY MAGSANAY', '09120576233: La Arnie R. Godinez']
+[Success][08:59:43] : ['09562659098: Laura T. Agapay', '09395006179: LEONIL ELVIRA', '09352455380: Leonora E. Carigara']
+[Success][08:59:50] : ['09158607071: LGU PADRE BURGOS', '09815944126: LGU PADRE BURGUS (MUNICIPAL TREASURES OFFICE  )', '09175701396: LGU PADRE BURGUS ACCOUNTING OFFICE']
+[Success][08:59:57] : ['09363345967: Lito B. Labado', '09653663393: LUISITO DIMAIN ALIDO', '09939085695: Luneta G. Orias']
+[Success][09:00:04] : ['09279312508: Ma. Gina M. Kinazo', '09099525776: MA. LINDA G. QUISADO', '09120875405: Ma. Veronica Anelina M. Celera']
+[Success][09:00:10] : ['09052498269: MACROHON MPS', '09454251288: Manuel Caturan Jr.', '09173146178: MARIA FE CRISPINA B. POBLETE/SANGUNIANG BAYAN OFFICE']
+[Success][09:00:17] : ['09554207166: MARIA TERESA R.MULLER', '09762871556: Maria Teresita B. Luyao', '09776024519: Maribel I. Asuncion']
+[Success][09:00:24] : ['09285210604: Maricar N. Deguia', '09063528986: Marichu Dalugdugan', '09064320897: MARIEL M. MURILLO']
+[Success][09:00:30] : ['09262911029: MARIEL PALABON', '09176587296: MARILYN E. SABALO', '09058285649: MARINA PERFECTUA']
+[Success][09:00:37] : ['09367862644: Marlon G. Catubig', '09398829336: MARLON O. ESTELA', '09173264103: MARVIN JAPSON']
+[Success][09:00:44] : ['09175701435: MARY JEAN MIRA', '09922295830: MARY JEAN YANGSON', '09171057225: MAUREEN EVITA S. BALILI']
+[Success][09:00:51] : ['09362428805: MAYETH R. PLASQUITA', '09362428805: MAYETH R. PLASQUITA 2', '09758184482: MDRRMO OFFICE-LGU PADRE BURGOS']
+[Success][09:00:58] : ['09152087894: MELANIE M. ORBETA', '09924954255: MELINDA B. MANTILLA', '09065338805: MERCI GRACE R. FERNANDEZ']
+[Success][09:01:05] : ['09363932282: MILDRED ELACRE', '09655409311: MYLES ADRIAN J. SABANDAL', '09205039353: MYRLA J. SABANDAL']
+[Success][09:01:12] : ['09399041653: MYRLA J. SABANDAL (Mohon)', '09165775304: NANCY T. MARAON', '09853014204: NEW BARRACKS MAASIN']
+[Success][09:01:19] : ['09658371583: NICANOR G. BENDIJO JR.', '09051933589: NICOLETTE M. NARISMA', '09686361254: NICSON GLEN MATURAN']
+[Success][09:01:26] : ['09171286442: Nimfa B. Tiempo', '09164281351: Peregrina M. Solana', '09668893363: Peter Louis Johnson']
+[Success][09:01:32] : ['09177910993: PETERS DIVE RESORT', '09654571424: RACEL SABANDAL', '09261971165: Rachelle M. Tillo']
+[Success][09:01:39] : ['09754450485: Rachelle R. Leones', '09757345927: Racque E. Ferer', '09509415844: Rayline T. Cahapay']
+[Success][09:01:46] : ['09051683537: Raymond O. Garces', '09566066332: Raymund Balondra', '09551367306: Rechell C. Pagangpang']
+[Success][09:01:53] : ['09062393374: Redentor C. Navarro Jr.', '09617502605: Reinhard G. Macasero', '09561549760: RESTITUTO C. VELIGANIO']
+[Success][09:02:00] : ['09675048818: Rex G. Miras', '09977744443: Rey M. Espejo Jr.', '09059608657: Reyls G. Yangson']
+[Success][09:02:07] : ['09265355008: REYNETH MARIE L. OLAVIDEZ', '09638753368: Rito j. Maitem', '09362116633: ROBERT F. TEJADA']
+[Success][09:02:14] : ['09469224082: ROBINSON PELIGRO', '09668967692: Rodulfo L. Rafael ', '09172711991: Rollin Jude T. Manaug']
+[Success][09:02:21] : ['09278902554: Romeo B. Saavedra', '09261863018: Ronald M.Estampa', '09532696161: ROSEMARIE Y. MENDEZ']
+[Success][09:02:28] : ['09639605194: RUBY ABINGUNA', '09451103419: RYAN LAPLANA DIOLA', '09260436131: Sarrah Claire Ranque']
+[Success][09:02:35] : ['09924955012: SHIELA P. LAGRAMA', '09155207274: SOGOD BAY SCUBA RESORT, INC.', '09167670334: STAR GAS/MANUEL C SALINAS']
+[Success][09:02:41] : ['09774651536: TERISITA C. TURNER', '09177937155: THYAM T. FOOKSON', '09618866083: Titus Rodulfo D. Palermo']
+[Success][09:02:48] : ['09167992310: Torben Christiansen', '09054356857: VENUS D. SIMANGCA', '09364548746: Victoriano Mibulos']
+[Success][09:02:55] : ['09971075279: VILLA JACINTA NATIONAL VOCATIONAL HIGH SCHOOL', '09651335090: VINCENT B. MILO', '09120496502: VINZ KEVIN CAÑON']
+[Success][09:03:02] : ['09171139395: Vychille Ann Ramos', '09167670334: WB WATER REFILLING STATION / JENNY ANN SALINAS', '09308966039: Wealtha A. Jabonero']
+[Success][09:03:09] : ['09676004795: WILFREDA E. TAGBAK', '09981662357: ZURIEL MARLX TIEMPO', '09277257423: Evangeline S. Van Keken']
+[Success][09:03:16] : ['09274171829: Fe Arlene J. Mondragon', '09925967212: Fe Ligad Siegmund', '09955658389: FE SHIRLEY CARMILLE G. TAGBAK']
+[Success][09:03:22] : ['09971857385: FELIX B. PAGOLONG JR.', '09178730034: FERDINAND C. DIEZ', '09755573813: FERLINA ESTUBO']
+[Success][09:03:29] : ['09176302242: Fernando E. Moralde', '09606628648: FEVIE MANTILLA', '09169143247: GARRY GUIANAN']
+[Success][09:03:36] : ['09532209003: Gemma G.Jarabe', '09260341251: GEMMA MORTA', '09267021067: Gerhard Lang']
+[Success][09:03:43] : ['09177740634: GERRY A. MAUREAL', '09177740634: GERRY A. MAUREAL 2', '09058502600: GERRY CROSBY BONITA']
+[Success][09:03:50] : ['09067119542: GLAIZA CHAZEN M. GARAY', '09983842737: GRACE M. ECO', '09452996407: GRACE ORAIS']
+[Success][09:03:57] : ['09567145505: Grechie Cortel', '09272728119: Ian Jeylo E. Laodeño', '09156003617: IVY VILLARANDA']
+[Success][09:04:04] : ['09273383253: JAIRYL TAGOCTOC ANGUB']
+
+[Rejected Records]:
+ELIZABETH BUCOG, 0926899546: Invalid Contact Number
+Maria Analou M. Estella, 0968891588: Invalid Contact Number
+Selina cruda, Purok Balim: Invalid Contact Number
+
+
+
+OLT : Macrohon OLT (Maasin - 2)
+Message : We are waiting for an update from our primary internet provider, PLDT, which has been offline since last night. We apologize for this inconvenience. via QLT.
+Sent By : Nelio Pono (Technical Supervisor)
+
+[Success][09:13:19] : ['09161592754: ALONA E DIEZ', '09065264733: ANGELICA B. MONTER', '09195738499: ANTHONY PETER FENTON']
+[Success][09:13:33] : ['09300154138: ARCHELLE DAÑO AMORIN', '09179853357: AUBREY Z. LUCERO', '09951495698: BERNIE B. CAINGHOG']
+[Success][09:13:40] : ['09551379555: BLGU BUNGA', '09279382384: BLGU- STO. ROSARIO', '09553966000: BRITNEY BERSABAL']
+[Success][09:13:47] : ['09280394164: BUNGA ELEMENTARY MULTI-GRADE SCHOOL', '09276491712: CEBUANA LHUILLIER PAWNSHOP. P. BURGOS BR', '09982838924: CHRISTINE E. BALABA']
+[Success][09:13:54] : ['09317296791: Christine M. Senosin', '09956671252: Cielo G. Estampa', '09164246625: CRISOSTOMO F. GANAR']
+[Success][09:14:01] : ['09975070912: DANHEL S. COSTILLAS', '09171057225: DILG  PADRE BURGOS', '09369811186: EDITO R. GUILAO JR.']
+[Success][09:14:07] : ['09673275387: EDMER QUIJANO', '09568701365: ELJEAN MARIE E. MONDIA', '09700857736: ELVIVA C. MINDAJAO']
+[Success][09:14:14] : ['09977487389: EMMAR J. CABILOGAN', '09917897219: ERIC RE BONIEL', '09157590015: EUNICE OLACAO']
+[Success][09:14:21] : ['09182713180: EVANGELISTA M. GILLES', '09956825113: FLOR JANE SAAVEDRA', '09275106426: FLORAMIE N. LABRADOR']
+[Success][09:14:28] : ['09261970991: FLOYD M. BONGCAWEL', '09654926859: FLUOERDELEZ A. DACLAN', '09165487400: FRETZIE C. TOMINGBANG/RHU PADRE BURGOS']
+[Success][09:14:35] : ['09706943752: GILDA MARIE C. CASTINO', '09568514171: GLENDA C. DE DIOS', '09261596675: GRACE J. OLAYVAR']
+[Success][09:14:42] : ['09357188589: IRENE CARRIDO ESTALANE', '09061678256: IVIC MAITEM', '09667559656: J.A ELEAZAR A. RANQUE']
+[Success][09:14:48] : ['09684568447: JANICE R. BANAC', '09855909378: JINGLE MARIE P. IGSOLO', '09568514171: JOSE D. SIMANCA']
+[Success][09:14:55] : ['09176543266: JOSELITO K. RODAS', '09473711619: JOY M. GOFF/POBLACION PADRE BURGOS CENTRAL ELEMENTARY SCHOOL', '09069638205: JOY MAY MACEDA']
+[Success][09:15:02] : ['09433327793: KRISTINE L. MAUGHMER', '09317205394: LARINA B. VALLEJOS', '09686907373: LEAM V AMORIN']
+[Success][09:15:09] : ['09154039113: LITA D. RANQUE', '09654928727: LYDIA C. DIONOSA', '09265225149: MARIA EVSLYN C. GABRIEL']
+[Success][09:15:16] : ['09173146178: MARIA FE CRISPINA B. POBLETE 2ND ACC', '09482982629: MARIBEL S. MANTE', '09192201963: MARK JOY PIRAMIDE']
+[Success][09:15:22] : ['09533559963: MARY ANN RISMA', '09166010031: MELANIO C MAXINO SR.', '09977735437: MELBA M. LUTERO']
+[Success][09:15:29] : ['09359712173: MERCEDES MACCOUN', '09926750851: MYLINE C. MUSNGI', '09165775304: NANCY T. MARAON 2 / PADRE BURGOS DISTRICT']
+[Success][09:15:36] : ['09615728321: PADRE BURGUS COMMUNITY HOSPITAL', '09072128823: PAMELA P. ORITO', '09175037530: RAFI MICROFINANCE, INC.']
+[Success][09:15:43] : ['09551367306: RECHELL PAGANGPANG 2ND ACC', '09679166820: RISTY V. OCTOBRE', '09308875493: ROGELIO RODRIGUEZ']
+[Success][09:15:50] : ['09178785066: ROSARIO MAGLINTE', '09952820640: ROSE ANN PALERO', '09503586847: ROWENA C. CAHAPAY']
+[Success][09:15:57] : ['09175020121: SAM MICHAEL A. DEMETERIO', '09706943752: SAN JUAN ELEMENTARY SCHOOL', '09176862080: SHERYL L. PALERO']
+[Success][09:16:03] : ['09618866083: TITUS RODULFO D. PALERMO LL', '09771761196: VANJAH VALERIE D. DE GRACIA', '09566533592: YOLANDA N. SIAO']
+
+[Rejected Records]:
+EDA M. DECASTRO, 0995063034: Invalid Contact Number
+ERNESTO G. IMBOC, 0955654516: Invalid Contact Number
+MYRNA C. DALUGDUGAN, 0927758291: Invalid Contact Number
+
+
+
+OLT : Macrohon OLT (Maasin - 2)
+Message : Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.
+Sent By : Nelio Pono (Technical Supervisor)
+
+[Success][09:48:56] : ['09161592754: ALONA E DIEZ', '09065264733: ANGELICA B. MONTER', '09195738499: ANTHONY PETER FENTON']
+[Success][09:49:04] : ['09300154138: ARCHELLE DAÑO AMORIN', '09179853357: AUBREY Z. LUCERO', '09951495698: BERNIE B. CAINGHOG']
+[Success][09:49:10] : ['09551379555: BLGU BUNGA', '09279382384: BLGU- STO. ROSARIO', '09553966000: BRITNEY BERSABAL']
+[Success][09:49:17] : ['09280394164: BUNGA ELEMENTARY MULTI-GRADE SCHOOL', '09276491712: CEBUANA LHUILLIER PAWNSHOP. P. BURGOS BR', '09982838924: CHRISTINE E. BALABA']
+[Success][09:49:24] : ['09317296791: Christine M. Senosin', '09956671252: Cielo G. Estampa', '09164246625: CRISOSTOMO F. GANAR']
+[Success][09:49:31] : ['09975070912: DANHEL S. COSTILLAS', '09171057225: DILG  PADRE BURGOS', '09369811186: EDITO R. GUILAO JR.']
+[Success][09:49:38] : ['09673275387: EDMER QUIJANO', '09568701365: ELJEAN MARIE E. MONDIA', '09700857736: ELVIVA C. MINDAJAO']
+[Success][09:49:45] : ['09977487389: EMMAR J. CABILOGAN', '09917897219: ERIC RE BONIEL', '09157590015: EUNICE OLACAO']
+[Success][09:49:52] : ['09182713180: EVANGELISTA M. GILLES', '09956825113: FLOR JANE SAAVEDRA', '09275106426: FLORAMIE N. LABRADOR']
+[Success][09:49:59] : ['09261970991: FLOYD M. BONGCAWEL', '09654926859: FLUOERDELEZ A. DACLAN', '09165487400: FRETZIE C. TOMINGBANG/RHU PADRE BURGOS']
+[Success][09:50:05] : ['09706943752: GILDA MARIE C. CASTINO', '09568514171: GLENDA C. DE DIOS', '09261596675: GRACE J. OLAYVAR']
+[Success][09:50:12] : ['09357188589: IRENE CARRIDO ESTALANE', '09061678256: IVIC MAITEM', '09667559656: J.A ELEAZAR A. RANQUE']
+[Success][09:50:19] : ['09684568447: JANICE R. BANAC', '09855909378: JINGLE MARIE P. IGSOLO', '09568514171: JOSE D. SIMANCA']
+[Success][09:50:26] : ['09176543266: JOSELITO K. RODAS', '09473711619: JOY M. GOFF/POBLACION PADRE BURGOS CENTRAL ELEMENTARY SCHOOL', '09069638205: JOY MAY MACEDA']
+[Success][09:50:33] : ['09433327793: KRISTINE L. MAUGHMER', '09317205394: LARINA B. VALLEJOS', '09686907373: LEAM V AMORIN']
+[Success][09:50:40] : ['09154039113: LITA D. RANQUE', '09654928727: LYDIA C. DIONOSA', '09265225149: MARIA EVSLYN C. GABRIEL']
+[Success][09:50:47] : ['09173146178: MARIA FE CRISPINA B. POBLETE 2ND ACC', '09482982629: MARIBEL S. MANTE', '09192201963: MARK JOY PIRAMIDE']
+[Success][09:50:54] : ['09533559963: MARY ANN RISMA', '09166010031: MELANIO C MAXINO SR.', '09977735437: MELBA M. LUTERO']
+[Success][09:51:01] : ['09359712173: MERCEDES MACCOUN', '09926750851: MYLINE C. MUSNGI', '09165775304: NANCY T. MARAON 2 / PADRE BURGOS DISTRICT']
+[Success][09:51:08] : ['09615728321: PADRE BURGUS COMMUNITY HOSPITAL', '09072128823: PAMELA P. ORITO', '09175037530: RAFI MICROFINANCE, INC.']
+[Success][09:51:15] : ['09551367306: RECHELL PAGANGPANG 2ND ACC', '09679166820: RISTY V. OCTOBRE', '09308875493: ROGELIO RODRIGUEZ']
+[Success][09:51:22] : ['09178785066: ROSARIO MAGLINTE', '09952820640: ROSE ANN PALERO', '09503586847: ROWENA C. CAHAPAY']
+[Success][09:51:29] : ['09175020121: SAM MICHAEL A. DEMETERIO', '09706943752: SAN JUAN ELEMENTARY SCHOOL', '09176862080: SHERYL L. PALERO']
+[Success][09:51:35] : ['09618866083: TITUS RODULFO D. PALERMO LL', '09771761196: VANJAH VALERIE D. DE GRACIA', '09566533592: YOLANDA N. SIAO']
+
+[Rejected Records]:
+EDA M. DECASTRO, 0995063034: Invalid Contact Number
+ERNESTO G. IMBOC, 0955654516: Invalid Contact Number
+MYRNA C. DALUGDUGAN, 0927758291: Invalid Contact Number
+
+
+
+OLT : Maasin OLT
+Message : Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.
+Sent By : Nelio Pono (Technical Supervisor)
+
+[Success][10:01:07] : ['09656245195: ADINA A. TOLIBAS', '09216631592: Adrian Peter T. Mosch', '09264736407: Aileen I. Tagbak']
+[Success][10:01:14] : ['09177954961: ALAN JOSE K. AROY', '09950536157: ALDRIN M. DEMETERIO', '09567857266: AMELIA M. DEMETERIO']
+[Success][10:01:21] : ['09423352281: Ana Flatley', '09659248974: Antonio G.Gloria', '09283758911: Antonio Gaviola']
+[Success][10:01:28] : ['09936258916: ARBIE C. VALLIEJOS', '09551581062: Arfe D. Magallano', '09352336844: Arianne Joy M. Bala']
+[Success][10:01:35] : ['09995715448: Ariel D. Kaindoy', '09176596965: Ariel S. Mosot', '09553217460: ARMELO M. BETONIO']
+[Success][10:01:42] : ['09553217460: ARMELO M. BETONIO -2', '09306964846: Armolina V. Amorin ', '09265534593: ARTHUR P. MONTEDERAMOS']
+[Success][10:01:49] : ['09550922550: ARVIN A. CARAAN', '09475173707: AVELINO G. PIZON', '09665316782: BARANGAY RIZAL']
+[Success][10:01:56] : ['09050223548: BARBIE A. VENTURA', '09925624463: Benjilyn-Tolibas', '09079938434: Brian M. Gilles']
+[Success][10:02:03] : ['09358536507: Cary Mangubat', '09567341324: CATHERINE R. SCHUBERG', '09058554098: CATHY M.TALISIC']
+[Success][10:02:09] : ['09669564688: CESAR IAN C. BORER', '09177911251: CESAR L. SERVACIO JR.', '09195595804: CHARLES L. RAMOS']
+[Success][10:02:16] : ['09770910747: Cherry Ve C. Vasquez ', '09177911251: CHRISTE SERVACIO', '09468471445: Christopher Jahn Paloma']
+[Success][10:02:23] : ['09171008810: COLINA S. MERCADO', '09972440032: Conigondes Taguik', '09278249665: DANTE M. RAMOS']
+[Success][10:02:30] : ['09752862735: DENNIS B. SAAVEDRA', '09551269733: DESIREE PAJO', '09358347554: DINDO B. TIMON']
+[Success][10:02:37] : ['09358347554: DINDO B. TIMON (2ND ACCOUNT)', '09065895367: DIOSCORA LAO JARABE', '09706943344: DOMINGA OCTOBRE']
+[Success][10:02:44] : ['09455521928: DULCE C. NAPALA', '09617330208: EDA F. SUMANGYAY', '09925332117: EDMOND ROJAS ANAVEZA']
+[Success][10:02:51] : ['09351800474: Edwina C. Estela', '09550183665: Elena S. LoLo', '09325845378: Elsie A. Maalat']
+[Success][10:02:58] : ['09639178166: Elsie C. Estela', '09362739895: Elvira B. Guilao', '09171055274: EMETERIA-PIRAMIDE']
+[Success][10:03:05] : ['09277087576: EMMA C. ESTELLA', '09055153274: ERIC TAN CAPISTRANO', '09457353392: EUGENIO CUASE ACERO']
+[Success][10:03:12] : ['09277257423: Evangeline S. Van Keken', '09274171829: Fe Arlene J. Mondragon', '09925967212: Fe Ligad Siegmund']
+[Success][10:03:19] : ['09955658389: FE SHIRLEY CARMILLE G. TAGBAK', '09971857385: FELIX B. PAGOLONG JR.', '09178730034: FERDINAND C. DIEZ']
+[Success][10:03:26] : ['09755573813: FERLINA ESTUBO', '09176302242: Fernando E. Moralde', '09606628648: FEVIE MANTILLA']
+[Success][10:03:33] : ['09169143247: GARRY GUIANAN', '09532209003: Gemma G.Jarabe', '09260341251: GEMMA MORTA']
+[Success][10:03:40] : ['09267021067: Gerhard Lang', '09177740634: GERRY A. MAUREAL', '09177740634: GERRY A. MAUREAL 2']
+[Success][10:03:47] : ['09058502600: GERRY CROSBY BONITA', '09067119542: GLAIZA CHAZEN M. GARAY', '09983842737: GRACE M. ECO']
+[Success][10:03:54] : ['09452996407: GRACE ORAIS', '09567145505: Grechie Cortel', '09272728119: Ian Jeylo E. Laodeño']
+[Error Message][10:04:01] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09156003617', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+   [Fail][10:04:01] : ['09156003617: IVY VILLARANDA', '09273383253: JAIRYL TAGOCTOC ANGUB', '09056332972: JANET PELIÑO HERTEL']
+[Error Message][10:05:06] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09178781437', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:05:06] : ['09178781437: JANETTE MORALDE CLARUS', '09365149076: JANETTE S. BORBONGA', '09055476353: Jasper Kooijmans']
+[Error Message][10:05:11] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09178959592', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:05:11] : ['09178959592: Jed C.Mabitad C/O HARMONY BEACH', '09261991282: Jeevee Serenio', '09499883247: JEFFREY BAROLA']
+[Error Message][10:05:16] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09773509040', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:05:16] : ['09773509040: Jennes C. Plaza', '09513644697: Jennifer A. Saga', '09693280546: Jerry Imboc']
+[Error Message][10:05:21] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09662403659', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:05:21] : ['09662403659: Jhunriel P. Gaspar', '09062130545: JIMMLYN S. PALEN', '09606628221: JISBERT PABLO AMPO']
+[Error Message][10:05:26] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09365147818', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:05:26] : ['09365147818: Joan Alipao Demeterio', '09684581771: Joan O. Kinazo', '09550794277: Joan T. Narona']
+[Error Message][10:05:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09566470216', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:05:31] : ['09566470216: John Rey B. Guianan', '09567932170: Jonalyn manuel', '09685497632: Jorge C. Miniao jr.']
+[Error Message][10:05:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09177266421', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:05:36] : ['09177266421: Jube Elma C. Calatrava', '09173237586: JULIE M. GALDO', '09260220767: JUNALYN VECINA']
+[Error Message][10:05:41] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09365803963', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:05:41] : ['09365803963: JUNJELEN R. TENEBROSO', '09709257567: Juvy S. Cayanan', '09661351130: KERR GLENJIE T. BONIEL']
+[Error Message][10:05:46] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09283761628', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:05:46] : ['09283761628: KRISTINE JOY MAGSANAY', '09120576233: La Arnie R. Godinez', '09562659098: Laura T. Agapay']
+[Error Message][10:05:51] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09395006179', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:05:51] : ['09395006179: LEONIL ELVIRA', '09352455380: Leonora E. Carigara', '09158607071: LGU PADRE BURGOS']
+[Error Message][10:05:56] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09815944126', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:05:56] : ['09815944126: LGU PADRE BURGUS (MUNICIPAL TREASURES OFFICE  )', '09175701396: LGU PADRE BURGUS ACCOUNTING OFFICE', '09363345967: Lito B. Labado']
+[Error Message][10:06:01] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09653663393', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:06:01] : ['09653663393: LUISITO DIMAIN ALIDO', '09939085695: Luneta G. Orias', '09279312508: Ma. Gina M. Kinazo']
+[Error Message][10:06:06] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09099525776', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:06:06] : ['09099525776: MA. LINDA G. QUISADO', '09120875405: Ma. Veronica Anelina M. Celera', '09052498269: MACROHON MPS']
+[Error Message][10:06:11] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09454251288', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][10:06:11] : ['09454251288: Manuel Caturan Jr.', '09173146178: MARIA FE CRISPINA B. POBLETE/SANGUNIANG BAYAN OFFICE', '09554207166: MARIA TERESA R.MULLER']
+[Error Message][10:06:16] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09762871556', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][10:06:16] : ['09762871556: Maria Teresita B. Luyao', '09776024519: Maribel I. Asuncion', '09285210604: Maricar N. Deguia']
+[Error Message][10:06:21] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09063528986', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][10:06:21] : ['09063528986: Marichu Dalugdugan', '09064320897: MARIEL M. MURILLO', '09262911029: MARIEL PALABON']
+[Error Message][10:06:26] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09176587296', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][10:06:26] : ['09176587296: MARILYN E. SABALO', '09058285649: MARINA PERFECTUA', '09367862644: Marlon G. Catubig']
+[Error Message][10:06:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09398829336', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][10:06:31] : ['09398829336: MARLON O. ESTELA', '09173264103: MARVIN JAPSON', '09175701435: MARY JEAN MIRA']
+[Error Message][10:06:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09922295830', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][10:06:36] : ['09922295830: MARY JEAN YANGSON', '09171057225: MAUREEN EVITA S. BALILI', '09362428805: MAYETH R. PLASQUITA']
+[Error Message][10:06:41] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09362428805', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+   [Fail][10:06:41] : ['09362428805: MAYETH R. PLASQUITA 2', '09758184482: MDRRMO OFFICE-LGU PADRE BURGOS', '09152087894: MELANIE M. ORBETA']
+[Error Message][10:06:46] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09924954255', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:06:46] : ['09924954255: MELINDA B. MANTILLA', '09065338805: MERCI GRACE R. FERNANDEZ', '09363932282: MILDRED ELACRE']
+[Error Message][10:06:51] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09655409311', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:06:51] : ['09655409311: MYLES ADRIAN J. SABANDAL', '09205039353: MYRLA J. SABANDAL', '09399041653: MYRLA J. SABANDAL (Mohon)']
+[Success][10:06:56] : ['09165775304: NANCY T. MARAON', '09853014204: NEW BARRACKS MAASIN', '09658371583: NICANOR G. BENDIJO JR.']
+[Success][10:07:03] : ['09051933589: NICOLETTE M. NARISMA', '09686361254: NICSON GLEN MATURAN', '09171286442: Nimfa B. Tiempo']
+[Success][10:07:19] : ['09208968044: Noel T. Reparado', '09977117598: Orlando C. Angub', '09174082529: PADRE BURGOS CASTLE RESORT']
+[Success][10:07:26] : ['09164281351: Peregrina M. Solana', '09668893363: Peter Louis Johnson', '09177910993: PETERS DIVE RESORT']
+[Success][10:07:33] : ['09654571424: RACEL SABANDAL', '09261971165: Rachelle M. Tillo', '09754450485: Rachelle R. Leones']
+[Success][10:07:40] : ['09757345927: Racque E. Ferer', '09509415844: Rayline T. Cahapay', '09051683537: Raymond O. Garces']
+[Success][10:07:47] : ['09566066332: Raymund Balondra', '09551367306: Rechell C. Pagangpang', '09062393374: Redentor C. Navarro Jr.']
+[Success][10:07:54] : ['09617502605: Reinhard G. Macasero', '09561549760: RESTITUTO C. VELIGANIO', '09675048818: Rex G. Miras']
+[Success][10:08:01] : ['09977744443: Rey M. Espejo Jr.', '09059608657: Reyls G. Yangson', '09265355008: REYNETH MARIE L. OLAVIDEZ']
+[Success][10:08:08] : ['09638753368: Rito j. Maitem', '09362116633: ROBERT F. TEJADA', '09469224082: ROBINSON PELIGRO']
+[Success][10:08:15] : ['09668967692: Rodulfo L. Rafael ', '09172711991: Rollin Jude T. Manaug', '09278902554: Romeo B. Saavedra']
+[Success][10:08:21] : ['09261863018: Ronald M.Estampa', '09532696161: ROSEMARIE Y. MENDEZ', '09639605194: RUBY ABINGUNA']
+[Success][10:08:28] : ['09451103419: RYAN LAPLANA DIOLA', '09260436131: Sarrah Claire Ranque', '09924955012: SHIELA P. LAGRAMA']
+[Success][10:08:35] : ['09155207274: SOGOD BAY SCUBA RESORT, INC.', '09167670334: STAR GAS/MANUEL C SALINAS', '09774651536: TERISITA C. TURNER']
+[Success][10:08:41] : ['09177937155: THYAM T. FOOKSON', '09618866083: Titus Rodulfo D. Palermo', '09167992310: Torben Christiansen']
+[Success][10:08:48] : ['09054356857: VENUS D. SIMANGCA', '09364548746: Victoriano Mibulos', '09971075279: VILLA JACINTA NATIONAL VOCATIONAL HIGH SCHOOL']
+[Success][10:08:55] : ['09651335090: VINCENT B. MILO', '09120496502: VINZ KEVIN CAÑON', '09171139395: Vychille Ann Ramos']
+[Success][10:09:02] : ['09167670334: WB WATER REFILLING STATION / JENNY ANN SALINAS', '09308966039: Wealtha A. Jabonero', '09676004795: WILFREDA E. TAGBAK']
+[Success][10:09:09] : ['09981662357: ZURIEL MARLX TIEMPO', '09156003617: IVY VILLARANDA', '09273383253: JAIRYL TAGOCTOC ANGUB']
+[Success][10:09:16] : ['09056332972: JANET PELIÑO HERTEL', '09178781437: JANETTE MORALDE CLARUS', '09365149076: JANETTE S. BORBONGA']
+[Success][10:09:23] : ['09055476353: Jasper Kooijmans', '09178959592: Jed C.Mabitad C/O HARMONY BEACH', '09261991282: Jeevee Serenio']
+[Success][10:09:30] : ['09499883247: JEFFREY BAROLA', '09773509040: Jennes C. Plaza', '09513644697: Jennifer A. Saga']
+[Success][10:09:37] : ['09693280546: Jerry Imboc', '09662403659: Jhunriel P. Gaspar', '09062130545: JIMMLYN S. PALEN']
+[Success][10:09:44] : ['09606628221: JISBERT PABLO AMPO', '09365147818: Joan Alipao Demeterio', '09684581771: Joan O. Kinazo']
+[Success][10:09:51] : ['09550794277: Joan T. Narona', '09566470216: John Rey B. Guianan', '09567932170: Jonalyn manuel']
+[Success][10:09:58] : ['09685497632: Jorge C. Miniao jr.', '09177266421: Jube Elma C. Calatrava', '09173237586: JULIE M. GALDO']
+[Success][10:10:05] : ['09260220767: JUNALYN VECINA', '09365803963: JUNJELEN R. TENEBROSO', '09709257567: Juvy S. Cayanan']
+[Success][10:10:12] : ['09661351130: KERR GLENJIE T. BONIEL', '09283761628: KRISTINE JOY MAGSANAY', '09120576233: La Arnie R. Godinez']
+[Success][10:10:19] : ['09562659098: Laura T. Agapay', '09395006179: LEONIL ELVIRA', '09352455380: Leonora E. Carigara']
+[Error Message][10:10:26] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09175701396', "=message=Update: A spark from a transformer in Pugaling, Maasin City, triggered a fire in fiber and power cables, damaging PLDT's fiber internet services.")
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error\r\n+EEMLTESVC: 1301, 2, 3, 49024, 413, 38927, 38927, 40, 20, 40, 16, -2, 2, 10, 0, 1, 0, 32817, 80, 3295136643, 36519803, 2, 7, 4, 41, 42, 12, 17, 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3996, 0\r\n+EEMLTEINTER: 0, 232, 39125, 42, 13\r\n+EEMLTEINTER: 1, 413, 39125, 41, 11\r\n+EEMLTEINTRA: 0, 232, 38927, 39, 12\r\n+EEMLTEINTERRAT: 0,0\r\n+EEMLTEINTERRAT: 1,0\r\n*AMRCODEC:2,0\r\n+EEMGINFO: 3, 2\r\nOK'], ['!done']]
+   [Fail][10:10:26] : ['09158607071: LGU PADRE BURGOS', '09815944126: LGU PADRE BURGUS (MUNICIPAL TREASURES OFFICE  )', '09175701396: LGU PADRE BURGUS ACCOUNTING OFFICE']
+[Success][10:10:48] : ['09363345967: Lito B. Labado', '09653663393: LUISITO DIMAIN ALIDO', '09939085695: Luneta G. Orias']
+[Success][10:11:02] : ['09279312508: Ma. Gina M. Kinazo', '09099525776: MA. LINDA G. QUISADO', '09120875405: Ma. Veronica Anelina M. Celera']
+[Success][10:11:09] : ['09052498269: MACROHON MPS', '09454251288: Manuel Caturan Jr.', '09173146178: MARIA FE CRISPINA B. POBLETE/SANGUNIANG BAYAN OFFICE']
+[Success][10:11:16] : ['09554207166: MARIA TERESA R.MULLER', '09762871556: Maria Teresita B. Luyao', '09776024519: Maribel I. Asuncion']
+[Success][10:11:28] : ['09285210604: Maricar N. Deguia', '09063528986: Marichu Dalugdugan', '09064320897: MARIEL M. MURILLO']
+[Success][10:11:35] : ['09262911029: MARIEL PALABON', '09176587296: MARILYN E. SABALO', '09058285649: MARINA PERFECTUA']
+[Success][10:11:42] : ['09367862644: Marlon G. Catubig', '09398829336: MARLON O. ESTELA', '09173264103: MARVIN JAPSON']
+[Success][10:11:49] : ['09175701435: MARY JEAN MIRA', '09922295830: MARY JEAN YANGSON', '09171057225: MAUREEN EVITA S. BALILI']
+[Success][10:11:56] : ['09362428805: MAYETH R. PLASQUITA', '09362428805: MAYETH R. PLASQUITA 2', '09758184482: MDRRMO OFFICE-LGU PADRE BURGOS']
+[Success][10:12:02] : ['09152087894: MELANIE M. ORBETA', '09924954255: MELINDA B. MANTILLA', '09065338805: MERCI GRACE R. FERNANDEZ']
+[Success][10:12:09] : ['09363932282: MILDRED ELACRE', '09655409311: MYLES ADRIAN J. SABANDAL', '09205039353: MYRLA J. SABANDAL']
+[Success][10:12:16] : ['09399041653: MYRLA J. SABANDAL (Mohon)', '09158607071: LGU PADRE BURGOS', '09815944126: LGU PADRE BURGUS (MUNICIPAL TREASURES OFFICE  )']
+[Success][10:12:23] : ['09175701396: LGU PADRE BURGUS ACCOUNTING OFFICE']
+
+[Rejected Records]:
+ELIZABETH BUCOG, 0926899546: Invalid Contact Number
+Maria Analou M. Estella, 0968891588: Invalid Contact Number
+Selina cruda, Purok Balim: Invalid Contact Number
+
+
+
+OLT : Macrohon OLT (Maasin - 2)
+Message : Internet connection will instantly resume once PLDT repairs the fiber line connected to our server in Pasay, Maasin City. Sorry for this inconvenience.
+Sent By : Nelio Pono (Technical Supervisor)
+
+[Success][10:16:08] : ['09161592754: ALONA E DIEZ', '09065264733: ANGELICA B. MONTER', '09195738499: ANTHONY PETER FENTON']
+[Success][10:16:15] : ['09300154138: ARCHELLE DAÑO AMORIN', '09179853357: AUBREY Z. LUCERO', '09951495698: BERNIE B. CAINGHOG']
+[Success][10:16:22] : ['09551379555: BLGU BUNGA', '09279382384: BLGU- STO. ROSARIO', '09553966000: BRITNEY BERSABAL']
+[Success][10:16:29] : ['09280394164: BUNGA ELEMENTARY MULTI-GRADE SCHOOL', '09276491712: CEBUANA LHUILLIER PAWNSHOP. P. BURGOS BR', '09982838924: CHRISTINE E. BALABA']
+[Success][10:16:36] : ['09317296791: Christine M. Senosin', '09956671252: Cielo G. Estampa', '09164246625: CRISOSTOMO F. GANAR']
+[Success][10:16:43] : ['09975070912: DANHEL S. COSTILLAS', '09171057225: DILG  PADRE BURGOS', '09369811186: EDITO R. GUILAO JR.']
+[Success][10:16:49] : ['09673275387: EDMER QUIJANO', '09568701365: ELJEAN MARIE E. MONDIA', '09700857736: ELVIVA C. MINDAJAO']
+[Success][10:16:56] : ['09977487389: EMMAR J. CABILOGAN', '09917897219: ERIC RE BONIEL', '09157590015: EUNICE OLACAO']
+[Success][10:17:03] : ['09182713180: EVANGELISTA M. GILLES', '09956825113: FLOR JANE SAAVEDRA', '09275106426: FLORAMIE N. LABRADOR']
+[Success][10:17:10] : ['09261970991: FLOYD M. BONGCAWEL', '09654926859: FLUOERDELEZ A. DACLAN', '09165487400: FRETZIE C. TOMINGBANG/RHU PADRE BURGOS']
+[Success][10:17:17] : ['09706943752: GILDA MARIE C. CASTINO', '09568514171: GLENDA C. DE DIOS', '09261596675: GRACE J. OLAYVAR']
+[Success][10:17:32] : ['09357188589: IRENE CARRIDO ESTALANE', '09061678256: IVIC MAITEM', '09667559656: J.A ELEAZAR A. RANQUE']
+[Success][10:17:50] : ['09684568447: JANICE R. BANAC', '09855909378: JINGLE MARIE P. IGSOLO', '09568514171: JOSE D. SIMANCA']
+[Success][10:17:56] : ['09176543266: JOSELITO K. RODAS', '09473711619: JOY M. GOFF/POBLACION PADRE BURGOS CENTRAL ELEMENTARY SCHOOL', '09069638205: JOY MAY MACEDA']
+[Success][10:18:03] : ['09433327793: KRISTINE L. MAUGHMER', '09317205394: LARINA B. VALLEJOS', '09686907373: LEAM V AMORIN']
+[Success][10:18:10] : ['09154039113: LITA D. RANQUE', '09654928727: LYDIA C. DIONOSA', '09265225149: MARIA EVSLYN C. GABRIEL']
+[Success][10:18:17] : ['09173146178: MARIA FE CRISPINA B. POBLETE 2ND ACC', '09482982629: MARIBEL S. MANTE', '09192201963: MARK JOY PIRAMIDE']
+[Success][10:18:24] : ['09533559963: MARY ANN RISMA', '09166010031: MELANIO C MAXINO SR.', '09977735437: MELBA M. LUTERO']
+[Success][10:18:31] : ['09359712173: MERCEDES MACCOUN', '09926750851: MYLINE C. MUSNGI', '09165775304: NANCY T. MARAON 2 / PADRE BURGOS DISTRICT']
+[Success][10:18:38] : ['09615728321: PADRE BURGUS COMMUNITY HOSPITAL', '09072128823: PAMELA P. ORITO', '09175037530: RAFI MICROFINANCE, INC.']
+[Success][10:18:45] : ['09551367306: RECHELL PAGANGPANG 2ND ACC', '09679166820: RISTY V. OCTOBRE', '09308875493: ROGELIO RODRIGUEZ']
+[Success][10:18:52] : ['09178785066: ROSARIO MAGLINTE', '09952820640: ROSE ANN PALERO', '09503586847: ROWENA C. CAHAPAY']
+[Success][10:18:58] : ['09175020121: SAM MICHAEL A. DEMETERIO', '09706943752: SAN JUAN ELEMENTARY SCHOOL', '09176862080: SHERYL L. PALERO']
+[Success][10:19:05] : ['09618866083: TITUS RODULFO D. PALERMO LL', '09771761196: VANJAH VALERIE D. DE GRACIA', '09566533592: YOLANDA N. SIAO']
+
+[Rejected Records]:
+EDA M. DECASTRO, 0995063034: Invalid Contact Number
+ERNESTO G. IMBOC, 0955654516: Invalid Contact Number
+MYRNA C. DALUGDUGAN, 0927758291: Invalid Contact Number
+
+
+
+OLT : Maasin OLT
+Message : Internet connection will instantly resume once PLDT repairs the fiber line connected to our server in Pasay, Maasin City. Sorry for this inconvenience.
+Sent By : Nelio Pono (Technical Supervisor)
+
+[Success][10:29:28] : ['09656245195: ADINA A. TOLIBAS', '09216631592: Adrian Peter T. Mosch', '09264736407: Aileen I. Tagbak']
+[Success][10:29:35] : ['09177954961: ALAN JOSE K. AROY', '09950536157: ALDRIN M. DEMETERIO', '09567857266: AMELIA M. DEMETERIO']
+[Success][10:29:41] : ['09423352281: Ana Flatley', '09659248974: Antonio G.Gloria', '09283758911: Antonio Gaviola']
+[Success][10:29:48] : ['09936258916: ARBIE C. VALLIEJOS', '09551581062: Arfe D. Magallano', '09352336844: Arianne Joy M. Bala']
+[Success][10:29:55] : ['09995715448: Ariel D. Kaindoy', '09176596965: Ariel S. Mosot', '09553217460: ARMELO M. BETONIO']
+[Success][10:30:02] : ['09553217460: ARMELO M. BETONIO -2', '09306964846: Armolina V. Amorin ', '09265534593: ARTHUR P. MONTEDERAMOS']
+[Success][10:30:09] : ['09550922550: ARVIN A. CARAAN', '09475173707: AVELINO G. PIZON', '09665316782: BARANGAY RIZAL']
+[Success][10:30:16] : ['09050223548: BARBIE A. VENTURA', '09925624463: Benjilyn-Tolibas', '09079938434: Brian M. Gilles']
+[Success][10:30:23] : ['09358536507: Cary Mangubat', '09567341324: CATHERINE R. SCHUBERG', '09058554098: CATHY M.TALISIC']
+[Success][10:30:30] : ['09669564688: CESAR IAN C. BORER', '09177911251: CESAR L. SERVACIO JR.', '09195595804: CHARLES L. RAMOS']
+[Success][10:30:37] : ['09770910747: Cherry Ve C. Vasquez ', '09177911251: CHRISTE SERVACIO', '09468471445: Christopher Jahn Paloma']
+[Success][10:30:43] : ['09171008810: COLINA S. MERCADO', '09972440032: Conigondes Taguik', '09278249665: DANTE M. RAMOS']
+[Success][10:30:50] : ['09752862735: DENNIS B. SAAVEDRA', '09551269733: DESIREE PAJO', '09358347554: DINDO B. TIMON']
+[Success][10:30:57] : ['09358347554: DINDO B. TIMON (2ND ACCOUNT)', '09065895367: DIOSCORA LAO JARABE', '09706943344: DOMINGA OCTOBRE']
+[Success][10:31:04] : ['09455521928: DULCE C. NAPALA', '09617330208: EDA F. SUMANGYAY', '09925332117: EDMOND ROJAS ANAVEZA']
+[Success][10:31:11] : ['09351800474: Edwina C. Estela', '09550183665: Elena S. LoLo', '09325845378: Elsie A. Maalat']
+[Success][10:31:18] : ['09639178166: Elsie C. Estela', '09362739895: Elvira B. Guilao', '09171055274: EMETERIA-PIRAMIDE']
+[Success][10:31:25] : ['09277087576: EMMA C. ESTELLA', '09055153274: ERIC TAN CAPISTRANO', '09457353392: EUGENIO CUASE ACERO']
+[Success][10:31:32] : ['09277257423: Evangeline S. Van Keken', '09274171829: Fe Arlene J. Mondragon', '09925967212: Fe Ligad Siegmund']
+[Success][10:31:38] : ['09955658389: FE SHIRLEY CARMILLE G. TAGBAK', '09971857385: FELIX B. PAGOLONG JR.', '09178730034: FERDINAND C. DIEZ']
+[Success][10:31:45] : ['09755573813: FERLINA ESTUBO', '09176302242: Fernando E. Moralde', '09606628648: FEVIE MANTILLA']
+[Success][10:31:52] : ['09169143247: GARRY GUIANAN', '09532209003: Gemma G.Jarabe', '09260341251: GEMMA MORTA']
+[Success][10:31:58] : ['09267021067: Gerhard Lang', '09177740634: GERRY A. MAUREAL', '09177740634: GERRY A. MAUREAL 2']
+[Success][10:32:05] : ['09058502600: GERRY CROSBY BONITA', '09067119542: GLAIZA CHAZEN M. GARAY', '09983842737: GRACE M. ECO']
+[Success][10:32:12] : ['09452996407: GRACE ORAIS', '09567145505: Grechie Cortel', '09272728119: Ian Jeylo E. Laodeño']
+[Success][10:32:19] : ['09156003617: IVY VILLARANDA', '09273383253: JAIRYL TAGOCTOC ANGUB', '09056332972: JANET PELIÑO HERTEL']
+[Success][10:32:25] : ['09178781437: JANETTE MORALDE CLARUS', '09365149076: JANETTE S. BORBONGA', '09055476353: Jasper Kooijmans']
+[Success][10:32:32] : ['09178959592: Jed C.Mabitad C/O HARMONY BEACH', '09261991282: Jeevee Serenio', '09499883247: JEFFREY BAROLA']
+[Success][10:32:39] : ['09773509040: Jennes C. Plaza', '09513644697: Jennifer A. Saga', '09693280546: Jerry Imboc']
+[Success][10:32:46] : ['09662403659: Jhunriel P. Gaspar', '09062130545: JIMMLYN S. PALEN', '09606628221: JISBERT PABLO AMPO']
+[Success][10:32:53] : ['09365147818: Joan Alipao Demeterio', '09684581771: Joan O. Kinazo', '09550794277: Joan T. Narona']
+[Success][10:33:00] : ['09566470216: John Rey B. Guianan', '09567932170: Jonalyn manuel', '09685497632: Jorge C. Miniao jr.']
+[Error Message][10:33:07] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09177266421', '=message=Internet connection will instantly resume once PLDT repairs the fiber line connected to our server in Pasay, Maasin City. Sorry for this inconvenience.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:33:07] : ['09177266421: Jube Elma C. Calatrava', '09173237586: JULIE M. GALDO', '09260220767: JUNALYN VECINA']
+[Error Message][10:33:12] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09365803963', '=message=Internet connection will instantly resume once PLDT repairs the fiber line connected to our server in Pasay, Maasin City. Sorry for this inconvenience.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:33:12] : ['09365803963: JUNJELEN R. TENEBROSO', '09709257567: Juvy S. Cayanan', '09661351130: KERR GLENJIE T. BONIEL']
+[Error Message][10:33:17] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09283761628', '=message=Internet connection will instantly resume once PLDT repairs the fiber line connected to our server in Pasay, Maasin City. Sorry for this inconvenience.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:33:17] : ['09283761628: KRISTINE JOY MAGSANAY', '09120576233: La Arnie R. Godinez', '09562659098: Laura T. Agapay']
+[Error Message][10:33:22] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09395006179', '=message=Internet connection will instantly resume once PLDT repairs the fiber line connected to our server in Pasay, Maasin City. Sorry for this inconvenience.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:33:22] : ['09395006179: LEONIL ELVIRA', '09352455380: Leonora E. Carigara', '09158607071: LGU PADRE BURGOS']
+[Error Message][10:33:27] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09815944126', '=message=Internet connection will instantly resume once PLDT repairs the fiber line connected to our server in Pasay, Maasin City. Sorry for this inconvenience.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:33:27] : ['09815944126: LGU PADRE BURGUS (MUNICIPAL TREASURES OFFICE  )', '09175701396: LGU PADRE BURGUS ACCOUNTING OFFICE', '09363345967: Lito B. Labado']
+[Error Message][10:33:32] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09653663393', '=message=Internet connection will instantly resume once PLDT repairs the fiber line connected to our server in Pasay, Maasin City. Sorry for this inconvenience.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:33:32] : ['09653663393: LUISITO DIMAIN ALIDO', '09939085695: Luneta G. Orias', '09279312508: Ma. Gina M. Kinazo']
+[Error Message][10:33:37] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09099525776', '=message=Internet connection will instantly resume once PLDT repairs the fiber line connected to our server in Pasay, Maasin City. Sorry for this inconvenience.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:33:37] : ['09099525776: MA. LINDA G. QUISADO', '09120875405: Ma. Veronica Anelina M. Celera', '09052498269: MACROHON MPS']
+[Error Message][10:33:42] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09454251288', '=message=Internet connection will instantly resume once PLDT repairs the fiber line connected to our server in Pasay, Maasin City. Sorry for this inconvenience.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:33:42] : ['09454251288: Manuel Caturan Jr.', '09173146178: MARIA FE CRISPINA B. POBLETE/SANGUNIANG BAYAN OFFICE', '09554207166: MARIA TERESA R.MULLER']
+[Error Message][10:33:47] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09762871556', '=message=Internet connection will instantly resume once PLDT repairs the fiber line connected to our server in Pasay, Maasin City. Sorry for this inconvenience.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:33:47] : ['09762871556: Maria Teresita B. Luyao', '09776024519: Maribel I. Asuncion', '09285210604: Maricar N. Deguia']
+[Error Message][10:33:52] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09063528986', '=message=Internet connection will instantly resume once PLDT repairs the fiber line connected to our server in Pasay, Maasin City. Sorry for this inconvenience.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:33:52] : ['09063528986: Marichu Dalugdugan', '09064320897: MARIEL M. MURILLO', '09262911029: MARIEL PALABON']
+[Error Message][10:33:57] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09176587296', '=message=Internet connection will instantly resume once PLDT repairs the fiber line connected to our server in Pasay, Maasin City. Sorry for this inconvenience.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][10:33:57] : ['09176587296: MARILYN E. SABALO', '09058285649: MARINA PERFECTUA', '09367862644: Marlon G. Catubig']
+[Success][10:34:02] : ['09398829336: MARLON O. ESTELA', '09173264103: MARVIN JAPSON', '09175701435: MARY JEAN MIRA']
+[Success][10:34:09] : ['09922295830: MARY JEAN YANGSON', '09171057225: MAUREEN EVITA S. BALILI', '09362428805: MAYETH R. PLASQUITA']
+[Success][10:34:16] : ['09362428805: MAYETH R. PLASQUITA 2', '09758184482: MDRRMO OFFICE-LGU PADRE BURGOS', '09152087894: MELANIE M. ORBETA']
+[Success][10:34:23] : ['09924954255: MELINDA B. MANTILLA', '09065338805: MERCI GRACE R. FERNANDEZ', '09363932282: MILDRED ELACRE']
+[Success][10:34:30] : ['09655409311: MYLES ADRIAN J. SABANDAL', '09205039353: MYRLA J. SABANDAL', '09399041653: MYRLA J. SABANDAL (Mohon)']
+[Success][10:34:36] : ['09165775304: NANCY T. MARAON', '09853014204: NEW BARRACKS MAASIN', '09658371583: NICANOR G. BENDIJO JR.']
+[Success][10:34:43] : ['09051933589: NICOLETTE M. NARISMA', '09686361254: NICSON GLEN MATURAN', '09171286442: Nimfa B. Tiempo']
+[Success][10:34:50] : ['09208968044: Noel T. Reparado', '09977117598: Orlando C. Angub', '09174082529: PADRE BURGOS CASTLE RESORT']
+[Success][10:34:57] : ['09164281351: Peregrina M. Solana', '09668893363: Peter Louis Johnson', '09177910993: PETERS DIVE RESORT']
+[Success][10:35:04] : ['09654571424: RACEL SABANDAL', '09261971165: Rachelle M. Tillo', '09754450485: Rachelle R. Leones']
+[Success][10:35:11] : ['09757345927: Racque E. Ferer', '09509415844: Rayline T. Cahapay', '09051683537: Raymond O. Garces']
+[Success][10:35:17] : ['09566066332: Raymund Balondra', '09551367306: Rechell C. Pagangpang', '09062393374: Redentor C. Navarro Jr.']
+[Success][10:35:24] : ['09617502605: Reinhard G. Macasero', '09561549760: RESTITUTO C. VELIGANIO', '09675048818: Rex G. Miras']
+[Success][10:35:31] : ['09977744443: Rey M. Espejo Jr.', '09059608657: Reyls G. Yangson', '09265355008: REYNETH MARIE L. OLAVIDEZ']
+[Success][10:35:38] : ['09638753368: Rito j. Maitem', '09362116633: ROBERT F. TEJADA', '09469224082: ROBINSON PELIGRO']
+[Error Message][10:35:45] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09668967692', '=message=Internet connection will instantly resume once PLDT repairs the fiber line connected to our server in Pasay, Maasin City. Sorry for this inconvenience.')
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+   [Fail][10:35:45] : ['09668967692: Rodulfo L. Rafael ', '09172711991: Rollin Jude T. Manaug', '09278902554: Romeo B. Saavedra']
+[Success][10:36:50] : ['09261863018: Ronald M.Estampa', '09532696161: ROSEMARIE Y. MENDEZ', '09639605194: RUBY ABINGUNA']
+[Success][10:36:57] : ['09451103419: RYAN LAPLANA DIOLA', '09260436131: Sarrah Claire Ranque', '09924955012: SHIELA P. LAGRAMA']
+[Success][10:37:04] : ['09155207274: SOGOD BAY SCUBA RESORT, INC.', '09167670334: STAR GAS/MANUEL C SALINAS', '09774651536: TERISITA C. TURNER']
+[Success][10:37:11] : ['09177937155: THYAM T. FOOKSON', '09618866083: Titus Rodulfo D. Palermo', '09167992310: Torben Christiansen']
+[Success][10:37:18] : ['09054356857: VENUS D. SIMANGCA', '09364548746: Victoriano Mibulos', '09971075279: VILLA JACINTA NATIONAL VOCATIONAL HIGH SCHOOL']
+[Success][10:37:25] : ['09651335090: VINCENT B. MILO', '09120496502: VINZ KEVIN CAÑON', '09171139395: Vychille Ann Ramos']
+[Success][10:37:32] : ['09167670334: WB WATER REFILLING STATION / JENNY ANN SALINAS', '09308966039: Wealtha A. Jabonero', '09676004795: WILFREDA E. TAGBAK']
+[Success][10:37:38] : ['09981662357: ZURIEL MARLX TIEMPO', '09177266421: Jube Elma C. Calatrava', '09173237586: JULIE M. GALDO']
+[Success][10:37:45] : ['09260220767: JUNALYN VECINA', '09365803963: JUNJELEN R. TENEBROSO', '09709257567: Juvy S. Cayanan']
+[Success][10:37:52] : ['09661351130: KERR GLENJIE T. BONIEL', '09283761628: KRISTINE JOY MAGSANAY', '09120576233: La Arnie R. Godinez']
+[Success][10:37:59] : ['09562659098: Laura T. Agapay', '09395006179: LEONIL ELVIRA', '09352455380: Leonora E. Carigara']
+[Success][10:38:06] : ['09158607071: LGU PADRE BURGOS', '09815944126: LGU PADRE BURGUS (MUNICIPAL TREASURES OFFICE  )', '09175701396: LGU PADRE BURGUS ACCOUNTING OFFICE']
+[Success][10:38:13] : ['09363345967: Lito B. Labado', '09653663393: LUISITO DIMAIN ALIDO', '09939085695: Luneta G. Orias']
+[Success][10:38:20] : ['09279312508: Ma. Gina M. Kinazo', '09099525776: MA. LINDA G. QUISADO', '09120875405: Ma. Veronica Anelina M. Celera']
+[Success][10:38:27] : ['09052498269: MACROHON MPS', '09454251288: Manuel Caturan Jr.', '09173146178: MARIA FE CRISPINA B. POBLETE/SANGUNIANG BAYAN OFFICE']
+[Success][10:38:34] : ['09554207166: MARIA TERESA R.MULLER', '09762871556: Maria Teresita B. Luyao', '09776024519: Maribel I. Asuncion']
+[Success][10:38:40] : ['09285210604: Maricar N. Deguia', '09063528986: Marichu Dalugdugan', '09064320897: MARIEL M. MURILLO']
+[Success][10:38:47] : ['09262911029: MARIEL PALABON', '09176587296: MARILYN E. SABALO', '09058285649: MARINA PERFECTUA']
+[Success][10:38:54] : ['09367862644: Marlon G. Catubig', '09668967692: Rodulfo L. Rafael ', '09172711991: Rollin Jude T. Manaug']
+[Success][10:39:01] : ['09278902554: Romeo B. Saavedra']
+
+[Rejected Records]:
+ELIZABETH BUCOG, 0926899546: Invalid Contact Number
+Maria Analou M. Estella, 0968891588: Invalid Contact Number
+Selina cruda, Purok Balim: Invalid Contact Number
+
+
+

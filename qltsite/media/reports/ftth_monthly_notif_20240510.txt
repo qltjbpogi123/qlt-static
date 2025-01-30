@@ -1,0 +1,1948 @@
+05/10/2024 - 10:15:22
+FTTH Monthly Notification
+Branch : Queens Link - Baybay
+Message : Hello, as of May 2024, you have # pending monthly bills. Contact us at 09854476003 or on our Facebook page. By Queens Link - Baybay.
+[Success][10:15:23] : ['09455115835, ACE WENDELL MAZO: 1 pending monthly bill', '09455115835, ACE WENDELL MAZO (3RD ACCOUNT): 2 pending monthly bills', '09558811195, AGNES G. TERO: 1 pending monthly bill']
+[Success][10:15:28] : ['09615092180, ALBERT FILEMON B. DACLAG: 2 pending monthly bills', '09686570881, ANDREW ABEJARON: 1 pending monthly bill', '09091195843, ANGELICA PANTILGONE: 1 pending monthly bill']
+[Success][10:15:33] : ['09630512425, ANGELITO M. MUÑEZ JR.: 2 pending monthly bills', '09485464308, ANIAN ANTHONY BACOR: 2 pending monthly bills', '09656933818, ANLY FUEGO: 2 pending monthly bills']
+[Success][10:15:38] : ['09816321862, ANTONIO G PASTORIL: 1 pending monthly bill', '09760557082, APRIL DAWN C. MARQUEDA: 1 pending monthly bill', '09498597008, BAYBAY CITY POLICE SUB. STATION: 1 pending monthly bill']
+[Success][10:15:43] : ['09210851351, BAYBAY PNP EOD/K9 UNIT: 1 pending monthly bill', '09458965140, BIERNA MARIS P. SURALTA: 2 pending monthly bills', '09161831951, BITANHUAN NATIONAL HIGH SCHOOL/JIMMY G.BAÑOC: 2 pending monthly bills']
+[Success][10:15:48] : ['09382495410, BUREAU OF FIRE PROTECTION: 1 pending monthly bill', '09853325303, CARINA J. POLLO: 3 pending monthly bills', '09938846497, CARLITO D LORA JR.: 1 pending monthly bill']
+[Success][10:15:53] : ['09662495504, CARLOMAN P. CORMANES: 1 pending monthly bill', '09161722767, CAROLINA MONTALBAN SESCON: 3 pending monthly bills', '09368412796, CESAR B. YAP JR.: 1 pending monthly bill']
+[Success][10:15:58] : ['09054172030, CHINDE ALMACIN: 1 pending monthly bill', '09569878945, CHRISTIAN GUTIERREZ: 1 pending monthly bill', '09094224687, CHRISTIAN JELOURD TORTOSA: 2 pending monthly bills']
+[Success][10:16:03] : ['09155627277, CLIFFORD MUAÑA: 2 pending monthly bills', '09669783026, CRIS FRANCISCO AGUNALDO: 1 pending monthly bill', '09482339393, CRISTINA P. CONCHA: 1 pending monthly bill']
+[Success][10:16:08] : ['09977746745, DELIA MONDERONDO: 1 pending monthly bill', '09156505570, DEOGRASCIAS E. PERNITTEZ: 1 pending monthly bill', '09538744047, DESERIE RALLOS: 1 pending monthly bill']
+[Success][10:16:13] : ['09922776356, DESTUA ELMER VILLANUEVA: 1 pending monthly bill', '09933778382, DHONNA JENNE R. BARIT: 2 pending monthly bills', '09924585771, DIVINE GRACE GAMBOA: 3 pending monthly bills']
+[Success][10:16:18] : ['09856187808, DOUGLAS VEGA: 1 pending monthly bill', '09508158135, EDNIEL B. PELESCO: 1 pending monthly bill', '09620813435, ELIZABETH NOPAL: 1 pending monthly bill']
+[Success][10:16:23] : ['09981567187, ELLEN ROSE GALLEGO: 2 pending monthly bills', '09072919836, EMELITA T CUENCO: 1 pending monthly bill', '09109250991, ERLINDA TITO: 3 pending monthly bills']
+[Success][10:16:28] : ['09361679670, FE TOMAMPON: 1 pending monthly bill', '09125912042, FRANCO NERO GABALES: 2 pending monthly bills', '09073295143, FRANZ JOSEF MEÑOZA: 3 pending monthly bills']
+[Success][10:16:33] : ['09925730369, GARRY GLENN PERERO: 1 pending monthly bill', '09815302868, GAVINA MADRIGAL: 1 pending monthly bill', '09465537802, GIORIMEL UY VIDAL: 1 pending monthly bill']
+[Success][10:16:38] : ['09380041049, HANNAH LYN F. LOPEZ: 1 pending monthly bill', '09362976071, IMELDA GLORIA JOMOC: 1 pending monthly bill', '09564333809, IREZ SHUAN COTIAMCO: 2 pending monthly bills']
+[Success][10:16:43] : ['09550691732, IRIS BULAWAN: 1 pending monthly bill', '09692984907, JAMAICA ONIPA: 1 pending monthly bill', '09515005005, JARROD BEE L.NUÑEZ: 1 pending monthly bill']
+[Success][10:16:48] : ['09657025355, JAYFFELYN MARIE B. SINCO: 1 pending monthly bill', '09169820200, JEBEL P. BERNARDINO(2ND ACC.): 1 pending monthly bill', '09154672995, JEFF MARK TABUDLONG: 1 pending monthly bill']
+[Success][10:16:53] : ['09957446567, JENNY VI LIM NASU: 1 pending monthly bill', '09363826990, JENYBABE BERNARDINO: 1 pending monthly bill', '09700891830, JEOFFREY B. LLANERA: 1 pending monthly bill']
+[Success][10:16:58] : ['09265458805, JESSA MANTUA: 1 pending monthly bill', '09306242050, JOENEL I. SABANDO: 1 pending monthly bill', '09560039289, JOHN REY T. PORAZO: 1 pending monthly bill']
+[Success][10:17:03] : ['09485027024, JONA A. SAYON: 1 pending monthly bill', '09368230647, JOVELYN A GALLEGO: 2 pending monthly bills', '09272905722, JUBYMAR A. MABUTO: 1 pending monthly bill']
+[Success][10:17:08] : ['09491122158, JULES LUCAS CARI: 1 pending monthly bill', '09361681500, JUNLITO B. MABANTO: 1 pending monthly bill', '09207363216, JUVIE LABRADOR: 1 pending monthly bill']
+[Success][10:17:13] : ['09067742678, JYRA JANE A. VARRON: 1 pending monthly bill', '09510344073, KENRID JOHN P. JASME: 1 pending monthly bill', '09679186388, LEONEL CAIDLANG: 1 pending monthly bill']
+[Success][10:17:18] : ['09532456891, LESLY ANNE P.FERNANDEZ: 1 pending monthly bill', '09271272838, LGU/ MARKET MANAGEMENT OFFICE: 1 pending monthly bill', '09511961313, LIEZEL CAGOYONG: 1 pending monthly bill']
+[Success][10:17:23] : ['09201133137, LOGIE GLENN GRANADEROS: 3 pending monthly bills', '09510448053, LOLITA B BARCIAL: 1 pending monthly bill', '09751381308, LORENA MANTUA: 1 pending monthly bill']
+[Success][10:17:28] : ['09275419723, MADELYN RUEDO: 1 pending monthly bill', '09482336750, MALYN DECENA: 3 pending monthly bills', '09491513085, MARC LOUIS SAMPILO: 1 pending monthly bill']
+[Success][10:17:33] : ['09063944265, MARIA CHRISTINA COTIAMCO: 2 pending monthly bills', '09207143652, MARIA HINANDOY: 1 pending monthly bill', '09450944976, MARIA JESHA PRADO: 3 pending monthly bills']
+[Success][10:17:38] : ['09166001624, MARIA THERESA C. NUÑEZ: 1 pending monthly bill', '09294305350, MARILYN PADILLA: 2 pending monthly bills', '09694474674, MARIO SARAH B. GORRE: 1 pending monthly bill']
+[Success][10:17:43] : ['09092219744, MARISSA BASARTE: 2 pending monthly bills', '09059694133, MARK JAYSON LATORENO: 1 pending monthly bill', '09070266447, MARLO GARZON: 2 pending monthly bills']
+[Success][10:17:48] : ['09676843255, MARVIN B. DAYON: 3 pending monthly bills', '09363156144, MARY ANN O. BARDOS: 1 pending monthly bill', '09359327300, MARY GRACE CAÑADA: 1 pending monthly bill']
+[Success][10:17:53] : ['09064409088, MERCELITA ORALE: 1 pending monthly bill', '09125802423, MICHELLE D. REVILALA: 1 pending monthly bill', '09612245648, MILONA P. CAPANING: 2 pending monthly bills']
+[Success][10:17:58] : ['09488982660, MIRA J. LABANGCO: 2 pending monthly bills', '09269775099, NIEL A CANDIMATO: 1 pending monthly bill', '09700891789, ORLAND B. MANTUA (SECOND ACCOUNT): 1 pending monthly bill']
+[Success][10:18:03] : ['09700891789, ORLAND MANTUA: 1 pending monthly bill', '09700680245, PAT CHRISTIAN BORLASA: 2 pending monthly bills', '09125109323, PAUL JAMES ABREU: 1 pending monthly bill']
+[Success][10:18:08] : ['09120515430, PEARL VILLO: 2 pending monthly bills', '09230841233, PNP ( OLD STATION ) INTEL: 1 pending monthly bill', '09488067205, RAQUEL BELTRAN: 1 pending monthly bill']
+[Success][10:18:13] : ['09089338865, REA ROMANO BANOC: 1 pending monthly bill', '09535616243, RENA ANNE GUZMAN: 2 pending monthly bills', '09482467253, RENANTE A. SORONIO: 1 pending monthly bill']
+[Success][10:18:19] : ['09618865294, RENANTE PALACIO: 3 pending monthly bills', '09175603050, RENELOU CERILLA: 1 pending monthly bill', '09704511174, RENILDA CRANVEY: 1 pending monthly bill']
+[Success][10:18:24] : ['09305837900, REYNALDO C.GATOC: 2 pending monthly bills', '09058890829, RICHARD GUBATON: 2 pending monthly bills', '09464772922, RICHELLE GUBATON: 1 pending monthly bill']
+[Success][10:18:29] : ['09854531168, ROEL A. SULTAN JR.: 1 pending monthly bill', '09700552922, ROJEAN VILLAMOR MANAWATAO: 1 pending monthly bill', '09854301400, RONALD M. MERCADO: 2 pending monthly bills']
+[Success][10:18:34] : ['09758673104, ROSARIO ISRAEL: 1 pending monthly bill', '09351069643, ROSE ANN OLARTE: 1 pending monthly bill', '09855932296, ROSEMARIE C. QUIÑO: 2 pending monthly bills']
+[Success][10:18:39] : ['09855649817, ROWEN MAR CUYNO: 1 pending monthly bill', '09283367319, RUBY DAÑAS: 3 pending monthly bills', '09306766171, RUSSELL DOGUILES: 2 pending monthly bills']
+[Success][10:18:44] : ['09674122840, SAMPAGUITA MANUEL: 4 pending monthly bills', '09659725236, SAMUEL L. DAWAL JR.: 1 pending monthly bill', '09510404515, SARAH C. ALEONAR: 1 pending monthly bill']
+[Success][10:18:49] : ['09066916886, SHEINA MAI B. ORAPA: 1 pending monthly bill', '09772184425, SOCRATES V. MAGLAHUS: 1 pending monthly bill', '09759002687, STACY KEANA T LAO: 1 pending monthly bill']
+[Success][10:18:54] : ['09196132090, THELMA C.DAMICOG: 3 pending monthly bills', '09558811495, VICTOR E. TERO: 1 pending monthly bill', '09383210778, VIRGEL A. LUZON: 1 pending monthly bill']
+[Success][10:18:59] : ['09365595864, VIRNALYN C. LLANO: 1 pending monthly bill', '09067200376, WILFREDA AMARILLE: 1 pending monthly bill', '09531467782, WILLIAM SABANDO: 1 pending monthly bill']
+[Success][10:19:04] : ['09677005319, WILMA METORADA GARCIA: 1 pending monthly bill', '09125801506, ZAIDA DESIERTO: 1 pending monthly bill', '09392655799, ZIA FIRENZE R. DARGANTES: 1 pending monthly bill']
+
+[Advanced Records]:
+ACE WENDELL MAZO (SECOND ACCOUNT), 09455115835: Advanced payment of 1 month(s)
+ADELFA D. MADRIGAL, 09676483598: Advanced payment of 1 month(s)
+ADRIANA G. MELITON, 09676007370: Advanced payment of 1 month(s)
+ADRIELLE GAT REMELY CAMACHO, 09206014696: Advanced payment of 1 month(s)
+AIVIE MARIE ARANAS, 09350538264: Advanced payment of 1 month(s)
+AIZA R. LEONOR, 09317300184: Advanced payment of 1 month(s)
+AJESSICA PEROS, 09380082117: Advanced payment of 1 month(s)
+ALBERT NAYRE, 09285697670: Advanced payment of 1 month(s)
+ALDWIN SARSONAS, 09855829847: Advanced payment of 1 month(s)
+ALEJANDRO C. ABAY-ABAY, 09709945179: Advanced payment of 1 month(s)
+ALLAN ALAPANE, 09563768196: Advanced payment of 1 month(s)
+ALMA LOPEZ, 09654279141: Advanced payment of 1 month(s)
+ANA B. LUZON, 09510218046: Advanced payment of 1 month(s)
+ANA BERNADETTE REGINA L. CASTONES, 09317425885: Advanced payment of 1 month(s)
+ANALOU GALLEGO, 09854559152: Advanced payment of 1 month(s)
+ANALYN PULTA, 09120440560: Advanced payment of 1 month(s)
+ANECITA BAUTISTA, 09467134316: Advanced payment of 1 month(s)
+ANECITA L. SORIA, 09159666893: Advanced payment of 1 month(s)
+ANGELITO D. MIRATA, 09685497962: Advanced payment of 2 month(s)
+ANGIE MARK POLINAR, 09658445062: Advanced payment of 1 month(s)
+ANNABELLE NECIO, 09066279243: Advanced payment of 1 month(s)
+ANTHONY M. CERNA, 09647463598: Advanced payment of 1 month(s)
+ANTONIO MORALES JR., 09079017007: Advanced payment of 1 month(s)
+APPLE MILAN, 09816324554: Advanced payment of 1 month(s)
+APRIL L. BAREÑO, 09318367378: Advanced payment of 1 month(s)
+ARCADIO ROLA JR., 09913648268: Advanced payment of 1 month(s)
+ARCELINA D. PASTORIL, 09128632295: Advanced payment of 1 month(s)
+ARIEL FERNANDEZ, 09639644786: Advanced payment of 1 month(s)
+ARIEL WENCESLAO, 09515119911: Advanced payment of 1 month(s)
+ARLEN DIGMAN EEKHOF, 09295388590: Advanced payment of 1 month(s)
+ARLYN POLINAR, 09654278840: Advanced payment of 1 month(s)
+ARNULFO MANAGBANAG, 09263669556: Advanced payment of 1 month(s)
+BARANGAY HALL PLARIDEL, 09382752509: Advanced payment of 1 month(s)
+BENJAMIN BITAYO LUNGAY, 09268748337: Advanced payment of 1 month(s)
+BENVERTO LICAYAN, 09916019169: Advanced payment of 1 month(s)
+BETTY CANDILA, 09120425349: Advanced payment of 1 month(s)
+BOBBY CELLONA, 09275260282: Advanced payment of 1 month(s)
+BONJOVI FRUTAS, 09639607543: Advanced payment of 2 month(s)
+BRGY. G. MODINA ZONE-16, 09264456583: Advanced payment of 1 month(s)
+CAMILLE ROYCE ROA, 09125264341: Advanced payment of 1 month(s)
+CARIZA NIÑA LUMAKIN, 09317613103: Advanced payment of 1 month(s)
+CARL ANTHONY NAPOLES, 09617858262: Advanced payment of 1 month(s)
+CARLA EVELYN B.  BELARMINO, 09306766973: Advanced payment of 2 month(s)
+CARLITO C GUY-AB JR., 09927841459: Advanced payment of 1 month(s)
+CARLITO LIGAN, 09072920261: Advanced payment of 1 month(s)
+CARLO NAPOLES, 09946063727: Advanced payment of 1 month(s)
+CAROLINA C PORAZO, 09196976774: Advanced payment of 2 month(s)
+CATHIRINE UTOD, 09166655967: Advanced payment of 1 month(s)
+CATRINA D. BONGOT, 09539947620: Advanced payment of 1 month(s)
+CELSO D. ILO JR, 09487061989: Advanced payment of 1 month(s)
+CHARITO Y. DIZON, 09317295185: Advanced payment of 1 month(s)
+CHARLYN M. SALINAS, 09673521158: Advanced payment of 1 month(s)
+CHERYL D. DESADES, 09550788257: Advanced payment of 1 month(s)
+CHIPPY JEAN PRIMA, 09619681439: Advanced payment of 1 month(s)
+CHONA A. BASLAN, 09663022106: Advanced payment of 1 month(s)
+CHRIS GODOY, 09164289919: Advanced payment of 1 month(s)
+CHRISTIAN MASCARIOLA, 09706819821: Advanced payment of 1 month(s)
+COLEEN BERNAL, 09097182201: Advanced payment of 1 month(s)
+CONCEPCION SALVA, 09535616083: Advanced payment of 2 month(s)
+CONCHITA E. MAY, 09514703259: Advanced payment of 1 month(s)
+CONRADO IMPUESTO JR., 09685694033: Advanced payment of 1 month(s)
+CORAZON B. REJAS, 09515121105: Advanced payment of 1 month(s)
+CORAZON D. VELASCO, 09553218508: Advanced payment of 1 month(s)
+CORINA JOY L. MALATE, 09918558256: Advanced payment of 1 month(s)
+CRIS LINDIO, 09368252207: Advanced payment of 1 month(s)
+CRISANTO URBONA, 09265249560: Advanced payment of 1 month(s)
+CRISLYN B. PACAT, 09308849425: Advanced payment of 1 month(s)
+CRISTEEN L. CANO, 09667225980: Advanced payment of 1 month(s)
+CRISYIA MAE RONDERO, 09631948031: Advanced payment of 1 month(s)
+CYMBELIN P. TABARANZA, 09122192196: Advanced payment of 1 month(s)
+CYRIL LUIZ ARRADAZA, 09355494307: Advanced payment of 2 month(s)
+DAISY MAY CABALTERA, 09694474665: Advanced payment of 1 month(s)
+DAMIANA JOPIA, 09195078276: Advanced payment of 1 month(s)
+DANIEL FELISARIO, 09216771737: Advanced payment of 2 month(s)
+DANTE TITO, 09214146812: Advanced payment of 1 month(s)
+DAREN BALORO, 09453072590: Advanced payment of 1 month(s)
+DARWIN M. BANTASAN, 09859152453: Advanced payment of 1 month(s)
+DEARLY L.COMPENDIO, 09196184231: Advanced payment of 2 month(s)
+DEHRBEN G. FLORES, 09169511186: Advanced payment of 1 month(s)
+DHALIA RIALOU A. KAAGBAY, 09274382525: Advanced payment of 1 month(s)
+DIAMOND CONSTRUCTION SUPPLIES, 09855915131: Advanced payment of 1 month(s)
+DIANA G.TOYO, 09564794127: Advanced payment of 1 month(s)
+DIANE ESCALA, 09751389015: Advanced payment of 1 month(s)
+DICK I. EDILLON, 09632085738: Advanced payment of 1 month(s)
+DINA A.MONDAL, 09611825658: Advanced payment of 1 month(s)
+DIVINA BONGO, 09927112220: Advanced payment of 1 month(s)
+DIVINA D. DALAGAN, 09212219905: Advanced payment of 1 month(s)
+DULCISIMO D. MAJESTRADO JR., 09173006802: Advanced payment of 1 month(s)
+ED RYAN RELENTE, 09208607202: Advanced payment of 1 month(s)
+EDELIZA S. ULEP, 09074006488: Advanced payment of 1 month(s)
+EDELIZA S. ULEP (2ND ACCOUNT), 09074006488: Advanced payment of 1 month(s)
+EDELIZA ULEP (3RD ACCOUNT), 09074006488: Advanced payment of 1 month(s)
+EDGAR ROMANO SR., 09855146411: Advanced payment of 1 month(s)
+EDNA C. REMANDABAN, 09539862578: Advanced payment of 2 month(s)
+EDNA CORCINO, 09267993411: Advanced payment of 1 month(s)
+EDNA P. LUNGAY, 09811634172: Advanced payment of 1 month(s)
+EDUARD C. DACERA, 09754761676: Advanced payment of 1 month(s)
+EDUARDO'S FOOD HUB, 09493674426: Advanced payment of 1 month(s)
+EIMIE L BELMONTE, 09976678725: Advanced payment of 1 month(s)
+ELISA E. SIMPRON, 09650893541: Advanced payment of 1 month(s)
+ELISEA P. RELEVO, 09207926748: Advanced payment of 1 month(s)
+ELIZABETH MEJIA, 09916804052: Advanced payment of 1 month(s)
+EMELITA D. BUSTILLO, 09856245173: Advanced payment of 1 month(s)
+EMERITA MEJIA POGOY, 09916012756: Advanced payment of 1 month(s)
+EMMA M. YAP, 09295913342: Advanced payment of 1 month(s)
+ERIC BARBOSA, 09707449101: Advanced payment of 1 month(s)
+ERLINDA CUYNO, 09632673544: Advanced payment of 1 month(s)
+EULOGIA PELESCO GODMALING, 09073117516: Advanced payment of 1 month(s)
+EVA A. PAYNANDOS, 09363911531: Advanced payment of 1 month(s)
+EVANGELYN J. DAGUING, 09271911964: Advanced payment of 1 month(s)
+EVILENDA ARANAS, 09651778550: Advanced payment of 1 month(s)
+FE TUYAN ATIENZA, 09754762215: Advanced payment of 1 month(s)
+FECELESTE LORETO MATILLANO, 09078095283: Advanced payment of 1 month(s)
+FELIX ACOMPAÑADO, 09606559470: Advanced payment of 1 month(s)
+FELIX CINCO JR, 09283059005: Advanced payment of 1 month(s)
+FELIX M CINCO JR. 2ND ACCOUNT, 09518512874: Advanced payment of 1 month(s)
+FELIX TABARANZA, 09103539577: Advanced payment of 1 month(s)
+FERDRIC M. RIPALDA, 09519628344: Advanced payment of 1 month(s)
+FERNANDEZ AMOR CELESTE, 09619601949: Advanced payment of 1 month(s)
+FHEL MARK A. BOOC, 09754649207: Advanced payment of 1 month(s)
+FLORAMAY Q. BARCIAL, 09061191065: Advanced payment of 2 month(s)
+FRANKLINE LUZON, 09978406504: Advanced payment of 1 month(s)
+FRIEL SEIJE V NOPAL, 09317295206: Advanced payment of 1 month(s)
+GEMALYN G. BITAYO, 09604832865: Advanced payment of 2 month(s)
+GEMMA LAGMAY, 09513653312: Advanced payment of 1 month(s)
+GERALDINE BARBOSA, 09693615587: Advanced payment of 1 month(s)
+GIELANY PESALES, 09757713607: Advanced payment of 2 month(s)
+GINALYN D .BAÑOC, 09855916125: Advanced payment of 1 month(s)
+GLENDA D. MASBAD, 09489641429: Advanced payment of 1 month(s)
+GLENN CUEVA, 09916160680: Advanced payment of 2 month(s)
+GRACE D. CORTES, 09091621431: Advanced payment of 1 month(s)
+GRACE MAE TITO, 09214137150: Advanced payment of 1 month(s)
+GRACEL M. GORDON, 09510229035: Advanced payment of 1 month(s)
+GREGO LIBRES, 09369365810: Advanced payment of 2 month(s)
+GRENA RUBI RAZAGA, 09950024643: Advanced payment of 1 month(s)
+HANNA VIA L. GALGO, 09357942309: Advanced payment of 1 month(s)
+HAZEL E. LERIOS, 09854559146: Advanced payment of 1 month(s)
+HEDELIZA PERERO, 09512519220: Advanced payment of 1 month(s)
+HENRYL JOHN V. HECHANOVA, 09678205089: Advanced payment of 1 month(s)
+HERMELONA O. BULAWAN, 09279648998: Advanced payment of 1 month(s)
+HILDA PASAYLOON, 09978532813: Advanced payment of 1 month(s)
+HONEY MAEVE GALENZOGA, 09473941890: Advanced payment of 1 month(s)
+IRENE JOY D. REBUCAS, 09855142204: Advanced payment of 2 month(s)
+IRENIO ILO OPSIMAR, 09075591851: Advanced payment of 1 month(s)
+IRISH HAZEL L. CHIONG, 09996433036: Advanced payment of 1 month(s)
+IRISH VARRON, 09298837152: Advanced payment of 1 month(s)
+ISABEL ORAPA GONTIÑAS, 09632658593: Advanced payment of 1 month(s)
+IVY JUNE O MARTINEZ, 09104122775: Advanced payment of 1 month(s)
+JACQUELINE C. CUYA, 09380468101: Advanced payment of 1 month(s)
+JANETTE N. BAGUIO, 09120442218: Advanced payment of 1 month(s)
+JANIAFFE QUIRANTE BALBARINO, 09773452092: Advanced payment of 1 month(s)
+JARENEIL MELITON, 09504911203: Advanced payment of 1 month(s)
+JASSEL C. PELESCO, 09161693688: Advanced payment of 1 month(s)
+JAY B. VELAYO, 09455818557: Advanced payment of 1 month(s)
+JEAN ANN VITUALLA, 09638165691: Advanced payment of 1 month(s)
+JEE JEAN TORCINO, 09658333661: Advanced payment of 1 month(s)
+JEL B. YBANEZ, 09924245281: Advanced payment of 1 month(s)
+JEMAR A. FERNANDEZ, 09423354646: Advanced payment of 1 month(s)
+JEMILO CAGANDE, 09190880755: Advanced payment of 1 month(s)
+JENEFER BADIANGO, 09706819579: Advanced payment of 1 month(s)
+JENIFER A. DE GRACIA, 09308732487: Advanced payment of 1 month(s)
+JENIFFER ASIS, 09972076144: Advanced payment of 1 month(s)
+JEREMIAH ALVAREZ, 09161594672: Advanced payment of 1 month(s)
+JERRY D. TULANG, 09196986930: Advanced payment of 2 month(s)
+JESSICA G. SORIA, 09662546894: Advanced payment of 1 month(s)
+JHEY C ROSALES, 09631930738: Advanced payment of 1 month(s)
+JINGLE C. TAJO, 09983787975: Advanced payment of 1 month(s)
+JO-ANN P. ESCASINAS, 09066279446: Advanced payment of 1 month(s)
+JOAN S. ANAÑON, 09855839143: Advanced payment of 1 month(s)
+JOANN L.BENITEZ, 09271983928: Advanced payment of 1 month(s)
+JOANNA ELISA A.PARAISO, 09694896110: Advanced payment of 1 month(s)
+JOCELYN C SEGUBRE, 09854299568: Advanced payment of 2 month(s)
+JOEBER GLORIA, 09364155713: Advanced payment of 1 month(s)
+JOEL VILLANOSA BULAWAN, 09751873684: Advanced payment of 1 month(s)
+JOHN HARRY GONZAGA, 09637517852: Advanced payment of 1 month(s)
+JOHN MAURICE CORDOVA, 09926452356: Advanced payment of 1 month(s)
+JOHN MICHAEL BUTCON, 09207086143: Advanced payment of 1 month(s)
+JOHNJES ABELA, 09357998737: Advanced payment of 1 month(s)
+JOMAR CARBON, 09094331562: Advanced payment of 1 month(s)
+JONA M. FLORENTINO, 09515121450: Advanced payment of 1 month(s)
+JONALYN BUNGCARAS LARGO, 09352410957: Advanced payment of 1 month(s)
+JOSE ARNIE D. PASTORIL, 09756873360: Advanced payment of 1 month(s)
+JOSE CARLITO YU, 09632674030: Advanced payment of 1 month(s)
+JOSE ELMER V. ABAPO, 09551271483: Advanced payment of 1 month(s)
+JOSE ERMANDO POSTRERO GONZALES, 09518343774: Advanced payment of 1 month(s)
+JOSE ERMANDO POSTRERO GONZALES (SECOND ACCOUNT), 09518343774: Advanced payment of 1 month(s)
+JOSEPH ANGELO MASBAD, 09700680479: Advanced payment of 1 month(s)
+JOSEPHINE DE LA CERNA, 09095856984: Advanced payment of 1 month(s)
+JOSEPHINE JONDEZ, 09926452108: Advanced payment of 1 month(s)
+JOSEPHINE P. CORDOVA, 09706943610: Advanced payment of 1 month(s)
+JOSIE MAY PORTILLO, 09292626353: Advanced payment of 1 month(s)
+JOVANE MALIGMAT, 09657027274: Advanced payment of 1 month(s)
+JUANITO V. QUERO, 09171405806: Advanced payment of 1 month(s)
+JUES P. MILANO, 09069733518: Advanced payment of 1 month(s)
+JULITO MASBAD, 09056838116: Advanced payment of 1 month(s)
+JUN CAPA, 09455378488: Advanced payment of 1 month(s)
+JUNARIZA ROLA, 09973244555: Advanced payment of 1 month(s)
+JUNE SAMS, 09563626552: Advanced payment of 2 month(s)
+JUNREY F PAGALAN, 09501587597: Advanced payment of 1 month(s)
+JUSTINO EYAS, 09486664113: Advanced payment of 1 month(s)
+JUVILYN D. PATIGDAS, 09631230659: Advanced payment of 1 month(s)
+KIM S. MUNDALA, 09094909189: Advanced payment of 1 month(s)
+KIMBERLY M. DECENA, 09481180801: Advanced payment of 1 month(s)
+KIRONG PABLO  JR., 09053512506: Advanced payment of 1 month(s)
+KNARF NAVE ENRIQUEZ, 09066082489: Advanced payment of 1 month(s)
+LALAINE C. TROYO, 09273024280: Advanced payment of 1 month(s)
+LEOCADIO ONTUCA ANGEL JR., 09365584387: Advanced payment of 1 month(s)
+LEODAN L. VALENCIA, 09485335410: Advanced payment of 1 month(s)
+LEONILO ABREO KINGCO, 09298668960: Advanced payment of 1 month(s)
+LEONISA P PIASTRO, 09515005001: Advanced payment of 1 month(s)
+LEONORA C MAPUTI, 09674271920: Advanced payment of 1 month(s)
+LEONORA CABLITAS MAPUTI 2ND ACCOUNT, 09674271920: Advanced payment of 2 month(s)
+LERMA IMPANG, 09753339620: Advanced payment of 1 month(s)
+LIEZEL MOLINA AGARAO, 09161184206: Advanced payment of 1 month(s)
+LIEZYL C. SANO, 09351470991: Advanced payment of 1 month(s)
+LIGAYA O. DUMAGUING, 09073499761: Advanced payment of 1 month(s)
+LORETO C. ABACAHIN JR., 09612413085: Advanced payment of 1 month(s)
+LOURDES FRANCISCO ARCEÑA, 09124607738: Advanced payment of 1 month(s)
+LUED Y. VITERBO, 09922601651: Advanced payment of 1 month(s)
+LUISITO GALADO PAYOT, 09773603017: Advanced payment of 1 month(s)
+MAE PIAMONTE ELORDE, 09265451259: Advanced payment of 1 month(s)
+MAFELIA S. ABAYA, 09502538139: Advanced payment of 1 month(s)
+MAGDALENA SURALTA TORING, 09515111740: Advanced payment of 1 month(s)
+MAHUSAY RONELO, 09307692063: Advanced payment of 1 month(s)
+MANILYN BAÑOC NAYRE, 09202734751: Advanced payment of 1 month(s)
+MARCOS ALVARADO, 09705368435: Advanced payment of 1 month(s)
+MARGIE MENDEZ, 09465575832: Advanced payment of 1 month(s)
+MARI LOU V.GRAVINEZ, 09324124869: Advanced payment of 1 month(s)
+MARIA CHRISTINA PONSUA, 09924016784: Advanced payment of 1 month(s)
+MARIA CRISTINA LAURENTE, 09307834814: Advanced payment of 2 month(s)
+MARIA DALISAY ISIDERA, 09190809925: Advanced payment of 1 month(s)
+MARIA ELLEN C. MACASIO, 09551423933: Advanced payment of 2 month(s)
+MARIA LIEZEL BORLASA, 09816321629: Advanced payment of 1 month(s)
+MARIA LOURDES T. GORRE, 09606647772: Advanced payment of 1 month(s)
+MARIA TERESA LOSA, 09709266437: Advanced payment of 1 month(s)
+MARIA VICTORIA B NUÑEZ, 09631948342: Advanced payment of 1 month(s)
+MARIA VICTORIA L. CALUNGSOD, 09120426221: Advanced payment of 2 month(s)
+MARIBEL E. LAGAHIT, 09058882007: Advanced payment of 1 month(s)
+MARIBEL R. CALUTAN, 09982722452: Advanced payment of 1 month(s)
+MARICAR PASTORIL, 09610178134: Advanced payment of 1 month(s)
+MARIFE A. FREY, 09233962802: Advanced payment of 1 month(s)
+MARIFE L. ARRADAZA, 09352411484: Advanced payment of 1 month(s)
+MARILYN B. ROQUEL, 09368250644: Advanced payment of 1 month(s)
+MARILYN VALENZONA, 09514861855: Advanced payment of 2 month(s)
+MARIVIC SERUDO, 09702933293: Advanced payment of 1 month(s)
+MARJORIE GARCIA, 09466957515: Advanced payment of 1 month(s)
+MARLO PONDOLANAN, 09815499850: Advanced payment of 1 month(s)
+MARLYN CABUNCAL, 09700877924: Advanced payment of 2 month(s)
+MARVELYN ABERGIDO, 09687214752: Advanced payment of 1 month(s)
+MARY JADE GALENZOGA, 09677030581: Advanced payment of 1 month(s)
+MARY JANE ESCASINAS, 09206995073: Advanced payment of 1 month(s)
+MARY JEAN CAAYUHAN, 09485105852: Advanced payment of 1 month(s)
+MARY JOY CONSULTADO, 09942432536: Advanced payment of 1 month(s)
+MARY ROSE PADILLA, 09514825515: Advanced payment of 1 month(s)
+MARYJANE P. DACERA, 09128696498: Advanced payment of 1 month(s)
+MATILDE T. MANTUA, 09500403112: Advanced payment of 1 month(s)
+MAVERICK SANTOS, 09085049088: Advanced payment of 1 month(s)
+MAY ANN M. BAÑOC, 09976672602: Advanced payment of 1 month(s)
+MAY ANN NAPOLES, 09815304121: Advanced payment of 1 month(s)
+MAYCAELA ENGUITO, 09512567798: Advanced payment of 1 month(s)
+MAYLEN HILARDO MAGTAHAS, 09076785611: Advanced payment of 1 month(s)
+MAYSHELL DUMANDAN MEJIA, 09481571653: Advanced payment of 2 month(s)
+MELONA BRAZIL, 09638051413: Advanced payment of 1 month(s)
+MELONA BRAZIL (2ND ACCOUNT), 09638051413: Advanced payment of 1 month(s)
+MERBITH MOLO, 09489490372: Advanced payment of 1 month(s)
+MERLYN DE LOS NIEVES, 09171057792: Advanced payment of 1 month(s)
+MICHELLE Y. LIBRES, 09283599843: Advanced payment of 1 month(s)
+MIKE  T. MANTUA, 09631948308: Advanced payment of 1 month(s)
+MILEROSE B. CORPEZ, 09413253004: Advanced payment of 1 month(s)
+MINERVA M MASIK, 09066785737: Advanced payment of 1 month(s)
+NANETTE P. PERNITES, 09317425799: Advanced payment of 1 month(s)
+NARCISO M. TULANG, 09480608778: Advanced payment of 1 month(s)
+NATHANIEL DAVE KATIGBE, 09464354033: Advanced payment of 1 month(s)
+NECIRATA C. ISRAEL, 09535125634: Advanced payment of 1 month(s)
+NELLY BONGO, 09385079015: Advanced payment of 1 month(s)
+NELSON T. DAWAL, 09321464122: Advanced payment of 2 month(s)
+NERISSA D.LIMPANGOG, 09551302073: Advanced payment of 1 month(s)
+NERIZA G. ORTEGA, 09606558932: Advanced payment of 1 month(s)
+NESTIAN LOBITAÑA, 09510220552: Advanced payment of 1 month(s)
+NESTOR M. BARCIAL, 09125083651: Advanced payment of 1 month(s)
+NESTOR M. DUMANDAN, 09653215736: Advanced payment of 1 month(s)
+NESTOR M. VILLOS, 09168890385: Advanced payment of 1 month(s)
+NESTY B. AGUILAN, 09171650440: Advanced payment of 1 month(s)
+NICHOLAS R. GRANADA, 09976676899: Advanced payment of 1 month(s)
+NOAH B. MEJORADA, 09817761565: Advanced payment of 1 month(s)
+NOEL B. MASBAD, 09309732718: Advanced payment of 2 month(s)
+NOEL LIMPANGOG, 09268748337: Advanced payment of 1 month(s)
+OLE MAE C. PALMITOS, 09510905530: Advanced payment of 1 month(s)
+ORLY M. PAINAGAN, 09855893821: Advanced payment of 1 month(s)
+PATRICIO CELLONA, 09157088001: Advanced payment of 1 month(s)
+PERLA GLORIA, 09481383541: Advanced payment of 1 month(s)
+PHILIPP JOHN L. QUINTO, 09936475733: Advanced payment of 1 month(s)
+PRINCE EARL ALMENDRA, 09639774588: Advanced payment of 1 month(s)
+RAIZEL ANN D. TAN, 09473983422: Advanced payment of 1 month(s)
+RAMIL MAZO, 09269953326: Advanced payment of 1 month(s)
+RAMONINA QUERO APAS, 09173090454: Advanced payment of 1 month(s)
+RAY STA. IGLESIA VALENCIA, 09075128619: Advanced payment of 1 month(s)
+RAZEL MAE B. RAMIREZ, 09622443138: Advanced payment of 1 month(s)
+REA MAE GRANADA, 09971493717: Advanced payment of 1 month(s)
+RECHELLE ANN ORAPA, 09317613120: Advanced payment of 1 month(s)
+REGIN ROSE S.ARONDAIN, 09085574815: Advanced payment of 1 month(s)
+REMEDIES T. CAMACHO, 09283059139: Advanced payment of 1 month(s)
+RENE GOJOCO, 09484846639: Advanced payment of 1 month(s)
+RESCEL PATIGDAS, 09856245131: Advanced payment of 1 month(s)
+REUJI MIDORIKAWA, 09067468762: Advanced payment of 1 month(s)
+REX JESUN DELABAJAN, 09502499917: Advanced payment of 1 month(s)
+REYBOY B. DELCORO, 09639607543: Advanced payment of 2 month(s)
+REYNALDO L. MALAQUE, 09306309229: Advanced payment of 1 month(s)
+REYNALINDA JAGUNOS GUETA, 09383624269: Advanced payment of 1 month(s)
+RHEA VILMA LONTO, 09498916878: Advanced payment of 1 month(s)
+RHONNAH FLANCO, 09174578005: Advanced payment of 1 month(s)
+RICARDO G. AYUBAN, 09677005314: Advanced payment of 1 month(s)
+RICARDO H. VITUALLA III, 09513799901: Advanced payment of 1 month(s)
+RICHARD P. PAÑA, 09502535890: Advanced payment of 1 month(s)
+RICHARD PORAZO BALBARINO, 09360238189: Advanced payment of 1 month(s)
+RICKY BRAZIL, 09559658571: Advanced payment of 1 month(s)
+RITCHELLE ACILO IBAÑEZ, 09302450244: Advanced payment of 1 month(s)
+RIZIEL MAY MANAGBANAG, 09854573614: Advanced payment of 1 month(s)
+ROBERTO L. CELLONA, 09275260282: Advanced payment of 1 month(s)
+ROGELIO S. HERBOLINGO JR., 09773878180: Advanced payment of 1 month(s)
+ROGIELYN BASTE, 09563076126: Advanced payment of 2 month(s)
+ROLAND BACALSO JR., 09491557658: Advanced payment of 1 month(s)
+ROLANDO DE GRACIA SR., 09754782545: Advanced payment of 1 month(s)
+ROLDAN BUSTILLO, 09207276985: Advanced payment of 1 month(s)
+ROMAREEN KAYCEE CAPITULO, 09639171586: Advanced payment of 1 month(s)
+ROMELO L. BRIONES, 09094967752: Advanced payment of 1 month(s)
+ROMEO DUMANDAN, 09058567020: Advanced payment of 1 month(s)
+ROMEO SUMILHIG, 09305716222: Advanced payment of 1 month(s)
+ROMULO CAWALING SR., 09067843872: Advanced payment of 1 month(s)
+ROSALIE H. ESTRADA, 09682604989: Advanced payment of 1 month(s)
+ROSANA ALFORQUE, 09078095283: Advanced payment of 1 month(s)
+ROSE ANGEL REBOLLOS, 09650525900: Advanced payment of 1 month(s)
+ROSELYN NAVARROSA, 09505485642: Advanced payment of 1 month(s)
+ROSEMARIE G RISOS, 09066113016: Advanced payment of 2 month(s)
+ROSIELYN O. MASON, 09690476424: Advanced payment of 1 month(s)
+ROSO S. LOTERTE, 09464697457: Advanced payment of 1 month(s)
+ROVELYN ABERGIDO, 09706943683: Advanced payment of 1 month(s)
+ROXANNE MAIA F. CORPUZ, 09395843850: Advanced payment of 2 month(s)
+RUBYLYN M. GURA, 09105503554: Advanced payment of 1 month(s)
+RUEL CORTES, 09451635638: Advanced payment of 1 month(s)
+RUELITO L. APIPI, 09513646123: Advanced payment of 1 month(s)
+RUTHSEN CAÑETE, 09502997828: Advanced payment of 1 month(s)
+SALOME T. DAWAL, 09518522401: Advanced payment of 1 month(s)
+SHANE LYKA P. GO, 09856339484: Advanced payment of 1 month(s)
+SHARMAINE DARGANTES, 09631860356: Advanced payment of 1 month(s)
+SIEVEN CORPEZ, 09679186611: Advanced payment of 1 month(s)
+SIMEON D. ABREU, 09700683470: Advanced payment of 1 month(s)
+SKYRHEL ARCENAL (2ND ACCOUNT), 09610179317: Advanced payment of 1 month(s)
+SKYRHEL S. ARCENAL, 09856245131: Advanced payment of 1 month(s)
+SONIA JABINEZ DAWAL, 09535292578: Advanced payment of 2 month(s)
+SONNY REBUYAS LAPESEROS, 09651333353: Advanced payment of 1 month(s)
+SOVELYN TORILLO, 09303636377: Advanced payment of 1 month(s)
+STELLA PRADO, 09540499194: Advanced payment of 1 month(s)
+STEPHENE L. LUTA, 09308848781: Advanced payment of 1 month(s)
+TENESSIE P. POLISTICO, 09755400746: Advanced payment of 1 month(s)
+TEODORICO S. SEGUBRE JR., 09622435470: Advanced payment of 1 month(s)
+TERESITA L. BAIÑO, 09263557250: Advanced payment of 1 month(s)
+THELMA MECATE, 09169178614: Advanced payment of 1 month(s)
+THELMA POLO APAS, 09356285511: Advanced payment of 1 month(s)
+THELMA SURALTA, 09061177240: Advanced payment of 1 month(s)
+TOMAS CAIDLANG JR., 09656831078: Advanced payment of 1 month(s)
+ULDARICO GARCIA SR, 09982527209: Advanced payment of 1 month(s)
+VANESSA MAE D. VASQUEZ, 09311602637: Advanced payment of 1 month(s)
+VANESSA MAE XY-ZA D. LABRIA, 09856186938: Advanced payment of 2 month(s)
+VIA MHAR RODRIGUEZ, 09285696037: Advanced payment of 1 month(s)
+VICKY CHIU, 09614545400: Advanced payment of 1 month(s)
+VICKY ORAPA, 09972588476: Advanced payment of 1 month(s)
+VICTOR M MABANTO, 09265909625: Advanced payment of 1 month(s)
+VIRGINIA VELOSO, 09975068411: Advanced payment of 1 month(s)
+WAYNE P. GUNHURAN, 09265129391: Advanced payment of 2 month(s)
+YULECITO CORAZA, 09077095324: Advanced payment of 1 month(s)
+
+[Rejected Records]:
+FLORA MANTUA, 091699881076: Invalid Contact Number
+PROSECUTOR'S OFFICE/ LGU BAYBAY, 563-7740: Invalid Contact Number
+
+
+
+05/10/2024 - 11:57:03
+FTTH Monthly Notification
+Branch : Queens Link - Sogod
+Message : Hello, as of May 2024, you have # pending monthly bills. Contact us at 09198603662 or on our Facebook page. By Queens Link - Sogod.
+[Success][11:57:03] : ['09709010617, ABADIAH PELAEZ: 2 pending monthly bills', '09063949918, ABGAO ELEMENTARY SCHOOL: 1 pending monthly bill', '09485929691, ACTIVATION MACHINE/ FELIX GOC-ONG JR: 3 pending monthly bills']
+[Success][11:57:08] : ['09362704063, ADELA MOYA #2: 3 pending monthly bills', '09206062964, ADORA O. AMBI: 1 pending monthly bill', '09302430043, ADRIAN LAUSA: 2 pending monthly bills']
+[Success][11:57:13] : ['09708090524, AILEEN D. DESUCATAN: 1 pending monthly bill', '09065956258, AISA MAE  D. MICULOB: 2 pending monthly bills', '09686572545, AIZA MAE PANAL: 1 pending monthly bill']
+[Success][11:57:18] : ['09635660789, AIZA P. MINA: 1 pending monthly bill', '09656928633, AIZA R. TIEMPO: 2 pending monthly bills', '09488550245, ALAN A. BENDULO: 3 pending monthly bills']
+[Success][11:57:23] : ['09757125658, ALBERTO CASTORICO: 2 pending monthly bills', '09706816941, ALBETH MAY M. BERNALES: 1 pending monthly bill', '09066057392, ALDRIN BALIWAG: 1 pending monthly bill']
+[Success][11:57:28] : ['09264960079, ALDWIN C. ASTILLO: 1 pending monthly bill', '09678501591, ALEJA DANIORCO: 1 pending monthly bill', '09651282796, ALEXANDER RUFIN: 3 pending monthly bills']
+[Success][11:57:33] : ['09106949997, ALEXIS MAE S. JACOBE: 1 pending monthly bill', '09367809166, ALEXIS R. SIERVO: 3 pending monthly bills', '09776407936, ALFREDO GARCIANO: 2 pending monthly bills']
+[Success][11:57:38] : ['09060530264, ALICIA A TOLIBAS: 2 pending monthly bills', '09385051062, ALLAN A. CABILAO: 1 pending monthly bill', '09174535079, ALLAN AGAPAY: 1 pending monthly bill']
+[Success][11:57:43] : ['09467041396, ALLAN VELARDE: 1 pending monthly bill', '09178438748, ALMA O. LEYES #1: 2 pending monthly bills', '09178438748, ALMA O. LEYES #2: 2 pending monthly bills']
+[Success][11:57:48] : ['09308186259, ALMALYN LICAY: 1 pending monthly bill', '09653609122, ALMIRA C. MERO: 2 pending monthly bills', '09296741162, ALONA VALLINAS (NEW): 1 pending monthly bill']
+[Success][11:57:53] : ['09306822602, ALTHEA DAWN A. MORDENO: 2 pending monthly bills', '09679164203, ALTHER ABARCA: 2 pending monthly bills', '09562436995, ALVIE LORNA O. COMBATE: 3 pending monthly bills']
+[Success][11:57:58] : ['09603643465, ALVIN C. HINAY: 1 pending monthly bill', '09057183919, ALVIN GOHIL: 2 pending monthly bills', '09619282850, AMADEO B. SUMAYA: 3 pending monthly bills']
+[Success][11:58:03] : ['09258626313, AMALIA G. MACO: 2 pending monthly bills', '09926751779, AMELITA C. TALISAYSAY: 2 pending monthly bills', '09512122242, AMELYN-L-TRIGO #2: 1 pending monthly bill']
+[Success][11:58:08] : ['09675483259, AMIE MONTEDERAMOS: 1 pending monthly bill', '09125692131, AMOR O. DIAPOLET: 1 pending monthly bill', '09502552060, AMPILA SABILLO: 2 pending monthly bills']
+[Success][11:58:13] : ['09975127364, ANA MARIA QUIJANO: 2 pending monthly bills', '09638411562, ANA VILLA MORGA: 2 pending monthly bills', '09557265239, ANABELIA CABAHUG: 1 pending monthly bill']
+[Success][11:58:18] : ['09631861440, ANABELLE BALURAN: 2 pending monthly bills', '09513429417, ANABELLE YUSON: 3 pending monthly bills', '09060569763, ANALIE N. SIMANGCA: 2 pending monthly bills']
+[Success][11:58:23] : ['09120358064, ANALISA FUNAKOSHI: 1 pending monthly bill', '09971458487, ANALIZA DUMAGAT: 1 pending monthly bill', '09673522565, ANALIZA MANAUG: 3 pending monthly bills']
+[Success][11:58:28] : ['09165347212, ANASTACIA GESULGA: 1 pending monthly bill', '09260388237, ANDRELO C. CABARRUBIAS: 1 pending monthly bill', '09308609768, ANGEL MAE V. ARNAIZ: 1 pending monthly bill']
+[Success][11:58:33] : ['09771023879, ANGELI OTERO: 1 pending monthly bill', '09465310832, ANGELICA TRIGO: 1 pending monthly bill', '09120719976, ANGELIE PAYOT: 3 pending monthly bills']
+[Success][11:58:39] : ['09608244662, ANGELITO GUZMANA: 3 pending monthly bills', '09392663273, ANGIE BAG-AO: 1 pending monthly bill', '09285453310, ANICETO PEDRERA (NEW): 2 pending monthly bills']
+[Success][11:58:44] : ['09691893699, ANNA LIZA BAG-AO: 1 pending monthly bill', '09291618755, ANNABELLE B. CAROLINO 2: 1 pending monthly bill', '09182151903, ANNABELLE D. MONTE DE RAMOS: 2 pending monthly bills']
+[Success][11:58:49] : ['09619244212, ANNALIZA POL: 1 pending monthly bill', '09095613153, ANNALYN C. DANGCALAN: 3 pending monthly bills', '09073625852, ANSELMA C. RUBIO: 2 pending monthly bills']
+[Success][11:58:54] : ['09306901055, ANTERO HINAUTAN JR.,: 3 pending monthly bills', '09677983969, ANTONIA SAGUE: 3 pending monthly bills', '09971459277, ANTONIO BACALLA: 3 pending monthly bills']
+[Success][11:58:59] : ['09275509665, ANTONIO D. ESPINA JR.: 1 pending monthly bill', '09468055690, ANTONIO D. GESULGA JR: 3 pending monthly bills', '09954045104, ANTONIO GRACIA O. FELICILDA: 2 pending monthly bills']
+[Success][11:59:04] : ['09565929996, ANTONIO M. LEYES: 2 pending monthly bills', '09105028890, APOLONIA BERNALES-2: 1 pending monthly bill', '09061762782, APRIL LYN MORILLO: 1 pending monthly bill']
+[Success][11:59:09] : ['09630745112, ARCHIE PANGAN: 1 pending monthly bill', '09108663549, AREL RIVERA: 1 pending monthly bill', '09513666536, ARGEN A. ALVAR: 1 pending monthly bill']
+[Success][11:59:14] : ['09069638862, ARIANNE JANE L. DELEGENCIA: 2 pending monthly bills', '09817763372, ARIANNE JOY Y. CANON: 2 pending monthly bills', '09756810780, ARIEL D. LAWAG: 3 pending monthly bills']
+[Success][11:59:19] : ['09551138547, ARLENE MATULIN: 3 pending monthly bills', '09052996218, ARMIE DOCENA: 1 pending monthly bill', '09075424084, ARNEL DAGATAN: 3 pending monthly bills']
+[Success][11:59:24] : ['09175225037, ARNEL GULTIANO FAELNAR: 1 pending monthly bill', '09619680094, ARNOLFO LLEVE: 1 pending monthly bill', '09559710113, ARTEMIO SURALTA: 1 pending monthly bill']
+[Success][11:59:29] : ['09274475121, ARVEN MARTE: 1 pending monthly bill', '09554750089, ASUNCION DANGCALAN: 1 pending monthly bill', '09812860636, AURELIA N. LAWAS: 1 pending monthly bill']
+[Success][11:59:34] : ['09319710616, AURELIA TOMAUB: 3 pending monthly bills', '09175746911, AVELYN PIA B. BACALLA: 5 pending monthly bills', '09175746911, AVELYN PIA B. BACALLA-2: 5 pending monthly bills']
+[Success][11:59:39] : ['09129077594, AZOR M. ALMEDA: 1 pending monthly bill', '09287806094, BEATRIZ GONO: 1 pending monthly bill', '09066846607, BEBIE LILETH AMIZONA: 1 pending monthly bill']
+[Success][11:59:44] : ['09983002615, BERNADETTE BESANDE: 1 pending monthly bill', '09700232387, BERNADITH MAYMAY: 1 pending monthly bill', '09690360167, BERNARD AGUSTIN ADORACION: 3 pending monthly bills']
+[Success][11:59:49] : ['09187887800, BERNARDINA L. JABONILLO: 1 pending monthly bill', '09665415944, BERNETA V. SERENIO: 2 pending monthly bills', '09973668540, BETELINO AMIGO: 1 pending monthly bill']
+[Success][11:59:54] : ['09950086329, BETTY ONGCOY: 2 pending monthly bills', '09614670100, BIENVENIDA C. SERIT: 1 pending monthly bill', '09355090560, BOBBY M. IGNACIO: 1 pending monthly bill']
+[Success][11:59:59] : ['09494945945, BOBBY TORTOR: 2 pending monthly bills', '09757707863, BOIE DAVE MARC O. PAGSIAT: 1 pending monthly bill', '09096056805, BONIFACIO G. CENIZA: 1 pending monthly bill']
+[Success][12:00:04] : ['09308965572, BONIFACIO MANATAD: 2 pending monthly bills', '09709010716, BONNIE L. TABUADA: 1 pending monthly bill', '09611604211, BRENDA LAGUNDA: 2 pending monthly bills']
+[Success][12:00:09] : ['09774455275, BREX LACIERDA: 2 pending monthly bills', '09555062218, BRGY. BOGO T.O.: 5 pending monthly bills', '09554750929, BRGY. PANDAN COUNCIL: 3 pending monthly bills']
+[Success][12:00:14] : ['09685496621, BRGY. PASIL/ANTONIO A. CALINOG JR: 1 pending monthly bill', '09054020193, BRINDALYN C. BELOY: 2 pending monthly bills', '09397872983, BRYAN ELTREY C. GALOLO: 1 pending monthly bill']
+[Success][12:00:19] : ['09753273235, CALVIN ROBLES ANG: 1 pending monthly bill', '09750067110, CAMILO BORJA CAÑON JR: 2 pending monthly bills', '09175610074, CAMILO N. LANGUB: 2 pending monthly bills']
+[Success][12:00:24] : ['09064219320, CANDIDO J. POL JR #2: 3 pending monthly bills', '09695071399, CARLO L. CUALBAR: 2 pending monthly bills', '09451855867, CARLOS GORDUIZ JR: 1 pending monthly bill']
+[Success][12:00:29] : ['09176855602, CARLOS OBUS: 3 pending monthly bills', '09559715093, CARMAE HALLMARK: 3 pending monthly bills', '09771617114, CARMELITO MANAUG-: 1 pending monthly bill']
+[Success][12:00:34] : ['09104712580, CARMELO ESCLAMADO: 3 pending monthly bills', '09557729297, CARMEN BUTAD DE VEYRA: 2 pending monthly bills', '09269054442, CAROLINA ONTING: 1 pending monthly bill']
+[Success][12:00:39] : ['09619496217, CAROLINA T. MAXINO: 2 pending monthly bills', '09760127974, CASTRENCE PALEN: 3 pending monthly bills', '09639641938, CATALINA M. LAGATIERRA: 1 pending monthly bill']
+[Success][12:00:44] : ['09533957636, CATALINO JADOC: 1 pending monthly bill', '09955990801, CATHERINE CORTEL: 2 pending monthly bills', '09317436153, CEBUANA LHUILLER PAWNSHOP T.O: 1 pending monthly bill']
+[Success][12:00:49] : ['09653652196, CECELIA REQUILLAS: 2 pending monthly bills', '09176860152, CECIL C. MASIAR: 1 pending monthly bill', '09397882304, CECILIA L. CAHAYAG #2: 1 pending monthly bill']
+[Success][12:00:54] : ['09760044166, CED KRISTELL ANN C. SIEGA: 2 pending monthly bills', '09465890408, CERILO CATOCTOCANAN: 1 pending monthly bill', '09502957868, CESAR SUSON: 1 pending monthly bill']
+[Success][12:00:59] : ['09554704957, CESAR TIMOG JR: 1 pending monthly bill', '09984902193, CESARIA TODAVIA: 1 pending monthly bill', '09639487900, CHAMONILE O. ANCIANO #2: 2 pending monthly bills']
+[Success][12:01:04] : ['09359723013, CHAMPION HYDRAULIC HOSE INDUSTRIAL SALES CORP.: 1 pending monthly bill', '09365157485, CHARISA SEMBRANO: 1 pending monthly bill', '09157991146, CHARISE FAELNAR: 1 pending monthly bill']
+[Success][12:01:09] : ['09564006770, CHARITO CHIONG: 3 pending monthly bills', '09515118200, CHARITO TINDUGAN: 3 pending monthly bills', '09169461337, CHARLENE B. ATON: 2 pending monthly bills']
+[Success][12:01:14] : ['09355816228, CHARLENE B. MERQUITA: 1 pending monthly bill', '09204378002, CHARLENE BERNALES: 2 pending monthly bills', '09672102369, CHARLIE FLORES: 1 pending monthly bill']
+[Success][12:01:19] : ['09368537710, CHARLINE LARONA: 1 pending monthly bill', '09759943892, CHARLOTTE P. APIAG: 3 pending monthly bills', '09759943892, CHARLOTTE P. APIAG #2: 2 pending monthly bills']
+[Success][12:01:24] : ['09161700047, CHARMAGNE ANGELIE CASILI: 1 pending monthly bill', '09502495692, CHARNATE I. GARCIA #1: 1 pending monthly bill', '09518028013, CHARVIC L. DUMANDAN: 1 pending monthly bill']
+[Success][12:01:29] : ['09632675252, CHERILYN T. ESPINA: 3 pending monthly bills', '09684565203, CHERLITA L. IGCAS: 1 pending monthly bill', '09156575226, CHERRY FE MORANO: 3 pending monthly bills']
+[Success][12:01:34] : ['09098518452, CHERRY T. SIONGCONG.: 1 pending monthly bill', '09357952501, CHLOE ARCELI N. MORALES: 3 pending monthly bills', '09284661830, CHONA T. KAWAZU: 1 pending monthly bill']
+[Success][12:01:39] : ['09619187438, CHRISANTO M. FUENTES: 1 pending monthly bill', '09774041304, CHRISTIAN AVES: 2 pending monthly bills', '09978757588, CHRISTINE CASILI: 2 pending monthly bills']
+[Success][12:01:44] : ['09389090937, CHRISTINE ESTRELLA: 1 pending monthly bill', '09770837546, CHRISTINE JOY RIN: 2 pending monthly bills', '09565068906, CHRISTOPHER CONCHA: 1 pending monthly bill']
+[Success][12:01:49] : ['09384030380, CHRISTOPHER L. PENTIN: 2 pending monthly bills', '09350639391, CIDDY JEM MONTEMAYOR: 2 pending monthly bills', '09466764462, CINDY CUARTO: 1 pending monthly bill']
+[Success][12:01:55] : ['09675644921, CINEMAR TRADERS INC: 1 pending monthly bill', '09709009072, CLAIRE A. SANICO: 2 pending monthly bills', '09558692679, CLAIRE ANI: 1 pending monthly bill']
+[Success][12:02:00] : ['09606629159, CLARIZZE HERMOGINO #NEW: 2 pending monthly bills', '09501455044, CLAUDIA C. TAN: 2 pending monthly bills', '09355195593, CLAVEL R. ROMA: 3 pending monthly bills']
+[Success][12:02:05] : ['09495720400, CLEMENTE H. COBILLA: 3 pending monthly bills', '09631169078, CONCEPCION ELEMENTARY SCHOOL-MALITBOG: 1 pending monthly bill', '09569848229, CONCHITA ALDAVE: 2 pending monthly bills']
+[Success][12:02:10] : ['09991393886, CONNIE A. ABARICO: 2 pending monthly bills', '09389091886, CONSOLACION M. LAMOSTE: 3 pending monthly bills', '09317313931, CONSUELO SUMBISE: 2 pending monthly bills']
+[Success][12:02:15] : ['09153383814, CORAZON BESANDE: 1 pending monthly bill', '09061782199, CORDILIO B. ANDUYAN: 1 pending monthly bill', '09674361479, CRISAN SOLANA (NEW): 1 pending monthly bill']
+[Success][12:02:20] : ['09552504509, CRISDE CABARRUBIAS: 1 pending monthly bill', '09307779327, CRISELDA CINCO BONGCAYAO: 2 pending monthly bills', '09972411378, CRISTINA O. ROSIOS: 1 pending monthly bill']
+[Success][12:02:25] : ['09661476463, CRISTINE BALURAN: 1 pending monthly bill', '09604679342, CRISTITA S. ABREA: 1 pending monthly bill', '09361203064, CRISTOBAL MORANO: 1 pending monthly bill']
+[Success][12:02:30] : ['09264455948, CRISTY B. MACEDA: 1 pending monthly bill', '09973675764, CULBERT G. MINOR: 2 pending monthly bills', '09152673664, CYNTHIA M. AMORA: 3 pending monthly bills']
+[Success][12:02:35] : ['09539866726, CYRIL C. CENIA: 2 pending monthly bills', '09173117914, CYRILENE CAROLINO: 1 pending monthly bill', '09082891162, CYRINE HERNANDEZ BAUTISTA: 2 pending monthly bills']
+[Success][12:02:40] : ['09178747675, DAHLIA MAPUTI: 2 pending monthly bills', '09184043279, DAINE C. RINGER: 1 pending monthly bill', '09564151131, DAISY AJOC: 2 pending monthly bills']
+[Success][12:02:45] : ['09169060717, DAISY C. GABRIEL: 3 pending monthly bills', '09063112190, DANICA FAITH CASILE: 3 pending monthly bills', '09095052948, DANICA MARIE B. GUMANIT: 1 pending monthly bill']
+[Success][12:02:50] : ['09761176275, DANICA MARIE B. GUMANIT #2: 1 pending monthly bill', '09361701488, DANIEL DARYL DUBLADO: 1 pending monthly bill', '09959577685, DANILO A. BACUS: 1 pending monthly bill']
+[Success][12:02:55] : ['09569264414, DANILO CAG-ONG: 1 pending monthly bill', '09653684394, DANNY SALAZAR: 2 pending monthly bills', '09291263980, DANTE G. SARCO: 2 pending monthly bills']
+[Success][12:03:00] : ['09207517872, DARWIN B. DIGAL: 1 pending monthly bill', '09568279419, DARYL TABOADA: 1 pending monthly bill', '09120872623, DAVE G. CAPUSORAN: 1 pending monthly bill']
+[Success][12:03:05] : ['09631001382, DAVE TABALE: 2 pending monthly bills', '09532482416, DAVE YVES GARZON: 1 pending monthly bill', '09293655810, DAX XENON V. SALA: 2 pending monthly bills']
+[Success][12:03:10] : ['09282568286, DEBORAH R. CADANO: 2 pending monthly bills', '09107965900, DELMENIA B. DOMOSMOG: 1 pending monthly bill', '09162776542, DENIJUN ALVAR: 1 pending monthly bill']
+[Success][12:03:15] : ['09199114767, DES MARKETING INC-SOGOD: 1 pending monthly bill', '09977724248, DEX ELIAZER A. PALEN: 1 pending monthly bill', '09518800416, DEXTER DIZON: 2 pending monthly bills']
+[Success][12:03:20] : ['09553215574, DIEDRICK C. POTOT: 1 pending monthly bill', '09678501596, DINA SABINO #2: 1 pending monthly bill', '09054020193, DIONISIO A. TAGLE: 2 pending monthly bills']
+[Success][12:03:25] : ['09066533810, DIVINA AYOP: 1 pending monthly bill', '09317304692, DIVINA FALCON: 2 pending monthly bills', '09976254708, DIVISORIA NATIONAL HIGH SCHOOL.: 1 pending monthly bill']
+[Success][12:03:30] : ['09205280154, DOMINGO OLAYER: 1 pending monthly bill', '09977869555, DONNA CARYL E. PELICANO: 2 pending monthly bills', '09055318306, DONNA OBEN MANLIGAS: 1 pending monthly bill']
+[Success][12:03:35] : ['09668848502, DORAH JACQUELINE HO: 1 pending monthly bill', '09976492876, DOREEN T. MAGLINES: 2 pending monthly bills', '09280009934, DORIS GORGONIA: 1 pending monthly bill']
+[Success][12:03:40] : ['09753953007, DRENO JAKE D. TAGARO: 2 pending monthly bills', '09212116459, DULCE GRACE TIMKANG: 2 pending monthly bills', '09855882200, DULCESIMA G. ESMA: 2 pending monthly bills']
+[Success][12:03:45] : ['09186262398, DULCISIMO LAPLANA: 2 pending monthly bills', '09558438534, EDCEL CLEM MORALES: 1 pending monthly bill', '09107973119, EDENA D. UBALLAS: 1 pending monthly bill']
+[Success][12:03:50] : ['09972856991, EDENA MANATAD: 1 pending monthly bill', '09125080595, EDITA DAGAAS: 1 pending monthly bill', '09309323426, EDITHA D. DIATE: 2 pending monthly bills']
+[Success][12:03:55] : ['09061644640, EDITO T. FIGURA: 1 pending monthly bill', '09973148598, EDMAR TAMBIS: 3 pending monthly bills', '09173279493, EDWIN CAJOLES: 1 pending monthly bill']
+[Success][12:04:00] : ['09387146419, EDWIN M. MAYMAY: 1 pending monthly bill', '09358158664, EDWIN VECINA JR.: 1 pending monthly bill', '09168688649, EGBERT D. BITOR/CATALINO BAGAYO: 2 pending monthly bills']
+[Success][12:04:05] : ['09675482015, EJ KLIEZSHA M. AMRINTO: 1 pending monthly bill', '09452335000, EL-EL CUEVA SAYABOC: 1 pending monthly bill', '09352317904, ELENITA CASILI: 1 pending monthly bill']
+[Success][12:04:10] : ['09263112985, ELEUTERIA M. GILO: 1 pending monthly bill', '09983446278, ELI UNAT: 1 pending monthly bill', '09473925390, ELIAZAR BERONIO: 1 pending monthly bill']
+[Success][12:04:15] : ['09758785418, ELISA BESAS: 1 pending monthly bill', '09611604211, ELISA PAULINE MARCELLONES: 2 pending monthly bills', '09478400156, ELIZABETH MANAGBANAG 1 (NEW): 1 pending monthly bill']
+[Success][12:04:20] : ['09478400156, ELIZABETH MANAGBANAG-4 (NEW): 1 pending monthly bill', '09478400156, ELIZABETH MANAGBANAG-5 (NEW): 1 pending monthly bill', '09635250447, ELMA A. CATIG: 1 pending monthly bill']
+[Success][12:04:25] : ['09354911615, ELMER DAQUIZ JR.: 1 pending monthly bill', '09924990525, ELMER G. HARINA: 2 pending monthly bills', '09107354520, ELMER S. BATINO: 1 pending monthly bill']
+[Success][12:04:30] : ['09166007052, ELVI FIGURA PARDILLO: 1 pending monthly bill', '09263318715, EMELIA S. MICAYABAS: 1 pending monthly bill', '09956578433, EMELIANA T. DULFO: 2 pending monthly bills']
+[Success][12:04:35] : ['09513689933, EMELIANO B. GAMUHAY: 3 pending monthly bills', '09266888947, EMELIE A. MORANO: 3 pending monthly bills', '09100419554, EMELYN AMPER: 1 pending monthly bill']
+[Success][12:04:40] : ['09100419554, EMELYN AMPER - 2: 1 pending monthly bill', '09054020193, EMETERIO OBRA: 2 pending monthly bills', '09173197625, EMILY M. LAMPOONG: 1 pending monthly bill']
+[Success][12:04:45] : ['09269154163, EMMANUEL B. SUMAYA: 2 pending monthly bills', '09263645175, EMMANUEL ROSAL: 2 pending monthly bills', '09173174191, ENRICK RODNEY SALARES: 2 pending monthly bills']
+[Success][12:04:50] : ['09308832130, EPIFANIA BETARMOS: 2 pending monthly bills', '09173198355, ERIK FRANCIS O. SALARES: 1 pending monthly bill', '09173198355, ERIK FRANCIS SALARES-2: 1 pending monthly bill']
+[Success][12:04:55] : ['09201139788, ERIKA JANINE M. NACU: 2 pending monthly bills', '09355164304, ERLAN PENA: 2 pending monthly bills', '09856188178, ERLINA MALINAO: 3 pending monthly bills']
+[Success][12:05:00] : ['09465709366, ERLINDA D. TIBUS: 1 pending monthly bill', '09186834106, ERNESTO B. CANO JR.: 1 pending monthly bill', '09208924584, ERNESTO TABADA JR: 2 pending monthly bills']
+[Success][12:05:05] : ['09654281668, ERRON JUNE S. SAMACO: 1 pending monthly bill', '09317000718, ERVEN A. AYOP/CONNIE TADIPA: 1 pending monthly bill', '09682582030, ESPERANZA T. TIMKANG: 1 pending monthly bill']
+[Success][12:05:10] : ['09533559479, ESTELE JEAN FERNANDEZ: 1 pending monthly bill', '09694119910, ESTELLA PALEN DAIRO: 1 pending monthly bill', '09451482035, ESTRELIA SABANDAL: 2 pending monthly bills']
+[Success][12:05:16] : ['09356211806, ESTRELLA ORTIZ: 3 pending monthly bills', '09554117434, EUFEMIA A. ASILOM: 1 pending monthly bill', '09850325485, EUGENIA S. TANGPUS: 1 pending monthly bill']
+[Success][12:05:21] : ['09217275523, EUNICE GUASA: 1 pending monthly bill', '09510342754, EVA C. DOLORITO: 3 pending monthly bills', '09654888345, EVA CADAYONA: 1 pending monthly bill']
+[Success][12:05:26] : ['09385052827, EVA S. TROCIO: 1 pending monthly bill', '09619244323, EVAN MAE CABILLAN: 1 pending monthly bill', '09478400156, EVAN RAMOS: 1 pending monthly bill']
+[Success][12:05:31] : ['09606625130, EVANGELINE C AUPE: 1 pending monthly bill', '09353550593, EVANGELINE S. COMILANG: 1 pending monthly bill', '09617702246, EVANGELINE VILLASIN #2: 2 pending monthly bills']
+[Success][12:05:36] : ['09087833646, EVARESTO T. GOYO JR.: 1 pending monthly bill', '09635212322, EVELYN GAÑA: 1 pending monthly bill', '09759512461, EVELYN MAPUTI - 2: 2 pending monthly bills']
+[Success][12:05:41] : ['09358353127, EVELYN MESA: 1 pending monthly bill', '09626385031, EVELYN S. MOORE: 1 pending monthly bill', '09706877642, EVELYN T. BERNADAS: 2 pending monthly bills']
+[Success][12:05:46] : ['09126314692, FASTCASH FINANCE COMPANY INC: 1 pending monthly bill', '09210750658, FE BALORIA #2: 1 pending monthly bill', '09700895710, FE MERLINDA M. LIBRE: 2 pending monthly bills']
+[Success][12:05:51] : ['09518520122, FEDILA C. CAPUNAYAN: 1 pending monthly bill', '09752997306, FELBERT O. CAPILITAN: 2 pending monthly bills', '09264958950, FELCRIS B. ORIAS: 1 pending monthly bill']
+[Success][12:05:56] : ['09060847710, FELICISIMO T. VECINA: 1 pending monthly bill', '09658974385, FELINA RUALES: 1 pending monthly bill', '09308687392, FELITA AMPONG: 2 pending monthly bills']
+[Success][12:06:01] : ['09639641523, FELIX B. CUADRA: 1 pending monthly bill', '09633741526, FELIX S. DESTRIZA JR.: 2 pending monthly bills', '09604237873, FELVIC T. TUMANDA: 2 pending monthly bills']
+[Success][12:06:06] : ['09086267026, FERNAFELL P. ROSELLO: 1 pending monthly bill', '09555600289, FERSEL MEDELIN: 1 pending monthly bill', '09164757000, FILOMENO LIPANG: 2 pending monthly bills']
+[Success][12:06:11] : ['09171372440, FIRST LE MARKE RESOURCES, INC.: 1 pending monthly bill', '09165475929, FLITCHER PALANCA: 2 pending monthly bills', '09165475929, FLITCHER PALANCA #2: 2 pending monthly bills']
+[Success][12:06:16] : ['09815942665, FLORA MALABAD: 3 pending monthly bills', '09207521089, FLORABEL M. BATAS: 2 pending monthly bills', '09513640217, FLORANTE L. QUILING: 1 pending monthly bill']
+[Success][12:06:21] : ['09515939933, FLORDELIZA C. LILI: 2 pending monthly bills', '09105833926, FLORENCIA AMPARO: 1 pending monthly bill', '09672041720, FR. PEPITO P. GENERAN JR.: 1 pending monthly bill']
+[Success][12:06:26] : ['09171634253, FRANCISCA COLAR: 4 pending monthly bills', '09171634253, FRANCISCA COLAR #2: 3 pending monthly bills', '09058344386, FRANCISCO B. BEJARASCO JR #1: 1 pending monthly bill']
+[Success][12:06:31] : ['09631169078, FRANCISCO BEJARASCO JR #2: 1 pending monthly bill', '09754984632, FRANCISCO R.MALBAS JR.: 2 pending monthly bills', '09092351343, FRANCO G. ABREA: 1 pending monthly bill']
+[Success][12:06:36] : ['09480956524, FRANNY MAE ESCABAL: 2 pending monthly bills', '09195180835, FRITZ GERALD ADOBAS: 3 pending monthly bills', '09165488443, FRITZEBEL CABEL: 1 pending monthly bill']
+[Success][12:06:41] : ['09093104359, FROILAN V. TORRECAMPO: 1 pending monthly bill', '09956318108, FURTONATO S. CONOCIDO: 3 pending monthly bills', '09690358441, GABRIEL COMBATE: 2 pending monthly bills']
+[Success][12:06:46] : ['09631001117, GALLA CARMEL BATIAO: 1 pending monthly bill', '09171797903, GALO M. GARCIA: 3 pending monthly bills', '09268601337, GARRY BUG-OS: 3 pending monthly bills']
+[Success][12:06:51] : ['09124193922, GEMMA FAELNAR: 1 pending monthly bill', '09952783926, GENARO BARCELON: 1 pending monthly bill', '09666225864, GENEVEB SUBIOR (NEW): 1 pending monthly bill']
+[Success][12:06:56] : ['09510342683, GENITA L. LUCINO: 2 pending monthly bills', '09275596693, GENOVEVA LEONOR: 2 pending monthly bills', '09203654469, GERALDINE D. LILI: 1 pending monthly bill']
+[Success][12:07:01] : ['09217487657, GERALDINE DAJAY: 2 pending monthly bills', '09958244211, GERALDINE MAGLINTE: 1 pending monthly bill', '09557810134, GERDE F. CADAY: 1 pending monthly bill']
+[Success][12:07:06] : ['09293646991, GERICO LAGRAMA: 2 pending monthly bills', '09665218621, GERMELINA BAUTISTA (NEW): 1 pending monthly bill', '09770239620, GERVEN GULTIANO MONTALBAN: 2 pending monthly bills']
+[Success][12:07:11] : ['09474614329, GIL MORENO: 2 pending monthly bills', '09700225046, GINA M. TINDUGAN: 3 pending monthly bills', '09352683249, GINA R. TABLADA: 1 pending monthly bill']
+[Success][12:07:16] : ['09175557327, GINA SASTRILLAS: 1 pending monthly bill', '09552959407, GLADYS B. OBEN: 3 pending monthly bills', '09620809151, GLEANDA PELAEZ VEHLEWALD: 1 pending monthly bill']
+[Success][12:07:21] : ['09164282380, GLECCA CAGNA-AN: 1 pending monthly bill', '09450896099, GLEN SAPAL: 3 pending monthly bills', '09955610781, GLENN ABORDO: 1 pending monthly bill']
+[Success][12:07:26] : ['09630232526, GLENN BERTUMEN JR (NEW): 1 pending monthly bill', '09355196350, GLENN YAP: 2 pending monthly bills', '09107974720, GLORIA ABINA: 3 pending monthly bills']
+[Success][12:07:31] : ['09664863191, GLORIA ASUNCION: 2 pending monthly bills', '09971401545, GRACE A. FELICILDA: 3 pending monthly bills', '09684565116, GRACE C. LABASTIDA: 1 pending monthly bill']
+[Success][12:07:36] : ['09656257162, GRACE O. OBBUS: 1 pending monthly bill', '09301304005, GRACIANA A. TRAJANO: 1 pending monthly bill', '09396321541, GREG ADRIAN N. JUNIO: 1 pending monthly bill']
+[Success][12:07:41] : ['09518512046, GREZILDA S. ALCOBER: 1 pending monthly bill', '09125340285, GRIFE BALAGON: 3 pending monthly bills', '09817906563, GUILLERMO C. CANO: 3 pending monthly bills']
+[Success][12:07:46] : ['09479925330, GUINOO FARM/ENRIQUE MENDIOLA: 1 pending monthly bill', '09678509574, GUMERCINDA R. MANZANILLA: 2 pending monthly bills', '09208867472, HAMPTON FUNCTION HOUSE/JULIE ANN CUÑADO: 2 pending monthly bills']
+[Success][12:07:51] : ['09317313546, HANNAH SALA: 1 pending monthly bill', '09700232119, HAPPILEN DINER/RAMON MICHAEL MORALDE: 3 pending monthly bills', '09353000024, HAPPILIEN DINER #2: 3 pending monthly bills']
+[Success][12:07:56] : ['09494351216, HAZEL C. NECOSIA: 2 pending monthly bills', '09518316365, HAZEL Q. CANO: 3 pending monthly bills', '09275140315, HEDDY AMOREN: 1 pending monthly bill']
+[Success][12:08:01] : ['09852838383, HELEN M. FAELNAR: 2 pending monthly bills', '09120770819, HERBERT C. MOLINA JR: 1 pending monthly bill', '09152084384, HERBERT U. SESCON: 2 pending monthly bills']
+[Success][12:08:06] : ['09691893708, HERMECITO TIMKANG: 2 pending monthly bills', '09479562688, HERMELITA TAGRA DELFINADO: 2 pending monthly bills', '09355253142, HILDA TIMKANG NABALUNA: 1 pending monthly bill']
+[Success][12:08:11] : ['09985912633, HOME OPTIONS INC/TRISTAN QUINDAO: 1 pending monthly bill', '09283868275, IAN C. ESCAÑO: 2 pending monthly bills', '09555062346, IAN C. PABLO: 1 pending monthly bill']
+[Success][12:08:16] : ['09219759377, IAN DALUGDUGAN: 1 pending monthly bill', '09502738981, IGNACIO N. OLAGER JR.: 2 pending monthly bills', '09954226625, IMELDA KISTERIA: 1 pending monthly bill']
+[Success][12:08:21] : ['09075913027, IRENE P. LAROGA: 2 pending monthly bills', '09518511726, IRISH BALBON #2: 1 pending monthly bill', '09518511726, IRISH C. BALBON: 1 pending monthly bill']
+[Success][12:08:26] : ['09061815121, IRISH MAE FELICILDA 1: 2 pending monthly bills', '09061815121, IRISH MAE FELICILDA 2: 2 pending monthly bills', '09682160132, IRISH MAE FELICILDA 3: 2 pending monthly bills']
+[Success][12:08:31] : ['09304800211, IVONNE S. BALBON: 1 pending monthly bill', '09265582744, IVY AMOR G. CALOPE: 1 pending monthly bill', '09488354375, IVY M. LUMAKANG: 3 pending monthly bills']
+[Success][12:08:37] : ['09982580076, IVY MAE A MONTEMAYOR: 3 pending monthly bills', '09468301534, JAIME R. TORRECAMPO: 3 pending monthly bills', '09389077738, JAIMES A. CATAP: 1 pending monthly bill']
+[Success][12:08:42] : ['09066050119, JAKENEIL SALA: 1 pending monthly bill', '09618867994, JAMAICA SALAMAÑA: 1 pending monthly bill', '09266631377, JAMES ALDRIN G. SULLA: 3 pending monthly bills']
+[Success][12:08:47] : ['09178303366, JAMES ASUNTO OLAYVAR/ DEL MONTE LAND TRANSPORT BUS COMPANY: 1 pending monthly bill', '09355277463, JAMES OMAY: 1 pending monthly bill', '09958190406, JANET T. JO: 2 pending monthly bills']
+[Success][12:08:52] : ['09169696492, JANETH G. OBEN: 1 pending monthly bill', '09852838400, JANITH HOYBIA: 3 pending monthly bills', '09709938689, JASMIN ABREA: 2 pending monthly bills']
+[Success][12:08:57] : ['09709938812, JASMINE JUNIO BERINGUEL: 1 pending monthly bill', '09498402578, JASON R. JUNIO: 2 pending monthly bills', '09498402578, JASON R. JUNIO # 2: 3 pending monthly bills']
+[Success][12:09:02] : ['09606628297, JAY  R. LUCENARA: 2 pending monthly bills', '09532277715, JAY PABLO: 1 pending monthly bill', '09070441177, JAY RHYAN QUISADO: 2 pending monthly bills']
+[Success][12:09:07] : ['09268300996, JAYPEE LUCINO: 2 pending monthly bills', '09706880424, JAYSON C. PABLO: 2 pending monthly bills', '09167990569, JAYSON TERANTE: 1 pending monthly bill']
+[Success][12:09:12] : ['09684585691, JAYVES ELIZABETH N. BASIL: 3 pending monthly bills', '09759348961, JE ANN M. TELEN: 1 pending monthly bill', '09486089972, JEANIE MAGLINTE: 1 pending monthly bill']
+[Success][12:09:17] : ['09365818681, JEARLYN LASQUITES: 2 pending monthly bills', '09973669621, JECRIS DACULA (NEW): 1 pending monthly bill', '09979226868, JEDALEAH MAE C. ZAMBRANO: 2 pending monthly bills']
+[Success][12:09:22] : ['09152350418, JEFFREY T. GUASA: 1 pending monthly bill', '09066052047, JEMAICA DELA CRUZ: 1 pending monthly bill', '09361223181, JEMALYN A. MAXINO: 1 pending monthly bill']
+[Success][12:09:27] : ['09561109782, JEMAR BATAL: 3 pending monthly bills', '09938696768, JEMIMA GALOZO: 3 pending monthly bills', '09124919585, JEÑA ROSE T. LUCENO: 1 pending monthly bill']
+[Success][12:09:32] : ['09679164223, JENCAR JOY FELICILDA: 3 pending monthly bills', '09510447029, JENELYN G. CALLANO: 1 pending monthly bill', '09933233273, JENILINE M. SUAZO: 1 pending monthly bill']
+[Success][12:09:37] : ['09176272278, JENNET SAN DIEGO # 2: 1 pending monthly bill', '09176272278, JENNET SAN DIEGO #3: 1 pending monthly bill', '09176272278, JENNET SAN DIEGO #4: 1 pending monthly bill']
+[Success][12:09:42] : ['09176272278, JENNET SAN DIEGO 5: 1 pending monthly bill', '09509413573, JENNIELYN D. SUMABAT: 3 pending monthly bills', '09100855642, JENNIFER A. MANATAD: 3 pending monthly bills']
+[Success][12:09:47] : ['09773581575, JENNIFER ANGURING: 3 pending monthly bills', '09925718458, JENNIFER B. LAS MARIAS: 3 pending monthly bills', '09383826405, JENNIFER B. VILLAMOR: 1 pending monthly bill']
+[Success][12:09:52] : ['09067543471, JENNIFER MEKING: 3 pending monthly bills', '09482776839, JENNIFER S. CONOR: 2 pending monthly bills', '09458439630, JERAMIE M. DATWIN: 2 pending monthly bills']
+[Success][12:09:57] : ['09676837546, JERELLE OLAYBAR: 3 pending monthly bills', '09488799683, JEROME A. QUINSON: 3 pending monthly bills', '09665473101, JEROME B. DALIPE: 1 pending monthly bill']
+[Success][12:10:02] : ['09938696825, JEROSE GALOZO: 2 pending monthly bills', '09062240235, JERREE ANN ESCANO: 2 pending monthly bills', '09398213951, JERRY B. LILI #1: 1 pending monthly bill']
+[Success][12:10:07] : ['09398213951, JERRY LILI #2: 1 pending monthly bill', '09777075737, JESS ANTHONY GONZALES: 1 pending monthly bill', '09385051245, JESSA AMASORA: 1 pending monthly bill']
+[Success][12:10:12] : ['09177714660, JESSAH DIZON: 1 pending monthly bill', '09363924705, JESSE RUSELO GABRONINO: 1 pending monthly bill', '09061819593, JESSIE M. ROSAS: 1 pending monthly bill']
+[Success][12:10:17] : ['09752904520, JESSIE T. APUYAN: 3 pending monthly bills', '09956232507, JETT M. ABORDO: 1 pending monthly bill', '09974055138, JEYDAN GERONA: 1 pending monthly bill']
+[Success][12:10:22] : ['09095407534, JEZABEL P. ROLLANOS: 2 pending monthly bills', '09776082237, JIL PAN: 2 pending monthly bills', '09055759199, JIMMIE JAN ALFORQUE: 1 pending monthly bill']
+[Success][12:10:27] : ['09055759199, JIMMIE JAN ALFORQUE 2: 3 pending monthly bills', '09317214214, JIOSEM P. OLITA: 1 pending monthly bill', '09639641974, JO ANN P. GORDUIZ: 2 pending monthly bills']
+[Success][12:10:32] : ['09162664144, JOAN C. GATCHO: 3 pending monthly bills', '09162664144, JOAN C. GATCHO #2: 2 pending monthly bills', '09457333327, JOAN LEORENCE BETONIO: 2 pending monthly bills']
+[Success][12:10:37] : ['09702625148, JOCEL A. DUMALAG: 2 pending monthly bills', '09309361846, JOCELYN / REYNALDO MAMADO: 3 pending monthly bills', '09692861087, JOCELYN F. LOLO: 2 pending monthly bills']
+[Success][12:10:42] : ['09277573726, JOCELYN O. PARANAS: 1 pending monthly bill', '09709962649, JOCELYN RESUS: 1 pending monthly bill', '09950256127, JOE AN B. CORTIL: 2 pending monthly bills']
+[Success][12:10:47] : ['09190934870, JOE ESTEBAN R. BETONIO III: 3 pending monthly bills', '09482270145, JOEMAR A. MIOLE: 2 pending monthly bills', '09398685406, JOENAIDY L. PALOMA (NEW): 1 pending monthly bill']
+[Success][12:10:52] : ['09657788404, JOHN EVE ALCALA: 2 pending monthly bills', '09667953031, JOHN JAMES NOBLE: 2 pending monthly bills', '09753442013, JOHN JAMES RECITES: 1 pending monthly bill']
+[Success][12:10:57] : ['09463123082, JOHN LESTER F. TANILON - 2: 3 pending monthly bills', '09463123082, JOHN LESTER F. TANILON -1: 3 pending monthly bills', '09677294893, JOHN LOUIE Q. PEÑAREDONDO: 1 pending monthly bill']
+[Success][12:11:02] : ['09485346511, JOHN MARK BUTAD: 3 pending monthly bills', '09053625581, JOHN OLREY ELIJAH D. BERNANTE: 1 pending monthly bill', '09157377688, JOHN PATRICK TORRES: 2 pending monthly bills']
+[Success][12:11:07] : ['09355920866, JOHN PAUL GERONA: 3 pending monthly bills', '09302414541, JOHN ROBIE C. LANIOG - 4: 3 pending monthly bills', '09478301920, JOHN ROBIE C. LANIOG # 2: 3 pending monthly bills']
+[Success][12:11:12] : ['09302414541, JOHN ROBIE LANIOG 1: 3 pending monthly bills', '09984874951, JOHNRIE O. GARVEZ: 2 pending monthly bills', '09981894448, JOKI A. TELIN: 1 pending monthly bill']
+[Success][12:11:17] : ['09219094503, JOLLY-AN C. VERTUDAZO 1: 1 pending monthly bill', '09219094503, JOLLY-AN VERTUDAZO #2: 1 pending monthly bill', '09630620379, JOMABEN M. CAPUNAYAN: 2 pending monthly bills']
+[Success][12:11:22] : ['09452960583, JOMAFRE CABANES: 1 pending monthly bill', '09073028153, JONA PIZON: 1 pending monthly bill', '09639152592, JONATHAN M. TUMANDA: 1 pending monthly bill']
+[Success][12:11:27] : ['09469543340, JONATHAN OLAYVAR (NEW): 1 pending monthly bill', '09630232847, JONAVIE PASA: 1 pending monthly bill', '09104711629, JONELYN INCIERTO: 2 pending monthly bills']
+[Success][12:11:32] : ['09655998792, JONNA REY MOLAR: 2 pending monthly bills', '09171126909, JONNAH CHERE CADAYONA: 3 pending monthly bills', '09167992508, JONNAHVILL T. GORRA: 1 pending monthly bill']
+[Success][12:11:37] : ['09185581931, JONNALYN CATIG: 3 pending monthly bills', '09216318769, JORICO ESTANO: 1 pending monthly bill', '09686368745, JORILYN PALOMADO: 3 pending monthly bills']
+[Success][12:11:42] : ['09176621323, JOSE ANTONIO N. ESTRELLER: 3 pending monthly bills', '09639629130, JOSE BALTAZAR: 3 pending monthly bills', '09483030721, JOSE SUMASINO: 3 pending monthly bills']
+[Success][12:11:47] : ['09282726703, JOSE TALISAYSAY: 1 pending monthly bill', '09051689975, JOSELITO M. BITANG: 1 pending monthly bill', '09464515440, JOSELITO TRAJANO: 2 pending monthly bills']
+[Success][12:11:52] : ['09751888234, JOSEPH A. VALENZUELA: 2 pending monthly bills', '09152351193, JOSEPH JOUEL E. SABANDAL: 1 pending monthly bill', '09352705163, JOSEPHINE ABENION: 2 pending monthly bills']
+[Success][12:11:58] : ['09120563400, JOSEPHINE B. GANTALA: 1 pending monthly bill', '09683725321, JOSEPHINE JOYCE GAJE: 1 pending monthly bill', '09991705162, JOSHUA OLOJAN: 2 pending monthly bills']
+[Success][12:12:03] : ['09639624395, JOSHUA P. BASAS: 1 pending monthly bill', '09394512763, JOSIE BAG-AO: 3 pending monthly bills', '09569236838, JOVANIE D. JUANICO: 4 pending monthly bills']
+[Success][12:12:08] : ['09958703330, JOVE BACTOL: 1 pending monthly bill', '09362082325, JOVELITA T. BERONIO: 3 pending monthly bills', '09367804056, JOVELYN SONGAHID: 2 pending monthly bills']
+[Success][12:12:13] : ['09763146005, JOVETA G. SOLANA: 3 pending monthly bills', '09700572576, JOVITA ICHON ASIS: 1 pending monthly bill', '09065846458, JOVITA TIDALGO: 1 pending monthly bill']
+[Success][12:12:18] : ['09207143442, JOYCE N. SIEGA: 3 pending monthly bills', '09304222235, JOYCEE P. CABALES: 3 pending monthly bills', '09054913515, JUANGON ELEMENTARY SCHOOL/JASMIN B. CALICDAN: 2 pending monthly bills']
+[Success][12:12:23] : ['09154239763, JUANITA BABIERA: 1 pending monthly bill', '09475195030, JUANITO V. JUSAY: 1 pending monthly bill', '09665223623, JUANITO VERTUDAZO (NEW): 1 pending monthly bill']
+[Success][12:12:28] : ['09066533568, JUCELO D. JAMORA: 1 pending monthly bill', '09275053790, JUDYLYN BUHANGIN: 1 pending monthly bill', '09976771641, JULIE GONZALES #2: 1 pending monthly bill']
+[Success][12:12:33] : ['09183519126, JULIE PEARL V. DERLA: 1 pending monthly bill', '09207521265, JULIET MAGCORO: 1 pending monthly bill', '09395822746, JULIETA ARGOMEDO: 2 pending monthly bills']
+[Success][12:12:38] : ['09358090263, JULIETA JUANITE: 1 pending monthly bill', '09567647459, JULIETO M. AYOP JR: 1 pending monthly bill', '09300336822, JULIETO O. OLITA: 1 pending monthly bill']
+[Success][12:12:43] : ['09308965738, JULIO M. SOLANA: 1 pending monthly bill', '09190990944, JULIOS DOLORITO TERANTE: 3 pending monthly bills', '09164319798, JULIUS T. TAMBIS: 2 pending monthly bills']
+[Success][12:12:48] : ['09260220767, JUNALYN A. VECINA -1: 1 pending monthly bill', '09260220767, JUNALYN VECINA --2: 1 pending monthly bill', '09659243040, JUNBERT S. MATONDO: 3 pending monthly bills']
+[Success][12:12:53] : ['09104462514, JUNIE ABAD BOYANO: 3 pending monthly bills', '09273191661, JUNRAY SUNGA: 2 pending monthly bills', '09383085257, JUNRELL A. BAYLAN: 2 pending monthly bills']
+[Success][12:12:58] : ['09107459048, JUNREY PEREZ: 2 pending monthly bills', '09262014353, JURAMAE AMONCIO: 3 pending monthly bills', '09639487865, JUSETH MONTEHERMOSO: 2 pending monthly bills']
+[Success][12:13:03] : ['09357020189, JUSTINE ARISGA: 2 pending monthly bills', '09204251009, KARA TRINA T. TULAYTAY: 2 pending monthly bills', '09260367979, KAREL JAN TINDUGAN YBANEZ: 1 pending monthly bill']
+[Success][12:13:08] : ['09563196317, KARENFAYE CERRO: 1 pending monthly bill', '09638450314, KARINE D. GABUCAN: 1 pending monthly bill', '09638324072, KATHERINE V. DIGAL: 2 pending monthly bills']
+[Success][12:13:13] : ['09759402074, KATHRINA MIRASOL S. LIBRES: 2 pending monthly bills', '09095143876, KATHRINA TINDUGAN #2: 2 pending monthly bills', '09631154501, KENNETCHIE M. BITON: 2 pending monthly bills']
+[Success][12:13:18] : ['09278627973, KENT YVES BUYOC: 1 pending monthly bill', '09700687367, KENY BRYAN AZUCENA: 3 pending monthly bills', '09684565201, KIM JOSHUA GALOLO: 1 pending monthly bill']
+[Success][12:13:23] : ['09302536506, KIM ZEIA B. COSEP: 3 pending monthly bills', '09954647594, KIMBERLY L. PELISCO: 2 pending monthly bills', '09451495422, KINT VINCENT GALDO: 2 pending monthly bills']
+[Success][12:13:28] : ['09684565066, KRISTINE MARIE D. BONOTAN: 1 pending monthly bill', '09120919533, KYETH KIMBERLY GUMAPAC: 3 pending monthly bills', '09059057877, LA RHAINE PONGOS 2: 3 pending monthly bills']
+[Success][12:13:33] : ['09059057877, LA RHAINE T. PONGOS 1: 3 pending monthly bills', '09306354405, LA-ARNIE ECHAVIA: 1 pending monthly bill', '09956871623, LAURENCIA C. MACABATA: 1 pending monthly bill']
+[Success][12:13:38] : ['09317319109, LAURO LAGUNDAY: 1 pending monthly bill', '09709938642, LEABERNA BOHOL: 2 pending monthly bills', '09706565344, LEDELLE O. ICHON: 2 pending monthly bills']
+[Success][12:13:43] : ['09367395179, LELIS BRENNIE: 1 pending monthly bill', '09502552332, LEO RENO SESCON: 2 pending monthly bills', '09631001057, LEONESE ANDREW LASQUITES: 2 pending monthly bills']
+[Success][12:13:48] : ['09169662805, LEONIDA EMBERDA: 1 pending monthly bill', '09639626040, LEONILA B. DIGAL: 1 pending monthly bill', '09455762418, LEONILA POTONIA: 2 pending monthly bills']
+[Success][12:13:53] : ['09484065550, LEONORA AMAMAG: 3 pending monthly bills', '09465032480, LEONORA CONSAD (NEW): 1 pending monthly bill', '09294372881, LEONORA FAELNAR: 1 pending monthly bill']
+[Success][12:13:58] : ['09562436988, LEONORA MIOLE: 1 pending monthly bill', '09554701473, LESTER BASAN: 1 pending monthly bill', '09061815787, LESTER L. ACTUEL: 1 pending monthly bill']
+[Success][12:14:03] : ['09518320395, LEVI D. CAGANTAS: 2 pending monthly bills', '09683517037, LEVI DE LA CERNA: 1 pending monthly bill', '09178284159, LEVIE BALLARES: 1 pending monthly bill']
+[Success][12:14:08] : ['09467681799, LEVIE MASAGANDA PEREZ: 3 pending monthly bills', '09504822804, LEXTER A. ARISGA: 2 pending monthly bills', '09776427022, LEYTE SOUTH MPC: 2 pending monthly bills']
+[Success][12:14:13] : ['09631001464, LEZLE LELEBELL C. ESMA: 2 pending monthly bills', '09482186951, LGU BONTOC - LIGA NG BRGY: 4 pending monthly bills', '09686368895, LGU MALITBOG-AGRICULTURE: 1 pending monthly bill']
+[Success][12:14:18] : ['09053605314, LGU MALITBOG-MPDC: 2 pending monthly bills', '09173183849, LGU SOGOD - DILG: 2 pending monthly bills', '09269982717, LGU SOGOD - SB OFFICE: 3 pending monthly bills']
+[Success][12:14:23] : ['09535778839, LGU SOGOD-ENGINEERING DEPT: 3 pending monthly bills', '09062433664, LGU SOGOD-RHU: 2 pending monthly bills', '09451186061, LIEZEL TORREMONIA: 1 pending monthly bill']
+[Success][12:14:28] : ['09076017500, LIEZL B. BOYBOY #2: 1 pending monthly bill', '09350534211, LILETH ROCES: 3 pending monthly bills', '09062000300, LILIA ISAGA: 1 pending monthly bill']
+[Success][12:14:33] : ['09639152918, LILIAN L. SALA: 3 pending monthly bills', '09754166176, LILIBETH ESTRELLER: 1 pending monthly bill', '09271422028, LINDIE S. TAMBIS: 1 pending monthly bill']
+[Success][12:14:38] : ['09705291002, LISA VALDEZ: 1 pending monthly bill', '09362709011, LIZA G. MORALES: 5 pending monthly bills', '09354885191, LIZA PELAEZ #2: 1 pending monthly bill']
+[Success][12:14:43] : ['09507945720, LLIXINNE MAE PEPITO: 1 pending monthly bill', '09353032629, LLOYD C. CARBONILLA: 1 pending monthly bill', '09510350266, LODIVICO MOSOT: 1 pending monthly bill']
+[Success][12:14:48] : ['09948035169, LOIDA MANUBAY: 2 pending monthly bills', '09634122134, LOIDA N. BILLIONES: 2 pending monthly bills', '09853015078, LOIDA P. GONZAGA: 1 pending monthly bill']
+[Success][12:14:53] : ['09367661059, LOPEZ RESSU: 2 pending monthly bills', '09310001779, LORENA B. SERIT: 1 pending monthly bill', '09162145495, LORENA M. HILL: 2 pending monthly bills']
+[Success][12:14:58] : ['09178788124, LORNA CAHAYAG: 1 pending monthly bill', '09656242763, LOUELLA G. DELA CRUZ: 2 pending monthly bills', '09563620708, LOUIE ALREECE COMAJIG: 1 pending monthly bill']
+[Success][12:15:03] : ['09851489827, LOUIE ALREECE S. COMAJIG #2: 1 pending monthly bill', '09290227370, LOURDES MILLS: 1 pending monthly bill', '09102433649, LOURDES S. SERANO: 1 pending monthly bill']
+[Success][12:15:08] : ['09639152914, LOVELY MAY T. DANDAN: 2 pending monthly bills', '09659724723, LOVIELLA IVY CARBONILLA: 1 pending monthly bill', '09639621233, LOWELLA C. CAJOLES: 2 pending monthly bills']
+[Success][12:15:14] : ['09456328957, LUCIA LAMOSTE RUALES: 2 pending monthly bills', '09297353880, LUCILA G. CABONCE: 3 pending monthly bills', '09195355396, LUCITA CATUBIG: 1 pending monthly bill']
+[Success][12:15:19] : ['09677983161, LUDEE R. ABENION: 2 pending monthly bills', '09475193893, LURINA C. CABARRUBIAS: 1 pending monthly bill', '09469383974, LUZ KOMATSU: 2 pending monthly bills']
+[Success][12:15:24] : ['09757853720, LUZMINDA S. PEDUCHE: 1 pending monthly bill', '09753442003, LYN B. PELAEZ: 2 pending monthly bills', '09954646859, LYNN C. CASENARES (NEW): 2 pending monthly bills']
+[Success][12:15:29] : ['09499321692, LYRA VIROS: 2 pending monthly bills', '09380679029, LYSABELLE MORANO: 2 pending monthly bills', '09352684084, LYSLIE E. LILI: 1 pending monthly bill']
+[Success][12:15:34] : ['09351469827, MA ANA PIZON (2): 2 pending monthly bills', '09654831299, MA. ANALIZA CABEL: 1 pending monthly bill', '09639152503, MA. ANN JUNIO JUSAYAN #2: 2 pending monthly bills']
+[Success][12:15:39] : ['09758780870, MA. CECEL MITARAN #1: 2 pending monthly bills', '09758780870, MA. CECEL MITARAN #2: 2 pending monthly bills', '09159778087, MA. CECILIA RANQUE: 1 pending monthly bill']
+[Success][12:15:44] : ['09185800279, MA. CRISTITA A. CATAMORA #2: 1 pending monthly bill', '09565490615, MA. DELIA ONG MANCA: 1 pending monthly bill', '09281825630, MA. ELEANOR M. NACU: 3 pending monthly bills']
+[Success][12:15:49] : ['09263083620, MA. JOVILLEA TOMAUB: 2 pending monthly bills', '09706816601, MA. LIRA ABANDO: 1 pending monthly bill', '09938699395, MA. LORNA CABASISI: 2 pending monthly bills']
+[Success][12:15:54] : ['09970614221, MA. LOURDES WALTER: 2 pending monthly bills', '09438088282, MA. NELIA M. NAVARROSA: 2 pending monthly bills', '09954646535, MA. SALOME PELOBUENO: 2 pending monthly bills']
+[Success][12:15:59] : ['09168619144, MA. VICTORIA C. PARCON: 2 pending monthly bills', '09514049804, MA.STEPHANIE ASARCE: 2 pending monthly bills', '09309323426, MAC ELEMENTARY SCHOOL: 2 pending monthly bills']
+[Success][12:16:04] : ['09165348112, MAE JOYCE VILLAMOR: 1 pending monthly bill', '09531270378, MAE L. ESTANDARTE: 1 pending monthly bill', '09124844536, MAILEEN D. LICO: 2 pending monthly bills']
+[Success][12:16:09] : ['09561995466, MAISAH S. DALIDA: 2 pending monthly bills', '09066544636, MALOU ABARCA: 3 pending monthly bills', '09067558186, MAMIE KRISTINE B. FUSTANES: 1 pending monthly bill']
+[Success][12:16:14] : ['09934204116, MANUEL B. OCHAVO: 1 pending monthly bill', '09478015370, MARESTILA D. CANON: 2 pending monthly bills', '09363960406, MARGIE LOU LABACO: 3 pending monthly bills']
+[Success][12:16:19] : ['09684565207, MARIA AGNES A. NOVAL: 1 pending monthly bill', '09059564250, MARIA APRIL A. RUIZ: 1 pending monthly bill', '09772892784, MARIA CHELLO VALDE 2: 2 pending monthly bills']
+[Success][12:16:24] : ['09473468917, MARIA CORAZON L. CARRILLO: 3 pending monthly bills', '09702104500, MARIA GISELLE SUMAYA: 3 pending monthly bills', '09661486971, MARIA GONZALES: 2 pending monthly bills']
+[Success][12:16:29] : ['09096824747, MARIA GRACE MUNEZ: 2 pending monthly bills', '09451756163, MARIA HELEN DOTADO: 1 pending monthly bill', '09973005860, MARIA JENESIS CEDEÑO: 2 pending monthly bills']
+[Success][12:16:34] : ['09263166331, MARIA LINDA JAYMA: 2 pending monthly bills', '09683616885, MARIA LORNA GABRONINO LEDESMA: 1 pending monthly bill', '09319710648, MARIA ODESSA B. MANLIGAS: 2 pending monthly bills']
+[Success][12:16:39] : ['09352694992, MARIA RODA OBBUS: 1 pending monthly bill', '09267123849, MARIA RUBY BETTS: 2 pending monthly bills', '09392645637, MARIA SIUNE BERINGUEL: 1 pending monthly bill']
+[Success][12:16:44] : ['09276419791, MARIA WONG ERIKSSON: 1 pending monthly bill', '09653765795, MARIAFIE T. ANGALLON: 3 pending monthly bills', '09365361244, MARIALYN TIMKANG: 2 pending monthly bills']
+[Success][12:16:49] : ['09606623080, MARIAN A. DULOG: 3 pending monthly bills', '09100345651, MARIANN C. BERNALES: 2 pending monthly bills', '09979232692, MARIANNE B. BIDON: 1 pending monthly bill']
+[Success][12:16:54] : ['09630745935, MARIANNE L. MOSQUITO: 3 pending monthly bills', '09063949918, MARIANO R. DUKOT: 1 pending monthly bill', '09103537275, MARIBETH DACUP: 3 pending monthly bills']
+[Success][12:16:59] : ['09067767614, MARICAR M. BACHICA: 3 pending monthly bills', '09540749262, MARICAR ODIAZ BORBONGA: 2 pending monthly bills', '09684564131, MARICEL E. CANETO: 2 pending monthly bills']
+[Success][12:17:04] : ['09104481279, MARICEL FELICILDA: 1 pending monthly bill', '09393919967, MARICEL G. CAPILITAN: 2 pending monthly bills', '09632675320, MARICHE MADRONA: 3 pending monthly bills']
+[Success][12:17:09] : ['09275509399, MARICON LAPLANA: 2 pending monthly bills', '09517996670, MARIE CONN BALABA: 2 pending monthly bills', '09317214255, MARIE FELY ARDA: 1 pending monthly bill']
+[Success][12:17:14] : ['09215809054, MARIE GLAIZA C. CINCO: 1 pending monthly bill', '09926793541, MARIE GRACE H. MANUBAY: 1 pending monthly bill', '09197431819, MARIETA E. ESCLAMADO: 1 pending monthly bill']
+[Success][12:17:19] : ['09358586092, MARIETTA I. SANTILLAN: 1 pending monthly bill', '09162494170, MARIFE D. MACAS: 1 pending monthly bill', '09639528736, MARIFE E. BEOYO: 1 pending monthly bill']
+[Success][12:17:24] : ['09602221969, MARILOU B. PAJUYO: 1 pending monthly bill', '09159604237, MARINIL P. REZLER: 2 pending monthly bills', '09518027800, MARIO B. MIOLE: 1 pending monthly bill']
+[Success][12:17:29] : ['09489193103, MARIO M. AYUBAN: 1 pending monthly bill', '09215311529, MARISSA ROBLES -4/ROSELYN LAMOSTE: 1 pending monthly bill', '09215311529, MARISSA ROBLES #3: 1 pending monthly bill']
+[Success][12:17:34] : ['09215311529, MARISSA ROBLES 2: 1 pending monthly bill', '09959944166, MARISTHEL ONTING ODTOJAN: 2 pending monthly bills', '09066179522, MARIVIC M. MARTINEZ: 3 pending monthly bills']
+[Success][12:17:39] : ['09513533501, MARK ANTHONY P. OLVINA #1: 2 pending monthly bills', '09269616922, MARK ANTHONY P. OLVINA #2: 2 pending monthly bills', '09355793780, MARK DAVE KABILTE: 1 pending monthly bill']
+[Success][12:17:44] : ['09198790120, MARK DENZEL AMPARO: 3 pending monthly bills', '09558710702, MARK ISIDORE FUSTANES: 1 pending monthly bill', '09706816923, MARK PEARL MASING: 1 pending monthly bill']
+[Success][12:17:49] : ['09058172767, MARK RJ MARTE: 1 pending monthly bill', '09974058654, MARLO A. ASUMBRADO: 1 pending monthly bill', '09157069112, MARLYN AGCANG: 2 pending monthly bills']
+[Success][12:17:54] : ['09499424653, MARLYN T. BASAS: 2 pending monthly bills', '09466989231, MARTINO M. DACLAN JR: 1 pending monthly bill', '09774714152, MARVELYN A. PEDUCHE #1: 1 pending monthly bill']
+[Success][12:17:59] : ['09774714152, MARVELYN A. PEDUCHE #2: 1 pending monthly bill', '09618848052, MARVEN ESTINOZO: 3 pending monthly bills', '09684565110, MARY ANN CANON: 1 pending monthly bill']
+[Success][12:18:04] : ['09356406756, MARY ANN CLACIO: 3 pending monthly bills', '09075124247, MARY ANN D. GALA: 1 pending monthly bill', '09350328679, MARY ANN H. JUANITE: 1 pending monthly bill']
+[Success][12:18:09] : ['09567184147, MARY ANN YAMSON: 3 pending monthly bills', '09501160470, MARY CABALLERO/BFP: 1 pending monthly bill', '09197163502, MARY CRIS ORIAS: 3 pending monthly bills']
+[Success][12:18:14] : ['09614670193, MARY GRACE A. AMPONG: 1 pending monthly bill', '09304993343, MARY GRACE DESTRIZA: 1 pending monthly bill', '09125777412, MARY GRACE OCLARIT: 2 pending monthly bills']
+[Success][12:18:19] : ['09552007588, MARY GRACE TAPIA: 2 pending monthly bills', '09060144435, MARY JANE M. PALINGCOD: 1 pending monthly bill', '09501160470, MARY JOY CABALLERO: 1 pending monthly bill']
+[Success][12:18:24] : ['09658435558, MARY JOY CAGAS-ASIS: 2 pending monthly bills', '09758775314, MARY MARIÑO LEYES: 2 pending monthly bills', '09556241655, MARY ROSE OMAC: 2 pending monthly bills']
+[Success][12:18:30] : ['09751059207, MARYJANE T. CHICO: 1 pending monthly bill', '09994295749, MATHEW AMPO #2: 1 pending monthly bill', '09102434569, MATILDE MATURAN: 7 pending monthly bills']
+[Success][12:18:35] : ['09165347699, MAYNARD SUBIOR - 2: 1 pending monthly bill', '09461997107, MC CRANE SALAPI: 2 pending monthly bills', '09295414221, MEHANN L. AYUBAN: 1 pending monthly bill']
+[Success][12:18:40] : ['09269379050, MELAGROS C. MORALES: 1 pending monthly bill', '09606628461, MELANIE J. TAMBIS: 3 pending monthly bills', '09053500257, MELANIE QUIDATO: 3 pending monthly bills']
+[Success][12:18:45] : ['09363961924, MELCHIE F. VILLAMOR: 1 pending monthly bill', '09554114997, MELIN ABERGONZADO: 2 pending monthly bills', '09924992857, MELITA JAVIER DUYOGAN: 1 pending monthly bill']
+[Success][12:18:50] : ['09478405694, MELODY B. COMBATE: 3 pending monthly bills', '09104713010, MELSA J. LAGAHUYA: 1 pending monthly bill', '09659866988, MELVA S. SANCHEZ: 3 pending monthly bills']
+[Success][12:18:55] : ['09502495692, MEMCO: 1 pending monthly bill', '09159524598, MENCHIE DALAGAN: 3 pending monthly bills', '09996626425, MERCILYN AVERGONZADO: 1 pending monthly bill']
+[Success][12:19:00] : ['09650921177, MERCY FAELNAR JADRAQUE: 1 pending monthly bill', '09171589782, MERCY LYNN GARCIA: 1 pending monthly bill', '09363775224, MERCY P. ESCOLANO: 3 pending monthly bills']
+[Success][12:19:05] : ['09480049306, MERIAM AGURA FELICIANO: 3 pending monthly bills', '09606625012, MERIAN INFANTE 2: 2 pending monthly bills', '09559652090, MERIE T. AMOR: 1 pending monthly bill']
+[Success][12:19:10] : ['09501160395, MERLIN LUMAKANG: 1 pending monthly bill', '09979221747, MERLINA RODEN: 2 pending monthly bills', '09057168550, MERLINDA C. PALOMA: 3 pending monthly bills']
+[Success][12:19:15] : ['09359726991, MERLITA SUNGA: 3 pending monthly bills', '09176318964, MERLITA Y. LICARDO: 2 pending monthly bills', '09368979295, MERRYCRIS DUBLAS BANTILLAN: 2 pending monthly bills']
+[Success][12:19:20] : ['09776727424, MICHAEL ANGELO T. SULLA: 4 pending monthly bills', '09677284218, MICHAEL ESCLAMADO: 1 pending monthly bill', '09100415501, MICHAEL JOE MIRA: 1 pending monthly bill']
+[Success][12:19:25] : ['09554709077, MICHAEL L. TACLE: 1 pending monthly bill', '09675523521, MICHAEL S. CABEL: 3 pending monthly bills', '09359797365, MICHALE FELICILDA: 3 pending monthly bills']
+[Success][12:19:30] : ['09665223625, MICHELE SULLA: 1 pending monthly bill', '09948894511, MICHELLE H. DELAPO: 1 pending monthly bill', '09068212135, MICHELLE LUMAKANG #2: 1 pending monthly bill']
+[Success][12:19:35] : ['09602221232, MICHELLE S. PATUAL: 1 pending monthly bill', '09979221974, MINDA E., DOCDOC #2: 2 pending monthly bills', '09383826149, MINERVA F. ASIS: 1 pending monthly bill']
+[Success][12:19:40] : ['09059218066, MIRAGIN CAGANTAS: 2 pending monthly bills', '09757320843, MIRASOL ALBARACIN: 1 pending monthly bill', '09056544476, MIRIAM C. OLAYVAR: 1 pending monthly bill']
+[Success][12:19:45] : ['09206813640, MITCHE M. LAPLANA: 1 pending monthly bill', '09162333214, MITZI  G. DEAN: 1 pending monthly bill', '09757685592, MONETTE PALERMO: 2 pending monthly bills']
+[Success][12:19:50] : ['09566240175, MORIZA CAPILITAN: 2 pending monthly bills', '09171488387, MYRA FLORDELENA BITOR: 1 pending monthly bill', '09173208701, MYRIAM VIRAQUE: 2 pending monthly bills']
+[Success][12:19:55] : ['09630598442, MYRNA CARNACITO: 1 pending monthly bill', '09339543633, NANCY C. LUCENARA: 1 pending monthly bill', '09682225919, NANCY KOTIAN: 2 pending monthly bills']
+[Success][12:20:00] : ['09502287995, NANETTE G. MAGNASE: 1 pending monthly bill', '09639487653, NAOMI B. CABEL: 2 pending monthly bills', '09608659912, NAPOLEON D. AUSA: 1 pending monthly bill']
+[Success][12:20:05] : ['09294828217, NASARINA VILLANUEVA: 2 pending monthly bills', '09294828217, NASARINA VILLANUEVA-2: 2 pending monthly bills', '09516179946, NAVEE A. DINO: 1 pending monthly bill']
+[Success][12:20:10] : ['09300755306, NECIVIR LAUSA: 3 pending monthly bills', '09532277738, NELPHA C. DAYRIT: 2 pending monthly bills', '09382141976, NELSON B. CAHAYAG-RENAME FROM JULIBERT BATINO: 1 pending monthly bill']
+[Success][12:20:15] : ['09090716665, NELSON BETARMOS: 3 pending monthly bills', '09760725605, NELSON S. CABASISI: 1 pending monthly bill', '09178780112, NEMESIO C. MAULAS JR: 2 pending monthly bills']
+[Success][12:20:20] : ['09759014412, NENA D. MANGANA: 1 pending monthly bill', '09076209816, NERI TRINIDAD C. NOVAL #1: 3 pending monthly bills', '09389092193, NERI TRINIDAD C. NOVAL #2: 3 pending monthly bills']
+[Success][12:20:25] : ['09352907199, NESLYN ONTOG AUSA: 1 pending monthly bill', '09351498672, NESTOR GONZALES: 1 pending monthly bill', '09473817942, NESTOR PALEN: 1 pending monthly bill']
+[Success][12:20:30] : ['09691893711, NICA MARIS AGUILAR: 1 pending monthly bill', '09617702249, NICHOLE CORAINE SABANDAL: 2 pending monthly bills', '09219685059, NICKLE BRYAN TAHUP: 1 pending monthly bill']
+[Success][12:20:35] : ['09356480293, NICKLE BRYAN TAHUP #2: 1 pending monthly bill', '09069011142, NICOLE DELFIN: 1 pending monthly bill', '09518320180, NIEZEL M. ALDAVE: 2 pending monthly bills']
+[Success][12:20:40] : ['09511941418, NIKKI B. ESCOL: 3 pending monthly bills', '09972560218, NILDA B. JUNIO: 1 pending monthly bill', '09675633538, NILMA D. QUIJANO: 1 pending monthly bill']
+[Success][12:20:45] : ['09206720742, NOEL BANTUGAN: 1 pending monthly bill', '09677282643, NOEL TECSON MATIVO: 1 pending monthly bill', '09105846350, NORA RAMOS: 1 pending monthly bill']
+[Success][12:20:50] : ['09219205794, NORIE OSON: 1 pending monthly bill', '09632670044, NOVIE GULAY: 2 pending monthly bills', '09631154230, ODELON M. LARGADAS: 1 pending monthly bill']
+[Success][12:20:55] : ['09275587092, OJIE MANAUG: 2 pending monthly bills', '09067541229, ORLY LORENZ INUTAN: 1 pending monthly bill', '09771633873, ORMOC CITY INSTITUTE OF TECHNOLOGY, INC: 1 pending monthly bill']
+[Success][12:21:00] : ['09994210423, OSCAR MORANO: 1 pending monthly bill', '09817815947, PABLITO TRIMUCHA: 2 pending monthly bills', '09484961248, PAQUITO P. BOHOL JR.: 1 pending monthly bill']
+[Success][12:21:05] : ['09753880225, PATRICIO B. GALOLO - 2: 2 pending monthly bills', '09510350369, PATRICK A. PALEN: 1 pending monthly bill', '09619802782, PAUL JULIUS W. DALIDA: 1 pending monthly bill']
+[Success][12:21:10] : ['09120848800, PEARL DENISE FLORENDO: 1 pending monthly bill', '09677702620, PEDRITA B. ABAD: 1 pending monthly bill', '09557811708, PHILIP LLOYD S. ABARICO: 1 pending monthly bill']
+[Success][12:21:15] : ['09518211893, PHILLINE GRACE SALA: 3 pending monthly bills', '09175610186, POR LA BAHIA DE MALITBOG BEACH RESORT-1: 1 pending monthly bill', '09175610186, POR LA BAHIA DE MALITBOG BEACH RESORT-2: 1 pending monthly bill']
+[Success][12:21:20] : ['09175610186, POR LA BAHIA DE MALITBOG BEACH RESORT-3: 1 pending monthly bill', '09175610186, POR LA BAHIA DE MALITBOG BEACH RESORT-5: 1 pending monthly bill', '09687056145, PORFERIA L. IGNACIO: 1 pending monthly bill']
+[Success][12:21:25] : ['09208014021, PRITZEL LEE G. CAPILI: 1 pending monthly bill', '09176861037, RAANNE GREALOU DUEÑAS (NEW): 2 pending monthly bills', '09308686003, RABIE J. OCBA #2: 2 pending monthly bills']
+[Success][12:21:30] : ['09759112140, RACHEL A. GONZALES: 1 pending monthly bill', '09367809166, RACHEL ANNE SOTTO: 3 pending monthly bills', '09631154239, RADMIE JOHN ABAD: 2 pending monthly bills']
+[Success][12:21:35] : ['09693839134, RAEL L. BERONILLA: 1 pending monthly bill', '09678256731, RAFAEL A. TIBON: 3 pending monthly bills', '09129026719, RALPH ANGELO LLOREN: 3 pending monthly bills']
+[Success][12:21:40] : ['09512063204, RALPH EDWARD AMORA NADONZA: 3 pending monthly bills', '09631175943, RALPH P. VECINA: 2 pending monthly bills', '09489782830, RAMCEL CUANO: 3 pending monthly bills']
+[Success][12:21:45] : ['09059342151, RAMCES L. MERQUITA: 1 pending monthly bill', '09055503780, RAMON P. ESCAÑO JR: 1 pending monthly bill', '09997314677, RAMONITO B. BATIAO: 1 pending monthly bill']
+[Success][12:21:51] : ['09308858760, RAMZIE ALBINO: 3 pending monthly bills', '09268001450, RANDY RAMOS: 1 pending monthly bill', '09268001450, RANDY RAMOS #2/RUFINA SIEGA SIMPAO: 2 pending monthly bills']
+[Success][12:21:56] : ['09268001450, RANDY RAMOS #3: 1 pending monthly bill', '09479175099, RANIEL ABOGADO: 3 pending monthly bills', '09171829340, RASS O. DUHAYLUNGSOD: 1 pending monthly bill']
+[Success][12:22:01] : ['09262056219, RAUL RESUS: 1 pending monthly bill', '09631001174, RAYMOND CANON: 2 pending monthly bills', '09173286926, REC ALFONSO P. CINCO: 1 pending monthly bill']
+[Success][12:22:06] : ['09983161548, RECARDO SULLA: 1 pending monthly bill', '09552506903, REGIN L. MEKING: 3 pending monthly bills', '09972856504, REGINA A. SABUTANAN: 2 pending monthly bills']
+[Success][12:22:11] : ['09072165975, REGINA L. PERME: 3 pending monthly bills', '09265564606, REJEAN G. TOMON: 1 pending monthly bill', '09676170848, REMEVIC GABRONINO: 1 pending monthly bill']
+[Success][12:22:16] : ['09308961482, RENALYN ANDUYAN: 1 pending monthly bill', '09263945007, RENANTE GALANO (NEW): 1 pending monthly bill', '09398212470, RENATO TINDUGAN: 1 pending monthly bill']
+[Success][12:22:21] : ['09666735533, RENE HUMBERT ICHON: 3 pending monthly bills', '09274383496, RENE KINILANGAN: 1 pending monthly bill', '09353204135, RENIE M. MEMBRANO JR: 2 pending monthly bills']
+[Success][12:22:26] : ['09638450333, RENIL LACERNA: 1 pending monthly bill', '09606628219, RENREN C. MANLIGAS: 2 pending monthly bills', '09518027865, REOLITA C. CASTIL: 3 pending monthly bills']
+[Success][12:22:31] : ['09275365313, RESLYN JOEFEL ORAIS: 2 pending monthly bills', '09617330111, RESTITUTO INCIERTO: 2 pending monthly bills', '09855931844, REYNA C. OMBOY: 1 pending monthly bill']
+[Success][12:22:36] : ['09361872411, REYNALDO A. TIBON: 1 pending monthly bill', '09631150889, REYNALDO G. MARAMARA: 2 pending monthly bills', '09679355979, REYNAN P. ESCOLANO: 1 pending monthly bill']
+[Success][12:22:41] : ['09488766694, RHODORA Q. PALER: 1 pending monthly bill', '09273752196, RIA C. TALISAYSAY: 1 pending monthly bill', '09352768846, RICHARD MONTEHERMOSO: 2 pending monthly bills']
+[Success][12:22:46] : ['09773923704, RICHARD SIOSON: 1 pending monthly bill', '09630745970, RICHIE MUSOT: 2 pending monthly bills', '09559105511, RICHIE SALAN: 2 pending monthly bills']
+[Success][12:22:51] : ['09998622613, RIOVESTRE A. MACASUHOT: 3 pending monthly bills', '09125283725, RITCHEL MAE CINCO: 1 pending monthly bill', '09079212831, ROCHEL B. MONTAOS: 1 pending monthly bill']
+[Success][12:22:56] : ['09382489408, ROCHELLE A. GORDUIZ-2: 1 pending monthly bill', '09516937699, ROCHELLE AJOC: 2 pending monthly bills', '09177155118, ROD IVAN PANO: 2 pending monthly bills']
+[Success][12:23:01] : ['09958212261, RODEL GALANO: 2 pending monthly bills', '09518336116, RODNEY M. SAJA: 2 pending monthly bills', '09351909622, RODOLFO M. VASQUEZ JR: 1 pending monthly bill']
+[Success][12:23:06] : ['09107021187, RODRIGO T. GOLES JR.: 1 pending monthly bill', '09359389861, RODULFO ALINDAO: 1 pending monthly bill', '09305854597, ROGELIO MANLIGAS BANQUE: 1 pending monthly bill']
+[Success][12:23:11] : ['09692389433, ROGEN A. DOCENA #1: 1 pending monthly bill', '09692389433, ROGEN A. DOCENA #3: 1 pending monthly bill', '09692389433, ROGEN A. DOCENA #4: 1 pending monthly bill']
+[Success][12:23:16] : ['09398048485, ROGER C. KAINDOY: 2 pending monthly bills', '09173277445, ROLAND  K. SIDO: 3 pending monthly bills', '09120711996, ROLANDO AMORA: 2 pending monthly bills']
+[Success][12:23:21] : ['09495951203, ROLANDO B. AYUBAN: 1 pending monthly bill', '09512190726, ROLANDO M. TIMKANG: 2 pending monthly bills', '09974055670, ROLANDO S. BAGTINDON: 3 pending monthly bills']
+[Success][12:23:26] : ['09970889790, ROLEX D. BALONES JR: 2 pending monthly bills', '09120453860, ROMEO BETARMOS: 5 pending monthly bills', '09394498396, ROMEO MANGARON: 1 pending monthly bill']
+[Success][12:23:31] : ['09762913218, ROMER ADRIAN C. SANCHEZ: 1 pending monthly bill', '09638324054, ROMIELYN MORALDE.: 1 pending monthly bill', '09480362321, ROMMEL MALIG-ON: 2 pending monthly bills']
+[Success][12:23:36] : ['09489187875, ROMULO L. LANUGAN: 1 pending monthly bill', '09268001450, ROMY S. GUZMANA: 3 pending monthly bills', '09129437064, RONA VITOR: 3 pending monthly bills']
+[Success][12:23:41] : ['09120719691, RONAFLOR P. TERANTE: 1 pending monthly bill', '09184541272, RONALD PINA: 1 pending monthly bill', '09305099164, RONIELYN BANQUE: 3 pending monthly bills']
+[Success][12:23:46] : ['09566536142, RONNEL AGAPAY.: 3 pending monthly bills', '09069225507, ROQUE MANILE: 1 pending monthly bill', '09178781187, ROSA RENA NOPAL: 1 pending monthly bill']
+[Success][12:23:51] : ['09389877796, ROSALIA BURDAS: 1 pending monthly bill', '09694454992, ROSALYN LADRILLO: 3 pending monthly bills', '09682161429, ROSARIO R. VALLINAS: 2 pending monthly bills']
+[Success][12:23:56] : ['09552191611, ROSE MARIE  D. DABASI: 1 pending monthly bill', '09753445510, ROSE SUGAR CALLANO: 2 pending monthly bills', '09704521053, ROSE TIAPE: 1 pending monthly bill']
+[Success][12:24:01] : ['09569229093, ROSELLE GALDO: 2 pending monthly bills', '09272309610, ROSELLE MACASUHOT: 3 pending monthly bills', '09815951924, ROSELYN C. OLITA: 2 pending monthly bills']
+[Success][12:24:06] : ['09454860279, ROSELYN M. TRAJANO: 2 pending monthly bills', '09686909372, ROSELYN MAGALLANES: 3 pending monthly bills', '09608599275, ROSEMARIE DILAO: 1 pending monthly bill']
+[Success][12:24:11] : ['09363959941, ROSEMARIE TIMBAL (NEW): 3 pending monthly bills', '09304040108, ROSETA DIOLA: 1 pending monthly bill', '09154858086, ROUELA G. SESCON: 3 pending monthly bills']
+[Success][12:24:16] : ['09213170952, ROVEL ORLANES: 1 pending monthly bill', '09855931538, ROWELA DAMPIOS: 1 pending monthly bill', '09700572875, ROWENA CAPALARAN: 1 pending monthly bill']
+[Success][12:24:21] : ['09551124904, ROWENA F. DE LENA: 1 pending monthly bill', '09308919709, ROWENA J. COMBATE: 1 pending monthly bill', '09057509353, ROXANNE G. MAASIN: 1 pending monthly bill']
+[Success][12:24:26] : ['09750435305, ROXANNE OCHATE: 2 pending monthly bills', '09395824261, RUBY AYOP TOYONG: 1 pending monthly bill', '09817756825, RUBY FELICILDA: 2 pending monthly bills']
+[Success][12:24:31] : ['09051445021, RUBY GRACE PACOLOR: 1 pending monthly bill', '09627224543, RUBY ROSE O. CORPIN: 2 pending monthly bills', '09478405689, RUBYLINE DE GRACIA: 1 pending monthly bill']
+[Success][12:24:36] : ['09063224230, RUDENYL RESUS BETONIO: 3 pending monthly bills', '09125131541, RUDESA PALEN: 1 pending monthly bill', '09554935780, RUDOLFO MORALES: 1 pending monthly bill']
+[Success][12:24:41] : ['09069004088, RUEL G. SAJA: 2 pending monthly bills', '09508664818, RUEL L. NATIVIDAD: 2 pending monthly bills', '09069029261, RUEL RYAN ROSAL #2: 1 pending monthly bill']
+[Success][12:24:46] : ['09753182421, RUSTILLE S. FLORES: 2 pending monthly bills', '09630718274, RUTH G. MUTIA: 3 pending monthly bills', '09513640055, RUTHIE PARANTAR: 2 pending monthly bills']
+[Success][12:24:51] : ['09478400156, RYAN HERNANDEZ (NEW): 1 pending monthly bill', '09350717862, SALVADOR FAELNAR III: 1 pending monthly bill', '09365348919, SAN ANTONIO ELEMENTARY SCHOOL: 2 pending monthly bills']
+[Success][12:24:56] : ['09353314179, SANDRA D. AGUILAR: 1 pending monthly bill', '09661492276, SANTO NINO PARISH: 2 pending monthly bills', '09283558059, SARAH JANE MACAS: 1 pending monthly bill']
+[Success][12:25:01] : ['09165347379, SARAH TENIO: 1 pending monthly bill', '09098640339, SARAH VILLALUNA: 1 pending monthly bill', '09072336293, SARGON C. ORAIS: 2 pending monthly bills']
+[Success][12:25:06] : ['09679178296, SATURNINA MEKING: 3 pending monthly bills', '09302417876, SERLIDRIGO A. OBRA: 2 pending monthly bills', '09852847297, SHANDYL T. ARTANA: 2 pending monthly bills']
+[Success][12:25:12] : ['09683703165, SHARMAINE CARBAJAL.: 2 pending monthly bills', '09566240622, SHEENA MAE SIBI: 1 pending monthly bill', '09171145441, SHEILA AVES: 2 pending monthly bills']
+[Success][12:25:17] : ['09615603203, SHEILAME M. LIQUIDO: 2 pending monthly bills', '09661492284, SHEINYN JANE ACERON: 2 pending monthly bills', '09484033242, SHELLA M. CAINGLES: 3 pending monthly bills']
+[Success][12:25:22] : ['09163077353, SHEREE VELL B. LECHIDO: 3 pending monthly bills', '09178781425, SHERRY LURA: 1 pending monthly bill', '09679167117, SHIELA H. CABARRUBIAS: 1 pending monthly bill']
+[Success][12:25:27] : ['09056487195, SHIELA HERONA LAPLANA: 1 pending monthly bill', '09364931747, SHIERLY ESMA: 2 pending monthly bills', '09510342587, SILVIA CAHAYAG: 1 pending monthly bill']
+[Success][12:25:32] : ['09553215604, SOFRONIO ADOBAS: 2 pending monthly bills', '09958670083, SOLOMON O. ENERO: 1 pending monthly bill', '09173060553, STA. CRUZ ELEMENTARY SCHOOL: 1 pending monthly bill']
+[Success][12:25:37] : ['09120418211, STEFFANY DUMANDAN: 1 pending monthly bill', '09750127611, STEPHEN G. GAVIOLA: 1 pending monthly bill', '09123308440, SULPICIO MIFUEL: 1 pending monthly bill']
+[Success][12:25:42] : ['09957191054, TENIO EPIFANIA: 1 pending monthly bill', '09979302605, TEODOLO V. ABEJAR JR.: 1 pending monthly bill', '09268832319, TEODORA CHIONG: 1 pending monthly bill']
+[Success][12:25:47] : ['09855909825, TEODORA P. JUNIO: 1 pending monthly bill', '09654530745, TEODORO CHIONG #2: 2 pending monthly bills', '09654530745, TEODORO CHIONG JR: 2 pending monthly bills']
+[Success][12:25:52] : ['09855910735, TEOGENIA LORILLA #2: 1 pending monthly bill', '09690364329, TERESITA CAPILITAN: 1 pending monthly bill', '09351486247, TESSIE BOHOL: 1 pending monthly bill']
+[Success][12:25:57] : ['09214777749, TGP BBBROTHERS VISAYAS INC: 1 pending monthly bill', '09380046619, THE SALVATION ARMY/CORAZON P. IBAÑEZ: 1 pending monthly bill', '09501811975, THELMA P. ESTORPE: 2 pending monthly bills']
+[Success][12:26:02] : ['09610896235, THERESA A. SALA #1: 3 pending monthly bills', '09610896235, THERESA A. SALA #2: 2 pending monthly bills', '09125265211, TIEMPO JOEL: 2 pending monthly bills']
+[Success][12:26:07] : ['09473968917, TIMBA ELEMENTARY SCHOOL: 1 pending monthly bill', '09276816413, TINAGO ELEMENTARY SCHOOL #1: 2 pending monthly bills', '09276816413, TINAGO ELEMENTARY SCHOOL #2: 2 pending monthly bills']
+[Success][12:26:12] : ['09120357269, TISHA PLINKY MONTEMAYOR: 3 pending monthly bills', '09308185609, TITA ABINA: 1 pending monthly bill', '09175501303, TOCS 1-CLASS ROOM: 1 pending monthly bill']
+[Success][12:26:17] : ['09175501303, TOCS-2-PRINCIPAL: 1 pending monthly bill', '09352452393, TRESITO DIZON: 3 pending monthly bills', '09854537898, TRIXIE MAE CARBUNGCO: 1 pending monthly bill']
+[Success][12:26:22] : ['09627027743, TYSON BAYKER: 1 pending monthly bill', '09702931879, UCCP-EFCS ELEM. SCHOOL: 1 pending monthly bill', '09175700385, URSULINA ENTRADA #2: 3 pending monthly bills']
+[Success][12:26:27] : ['09100970713, VANDA PEÑA #2: 2 pending monthly bills', '09263086362, VANESSA DIAZ: 2 pending monthly bills', '09519049367, VANESSA L. ENCLUNA: 1 pending monthly bill']
+[Success][12:26:32] : ['09203351082, VENERANDO BOSQUE: 1 pending monthly bill', '09311526876, VERAMAY A. BESANDE: 1 pending monthly bill', '09850696063, VERGEL E. QUINO: 1 pending monthly bill']
+[Success][12:26:37] : ['09206888580, VERGILIO GALANO (NEW): 1 pending monthly bill', '09709937679, VICENTE S. FAELNAR (NEW): 2 pending monthly bills', '09057515265, VICTORIA C. LIGTAS: 1 pending monthly bill']
+[Success][12:26:42] : ['09169444806, VICTORIA T. PONTOD: 1 pending monthly bill', '09390295545, VICTORIA TALAVERA: 1 pending monthly bill', '09390295545, VICTORIA TALAVERA #2: 1 pending monthly bill']
+[Success][12:26:47] : ['09350347523, VILMA EREJER: 1 pending monthly bill', '09677543490, VIMAEL F. SALA: 2 pending monthly bills', '09277062687, VIMARIE OLAYVAR: 3 pending monthly bills']
+[Success][12:26:52] : ['09510342174, VINA MANATAD: 2 pending monthly bills', '09971961843, VINA R. AGUILAR: 2 pending monthly bills', '09512064304, VINCENT V. EBARLE: 1 pending monthly bill']
+[Success][12:26:57] : ['09366124405, VIRGILIO SALARES: 2 pending monthly bills', '09355792614, VIRGINIA D. CAPILITAN: 2 pending monthly bills', '09093518452, VIRGINIA NOVAL RANALAN: 2 pending monthly bills']
+[Success][12:27:02] : ['09311527177, VIRLY MAE VAÑO: 1 pending monthly bill', '09758783615, VISITACION CASTRO (NEW): 1 pending monthly bill', '09184907847, VITA V. BATINO: 1 pending monthly bill']
+[Success][12:27:07] : ['09178027387, VIVIAN G. NISTAL: 1 pending monthly bill', '09619244215, VIVIAN RAFAEL: 2 pending monthly bills', '09656256885, WALTER AMORA: 2 pending monthly bills']
+[Success][12:27:12] : ['09554115184, WELMIR REAMBONANZA: 3 pending monthly bills', '09268943493, WENIE G. CASTORICO: 2 pending monthly bills', '09152353224, WILLIAM OLVINA: 1 pending monthly bill']
+[Success][12:27:17] : ['09957442075, WILNA JUNIO: 1 pending monthly bill', '09333328164, WILZON GEROMO: 1 pending monthly bill', '09154212642, YANCY E. LEYES: 2 pending monthly bills']
+[Success][12:27:22] : ['09298777292, YOLANDA EQUIPILAG: 3 pending monthly bills', '09955616971, ZARAH MAE S. VARGAS: 3 pending monthly bills', '09059240945, ZENAIDA T. NUEVE: 1 pending monthly bill']
+[Success][12:27:27] : ['09290078736, ZULIETA CASIL SACUROM: 2 pending monthly bills']
+
+[Advanced Records]:
+ABEL OBOR, 09639620897: Advanced payment of 1 month(s)
+ABELARDO C.MAULAS, 09854472446: Advanced payment of 1 month(s)
+ABERTO D. DIZON, 09387309893: Advanced payment of 1 month(s)
+ADELFO SABANDAL, 09926541654: Advanced payment of 1 month(s)
+ADRIANO CATURAN #1, 09058835371: Advanced payment of 1 month(s)
+ADRIANO CATURAN #2, 09058835371: Advanced payment of 1 month(s)
+AGNES Q. MACALDO, 09972857279: Advanced payment of 1 month(s)
+AGUSTIN A. BERONIO, 09056809442: Advanced payment of 1 month(s)
+AGUSTINA T. CALINOG, 09385075054: Advanced payment of 1 month(s)
+AIDA C. DAGAAS, 09108634620: Advanced payment of 1 month(s)
+AIDA ORAIS NAMOC, 09511109676: Advanced payment of 1 month(s)
+AILEEN DALUGDUGAN, 09061227844: Advanced payment of 1 month(s)
+AILEEN LUAB, 09464685972: Advanced payment of 1 month(s)
+AILEEN V. MANGUBAT 2, 09454852554: Advanced payment of 2 month(s)
+AILYN A. TABENERA, 09363879116: Advanced payment of 1 month(s)
+AILYN BERNADIT 2, 09557812518: Advanced payment of 2 month(s)
+AILYN LIAD, 09105786226: Advanced payment of 1 month(s)
+AILYN SILOT, 09753200747: Advanced payment of 1 month(s)
+AIMAE B PLAMOS, 09278282765: Advanced payment of 1 month(s)
+AIREEN T. PALIMA, 09394579619: Advanced payment of 2 month(s)
+AL RYAN T. PALIMA, 09124522446: Advanced payment of 2 month(s)
+ALBERTO CANON, 09125287655: Advanced payment of 1 month(s)
+ALBERTO S. TALAMO #3, 09659247000: Advanced payment of 1 month(s)
+ALBERTO TALAMO #2, 09659247000: Advanced payment of 1 month(s)
+ALCHE B. SESCON, 09208377928: Advanced payment of 1 month(s)
+ALEJANDRO GAY, 09691278052: Advanced payment of 1 month(s)
+ALEX OCTOBRE, 09852380172: Advanced payment of 1 month(s)
+ALEXA B. TALISAYSAY, 09562295759: Advanced payment of 1 month(s)
+ALEXANDER S. MONTEHERMOSO, 09062550962: Advanced payment of 1 month(s)
+ALEXIS SALVADOR, 09105873839: Advanced payment of 1 month(s)
+ALFIE JOHN TAMBIS, 09855141932: Advanced payment of 1 month(s)
+ALFREDO DOCENA, 09175709805: Advanced payment of 1 month(s)
+ALFREDO PASCUAL, 09265233306: Advanced payment of 1 month(s)
+ALLAN NOEL BERNALES, 09778400212: Advanced payment of 1 month(s)
+ALLEN T. GAVIOLA, 09773365584: Advanced payment of 1 month(s)
+ALMA M. ANGELES, 09062441716: Advanced payment of 1 month(s)
+ALMA VAÑO TERANTE, 09129906138: Advanced payment of 1 month(s)
+ALNEVIE B. BALBON, 09355103284: Advanced payment of 1 month(s)
+ALONA B. BONGA, 09399376270: Advanced payment of 1 month(s)
+ALTHEA KATE J. SUANGCO, 09655582504: Advanced payment of 1 month(s)
+AMALIA L. CADAY, 09067555324: Advanced payment of 2 month(s)
+AMALIA L. ESCANO, 09163487948: Advanced payment of 1 month(s)
+AMELIA VILLASIDO, 09165348438: Advanced payment of 1 month(s)
+ANA LUCEL TALISAYSAY, 09664779991: Advanced payment of 1 month(s)
+ANABEL A. VILLAGANAS, 09355101184: Advanced payment of 2 month(s)
+ANALIE CANETE, 09108603588: Advanced payment of 2 month(s)
+ANALUNA T. FLORES, 09472932962: Advanced payment of 1 month(s)
+ANALYN C. LATIBO, 09231515130: Advanced payment of 1 month(s)
+ANDRE A. MALATE, 09277714438: Advanced payment of 1 month(s)
+ANDRES JAKE B. YAMSON, 09647387102: Advanced payment of 1 month(s)
+ANDRES P. OLVINA, 09158024377: Advanced payment of 3 month(s)
+ANECITO CAMINGAO JR, 09397327399: Advanced payment of 1 month(s)
+ANECITO OBEN JR (NEW), 09653588733: Advanced payment of 1 month(s)
+ANECITO OBEN JR #2, 09653588733: Advanced payment of 1 month(s)
+ANGEL C. NOVELA, 09777952470: Advanced payment of 1 month(s)
+ANGEL L. TABINAS JR., 09639487803: Advanced payment of 1 month(s)
+ANGELI CALOPE, 09512060925: Advanced payment of 1 month(s)
+ANGELI ESCANO, 09602953675: Advanced payment of 1 month(s)
+ANGELICA GO SIEGA, 09284157243: Advanced payment of 2 month(s)
+ANGELITO ZAMORA, 09361222198: Advanced payment of 1 month(s)
+ANGELO BERINGUEL, 09171154288: Advanced payment of 1 month(s)
+ANGIE E. BIHAY, 09554208695: Advanced payment of 1 month(s)
+ANGIMIEL DOLOSA, 09354339934: Advanced payment of 2 month(s)
+ANISA DIRON, 09283762395: Advanced payment of 1 month(s)
+ANITO OLAYVAR, 09297877574: Advanced payment of 1 month(s)
+ANNA COBONG ALCOVER, 09606628225: Advanced payment of 1 month(s)
+ANNA LEE P. MONTE DE RAMOS, 09302460879: Advanced payment of 1 month(s)
+ANNA LISSA MARIE T. SOLER, 09532208725: Advanced payment of 1 month(s)
+ANNA MAE P. QUISIT, 09559104838: Advanced payment of 1 month(s)
+ANNA MARIE ASIS, 09985527850: Advanced payment of 1 month(s)
+ANNABELLE GESULGA 2, 09362082361: Advanced payment of 3 month(s)
+ANNABELLE V. MINA, 09971400799: Advanced payment of 1 month(s)
+ANNE BRAGAS, 09120965073: Advanced payment of 1 month(s)
+ANTHONY GREGORY DURRINGTON, 09165348520: Advanced payment of 2 month(s)
+ANTONIA MANUBAY, 09461327337: Advanced payment of 2 month(s)
+ANTONINO LIM GOLBE, 09453898675: Advanced payment of 3 month(s)
+ANTONIO ARGUILLES, 09055513376: Advanced payment of 1 month(s)
+APOLINARIO M. ESCABAL JR, 09054173954: Advanced payment of 1 month(s)
+APPLE JANE AGAPAY FIGURA, 09269616087: Advanced payment of 2 month(s)
+APRIL FAITH ARSENIO, 09098654680: Advanced payment of 1 month(s)
+ARACELI DECENTECEO, 09173587037: Advanced payment of 3 month(s)
+ARCADIA S. TULANG, 09095042891: Advanced payment of 2 month(s)
+ARDEL GERALDO (NEW), 09356591828: Advanced payment of 1 month(s)
+ARIEL C. BALBON, 09606623003: Advanced payment of 1 month(s)
+ARIS ANTHONNI R. ENDRIGA, 09102436459: Advanced payment of 1 month(s)
+ARKY MIOLE, 09552885016: Advanced payment of 1 month(s)
+ARLENE O. ABANDO, 09532204802: Advanced payment of 2 month(s)
+ARLYN G. CALDERON, 09954158699: Advanced payment of 1 month(s)
+ARLYN R. SALARES, 09306798227: Advanced payment of 1 month(s)
+ARMAN MASANGKAY, 09385051210: Advanced payment of 1 month(s)
+ARMAND P. RICABORDA, 09569620199: Advanced payment of 1 month(s)
+ARMANDO FIGURA, 09458199126: Advanced payment of 1 month(s)
+ARMEDA G. BRAVO, 09308920120: Advanced payment of 1 month(s)
+ARNEL HILL, 09125486459: Advanced payment of 1 month(s)
+ARNEL MOSQUITE, 09508211373: Advanced payment of 1 month(s)
+ARNIEL E. CASILE, 09617330409: Advanced payment of 1 month(s)
+ARNOLD MANAYAGA, 09293214696: Advanced payment of 1 month(s)
+ARTHEM P. BOHOL, 09168786761: Advanced payment of 1 month(s)
+ARTHUR M. FABULAR, 09124784228: Advanced payment of 2 month(s)
+ARTHUR PETER F. DEJARME, 09486373752: Advanced payment of 1 month(s)
+ATTY.VIVIAN ROSARIO PALIMA PETRACORTA, 09212103992: Advanced payment of 2 month(s)
+AUBREY GANTALA, 09564359496: Advanced payment of 1 month(s)
+AUGUSTUS KENNETH SIERVO, 09456148154: Advanced payment of 1 month(s)
+AURORA JANE RUIZ, 09173647600: Advanced payment of 1 month(s)
+AVELINA BARING, 09162488522: Advanced payment of 1 month(s)
+AVELINO S. OBOR JR, 09359728641: Advanced payment of 1 month(s)
+BARANGAY HALL-MASLOG, 09272276029: Advanced payment of 1 month(s)
+BASILISA R. IHALAD, 09302417553: Advanced payment of 1 month(s)
+BEBITA NECOSIA, 09488485450: Advanced payment of 1 month(s)
+BELENDA CABALE, 09972075432: Advanced payment of 1 month(s)
+BELINDA ASTILLERO, 09450944517: Advanced payment of 1 month(s)
+BELINDA ODAR, 09631145227: Advanced payment of 1 month(s)
+BELINDA TEMPLADO, 09161232685: Advanced payment of 1 month(s)
+BENCKY JANE QUISADO, 09317313703: Advanced payment of 1 month(s)
+BENIT ELEMENTARY SCHOOL, 09108642337: Advanced payment of 1 month(s)
+BENITA OMIPON, 09128879343: Advanced payment of 1 month(s)
+BENJAMIN BORJA JR., 09513681975: Advanced payment of 2 month(s)
+BENJAMIN JOSEPH ESCANO, 09177233684: Advanced payment of 3 month(s)
+BENJIE B. POMENTO, 09855228236: Advanced payment of 1 month(s)
+BENMAR M. TALUDHOG, 09270813883: Advanced payment of 1 month(s)
+BENONIE T. VECINA #2, 09095383025: Advanced payment of 1 month(s)
+BENONIE VECINA 1, 09095383025: Advanced payment of 1 month(s)
+BERLINA C. DE SAN ANDRES, 09650873107: Advanced payment of 1 month(s)
+BERNADETTE CABERTE TERANTE, 09651409034: Advanced payment of 2 month(s)
+BERNIELYN LAMOSTE, 09067558160: Advanced payment of 1 month(s)
+BEVERLY GARCES, 09335793275: Advanced payment of 1 month(s)
+BIBIANA ZAFRA, 09513689972: Advanced payment of 1 month(s)
+BILLY L. TENEFRANCIA, 09357953595: Advanced payment of 1 month(s)
+BIMBOM CAPILITAN, 09704527214: Advanced payment of 1 month(s)
+BLAIR T. CAPILITAN, 09471879824: Advanced payment of 1 month(s)
+BONIFACIO C. JACOBE JR., 09750286383: Advanced payment of 1 month(s)
+BONIFACIO M. OLOR, 09354924563: Advanced payment of 1 month(s)
+BRELITA S. NARCISO, 09101643554: Advanced payment of 1 month(s)
+BRGY. HALL SAN VICENTE, 09633528070: Advanced payment of 1 month(s)
+BRIAN T. MONTE DE RAMOS., 09308832507: Advanced payment of 1 month(s)
+BRYAN ISERIO, 09308666892: Advanced payment of 2 month(s)
+BRYAN LEE ZABALA, 09657541662: Advanced payment of 1 month(s)
+CABASCAN ELEM. SCHOOL, 09060526013: Advanced payment of 1 month(s)
+CAMBITE ELEMENTARY SCHOOL, 09171351848: Advanced payment of 1 month(s)
+CANLUPAO ELEMENTARY SCHOOL, 09173005437: Advanced payment of 1 month(s)
+CANTAMUAC ELEM. SCHOOL, 09518027865: Advanced payment of 1 month(s)
+CARLITO E. RANAY, 09066848186: Advanced payment of 1 month(s)
+CAROLINA P. BATIAO, 09091846849: Advanced payment of 1 month(s)
+CAROLINA S. POMENTO, 09317306670: Advanced payment of 1 month(s)
+CARREN D. DEOCAMPO, 09125801156: Advanced payment of 1 month(s)
+CASTRENCE VECINA, 09151732809: Advanced payment of 1 month(s)
+CATHERINE ROSE MACABATA, 09709938049: Advanced payment of 2 month(s)
+CATHERINE SACRO, 09260396374: Advanced payment of 1 month(s)
+CEASAR T. LUMAKANG, 09948872335: Advanced payment of 1 month(s)
+CEBUANA LHUILLIER-MALITBOG, 09751886628: Advanced payment of 1 month(s)
+CECELIA T. ABOLUCION, 09124848573: Advanced payment of 2 month(s)
+CECIL C. DULFO, 09709938424: Advanced payment of 1 month(s)
+CECILIA SABUTANAN 2, 09553428156: Advanced payment of 2 month(s)
+CELESTE JEAN J. ABAYATA, 09362074225: Advanced payment of 1 month(s)
+CELSO QUILISTE, 09482391599: Advanced payment of 1 month(s)
+CESAR F. PACOLOR, 09391026206: Advanced payment of 1 month(s)
+CHARIE T. MARTIN, 09367129890: Advanced payment of 1 month(s)
+CHARLIE TRABOC, 09567095751: Advanced payment of 1 month(s)
+CHARLITO A. BLASABAS, 09306231687: Advanced payment of 2 month(s)
+CHARLYN E. KOSEK, 09639641946: Advanced payment of 2 month(s)
+CHARLYN GALDO, 09656246286: Advanced payment of 1 month(s)
+CHARLYN P. ARAT, 09924561269: Advanced payment of 1 month(s)
+CHARME AN A. RIN, 09503820029: Advanced payment of 1 month(s)
+CHARME AN A. RIN  #2, 09503820029: Advanced payment of 1 month(s)
+CHARMINDA L. GARCES, 09284401298: Advanced payment of 1 month(s)
+CHERRY BERGADO, 09817756813: Advanced payment of 2 month(s)
+CHERRY C. BORJA, 09178781294: Advanced payment of 1 month(s)
+CHERRY MAE Y. SAUSA, 09064428931: Advanced payment of 2 month(s)
+CHERRYLYN TERANTE, 09533509640: Advanced payment of 1 month(s)
+CHERYL SESCON, 09298086145: Advanced payment of 1 month(s)
+CHIEZEL SERRANO, 09466763765: Advanced payment of 1 month(s)
+CHITTO D. BERINGUEL, 09165774739: Advanced payment of 1 month(s)
+CHRIST THE HEALER, 09176314886: Advanced payment of 1 month(s)
+CHRISTEN B. DULFO, 09994518547: Advanced payment of 1 month(s)
+CHRISTIAN JADE MAGLINTE, 09489196110: Advanced payment of 1 month(s)
+CHRISTIAN JAY ABRAO, 09120971225: Advanced payment of 1 month(s)
+CHRISTIAN TRIMUCHA #2, 09276033885: Advanced payment of 2 month(s)
+CHRISTOPHER A. LAROSA, 09533877180: Advanced payment of 1 month(s)
+CHRISTOPHER LAROSA 2, 09533877180: Advanced payment of 1 month(s)
+CHRISTY SEGADOR, 09295573804: Advanced payment of 1 month(s)
+CINDY BERNADAS, 09954052573: Advanced payment of 1 month(s)
+CINDY SARRA, 09704561036: Advanced payment of 1 month(s)
+CITADEL SALAMANA, 09759954866: Advanced payment of 1 month(s)
+CLARELL O. DIZON, 09208360464: Advanced payment of 2 month(s)
+CLARITA DURAN 2, 09263936840: Advanced payment of 2 month(s)
+CLARO S. YAP JR, 09654996292: Advanced payment of 1 month(s)
+CLINT MATONDO, 09481323822: Advanced payment of 1 month(s)
+CLINT RUDOLF D. TAYO, 09458016526: Advanced payment of 3 month(s)
+COLLEN ANTONETTE M. CABAHUG, 09654920020: Advanced payment of 1 month(s)
+CONCEPCION BAGARES, 09085785692: Advanced payment of 1 month(s)
+CONCEPCION NATIONAL HIGH SCHOOL, 09455219285: Advanced payment of 1 month(s)
+CONNIE ANN VETE, 09308966821: Advanced payment of 1 month(s)
+CONNIE CHONA PALER, 09364098044: Advanced payment of 1 month(s)
+CONRADO B. PELOBUENO 2, 09354926081: Advanced payment of 1 month(s)
+CONSOLACION NATIONAL HIGH SCHOOL, 09753229516: Advanced payment of 2 month(s)
+CONSTANCIO BUGNOS JR, 09319696934: Advanced payment of 1 month(s)
+CONSUELO K TAN MED. CENTER INC., 09554073745: Advanced payment of 1 month(s)
+CORAZON D. JACOBE, 09754753229: Advanced payment of 1 month(s)
+CORAZON GARCES, FIGURA, 09361852412: Advanced payment of 2 month(s)
+CRISPIN T. TIMKANG, 09125265565: Advanced payment of 1 month(s)
+CRISTINA MABITAD, 09615092100: Advanced payment of 1 month(s)
+CRISTINA O. LINA, 09635054499: Advanced payment of 1 month(s)
+CRISTINA O. LOLO, 09073625813: Advanced payment of 2 month(s)
+CRISTOPHERE PIRAMIDE CASTRO, 09387825978: Advanced payment of 1 month(s)
+CRISTY CAMPILAN, 09358129372: Advanced payment of 2 month(s)
+CRISTY SACRO, 09464849032: Advanced payment of 1 month(s)
+CRISTYSHEEN B. MASBAD., 09306799949: Advanced payment of 1 month(s)
+CRUCIFINO M. YAP, 09977183558: Advanced payment of 1 month(s)
+CRYSTAL BASAS, 09502401504: Advanced payment of 1 month(s)
+CYBEN TONACAO, 09489267293: Advanced payment of 1 month(s)
+DAFENHS 1-JUNIOR HIGH SCHOOL 1, 09617330044: Advanced payment of 1 month(s)
+DAFENHS 2-JUNIOR HIGH SCHOOL 2, 09617330044: Advanced payment of 1 month(s)
+DAFENHS 3-SENIOR HIGH SCHOOL, 09617330044: Advanced payment of 1 month(s)
+DAHLIA LAYO, 09677702369: Advanced payment of 1 month(s)
+DANA DIAZ LIM, 09398723078: Advanced payment of 1 month(s)
+DANDY SARONG POLEA, 09366118637: Advanced payment of 1 month(s)
+DANIEL MATURAN, 09706816892: Advanced payment of 1 month(s)
+DANILO A. MAKILING, 09665223449: Advanced payment of 1 month(s)
+DANILO C. BOYOC, 09983377029: Advanced payment of 1 month(s)
+DANILO D. CATARMAN, 09169148738: Advanced payment of 1 month(s)
+DANILO S. CAPILITAN, 09700572801: Advanced payment of 1 month(s)
+DANILO UNAT, 09270082556: Advanced payment of 2 month(s)
+DANNAH A. SALARES, 09532390533: Advanced payment of 1 month(s)
+DANTE E. MARAON, 09351614804: Advanced payment of 1 month(s)
+DANTE ODIAS, 09068636863: Advanced payment of 1 month(s)
+DAPHNE JEAN A. VELMONTE, 09619202471: Advanced payment of 1 month(s)
+DARIO C. MONTAJES, 09273512181: Advanced payment of 1 month(s)
+DARIUS ACUNA LAPLANA, 09654293539: Advanced payment of 2 month(s)
+DARWIN MAGDUGO, 09109916255: Advanced payment of 1 month(s)
+DAVE FERNANDEZ, 09558438501: Advanced payment of 1 month(s)
+DAVE RELLANOS, 09214524177: Advanced payment of 1 month(s)
+DAVE REX TAGRA, 09662182118: Advanced payment of 1 month(s)
+DEDITA B. ICHON, 09397883406: Advanced payment of 1 month(s)
+DELIA N. BERONIO (NEW), 09423340315: Advanced payment of 2 month(s)
+DEMETRIO P. OSER, 09124843637: Advanced payment of 1 month(s)
+DEMOSTHENES GALDO JR, 09274939211: Advanced payment of 2 month(s)
+DENNIS L. BALDOMAR, 09513640262: Advanced payment of 1 month(s)
+DENNIS NARBONITA, 09614359446: Advanced payment of 3 month(s)
+DENNY D. ARSENIO, 09631150730: Advanced payment of 1 month(s)
+DESIREE MAE MOLOS CORPIN, 09533509261: Advanced payment of 1 month(s)
+DEXIE ANN OLLODO, 09280445594: Advanced payment of 1 month(s)
+DEXTER J. NOVAL, 09307001102: Advanced payment of 1 month(s)
+DIANA JANE NARES, 09164422451: Advanced payment of 1 month(s)
+DIANE PEARL YBANEZ, 09352689440: Advanced payment of 2 month(s)
+DIANNE D. TIMOG, 09948908347: Advanced payment of 1 month(s)
+DILG BONTOC, 09277519276: Advanced payment of 1 month(s)
+DIMENSION GLASS & ALUMINUM SUPPLY, 09706882296: Advanced payment of 1 month(s)
+DINDO SALA, 09336692334: Advanced payment of 1 month(s)
+DINO V. LAPLANA, 09630745766: Advanced payment of 3 month(s)
+DIOSCORO AGUILAR, 09855910277: Advanced payment of 1 month(s)
+DIVISORIA ELEMENTARY SCHOOL/ LUDEE R. ABENION, 09677983161: Advanced payment of 1 month(s)
+DOMINADOR V. BAYKER #2, 09562436991: Advanced payment of 1 month(s)
+DONALD L. CAWALING, 09677419709: Advanced payment of 1 month(s)
+DONALYN CABASISI, 09369341939: Advanced payment of 1 month(s)
+DONNA BELLE S. YBANEZ, 09957404100: Advanced payment of 2 month(s)
+DONNA VI N. EWAY., 09359383702: Advanced payment of 2 month(s)
+DONNALEA OGRIMEN, 09158674502: Advanced payment of 1 month(s)
+DORA M. MORALDE, 09058841021: Advanced payment of 2 month(s)
+EDBRYAN T. BENGALAN, 09066137231: Advanced payment of 1 month(s)
+EDELBERTO A. DIAPOLET, 09106950354: Advanced payment of 2 month(s)
+EDGAR A. PEÑAREDONDO, 09953681988: Advanced payment of 3 month(s)
+EDGAR BEDON 2, 09352423361: Advanced payment of 2 month(s)
+EDGARDO E. COLITA, 09479659152: Advanced payment of 1 month(s)
+EDGARDO JACOBE, 09751390174: Advanced payment of 1 month(s)
+EDITHA  S. MONTERA, 09972411466: Advanced payment of 2 month(s)
+EDITHA RISMA, 09753365804: Advanced payment of 2 month(s)
+EDMUNDO C. LIQUIDO, 09695360601: Advanced payment of 1 month(s)
+EDNA ESCABILLAS., 09120600372: Advanced payment of 2 month(s)
+EDNA M. ACIBES, 09639641978: Advanced payment of 2 month(s)
+EDSEL M. MACASOCOL, 09319344728: Advanced payment of 1 month(s)
+EDUARDO FLORES, 09317311369: Advanced payment of 1 month(s)
+EDWIN BAYONA, 09120563385: Advanced payment of 1 month(s)
+EFREN BOHOL LLOREN, 09317214237: Advanced payment of 1 month(s)
+EFREN S. OMALAY, 09123861745: Advanced payment of 2 month(s)
+ELAINE D. PIZON., 09168206027: Advanced payment of 1 month(s)
+ELAINE E. DIZON, 09675521896: Advanced payment of 1 month(s)
+ELAINE M. SAJA, 09364098005: Advanced payment of 1 month(s)
+ELEANOR C. LIMOSNERO, 09631154458: Advanced payment of 1 month(s)
+ELGIE J. ORILLA, 09709631417: Advanced payment of 1 month(s)
+ELGIN G. LUCIANO, 09564314978: Advanced payment of 1 month(s)
+ELIZA LAO ALDABA, 09390184377: Advanced payment of 1 month(s)
+ELIZABETH ATANOZA, 09637524721: Advanced payment of 1 month(s)
+ELIZABETH CZEPY, 09518211893: Advanced payment of 3 month(s)
+ELIZABETH I. MATURAN, 09855143463: Advanced payment of 1 month(s)
+ELIZABETH PINEDA, 09050347022: Advanced payment of 1 month(s)
+ELIZABETH V. AURE, 09677262266: Advanced payment of 1 month(s)
+ELJEE AMOR A. BITOR, 09756323972: Advanced payment of 1 month(s)
+ELLAH MAE S. ANI (NEW), 09684585767: Advanced payment of 1 month(s)
+ELLYN B. ALORO, 09162659306: Advanced payment of 1 month(s)
+ELMER C. ABREA 2, 09555982066: Advanced payment of 1 month(s)
+ELMER VILLAMOR, 09355162528: Advanced payment of 1 month(s)
+ELMER VILLAMOR 2, 09355162528: Advanced payment of 1 month(s)
+ELNA LAYO URAL, 09756395399: Advanced payment of 2 month(s)
+ELSA MORCISA, 09619244129: Advanced payment of 2 month(s)
+ELSIE L. JUNTILLA, 09665046523: Advanced payment of 2 month(s)
+ELVERA J. LAPLANA, 09686572934: Advanced payment of 1 month(s)
+ELVIRA AMORA, 09706877775: Advanced payment of 1 month(s)
+ELVIRA AVES, 09631174082: Advanced payment of 1 month(s)
+ELVIRA NAROLLO#2, 09675515423: Advanced payment of 1 month(s)
+ELVIS A. BASAN, 09515600458: Advanced payment of 2 month(s)
+EMELIA I. ELMIDO, 09971459542: Advanced payment of 1 month(s)
+EMILIA O. REPARDOS, 09369896840: Advanced payment of 2 month(s)
+EMILY ALCOBER 2, 09957962550: Advanced payment of 2 month(s)
+EMILY C. MONTE DE RAMOS, 09632670192: Advanced payment of 1 month(s)
+EMMA B. AMPARO, 09639620997: Advanced payment of 1 month(s)
+EMMALENE Q. TEE, 09125691431: Advanced payment of 1 month(s)
+EMMANUEL BETE, 09171503248: Advanced payment of 1 month(s)
+ENGALAN NILO CANOÑERO, 09468044129: Advanced payment of 2 month(s)
+ENRICK RODNEY SALARES-2, 09173174191: Advanced payment of 1 month(s)
+EPIFANIO C. COMILANG, 09067557050: Advanced payment of 2 month(s)
+EPIFANIO VILLARIAS JR, 09564327787: Advanced payment of 1 month(s)
+ERLINDA GAURINO, 09264459239: Advanced payment of 1 month(s)
+ERLINDA J. TIMKANG, 09124945687: Advanced payment of 1 month(s)
+ERLINDA S. TIMKANG, 09694899464: Advanced payment of 1 month(s)
+ERMELINDA A. MIOLE, 09207144004: Advanced payment of 1 month(s)
+ERMILIN M. WEILER, 09665747731: Advanced payment of 2 month(s)
+ERNAN LAPRESA, 09552508368: Advanced payment of 1 month(s)
+ERNANITA B. BERINGUEL, 09398865119: Advanced payment of 4 month(s)
+ERNESTO A. PACATE, 09773606144: Advanced payment of 1 month(s)
+ERNESTO GALIA, 09684585816: Advanced payment of 1 month(s)
+ERWIN BEDON #2, 09667318147: Advanced payment of 2 month(s)
+ESEL OLITA, 09488793345: Advanced payment of 1 month(s)
+ESMERALDO A. DUHAYLUNGSOD, 09067066376: Advanced payment of 3 month(s)
+ESTER GONO, 09606628211: Advanced payment of 1 month(s)
+ESTER M. LAGUNDA, 09606622123: Advanced payment of 2 month(s)
+ESTRELIA C. LAMBO, 09506375891: Advanced payment of 2 month(s)
+ESTRELLA C. CANON - 1, 09354921626: Advanced payment of 2 month(s)
+ESTRELLA C. COTANDA, 09300349344: Advanced payment of 1 month(s)
+ESTRELLETA O. GUZMANA, 09129184906: Advanced payment of 1 month(s)
+EUGENIO C. ABINA, 09357128843: Advanced payment of 2 month(s)
+EULALIA R. GITGANO, 09308908779: Advanced payment of 2 month(s)
+EULOGIO EVANGELISTA #2, 09619202784: Advanced payment of 1 month(s)
+EVANGELIN M. DEMETERIO #1, 09285697537: Advanced payment of 1 month(s)
+EVANGELIN M. DEMETERIO #2, 09285697537: Advanced payment of 1 month(s)
+EVANGELIN M. DEMETERIO #3, 09285697537: Advanced payment of 1 month(s)
+EVANGELIN M. DEMETERIO #4, 09285697537: Advanced payment of 1 month(s)
+EVANGELIN M. DEMETERIO #5, 09285697537: Advanced payment of 1 month(s)
+EVARRA S. SAMACO #2, 09276878000: Advanced payment of 1 month(s)
+EVARRA SAMACO 1, 09276878000: Advanced payment of 1 month(s)
+EVELINDA ASIS QUINTO, 09679175673: Advanced payment of 1 month(s)
+EVELYN BANTUGAN, 09106045526: Advanced payment of 1 month(s)
+EVELYN CABALE ORAIN, 09161153225: Advanced payment of 1 month(s)
+EVELYN D. OCAY, 09309323047: Advanced payment of 1 month(s)
+EVELYN MAPUTI, 09533184427: Advanced payment of 1 month(s)
+FACUNDO ROYERAS, 09157145534: Advanced payment of 2 month(s)
+FARIDA CAMPILAN, 09662338369: Advanced payment of 1 month(s)
+FATIMA B.TABALE, 09125270058: Advanced payment of 1 month(s)
+FATIMA LOVE P. CUADRA, 09480072373: Advanced payment of 2 month(s)
+FAUSTA D. SAJOL, 09308920961: Advanced payment of 1 month(s)
+FE EULAMAR QUISMUNDO., 09606628275: Advanced payment of 2 month(s)
+FE P. DUAN, 09165212120: Advanced payment of 1 month(s)
+FEDELITA S. ILUSTRE ( NEW ACCOUNT), 09178780837: Advanced payment of 1 month(s)
+FELICIDAD T. SANCHEZ, 09513684059: Advanced payment of 1 month(s)
+FELIPE DE GRACIA, 09390023333: Advanced payment of 2 month(s)
+FELIX BERTO MONTANES, 09758267539: Advanced payment of 1 month(s)
+FELIX QUIBAN, 09293800006: Advanced payment of 1 month(s)
+FELOMINO LAROA, 09106050876: Advanced payment of 1 month(s)
+FERMIN GALO, 09356361469: Advanced payment of 1 month(s)
+FERNANDO B. OCTOBRE, 09855909811: Advanced payment of 4 month(s)
+FERNANDO D. SESCON JR., 09206814934: Advanced payment of 1 month(s)
+FIDEL OLAYVAR (DRMIFI), 09265324809: Advanced payment of 1 month(s)
+FLORANTE JAY LOPEZ, 09668335583: Advanced payment of 1 month(s)
+FLORDELYN H. ABREA #1, 09284401298: Advanced payment of 1 month(s)
+FLORDELYN H. ABREA #2, 09284401298: Advanced payment of 1 month(s)
+FLORENCIA L. MANGMANG, 09363962481: Advanced payment of 1 month(s)
+FLORENCIO R. INUTAN, 09213482924: Advanced payment of 2 month(s)
+FLORENCIO SAJONIA, 09194197139: Advanced payment of 1 month(s)
+FLORENTINO SAAVEDRA LOBRIN III, 09072496756: Advanced payment of 1 month(s)
+FLORIE MAY MANUBAY, 09854487631: Advanced payment of 1 month(s)
+FRANCIS JANE MALAYAG, 09466456040: Advanced payment of 1 month(s)
+FRANCISCA BAGA, 09639160232: Advanced payment of 1 month(s)
+FRANCISCO AYUBAN, 09066137156: Advanced payment of 1 month(s)
+FRANCISCO JUTBA, 09996575054: Advanced payment of 2 month(s)
+FRED VENTURES, 09955510316: Advanced payment of 1 month(s)
+FREDERICK D. BASAN, 09754621576: Advanced payment of 1 month(s)
+FREDERICK DALUGDUGAN, 09275648136: Advanced payment of 1 month(s)
+FREDLYN S. FLORIDA, 09095143933: Advanced payment of 2 month(s)
+FREDLYN S. FLORIDA #2, 09095143876: Advanced payment of 2 month(s)
+FROILAN MIRA 2, 09056552156: Advanced payment of 1 month(s)
+GARRICK J. OLLAYER/VIRGINIA BEACH, 09125458962: Advanced payment of 1 month(s)
+GARRICK OLAYER, 09125458962: Advanced payment of 1 month(s)
+GAUDENCIA GOZON, 09291474127: Advanced payment of 2 month(s)
+GELYN CENIZA, 09975519050: Advanced payment of 1 month(s)
+GEMMA C. RUBIO, 09518511830: Advanced payment of 2 month(s)
+GENARA L. ORTIZ, 09759014380: Advanced payment of 1 month(s)
+GENE LISA  J. SITE, 09630620467: Advanced payment of 1 month(s)
+GENELITA S. CALLEJA, 09286800597: Advanced payment of 1 month(s)
+GENELYN DELFIN, 09090273356: Advanced payment of 1 month(s)
+GENEVAVE S. CABALES #2, 09171290051: Advanced payment of 2 month(s)
+GENILYN P. SIEGA, 09753955383: Advanced payment of 1 month(s)
+GENNA V. CUAMBOT, 09814304415: Advanced payment of 1 month(s)
+GEORGE S. NORRIS JR, 09502401688: Advanced payment of 1 month(s)
+GEORGIELYN GONZALES (NEW), 09855142864: Advanced payment of 1 month(s)
+GERALD G. CALAPE, 09306852185: Advanced payment of 1 month(s)
+GERARDO SEGALES, 09475027902: Advanced payment of 1 month(s)
+GIL D. NILO, 09423815790: Advanced payment of 1 month(s)
+GIL MONTIL, 09630598472: Advanced payment of 2 month(s)
+GILBERT GALDO, 09317313865: Advanced payment of 1 month(s)
+GINA FELICILDA, 09285453326: Advanced payment of 2 month(s)
+GINA R. GOMEZ, 09171520938: Advanced payment of 1 month(s)
+GINA T. BELOY, 09631001283: Advanced payment of 1 month(s)
+GIRLIE JANE CANO., 09308921168: Advanced payment of 1 month(s)
+GLADYS ATANOZA, 09497611246: Advanced payment of 1 month(s)
+GLADYS CALIMBAS, 09072821086: Advanced payment of 1 month(s)
+GLAINEY ELONA, 09109691271: Advanced payment of 1 month(s)
+GLAIZA EXALTADO, 09267140325: Advanced payment of 1 month(s)
+GLENA LABASTIDA, 09125466448: Advanced payment of 1 month(s)
+GLENDA ALIPAO, 09277519276: Advanced payment of 1 month(s)
+GLENN BALBON MALDO, 09122632280: Advanced payment of 1 month(s)
+GLENN GUZMANA, 09987507641: Advanced payment of 1 month(s)
+GLENN NEPOMUCENO, 09774454240: Advanced payment of 1 month(s)
+GLOMERA S. LOLO, 09451726383: Advanced payment of 1 month(s)
+GLORIA V. SALA 2, 09182813658: Advanced payment of 2 month(s)
+GODOFREDO SUAREZ JR, 09265327399: Advanced payment of 1 month(s)
+GOLDA JANE R. PAGARAO, 09667431392: Advanced payment of 1 month(s)
+GRACE FLORIDA-1, 09123304374: Advanced payment of 1 month(s)
+GRACE FLORIDA-2, 09123304374: Advanced payment of 1 month(s)
+GRACE O. CREDO, 09090449497: Advanced payment of 1 month(s)
+GRECILDA R. BAA, 09972074945: Advanced payment of 1 month(s)
+GREGORIO A. MALAZA JR., 09706816805: Advanced payment of 1 month(s)
+GRETA C. BATIAO, 09500323114: Advanced payment of 1 month(s)
+GUEL ICHON, 09264562387: Advanced payment of 1 month(s)
+GUILLERMA ROBIN, 09159116561: Advanced payment of 1 month(s)
+GUILLERMO ONTING, 09494945549: Advanced payment of 1 month(s)
+HADASSA I. SUBANG, 09656243694: Advanced payment of 2 month(s)
+HANALIN JURANES, 09614359180: Advanced payment of 1 month(s)
+HAZEL LONGGOS, 09954052565: Advanced payment of 1 month(s)
+HELEN R. GODA, 09307030413: Advanced payment of 1 month(s)
+HEMEH LUCK M. MARAVILLAS, 09359417086: Advanced payment of 1 month(s)
+HENRY G. CABATO, 09754401541: Advanced payment of 1 month(s)
+HENRY M. PAPA, 09456153944: Advanced payment of 1 month(s)
+HERACLEO C. ANDUYAN, 09655571538: Advanced payment of 2 month(s)
+HERCULES L. LAPUZ, 09098642887: Advanced payment of 1 month(s)
+HERMAN CAGAS JR, 09126060818: Advanced payment of 1 month(s)
+HERMINA P. CAROLINO, 09068412346: Advanced payment of 1 month(s)
+HILDA B. FLORES, 09350328602: Advanced payment of 1 month(s)
+HILDA S. CLARIN #2, 09171301984: Advanced payment of 1 month(s)
+HONEY GAY P. LAJERA, 09094990712: Advanced payment of 1 month(s)
+HUMBRE BALDEVISO, 09858063639: Advanced payment of 1 month(s)
+IAN PABLO #2, 09555062346: Advanced payment of 2 month(s)
+IMELDA ABAD, 09120755785: Advanced payment of 2 month(s)
+IMELDA LABASTIDA, 09518344569: Advanced payment of 2 month(s)
+IRA JOY NAMOC, 09166201753: Advanced payment of 1 month(s)
+IRELAINE ANN CABARRUBIAS, 09392645663: Advanced payment of 1 month(s)
+IRENE FERNANDEZ., 09518518255: Advanced payment of 1 month(s)
+IRENEO E. CASAÑA, 09901627145: Advanced payment of 2 month(s)
+IRIS VARQUEZ, 09317313674: Advanced payment of 1 month(s)
+IRISH MORALES, 09122187411: Advanced payment of 2 month(s)
+IRVING AMBI, 09206062964: Advanced payment of 2 month(s)
+ISABELO LILI JR., 09359734452: Advanced payment of 1 month(s)
+ISABELO ORAIS, 09171407116: Advanced payment of 1 month(s)
+IVY A. CLAVA, 09173150438: Advanced payment of 1 month(s)
+IVY FAELNAR, 09199250110: Advanced payment of 1 month(s)
+IVY G. TRIMUCHA, 09171097671: Advanced payment of 1 month(s)
+IVY GRACE ABAD, 09674685805: Advanced payment of 1 month(s)
+IVY JUNE SIEGA, 09510344597: Advanced payment of 1 month(s)
+JACOBE ROSALINDA AMPER, 09104712611: Advanced payment of 2 month(s)
+JACQUELYN RUIZ, 09704554560: Advanced payment of 1 month(s)
+JACQUILINE  D. AMPONG, 09706816686: Advanced payment of 1 month(s)
+JADE ANN B. ORAIZ, 09956318148: Advanced payment of 1 month(s)
+JADE E. MALDO, 09676172822: Advanced payment of 1 month(s)
+JAIME ROA, 09632675218: Advanced payment of 2 month(s)
+JAMES APOLLO ALCOBER, 09367129890: Advanced payment of 1 month(s)
+JAMES R. TODAVIA, 09192195944: Advanced payment of 1 month(s)
+JAMES RONALD D. ESPERRAGO, 09856192087: Advanced payment of 2 month(s)
+JAMES TENIO ALVAR, 09163388331: Advanced payment of 2 month(s)
+JAN MARVIN M. TALISAYSAY, 09306981547: Advanced payment of 1 month(s)
+JAN NARCISO LEONARD G. PUNZALAN 2, 09166014697: Advanced payment of 2 month(s)
+JAN SHERRY BALABA, 09308918654: Advanced payment of 1 month(s)
+JAN SHERRY BALABA #2, 09308918654: Advanced payment of 1 month(s)
+JANCEN B. VASQUEZ, 09459888356: Advanced payment of 1 month(s)
+JANE ANN JAMEN, 09288622218: Advanced payment of 1 month(s)
+JANETTE C. VARQUEZ (NEW ACCOUNT), 09307414855: Advanced payment of 1 month(s)
+JANETTE I. LICAYAN, 09630520214: Advanced payment of 1 month(s)
+JANETTE NEAR CAPILITAN, 09264542108: Advanced payment of 1 month(s)
+JANICE R. GERALDO, 09677983160: Advanced payment of 1 month(s)
+JANIL A. ORIOQUE, 09677281527: Advanced payment of 1 month(s)
+JANISE COLLINS, 09204517706: Advanced payment of 1 month(s)
+JANN MICHAEL ANGELO L. CATIIL, 09128662299: Advanced payment of 1 month(s)
+JANN PATRICK BIONG, 09107836451: Advanced payment of 1 month(s)
+JANREY TINDUGAN, 09534463351: Advanced payment of 1 month(s)
+JASON SECOYA #2, 09308908261: Advanced payment of 1 month(s)
+JASTINE MAE M. AMBARAS, 09368247193: Advanced payment of 2 month(s)
+JAY K. JUSAY, 09533191270: Advanced payment of 1 month(s)
+JAY SALA ALCOBER 2, 09125799859: Advanced payment of 2 month(s)
+JAYE BUG-OS/LIZA BOHOL, 09466588205: Advanced payment of 1 month(s)
+JAYNUS REYLAND J. SY, 09666834455: Advanced payment of 1 month(s)
+JAZER DUMANDAN (NEW), 09056561797: Advanced payment of 1 month(s)
+JEA TAGAPOLOT, 09279624403: Advanced payment of 1 month(s)
+JEAN CELESTY M. BERINGUEL, 09169130908: Advanced payment of 2 month(s)
+JEAN DECINAN, 09489442890: Advanced payment of 2 month(s)
+JEAN GULTIANO, 09677510548: Advanced payment of 1 month(s)
+JEANIVER B. CALINOG, 09957340789: Advanced payment of 1 month(s)
+JEBZ L. COMPESINO, 09465851747: Advanced payment of 1 month(s)
+JEDDABEL HONRADA #1, 09706816454: Advanced payment of 1 month(s)
+JEDDABEL HONRADA #2, 09970681454: Advanced payment of 1 month(s)
+JEFFERSON B. RODRIGUEZ, 09608913217: Advanced payment of 1 month(s)
+JELLY MARIE L. LUZON, 09272466794: Advanced payment of 1 month(s)
+JEM E. MESIONA, 09958837994: Advanced payment of 1 month(s)
+JEMUEL MONTILDE #2, 09506311691: Advanced payment of 1 month(s)
+JENECEL D. MACEDA, 09979219164: Advanced payment of 1 month(s)
+JENELYN U. VANZUELA, 09283489152: Advanced payment of 2 month(s)
+JENICE N. VILLANUEVA, 09486241399: Advanced payment of 2 month(s)
+JENNET L. LIQUIDO, 09064857663: Advanced payment of 1 month(s)
+JENNISA I. CAJES, 09631164042: Advanced payment of 1 month(s)
+JENNY FAYE G. PANAL, 09178710038: Advanced payment of 1 month(s)
+JENNY MAE CINCO, 09175375784: Advanced payment of 1 month(s)
+JENNY VILLAGRA, 09679360316: Advanced payment of 1 month(s)
+JERALDEN S. RAFOLS, 09513691137: Advanced payment of 1 month(s)
+JERALYN B. EGINA., 09759021698: Advanced payment of 2 month(s)
+JERICHO JAMES HONTIVEROS, 09675460434: Advanced payment of 2 month(s)
+JERLYN B. PILO, 09184047997: Advanced payment of 1 month(s)
+JEROLD A. JAMEN, 09105012691: Advanced payment of 1 month(s)
+JERVIN E. MATURAN, 09125467682: Advanced payment of 1 month(s)
+JERYLO DEASIS, 09466490109: Advanced payment of 1 month(s)
+JESIL ZAMORA JUNIO, 09128754648: Advanced payment of 1 month(s)
+JESMAR JOHN GERALDO, 09695079196: Advanced payment of 1 month(s)
+JESS ANDREW CAPISTRANO, 09554117438: Advanced payment of 1 month(s)
+JESSA BIHAY, 09276632168: Advanced payment of 1 month(s)
+JESSA GIL T. IMUS, 09515314497: Advanced payment of 1 month(s)
+JESSON ALORO, 09153944069: Advanced payment of 1 month(s)
+JETER AVES, 09972075549: Advanced payment of 1 month(s)
+JHEAN M. NARES, 09205239299: Advanced payment of 1 month(s)
+JIA D. RAGAS, 09369177604: Advanced payment of 1 month(s)
+JILL INGRID O. RIO, 09215800196: Advanced payment of 2 month(s)
+JIMSON A. OLAYBAR, 09283423278: Advanced payment of 2 month(s)
+JIMWELLE RAÑESES, 09326376721: Advanced payment of 1 month(s)
+JINALIN SUMAYA, 09637524533: Advanced payment of 1 month(s)
+JOAN OLANTIQUE, 09704754062: Advanced payment of 1 month(s)
+JOANA BETH P. TALISAYSAY, 09933230253: Advanced payment of 1 month(s)
+JOANN BELLO AUSA #2, 09276847689: Advanced payment of 1 month(s)
+JOANNA T. LLOREN, 09615998114: Advanced payment of 1 month(s)
+JOANNE F. FERNANDEZ, 09352300369: Advanced payment of 2 month(s)
+JOANNE FERNANDEZ #2, 09352300369: Advanced payment of 1 month(s)
+JOANNE PAMEL VALENZONA, 09262923863: Advanced payment of 1 month(s)
+JOBERT TALISAYSAY, 09266615415: Advanced payment of 2 month(s)
+JOCELYN ADOBAS NORDSTROM, 09389631703: Advanced payment of 2 month(s)
+JOCELYN B. PELINO, 09669460005: Advanced payment of 1 month(s)
+JOCELYN C. MAKILING, 09284611592: Advanced payment of 1 month(s)
+JOCELYN JUNIO, 09486183953: Advanced payment of 1 month(s)
+JOCELYN LOMOTOS, 09215804815: Advanced payment of 1 month(s)
+JOCELYN SASDANE (NEW), 09771101554: Advanced payment of 1 month(s)
+JODEZZA L. CADAY, 09273609758: Advanced payment of 1 month(s)
+JOEL C. RENEGADO, 09503477240: Advanced payment of 1 month(s)
+JOEL CAPILITAN, 09654887162: Advanced payment of 1 month(s)
+JOEL PACAT, 09659240980: Advanced payment of 1 month(s)
+JOEMAR P. SENOC, 09120967963: Advanced payment of 1 month(s)
+JOEMAR S. MAQUILANG, 09126946477: Advanced payment of 1 month(s)
+JOESELYN V. MAQUILANG, 09067548423: Advanced payment of 1 month(s)
+JOEY ACERO, 09563944074: Advanced payment of 1 month(s)
+JOHN CARLO CABALE, 09218507216: Advanced payment of 1 month(s)
+JOHN DAVE FIGURA, 09455211424: Advanced payment of 1 month(s)
+JOHN DIONEL P. FALCON, 09365345308: Advanced payment of 1 month(s)
+JOHN JOSEPH RECITES, 09454433434: Advanced payment of 3 month(s)
+JOHN LORD CAPILITAN, 09682162636: Advanced payment of 1 month(s)
+JOHNRIEL UMAPAS SAPIN, 09704559879: Advanced payment of 1 month(s)
+JOKER G. PEDRERA, 09630231695: Advanced payment of 1 month(s)
+JOMAR HINGABAY, 09385042644: Advanced payment of 2 month(s)
+JOMAR TUBILLA, 09383334291: Advanced payment of 1 month(s)
+JONAH MAE CANTA, 09513640134: Advanced payment of 1 month(s)
+JONAHFE J. MORALITA, 09308969419: Advanced payment of 3 month(s)
+JONASH DOCDOC, 09551385367: Advanced payment of 1 month(s)
+JONATHAN G. MISA, 09260436251: Advanced payment of 1 month(s)
+JONATHAN KUIZON #2, 09178780359: Advanced payment of 2 month(s)
+JONATHAN M. KUIZON, 09772607791: Advanced payment of 1 month(s)
+JONATHAN VILLAMOR, 09317214035: Advanced payment of 2 month(s)
+JONELYN ONGCOY, 09610180403: Advanced payment of 1 month(s)
+JOSE DUMANDAN, 09061588404: Advanced payment of 2 month(s)
+JOSE P. GUZMANA JR, 09268623023: Advanced payment of 1 month(s)
+JOSEPH TIU (NEW), 09176242312: Advanced payment of 1 month(s)
+JOSEPHINE B. ABOGADEI, 09125782666: Advanced payment of 1 month(s)
+JOSEPHINE B. DALUGDUGAN, 09540487505: Advanced payment of 1 month(s)
+JOSEPHINE BANQUE, 09491582025: Advanced payment of 1 month(s)
+JOSEPHINE MONTANIO, 09533076636: Advanced payment of 1 month(s)
+JOSEPHINE NEAR, 09554258855: Advanced payment of 3 month(s)
+JOSHUA CRIS MACALE, 09393945029: Advanced payment of 1 month(s)
+JOSIELYN G. DECENA, 09654882380: Advanced payment of 1 month(s)
+JOTHAM C. HINLAS, 09092402369: Advanced payment of 2 month(s)
+JOVANIE ARRO (NEW), 09288626346: Advanced payment of 1 month(s)
+JOVELIZA AMPONG, 09997309897: Advanced payment of 1 month(s)
+JOVELYN S. MAUNES, 09762084093: Advanced payment of 1 month(s)
+JOVEN LANIC, 09603557132: Advanced payment of 1 month(s)
+JOVINAL TINDUGAN, 09297764492: Advanced payment of 1 month(s)
+JOY ANN GALDO, 09056179531: Advanced payment of 2 month(s)
+JOY M. BUSTAMANTE, 09486075847: Advanced payment of 1 month(s)
+JOY MONTEHERMOSO, 09566304692: Advanced payment of 1 month(s)
+JUAN BALLOS, 09518511736: Advanced payment of 2 month(s)
+JUANA DURON, 09152196213: Advanced payment of 1 month(s)
+JUANITA A. CELLO, 09510447475: Advanced payment of 2 month(s)
+JUDY ANN B. TERESO, 09513640262: Advanced payment of 1 month(s)
+JUDY O. PAZ #2, 09085855048: Advanced payment of 1 month(s)
+JUDY PAZ #1, 09085855048: Advanced payment of 1 month(s)
+JUGIE GONZALES #1, 09452478040: Advanced payment of 1 month(s)
+JUGIE NER GONZALES #2, 09452478040: Advanced payment of 1 month(s)
+JULIANA C. RESPECIA, 09554495782: Advanced payment of 1 month(s)
+JULIE ANN D. ALVAREZ, 09518211908: Advanced payment of 1 month(s)
+JULIE D. BARING, 09496521385: Advanced payment of 2 month(s)
+JULIETA ABAYAN, 09759513252: Advanced payment of 1 month(s)
+JULIETA B. SALA, 09639152749: Advanced payment of 2 month(s)
+JULIETA E. ORAPA #2, 09177138340: Advanced payment of 1 month(s)
+JULIETA G. MYINT, 09693839231: Advanced payment of 2 month(s)
+JUNALYN CANETO, 09504360598: Advanced payment of 1 month(s)
+JUNBERT MABOLOC 2, 09650925850: Advanced payment of 1 month(s)
+JUNDELLE D. SILLO, 09956479695: Advanced payment of 1 month(s)
+JUNREY GEMENTIZA, 09122525809: Advanced payment of 1 month(s)
+JUNRIEL M. SALA 2, 09194486899: Advanced payment of 2 month(s)
+JUVILITA SALGADOS KILAS, 09709938598: Advanced payment of 2 month(s)
+KAREEN ROSE GAHUMAN, 09618940019: Advanced payment of 1 month(s)
+KAREN BERNADIT, 09353080920: Advanced payment of 2 month(s)
+KAREN MAE M. ORIAS, 09283614343: Advanced payment of 2 month(s)
+KAREN PELIGRO, 09308930094: Advanced payment of 1 month(s)
+KATHERINE L. BITOS, 09151954027: Advanced payment of 2 month(s)
+KENNETH V. LEONOR, 09171425535: Advanced payment of 1 month(s)
+KENNETH V. TORRE, 09975074211: Advanced payment of 1 month(s)
+KERVIE A. BALAGON, 09321621458: Advanced payment of 1 month(s)
+KHAITH KHIM ESTOY #2, 09308919653: Advanced payment of 4 month(s)
+KIM T. CADARIT, 09686161284: Advanced payment of 1 month(s)
+KIRBY M. OLANO, 09308920484: Advanced payment of 1 month(s)
+KRISTELYN A. MONGAYA, 09695077788: Advanced payment of 1 month(s)
+KRIZIA C. PERALTA, 09128211276: Advanced payment of 1 month(s)
+LAMBERT LOBRIGO, 09557533375: Advanced payment of 1 month(s)
+LANCE NOEL SIRAY, 09264469572: Advanced payment of 1 month(s)
+LAURA T. BATANAS, 09309812119: Advanced payment of 1 month(s)
+LEA CATHERINE B. NAMOC, 09207527355: Advanced payment of 2 month(s)
+LEA M. LEDAMO, 09433439506: Advanced payment of 1 month(s)
+LEAH A. DE GRACIA, 09389077129: Advanced payment of 1 month(s)
+LEAR E. CARIGARA, 09556057749: Advanced payment of 1 month(s)
+LEBIE BETARMOS (NEW), 09702931879: Advanced payment of 1 month(s)
+LEIZIL AVES MINA, 09480622585: Advanced payment of 1 month(s)
+LEO CABASISI, 09672060854: Advanced payment of 1 month(s)
+LEOJE CATURAN, 09465310332: Advanced payment of 1 month(s)
+LEOLY BERINGUEL, 09183842494: Advanced payment of 1 month(s)
+LEONCIA CASTRO, 09262952705: Advanced payment of 1 month(s)
+LEONILA CAPILITAN, 09292063034: Advanced payment of 1 month(s)
+LEONORA F. GERONG, 09630656195: Advanced payment of 2 month(s)
+LETECIA DULFO #2, 09306856494: Advanced payment of 1 month(s)
+LGU MALITBOG - ACCOUNTING OFFICE, 09510342726: Advanced payment of 1 month(s)
+LGU MALITBOG - ASSESSORS OFFICE, 09201037227: Advanced payment of 1 month(s)
+LGU MALITBOG - ENGINEERING OFFICE, 09171528035: Advanced payment of 1 month(s)
+LGU MALITBOG - MAYOR'S OFFICE, 09165332908: Advanced payment of 1 month(s)
+LGU MALITBOG - MSWD, 09305854597: Advanced payment of 1 month(s)
+LGU MALITBOG - RHU, 09397883485: Advanced payment of 1 month(s)
+LGU MALITBOG MDRRMO, 09682162512: Advanced payment of 1 month(s)
+LGU MALITBOG-DILG OFFICE, 09056723194: Advanced payment of 1 month(s)
+LGU MALITBOG-MCR, 09173288940: Advanced payment of 1 month(s)
+LGU MALITBOG-MTO, 09339543633: Advanced payment of 1 month(s)
+LGU MALITBOG-SB OFFICE, 09176860147: Advanced payment of 1 month(s)
+LGU MALITBOG-SUPPLY OFFICE, 09639487900: Advanced payment of 1 month(s)
+LGU SOGOD - DICT TECH4ED / OSCA, 09362705436: Advanced payment of 1 month(s)
+LGU SOGOD - HR DEPARTMENT, 09957192108: Advanced payment of 1 month(s)
+LGU SOGOD - LCR, 09957192108: Advanced payment of 1 month(s)
+LGU TOMAS OPPUS-AGRICULTURE, 09465274886: Advanced payment of 1 month(s)
+LGU TOMAS OPPUS-ENGINEERING DEPT, 09630598098: Advanced payment of 1 month(s)
+LGU TOMAS OPPUS-LDRRMO, 09173061169: Advanced payment of 1 month(s)
+LGU TOMAS OPPUS-LEGISLATIVE OFFICE, 09171195461: Advanced payment of 1 month(s)
+LGU TOMAS OPPUS-LIGA NG BRGY, 09159332405: Advanced payment of 1 month(s)
+LGU TOMAS OPPUS-MPDC, 09973148578: Advanced payment of 1 month(s)
+LGU TOMAS OPPUS-MTO, 09631174082: Advanced payment of 1 month(s)
+LGU TOMAS OPPUS-RHU, 09269349924: Advanced payment of 1 month(s)
+LGU TOMAS OPPUS-TECH 4 ED CENTER, 09973148578: Advanced payment of 1 month(s)
+LILIBETH ESCABELLAS, 09462892442: Advanced payment of 2 month(s)
+LILIBETH TINDUGAN (NEW), 09510219423: Advanced payment of 1 month(s)
+LILIBETH TINDUGAN #2, 09510219423: Advanced payment of 1 month(s)
+LILY PALCO LILI, 09298603618: Advanced payment of 1 month(s)
+LISZIEL TALISAYSAY, 09953148431: Advanced payment of 1 month(s)
+LITA D. ESCARDA 2, 09383922942: Advanced payment of 2 month(s)
+LIZA C. PRACUELLES, 09466237232: Advanced payment of 1 month(s)
+LIZA PELAEZ, 09654885191: Advanced payment of 1 month(s)
+LIZA SIERVO ITCHON, 09195062261: Advanced payment of 1 month(s)
+LIZBETH ROSE L. DECINAN, 09513640425: Advanced payment of 1 month(s)
+LLANTO, JAN MARIEL CELOCIA, 09362710038: Advanced payment of 1 month(s)
+LOLITA B. HERNANDEZ, 09382141954: Advanced payment of 2 month(s)
+LOLITA O. PAMONAG, 09513533501: Advanced payment of 2 month(s)
+LORAINE B. BALAGON, 09105871848: Advanced payment of 1 month(s)
+LORAINE BALAGON-2, 09105871848: Advanced payment of 1 month(s)
+LORAINE SEGALES, 09973303995: Advanced payment of 1 month(s)
+LOREFE V. JUNIO, 09299545909: Advanced payment of 1 month(s)
+LORELEI S. BOLIVAR, 09630094571: Advanced payment of 1 month(s)
+LORELEI S. BOLIVAR 2, 09630094571: Advanced payment of 2 month(s)
+LORENZA CATOCTOCANAN, 09082610344: Advanced payment of 1 month(s)
+LORINA BULFA, 09978466034: Advanced payment of 1 month(s)
+LORITO SUPINO #2, 09857613125: Advanced payment of 1 month(s)
+LOTA B. MARTIN, 09665202704: Advanced payment of 2 month(s)
+LOTA M. TUBIGAN, 09394968979: Advanced payment of 1 month(s)
+LOTIS G. CINCO, 09070962580: Advanced payment of 1 month(s)
+LOURDECITA LAYLAND., 09985794865: Advanced payment of 1 month(s)
+LOURENA TOMAUB, 09105175886: Advanced payment of 1 month(s)
+LOVELLA GAY MANATAD (NEW), 09175165028: Advanced payment of 1 month(s)
+LOVELY BESANDE, 09704516976: Advanced payment of 1 month(s)
+LOVELY MAE DIZON, 09771622990: Advanced payment of 1 month(s)
+LUCIA ABREU, 09501355472: Advanced payment of 1 month(s)
+LUCIA B. JUNIO, 09690364437: Advanced payment of 1 month(s)
+LUCIANO AMPONG, 09211939114: Advanced payment of 1 month(s)
+LUCILA GONZALES (NEW), 09533184449: Advanced payment of 1 month(s)
+LUCILLE D LAYO, 09502567363: Advanced payment of 1 month(s)
+LUCINA ABARICO, 09054009657: Advanced payment of 1 month(s)
+LUDY ALBOLERAS, 09565498819: Advanced payment of 1 month(s)
+LURDIVINA ROSAL CANTA, 09453317802: Advanced payment of 1 month(s)
+LUZERNE V. IBANEZ, 09263318370: Advanced payment of 2 month(s)
+LUZVIMINDA GARCES 2, 09630620408: Advanced payment of 2 month(s)
+LUZVIMINDA ODQUIN, 09491514350: Advanced payment of 1 month(s)
+LYDE B. VALDE, 09632675064: Advanced payment of 1 month(s)
+LYDIA C. ARCILLA, 09355902481: Advanced payment of 1 month(s)
+LYDIA MANGYAO (NEW), 09354910649: Advanced payment of 1 month(s)
+LYNA HERSANO LEBRES, 09975924302: Advanced payment of 1 month(s)
+LYNDI AGAPAY, 09938696768: Advanced payment of 1 month(s)
+LYRALENN AMORADO, 09450714621: Advanced payment of 1 month(s)
+MA-ANN JUSAYAN #1, 09639152503: Advanced payment of 1 month(s)
+MA. ARLENE MARFA, 09510339544: Advanced payment of 1 month(s)
+MA. CRISTINA D. ORTIZ, 09235017524: Advanced payment of 1 month(s)
+MA. JESSITA INGENTE, 09751581378: Advanced payment of 1 month(s)
+MA. JOJI D. BRUA, 09356702224: Advanced payment of 1 month(s)
+MA. LENY ABESADA, 09709234933: Advanced payment of 2 month(s)
+MA. LOIDA B. CALOPE, 09685925535: Advanced payment of 1 month(s)
+MA. TERESA CABARRUBIAS, 09606628177: Advanced payment of 1 month(s)
+MA. TERESA SOLOMON, 09175984839: Advanced payment of 1 month(s)
+MA. TERESITA TORALBA, 09107966569: Advanced payment of 1 month(s)
+MA. VILLA FAELNAR, 09971632628: Advanced payment of 1 month(s)
+MA.DEVINA DJERIC, 09270898658: Advanced payment of 1 month(s)
+MACARIO IHALAD (NEW), 09618848052: Advanced payment of 1 month(s)
+MACARIO IHALAD # 2, 09614359483: Advanced payment of 1 month(s)
+MADELYN C. YGOÑA, 09817757053: Advanced payment of 2 month(s)
+MADONA MORALES, 09168619238: Advanced payment of 1 month(s)
+MAE ABBYGAIL T. VILLEJO, 09126050534: Advanced payment of 1 month(s)
+MAE ANGELINE T. SALVA-ALARAS, 09778065577: Advanced payment of 1 month(s)
+MAE ANN BATANAS, 09317319325: Advanced payment of 1 month(s)
+MAE ROSE S. TORRECAMPO, 09388605074: Advanced payment of 1 month(s)
+MAICA BERNALES, 09090161183: Advanced payment of 1 month(s)
+MALITBOG CENTRAL SCHOOL, 09385051062: Advanced payment of 1 month(s)
+MALITBOG NHS/JUNREY FALCON, 09952570144: Advanced payment of 1 month(s)
+MANILYN ISAGA, 09706816560: Advanced payment of 1 month(s)
+MANUEL GARCIA GABRIEL, 09959149021: Advanced payment of 2 month(s)
+MANUEL LAMBO CORTEL #3, 09122636665: Advanced payment of 1 month(s)
+MANUEL LAMBO CORTEL-4, 09507456172: Advanced payment of 1 month(s)
+MANUEL T. HENDOY, 09393919963: Advanced payment of 1 month(s)
+MARBHEN S. LIAD., 09631154276: Advanced payment of 1 month(s)
+MARCELO B. PALERO 2, 09639606299: Advanced payment of 3 month(s)
+MARCIANO BUYAN MERCADO, 09397878433: Advanced payment of 1 month(s)
+MAREVIC A. JAMERO, 09815960239: Advanced payment of 3 month(s)
+MARGARITO T. ABELLLA JR, 09973675643: Advanced payment of 1 month(s)
+MARGIEZA M. AUDITOR, 09755486259: Advanced payment of 2 month(s)
+MARIA AGNES L. GAMALO, 09661490516: Advanced payment of 1 month(s)
+MARIA ASSUMPTION AMPARO, 09125920846: Advanced payment of 1 month(s)
+MARIA CIELO LUCINO, 09630232862: Advanced payment of 1 month(s)
+MARIA CONSUELO PAUSANOS, 09120496905: Advanced payment of 2 month(s)
+MARIA CORAZON JUNASA, 09283561946: Advanced payment of 1 month(s)
+MARIA CORAZON LEYES, 09162818918: Advanced payment of 3 month(s)
+MARIA FE T. DAVIS, 09753984070: Advanced payment of 1 month(s)
+MARIA FIONA D. MERQUITA, 09778299284: Advanced payment of 1 month(s)
+MARIA GALOLO, 09151627447: Advanced payment of 1 month(s)
+MARIA GUZMANA, 09982576019: Advanced payment of 1 month(s)
+MARIA ISABEL S. SESCON, 09358353127: Advanced payment of 1 month(s)
+MARIA LIZA KAISER, 09479319760: Advanced payment of 2 month(s)
+MARIA LOURDES BALAGA, 09606628319: Advanced payment of 1 month(s)
+MARIA LUISA  E.  CONCILLO, 09552504509: Advanced payment of 2 month(s)
+MARIA MIRENDA C. SALAN, 09630520388: Advanced payment of 1 month(s)
+MARIAN JENKINS, 09095155130: Advanced payment of 1 month(s)
+MARIANNE C. CABARRUBIAS, 09268760107: Advanced payment of 2 month(s)
+MARIANNE ISAGA, 09125823761: Advanced payment of 1 month(s)
+MARIANO ESPEDILLA III, 09109822085: Advanced payment of 1 month(s)
+MARIBELLE OBRA, 09502766825: Advanced payment of 1 month(s)
+MARICAR FERNANDEZ, 09698364098: Advanced payment of 1 month(s)
+MARICEL B. BERONIO, 09278409433: Advanced payment of 1 month(s)
+MARICEL B. SEQUINA, 09951219854: Advanced payment of 2 month(s)
+MARICEL C. CORTEL, 09684565117: Advanced payment of 1 month(s)
+MARICEL P. ALBERIO, 09679165406: Advanced payment of 1 month(s)
+MARICES A. ABAD, 09166659305: Advanced payment of 3 month(s)
+MARICHU OAKES #2, 09691339823: Advanced payment of 1 month(s)
+MARIE CRIS OPONG, 09557035404: Advanced payment of 1 month(s)
+MARIESON M. LURA, 09165332908: Advanced payment of 2 month(s)
+MARIETTA C. ONG, 09178785911: Advanced payment of 1 month(s)
+MARIETTA S.ANDUYO, 09187880082: Advanced payment of 1 month(s)
+MARIFIE A. BETONIO #2, 09357953252: Advanced payment of 2 month(s)
+MARIFIE GABINETE, 09355788583: Advanced payment of 1 month(s)
+MARILEN F. JUSAY, 09619091985: Advanced payment of 1 month(s)
+MARIO GUMAPAC JR. 1, 09700690542: Advanced payment of 1 month(s)
+MARISA INDIC, 09855910176: Advanced payment of 1 month(s)
+MARISSA TOBE, 09556830836: Advanced payment of 1 month(s)
+MARISTELA SEGALES, 09125403471: Advanced payment of 1 month(s)
+MARITES JOVEN, 09065846458: Advanced payment of 1 month(s)
+MARITES RUSABAN, 09566323172: Advanced payment of 1 month(s)
+MARIVIC MELECIO, 09667890126: Advanced payment of 1 month(s)
+MARJURIE BATAS, 09384411034: Advanced payment of 2 month(s)
+MARJURIE L. DELIZO, 09472916902: Advanced payment of 1 month(s)
+MARK ALDRIN OCLARIT, 09518511623: Advanced payment of 1 month(s)
+MARK ANTHONY MARU, 09514720052: Advanced payment of 1 month(s)
+MARK ARCHIE D. BATAS, 09207143701: Advanced payment of 2 month(s)
+MARK DADIOS, 09172512346: Advanced payment of 1 month(s)
+MARK JOSEPH BANAL, 09067762686: Advanced payment of 1 month(s)
+MARK VINCENT  S. BAYNO, 09758785001: Advanced payment of 1 month(s)
+MARLEN B. PEÑA, 09855583647: Advanced payment of 1 month(s)
+MARLET QUISEO, 09069682195: Advanced payment of 1 month(s)
+MARLIET OCLARIT #3, 09272670649: Advanced payment of 1 month(s)
+MARLIET P. OCLARIT #2, 09272670649: Advanced payment of 1 month(s)
+MARLIET P. OCLARIT 1, 09272670649: Advanced payment of 1 month(s)
+MARLON F. ALVAR, 09631164417: Advanced payment of 1 month(s)
+MARTIN D. ORAIS SR., 09502496782: Advanced payment of 1 month(s)
+MARY ANN C. ANTEGRA, 09265220562: Advanced payment of 1 month(s)
+MARY ANTHONATA VILLANUEVA, 09502676885: Advanced payment of 2 month(s)
+MARY GRACE L. BALLOSO, 09289511496: Advanced payment of 2 month(s)
+MARY GRACE MESA, 09152354396: Advanced payment of 2 month(s)
+MARY GRACE S. HONRADA, 09513667591: Advanced payment of 1 month(s)
+MARY JEAN ARSENIO, 09365660165: Advanced payment of 1 month(s)
+MARY JOY CATAJOY, 09389077861: Advanced payment of 1 month(s)
+MARY JOY S. OBEN, 09695628774: Advanced payment of 1 month(s)
+MARY'S LITTLE CHILDREN COMMUNITY/ANTHEA DAMALERIO, 09059646692: Advanced payment of 1 month(s)
+MASLOG ELEMENTARY SCHOOL, 09169361463: Advanced payment of 1 month(s)
+MAVELYN ENDRIGA ABIERA, 09777766380: Advanced payment of 2 month(s)
+MAYBELLE HINAY, 09462900817: Advanced payment of 1 month(s)
+MAYBELLE HINAY #2, 09462900187: Advanced payment of 1 month(s)
+MCTC MALITBOG, 09173060839: Advanced payment of 1 month(s)
+MELANIE TALISAYSAY #2, 09357694918: Advanced payment of 1 month(s)
+MELBA E. BIAG, 09505065825: Advanced payment of 1 month(s)
+MELBERT HUNGO, 09473972186: Advanced payment of 1 month(s)
+MELCHOR C. LUCERO, 09277514855: Advanced payment of 1 month(s)
+MELI ANN B. TAGUD, 09317440165: Advanced payment of 2 month(s)
+MELINDA LORA, 09056312007: Advanced payment of 1 month(s)
+MELINDA P. GEDAYA, 09665218565: Advanced payment of 1 month(s)
+MELISSA I. GLORIA, 09478066697: Advanced payment of 1 month(s)
+MELLANIE BANTUGAN, 09173056552: Advanced payment of 1 month(s)
+MELODY PEDUCHE, 09085929686: Advanced payment of 1 month(s)
+MELQUIADES KENT W. DALIDA, 09614670053: Advanced payment of 1 month(s)
+MELVIN C. SALVACION, 09263657662: Advanced payment of 2 month(s)
+MELVIN S. BALASSU, 09366901701: Advanced payment of 1 month(s)
+MERCEDES TIDALGO, 09630620402: Advanced payment of 2 month(s)
+MERIAM V. CASIPE, 09659859019: Advanced payment of 1 month(s)
+MERLINA BILLARO TINDUGAN, 09434980678: Advanced payment of 1 month(s)
+MERLINDA MARQUEZ, 09682160166: Advanced payment of 1 month(s)
+MERLITA S. DAVIS, 09189005936: Advanced payment of 1 month(s)
+MERLY ESCOBAL, 09553646583: Advanced payment of 1 month(s)
+MERLYN T. JUNIO, 09066173235: Advanced payment of 1 month(s)
+MERRY ANNE V. LLANTO, 09465487250: Advanced payment of 1 month(s)
+MERWIN BACTIDON, 09668855538: Advanced payment of 1 month(s)
+MESAEL RIN VERTUDAZO, 09659863972: Advanced payment of 1 month(s)
+MIA DENNIS CATUBIG, 09772561517: Advanced payment of 1 month(s)
+MICHAEL A. ABINON, 09122436683: Advanced payment of 2 month(s)
+MICHAEL JAMES ONIPA, 09503465413: Advanced payment of 1 month(s)
+MICHELLE A. CADANO, 09380240575: Advanced payment of 1 month(s)
+MICHELLE MANLIGAS, 09066152292: Advanced payment of 1 month(s)
+MICHELLE TABOADA, 09455314303: Advanced payment of 2 month(s)
+MIGUEL M. BIDON, 09630233434: Advanced payment of 1 month(s)
+MILAGROS I. CAHARIAN, 09211867035: Advanced payment of 2 month(s)
+MISAEL O. BARR, 09610896399: Advanced payment of 1 month(s)
+MONALIZA BOSQUE, 09631150933: Advanced payment of 1 month(s)
+MONET RAFAEL, 09465851353: Advanced payment of 1 month(s)
+MYLA DE VEYRA, 09751256204: Advanced payment of 1 month(s)
+MYLA NOMBRADO, 09175233787: Advanced payment of 1 month(s)
+MYLEN T. GUMANIT, 09268958851: Advanced payment of 1 month(s)
+MYLENE L. GABRIEL, 09269798869: Advanced payment of 1 month(s)
+MYRNA B. YAP, 09120532356: Advanced payment of 1 month(s)
+MYRNA C. CANTA, 09692382717: Advanced payment of 1 month(s)
+MYRNA D. SALA, 09696070787: Advanced payment of 3 month(s)
+MYRNA MANAUG, 09174306831: Advanced payment of 1 month(s)
+MYRNA MANAUG-2, 09174306831: Advanced payment of 1 month(s)
+NADYN G. TUMANDA, 09179539785: Advanced payment of 1 month(s)
+NAIDEE C. TINDOY, 09950072070: Advanced payment of 1 month(s)
+NANCY B. ABEJO, 09308957911: Advanced payment of 1 month(s)
+NARCISA LLLOREN ACTUEL, 09709938598: Advanced payment of 2 month(s)
+NARCISA M. AGAD, 09654126121: Advanced payment of 1 month(s)
+NEIL BRIAN S. ANTIPOLO #1, 09700355999: Advanced payment of 1 month(s)
+NEIL BRYAN S. ANTIPOLO 2, 09700355999: Advanced payment of 1 month(s)
+NEIL MARK O. PASA, 09755246375: Advanced payment of 1 month(s)
+NELIA T. TIMOG, 09551302366: Advanced payment of 1 month(s)
+NELSON P. FIGURA, 09268004873: Advanced payment of 1 month(s)
+NENA BALBON, 09125692984: Advanced payment of 1 month(s)
+NENITA V. FLORES, 09072373171: Advanced payment of 1 month(s)
+NERESA BITOR-2, 09771617093: Advanced payment of 1 month(s)
+NERLINDA J. MECASIO, 09162820611: Advanced payment of 1 month(s)
+NESTOR LAPLANA, 09472042070: Advanced payment of 1 month(s)
+NEZABELLE G. MAUSISA, 09264955278: Advanced payment of 1 month(s)
+NICOLAS TORRES JR., 09953769278: Advanced payment of 1 month(s)
+NICOLE CHRISTINE T. LURA, 09565015773: Advanced payment of 1 month(s)
+NIDA B. ABRENA, 09308965602: Advanced payment of 2 month(s)
+NIZA M. BERNADIT, 09662752897: Advanced payment of 2 month(s)
+NOEL R. TABADA 2, 09654919736: Advanced payment of 2 month(s)
+NOELSON S. CAGANO, 09100940365: Advanced payment of 2 month(s)
+NONIE AYOP, 09700572579: Advanced payment of 1 month(s)
+NORA ABREA, 09285858960: Advanced payment of 1 month(s)
+NORBERTO T. QUILLOPE, 09991968632: Advanced payment of 1 month(s)
+NORMAE JANE MIOLE, 09983160922: Advanced payment of 1 month(s)
+NOVA BLERN ANGUB, 09153835787: Advanced payment of 1 month(s)
+NOVE A. AGUILAR #2, 09560587232: Advanced payment of 1 month(s)
+NOVELYN S. MANSOUR, 09569548720: Advanced payment of 1 month(s)
+NOVIE C. BETARMOS, 09351086788: Advanced payment of 1 month(s)
+NOVIE MAY OCHAVO, 09305854488: Advanced payment of 3 month(s)
+NOVITA MACASOCOL, 09107211345: Advanced payment of 1 month(s)
+NYREL M. BERNADIT #2, 09662752897: Advanced payment of 2 month(s)
+OBDULIA O. LUZON, 09176318160: Advanced payment of 1 month(s)
+OFELIA G. FAELNAR, 09971888698: Advanced payment of 1 month(s)
+OFELIA Q. SUMABAT, 09553201382: Advanced payment of 2 month(s)
+OLGA DELA CRUZ PEREZ, 09562436745: Advanced payment of 1 month(s)
+OLIVE CABALHIN, 09757716329: Advanced payment of 1 month(s)
+OLIVER DELAVEGA, 09356228840: Advanced payment of 2 month(s)
+OLIVIA ESQUILLA (NEW), 09095052670: Advanced payment of 1 month(s)
+OLIVIA HORTIZANO, 09956435393: Advanced payment of 1 month(s)
+ORVILLE PADUHILAO, 09516586405: Advanced payment of 1 month(s)
+OTIKON ELEMENTARY SCHOOL, 09603848118: Advanced payment of 1 month(s)
+PABLITO F. ALVAR, 09952632419: Advanced payment of 1 month(s)
+PAKU NATIONAL HIGH SCHOOL, 09098077402: Advanced payment of 1 month(s)
+PAMELA TABOADA, 09976319580: Advanced payment of 1 month(s)
+PANDAN SAN MIGUEL ELEM SCHOOL, 09058787767: Advanced payment of 1 month(s)
+PANFILO B. RESPECIA #2, 09281884680: Advanced payment of 2 month(s)
+PANFILO BERINGUEL RESPECIA #1, 09281884680: Advanced payment of 2 month(s)
+PAOLO A. STO, TOMAS, 09268313596: Advanced payment of 1 month(s)
+PATRICK L. TAN, 09173299212: Advanced payment of 1 month(s)
+PAULA ELLA C. BATAS, 09178982971: Advanced payment of 2 month(s)
+PEDRO C. ABINA, 09631566683: Advanced payment of 1 month(s)
+PEDRO C. SANCHEZ, 09124922527: Advanced payment of 1 month(s)
+PEDRO F. JUSAY, 09991070501: Advanced payment of 1 month(s)
+PEPITO DIAPOLET, 09169069520: Advanced payment of 1 month(s)
+PERLA D. SESCON, 09305888359: Advanced payment of 1 month(s)
+PERSEL MAE SALAN, 09631861421: Advanced payment of 1 month(s)
+PETER JHON RIEL PACALDO, 09388056751: Advanced payment of 1 month(s)
+PETER LUMOYA, 09677281603: Advanced payment of 1 month(s)
+PETRONILO R. HINGPIT JR., 09578235568: Advanced payment of 3 month(s)
+PETRONIO P. DIGAL JR., 09214663396: Advanced payment of 3 month(s)
+PNP MALITBOG, 09706888147: Advanced payment of 1 month(s)
+PNP TOMAS OPPUS, 09164276657: Advanced payment of 1 month(s)
+POR LA BAHIA DE MALITBOG BEACH RESORT-4, 09175610186: Advanced payment of 1 month(s)
+PRECILA C. QUIJANO, 09365816392: Advanced payment of 1 month(s)
+QUEENIE LYN T. BOHOL, 09207292213: Advanced payment of 1 month(s)
+RACHEL GABRIEL 2, 09709010880: Advanced payment of 3 month(s)
+RACHEL M. DUCOT, 09268280196: Advanced payment of 2 month(s)
+RACHELL BALUGO, 09677712099: Advanced payment of 2 month(s)
+RALPH LAURENCE ESPINA, 09207143827: Advanced payment of 1 month(s)
+RAMEL JUANICO, 09998423408: Advanced payment of 1 month(s)
+RANDOLPH HINAMPAS 1, 09976374931: Advanced payment of 1 month(s)
+RANDOLPH HINAMPAS 3, 09538865840: Advanced payment of 2 month(s)
+RANDOLPH T. HINAMPAS #2, 09321208446: Advanced payment of 1 month(s)
+RANDY ABREA, 09692587171: Advanced payment of 1 month(s)
+RAQUELEZA LARONA, 09067565438: Advanced payment of 1 month(s)
+RAUL F. LABASTIDA, 09060529021: Advanced payment of 1 month(s)
+RAUL P. MAHUMAS JR., 09771101553: Advanced payment of 1 month(s)
+REA BO SUMACOT #2, 09465311633: Advanced payment of 2 month(s)
+REBECA S. ORAIS (NEW), 09423829993: Advanced payment of 1 month(s)
+REBECCA NUNEZ, 09356214980: Advanced payment of 1 month(s)
+REGINALD PEJOTO, 09816346649: Advanced payment of 1 month(s)
+REGINE CORTES, 09064788755: Advanced payment of 1 month(s)
+REJIE D. VECINA, 09317313736: Advanced payment of 1 month(s)
+REMEDIOS JOSER, 09750985355: Advanced payment of 1 month(s)
+REMELY S. CAINGLES, 09639152683: Advanced payment of 1 month(s)
+REN MICHAEL F. MALINAO, 09362975144: Advanced payment of 1 month(s)
+RENANTE ALICO, 09395824477: Advanced payment of 1 month(s)
+RENATO L. ATUEL, 09979700442: Advanced payment of 1 month(s)
+RENCY CORALES, 09264563117: Advanced payment of 1 month(s)
+RENE A. BITOY, 09153605243: Advanced payment of 1 month(s)
+RENELIO L. SAJULGA, 09097776165: Advanced payment of 1 month(s)
+RENIER DULOG., 09706816664: Advanced payment of 1 month(s)
+RENO NELSON LAGUMBAY (NEW), 09994295605: Advanced payment of 1 month(s)
+RENZ CABODBOD BARONG, 09306221369: Advanced payment of 2 month(s)
+RETCHIE V. MIJALA, 09976938738: Advanced payment of 2 month(s)
+REV. MSGR ANTONIO M. GAVIOLA, 09173179536: Advanced payment of 1 month(s)
+REYNA G. ORIAZ, 09195320262: Advanced payment of 2 month(s)
+REYNANTE AURE, 09217810971: Advanced payment of 1 month(s)
+RHEA CATOCTOCAN, 09975166857: Advanced payment of 1 month(s)
+RHEA MAE M. BAA, 09169446710: Advanced payment of 1 month(s)
+RHEA MAE TORION., 09204517597: Advanced payment of 1 month(s)
+RHEALYN ISAGA, 09085230352: Advanced payment of 1 month(s)
+RHONEL C. AGODOYO, 09263990591: Advanced payment of 2 month(s)
+RIAN KRISTOFER BURDAS, 09207521030: Advanced payment of 1 month(s)
+RICARDO BAG-AO, 09270228860: Advanced payment of 1 month(s)
+RICARDO D. BATAS, 09229509064: Advanced payment of 1 month(s)
+RICARDO S. MANIGO JR., 09051685406: Advanced payment of 2 month(s)
+RICHARD NORIEL D. TOMAUB, 09085929396: Advanced payment of 1 month(s)
+RICHELYN C. AGOT, 09709684319: Advanced payment of 2 month(s)
+RICLYN JOY  B.  PALOMADO, 09309323501: Advanced payment of 1 month(s)
+RICO REQUILLAS 2, 09308908674: Advanced payment of 2 month(s)
+RIEL B. MIRO, 09497258949: Advanced payment of 1 month(s)
+RIEZA MANCIO, 09097775856: Advanced payment of 1 month(s)
+RIGOR TRINIDAD, 09263531214: Advanced payment of 1 month(s)
+RITCHIE O. CABASISI, 09385254938: Advanced payment of 1 month(s)
+RIZA C. MAÑEGO, 09684565212: Advanced payment of 1 month(s)
+ROBELYN CUANAN, 09457636584: Advanced payment of 1 month(s)
+ROBELYN H. LAYO, 09677261340: Advanced payment of 1 month(s)
+ROBERT C. ANTONE, 09058923180: Advanced payment of 2 month(s)
+ROBERT VINCENT TAJORA, 09215725857: Advanced payment of 1 month(s)
+ROBERTA M. OBOR, 09654996491: Advanced payment of 2 month(s)
+ROBIN ARTHUR F. SUMAYA, 09555371608: Advanced payment of 2 month(s)
+ROCIS JANE S. PEDECIO, 09509729735: Advanced payment of 1 month(s)
+RODERICK TOMOL, 09619244130: Advanced payment of 1 month(s)
+RODESSA B. ORILLO, 09478390419: Advanced payment of 2 month(s)
+RODOLFO Y. SEMBRANO, 09202381708: Advanced payment of 1 month(s)
+ROEL C. BAYRON, 09759701832: Advanced payment of 1 month(s)
+ROGELIO M. MILLAN, 09066212811: Advanced payment of 2 month(s)
+ROGELIO Y. TABUADA, 09658356443: Advanced payment of 1 month(s)
+ROLAND E. ENGALAN, 09971463335: Advanced payment of 1 month(s)
+ROLANDO ALAZAS, 09653658244: Advanced payment of 1 month(s)
+ROLANDO B. VERTUDAZO 2, 09991216541: Advanced payment of 2 month(s)
+ROLANDO C. DONA, 09531270379: Advanced payment of 2 month(s)
+ROLANDO CAGANTAS, 09756327810: Advanced payment of 1 month(s)
+ROLANDO CAHUCOM, 09603560796: Advanced payment of 2 month(s)
+ROLDAN A. TIDALGO, 09639487748: Advanced payment of 1 month(s)
+ROLLY C. PADECIO, 09094695315: Advanced payment of 1 month(s)
+ROLLY CALAGO, 09982922673: Advanced payment of 1 month(s)
+ROLYN P. HAMPTON, 09700572880: Advanced payment of 1 month(s)
+ROMAN BALAGON, 09389691898: Advanced payment of 1 month(s)
+ROMEL LAMO #1, 09816834495: Advanced payment of 1 month(s)
+ROMEL LAMO-2, 09756888610: Advanced payment of 1 month(s)
+ROMEO BONIFE JR, 09319696940: Advanced payment of 1 month(s)
+ROMNICK B. TUBO, 09066216911: Advanced payment of 1 month(s)
+ROMULO M. CALOPE, 09356772841: Advanced payment of 1 month(s)
+RONEL S. ALORO, 09157597673: Advanced payment of 1 month(s)
+RONIE TERANTE, 09856252995: Advanced payment of 1 month(s)
+RONILA M. MATE, 09684969007: Advanced payment of 1 month(s)
+RONILA M. MATE 2, 09684969007: Advanced payment of 1 month(s)
+RONNAVICK JOHN AGOTE, 09088910593: Advanced payment of 1 month(s)
+ROPHEL MAE O.  BONTIA, 09154665690: Advanced payment of 1 month(s)
+ROSA M. BINONGO (2), 09647451358: Advanced payment of 1 month(s)
+ROSALIE ABELLANOSA, 09309567276: Advanced payment of 2 month(s)
+ROSALIE LAYO ADVINCULA, 09474416698: Advanced payment of 1 month(s)
+ROSALIE MELLANG, 09276969526: Advanced payment of 1 month(s)
+ROSALINA L. COMBATE, 09631001443: Advanced payment of 1 month(s)
+ROSALINDA A. JACOBE, 09104712611: Advanced payment of 2 month(s)
+ROSANA D. BASAN, 09168875683: Advanced payment of 1 month(s)
+ROSE MARIE FELICILDA, 09060824764: Advanced payment of 1 month(s)
+ROSE MARIE SALAS, 09639152552: Advanced payment of 1 month(s)
+ROSEMARIE A. SAPERO, 09399635966: Advanced payment of 1 month(s)
+ROSJEAN B. PELAEZ., 09651337010: Advanced payment of 1 month(s)
+ROSMARI C. BERNADES, 09502866445: Advanced payment of 1 month(s)
+ROWENA CABASE, 09479597013: Advanced payment of 1 month(s)
+ROWENA L. MONTER, 09365182147: Advanced payment of 1 month(s)
+ROWENA NOBLE, 09661487756: Advanced payment of 1 month(s)
+ROXANE P. DOMAGAS, 09657386179: Advanced payment of 1 month(s)
+RUBY CHUA #2, 09285509886: Advanced payment of 1 month(s)
+RUBY GRACE NIDOY/ROBERT JOHN G. NIDOY, 09177129872: Advanced payment of 1 month(s)
+RUBY IGNACIO, 09351240458: Advanced payment of 1 month(s)
+RUBY M. RUALES, 09105785790: Advanced payment of 2 month(s)
+RUEL CANTA, 09269041493: Advanced payment of 1 month(s)
+RUEL T. BUGNOS JR, 09501666142: Advanced payment of 1 month(s)
+RUNA CREDO, 09556546567: Advanced payment of 1 month(s)
+RUSELL DELA CERNA, 09318115135: Advanced payment of 1 month(s)
+RUTH DIOLA RUBA, 09067348120: Advanced payment of 2 month(s)
+RYAN A. AMPONG, 09298490969: Advanced payment of 4 month(s)
+RYAN O SALAN, 09465859000: Advanced payment of 1 month(s)
+RYLAN ESPINOSA CAPILITAN #2, 09665317082: Advanced payment of 2 month(s)
+SAMSON E. DELFINADO, 09309539891: Advanced payment of 2 month(s)
+SAMUEL M. CADAYONA, 09207143899: Advanced payment of 1 month(s)
+SAMUEL TURTOGA, 09368232763: Advanced payment of 1 month(s)
+SAN ISIDRO ELEMENTARY SCHOOL, 09086267026: Advanced payment of 1 month(s)
+SAN ISIDRO NATIONAL HIGH SCHOOL-JHS, 09305854989: Advanced payment of 1 month(s)
+SAN ISIDRO NATIONAL HIGH SCHOOL-SHS, 09094993523: Advanced payment of 1 month(s)
+SAN JOSE ELEMENTARY SCHOOL MALITBOG, 09178788124: Advanced payment of 1 month(s)
+SAN VICENTE ELEMENTARY SCHOOL, 09058496239: Advanced payment of 1 month(s)
+SATURNINO CATIG, 09702927483: Advanced payment of 2 month(s)
+SATURNINO L. SAJOL, 09858976026: Advanced payment of 1 month(s)
+SEBERO P. DALIPE, 09981818293: Advanced payment of 1 month(s)
+SEIGFRED WONG, 09081903206: Advanced payment of 1 month(s)
+SHANNON JUDE T. LUZANO, 09355116714: Advanced payment of 1 month(s)
+SHARA CONGSON, 09203835351: Advanced payment of 1 month(s)
+SHARZYL MAE R. BACALLA, 09362082361: Advanced payment of 3 month(s)
+SHEILA F. TACLE, 09129387155: Advanced payment of 1 month(s)
+SHEILA MAE FABRIQUE, 09485905811: Advanced payment of 1 month(s)
+SHERRY T. DAPULAG, 09351111872: Advanced payment of 1 month(s)
+SHERYL E. MAGSANAY, 09301358825: Advanced payment of 1 month(s)
+SHIELA SUMAYA, 09639641958: Advanced payment of 1 month(s)
+SILVERIO M. SALAR SR., 09057614894: Advanced payment of 1 month(s)
+SIMPLICIA GANTALA, 09488233216: Advanced payment of 1 month(s)
+SISTER DAHLIA ROSINAS ANDRADE, 09709938373: Advanced payment of 2 month(s)
+SISTER M. CECILE ANN GARDOQUE 1  - ICT, 09090727390: Advanced payment of 2 month(s)
+SISTER M. CECILE ANN GARDOQUE 2 - SHS LIBRARY, 09090727390: Advanced payment of 2 month(s)
+SISTER M. CECILE ANN GARDOQUE 3 - PRINCIPAL, 09090727390: Advanced payment of 2 month(s)
+SISTER M. CECILE ANN GARDOQUE 4 - JHS LIBRARY, 09090727390: Advanced payment of 2 month(s)
+SISTER M. CECILE ANN GARDOQUE 5-CONVENT, 09090727390: Advanced payment of 2 month(s)
+SK BANDAY-TOMAS OPPUS, 09567000347: Advanced payment of 1 month(s)
+SOCORRO MACAIRAN, 09283791653: Advanced payment of 1 month(s)
+SOCRATES J. SEMPRON, 09262629641: Advanced payment of 1 month(s)
+SOFRONIO D. VILLAFUERTE, 09391999872: Advanced payment of 1 month(s)
+SOGOD BAY INTER-LOCAL HEALTH ZONE, 09353529379: Advanced payment of 1 month(s)
+SONIA B. TALISAYSAY, 09169386604: Advanced payment of 1 month(s)
+SONIA BANTILAN #2, 09975924567: Advanced payment of 1 month(s)
+STA CRUZ NHS-JHS, 09618943729: Advanced payment of 1 month(s)
+STA CRUZ NHS-SHS, 09684565197: Advanced payment of 1 month(s)
+SUNDAY T. GILLES, 09466420566: Advanced payment of 1 month(s)
+SURLEY LAGO, 09672719473: Advanced payment of 2 month(s)
+SUSAN ESCAÑO, 09273237961: Advanced payment of 1 month(s)
+SUZETTE ESMA 2, 09212087796: Advanced payment of 1 month(s)
+SYLVIAN TAMBIS, 09268958851: Advanced payment of 2 month(s)
+TEODORA MANATAD, 09551265703: Advanced payment of 1 month(s)
+TEOFILO B. CAHAPAY JR., 09208883271: Advanced payment of 1 month(s)
+TEOGENIA LORILLA, 09383826321: Advanced payment of 1 month(s)
+TERESITA JUDY O. VALDE, 09272276024: Advanced payment of 1 month(s)
+TERESITA N. PEÑA, 09684585787: Advanced payment of 2 month(s)
+TERRELYN T. BATULAN, 09302416137: Advanced payment of 1 month(s)
+TESA T. TAGALO, 09165333745: Advanced payment of 1 month(s)
+THELMA RESMA, 09053311687: Advanced payment of 1 month(s)
+THOCCO CLAIRE C. PURAY, 09103553053: Advanced payment of 1 month(s)
+TIM I. RUBA, 09518511736: Advanced payment of 2 month(s)
+TINA O. TINAMBACAN, 09105787323: Advanced payment of 2 month(s)
+TITO R. MURILLO #2, 09262919458: Advanced payment of 1 month(s)
+TITO TINAMBACAN, 09651336557: Advanced payment of 1 month(s)
+TOMAS OPPUS-FIRESTATION, 09661476462: Advanced payment of 1 month(s)
+TOMPCO # 2, 09368529051: Advanced payment of 1 month(s)
+TOMPCO #1, 09368529051: Advanced payment of 1 month(s)
+TRINIDAD VILLASAYA, 09852847280: Advanced payment of 1 month(s)
+TRISTAN A. FIGURA, 09185255246: Advanced payment of 1 month(s)
+UNION BARANGAY COUNCIL, 09654919736: Advanced payment of 1 month(s)
+VAL JOSHUA BALABA, 09518335793: Advanced payment of 1 month(s)
+VEBELITA CAROLINO, 09564311723: Advanced payment of 1 month(s)
+VENUS MAE RADORES, 09654922760: Advanced payment of 2 month(s)
+VERGELIO M. MORCISA JR., 09682121846: Advanced payment of 1 month(s)
+VERGELIO M. MORCISA JR. #2, 09682121846: Advanced payment of 2 month(s)
+VERGILIO D. PASA, 09102352614: Advanced payment of 1 month(s)
+VERNA P. PEDERE, 09319708737: Advanced payment of 1 month(s)
+VIA NICOLE T. MANTIQUILLA, 09550790772: Advanced payment of 1 month(s)
+VICENTE BETARMOS JR, 09391826544: Advanced payment of 1 month(s)
+VICTORIA BERINGUEL, 09308676291: Advanced payment of 1 month(s)
+VICTORIA BORDAS, 09666834477: Advanced payment of 1 month(s)
+VICTORINO D. BASCUG JR., 09668466446: Advanced payment of 1 month(s)
+VILMA DIAZ #2, 09157530106: Advanced payment of 3 month(s)
+VINCE ELIJAH V. MAUNES, 09502401536: Advanced payment of 1 month(s)
+VIOLETA HINLAS, 09503460396: Advanced payment of 1 month(s)
+VIOLETA MIONES ISAGA, 09513640271: Advanced payment of 1 month(s)
+VIRGIE GIANGAN #2, 09550568485: Advanced payment of 1 month(s)
+VIRGINIA ALLEN, 09285678600: Advanced payment of 2 month(s)
+VIRGINIA B. DUMANDAN, 09685497568: Advanced payment of 1 month(s)
+VIRGINIA D. ARGUILLES, 09772817265: Advanced payment of 1 month(s)
+VIRGINIA POMENTO, 09637524800: Advanced payment of 2 month(s)
+VITALIANA A. DUYOGAN, 09395824261: Advanced payment of 1 month(s)
+VIVIAN D. IHALAD, 09999053600: Advanced payment of 1 month(s)
+VIVIAN INFIESTO, 09706877498: Advanced payment of 1 month(s)
+VIVIAN JACOBE, 09978744636: Advanced payment of 1 month(s)
+VIVIAN T. DELIMA, 09534476838: Advanced payment of 1 month(s)
+WEDI B. CALAMBA, 09178249714: Advanced payment of 1 month(s)
+WELYN A. JOAQUINO, 09390215875: Advanced payment of 2 month(s)
+WILFREDO L. SY, 09684491651: Advanced payment of 2 month(s)
+WILFREDO SAMACO, 09676170718: Advanced payment of 1 month(s)
+WILLIAM GULTIANO, 09387313743: Advanced payment of 1 month(s)
+WILMA C. SERRERA, 09460224512: Advanced payment of 1 month(s)
+WILMA L. MONTAJES, 09127576807: Advanced payment of 1 month(s)
+WILMOR T. GUMANIT, 09934278619: Advanced payment of 1 month(s)
+WIMPEE LAROA, 09758783640: Advanced payment of 1 month(s)
+WINEFREDA E. SUMABAT, 09678951349: Advanced payment of 2 month(s)
+WINEFREDO PEPITO JR, 09630746027: Advanced payment of 2 month(s)
+WOPPEE L. PASANA, 09685497567: Advanced payment of 2 month(s)
+YOLANDO B. MATURAN, 09773903803: Advanced payment of 1 month(s)
+YOLEA JANE SEVILLA, 09178781736: Advanced payment of 1 month(s)
+ZAMIRA MAYBELLE RATILLA, 09637524746: Advanced payment of 1 month(s)
+ZENAIDA A. ANDUYO, 09473969796: Advanced payment of 1 month(s)
+ZENAIDA M. MOLOS, 09531292886: Advanced payment of 2 month(s)
+ZEUS SABULAO, 09709938588: Advanced payment of 1 month(s)
+ZONIA JUMAO-AS, 09532390550: Advanced payment of 1 month(s)
+ZYRA B. CONOR, 09309330684: Advanced payment of 1 month(s)
+ZYSTER PRINCE BATINO, 09121830097: Advanced payment of 1 month(s)
+
+[Rejected Records]:
+IRENEA A. BAYLAN, 0977065525: Invalid Contact Number
+
+
+

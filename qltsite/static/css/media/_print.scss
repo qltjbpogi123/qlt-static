@@ -1,0 +1,94 @@
+@media print {
+    @page {
+        size: auto;
+        /* auto is the initial value */
+        margin: 0mm;
+        /* this affects the margin in the printer settings */
+        width: 100%;
+    }
+
+    body {
+        height: 100%;
+        width: 100%;
+
+        .print-font {
+            font-size: 14pt !important;
+            line-height: 17pt !important;
+            color: #111;
+        }
+
+        .m-05i {
+            margin: 12.7mm;
+        }
+
+        .p-05i {
+            padding: 12.7mm;
+        }
+        .px-05i {
+            padding-left: 12.7mm;
+            padding-right: 12.7mm;
+        }
+
+        &.bg-gray-100 {
+            background-color: transparent !important;
+        }
+
+        &.dark-version {
+            background-color: white !important;
+
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            p,
+            label,
+            tr,
+            td,
+            th {
+                &.text-body,
+                &.print-text-body {
+                    color: #67748e !important;
+                    // color: #344767 !important;
+                }
+                &.text-primary,
+                &.print-text-primary {
+                    color: #5e72e4 !important;
+                }
+                &.text-secondary,
+                &.print-text-secondary {
+                    color: #8392ab !important;
+                    // color: #67748e !important;
+                }
+                &.text-dark,
+                &.print-text-dark {
+                    color: #344767 !important;
+                    // color: #172b4d !important;
+                }
+
+                &.border-bottom {
+                    border-color: #dee1e7 !important;
+                }
+            }
+
+            // table {
+            //     tr {
+            //         &.text-dark,
+            //         &.print-dark {
+            //             td,
+            //             th {
+            //                 color: #172b4d !important;
+            //             }
+            //         }
+            //         &.text-body,
+            //         &.print-body {
+            //             td,
+            //             th {
+            //                 color: #344767 !important;
+            //             }
+            //         }
+            //     }
+            // }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+[15:12:19]:[QLT][Manlilinao OLT]:[Start] : Sent by Ramon Denzo Jr. (Technical Support)
+[15:12:19]:[QLT][Manlilinao OLT]:[Message] :
+Good day! You may experience no internet connection due to our devices affected by the lighting that struck our station. We are currently fixing this problem.
+[15:12:22]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09051646498: ALLAN VILLARMINO', '1) 09267920914: DANIEL AGUINOD', '1) 09261802781: DARIO O. ASIS']
+[15:12:27]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09165297180: ELAINE ANDO LUMANTA', '1) 09517549522: EVANGILIN T. SEGURA', '1) 09770141908: FELECIANO DUMAGSA']
+[15:12:33]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09973276260: JENALEN M. MANSING', '1) 09774658412: JOHN CARLO V. TOREJOS', '1) 09772403629: JULIAN C. GANTUANGCO NATIONAL HIGH SCHOOL']
+[15:12:39]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09155485477: LOURDES P.SAMSON', '1) 09355925354: MA. CRISTINA NEVALLO', '1) 09353106734: MARIA ELINA MEDIL']
+[15:12:45]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09169055270: MARIEJOY C. DUMAGSA', '1) 09454275124: MIKE KIMBER CUESTA', '1) 09753376838: NIÑA DANICA ALFORJA']
+[15:12:50]:[QLT][Manlilinao OLT]:[Sent] : ['1) 09265471692: RUBELYN L. MADJUS']
+[15:12:54]:[QLT][Manlilinao OLT]:[End]

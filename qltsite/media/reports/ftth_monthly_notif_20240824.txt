@@ -1,0 +1,26 @@
+08/24/2024 - 10:26:54
+FTTH Monthly Notification
+Branch : Queens Link - Palompon
+Message : Hello, as of August 2024, you have # pending monthly bills. Contact us at 09623162972 or on our Facebook page. By Queens Link - Palompon.
+[Success][10:26:54] : ['09350719990, ANDONY QUINN S.VIAGEDOR: 1 pending monthly bill', '09771619001, BEATO TORDILLO JR.: 1 pending monthly bill', '09185948440, BEVERLY AQUINO YAP: 1 pending monthly bill']
+[Success][10:26:59] : ['09071466225, FE B.FLOR: 1 pending monthly bill', '09513657694, HELEN R. DELA PAZ: 1 pending monthly bill', '09675574584, JOEL Z.COLO: 1 pending monthly bill']
+[Success][10:27:04] : ['09997869189, JUDITH M.RUBILLOS: 1 pending monthly bill', '09293260674, MARIZ MERAMONTE: 1 pending monthly bill', '09700571287, MERY LYN S.JAQUIAS: 1 pending monthly bill']
+[Success][10:27:09] : ['09606525968, SAN JUAN  TEACHERS/LOREFE: 1 pending monthly bill', '09454331141, WILLIAM G. ADLAWAN: 1 pending monthly bill', '09106958753, WILMA I.RELON: 1 pending monthly bill']
+
+[Rejected Records]:
+ARSENIA I.ENCIENZO, 9274396755: Invalid Contact Number
+BABY BERNADETTE MONTEMOR, 9554019575: Invalid Contact Number
+MARK ANTHONY BERNAL, 9198675461: Invalid Contact Number
+
+
+
+08/24/2024 - 16:17:35
+FTTH Monthly Notification
+Branch : Queens Link - St. Bernard
+Message : Hello, as of August 2024, you have # pending monthly bills. Contact us at 09624627136 or on our Facebook page. By Queens Link - St. Bernard.
+[Success][16:17:36] : ['09262515725, CAROL MAE D. YAP: 1 pending monthly bill', '09955682907, CHARLES JIM CUSTODIO: 1 pending monthly bill', '09649162527, JINGGO R. MANLIMOS: 1 pending monthly bill']
+[Success][16:17:41] : ['09855882742, MIA MABALHIN: 1 pending monthly bill', '09051129021, MOLOPOLO BRGY. HALL / DAYLYN L. PINTUYAN: 1 pending monthly bill', '09368240845, NONILA B. MALUBAY: 1 pending monthly bill']
+[Success][16:17:46] : ['09120854546, ROLAND C. TOREJOS: 1 pending monthly bill', '09750690468, RONILO D. PINTUYAN: 1 pending monthly bill']
+
+
+

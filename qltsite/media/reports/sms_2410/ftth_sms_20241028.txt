@@ -1,0 +1,75 @@
+[10:32:56]:[QLT][Santa Sofia]:[Start] : Sent by Ramon Denzo Jr. (Technical Support)
+[10:32:56]:[QLT][Santa Sofia]:[Message] :
+ADVISORY: October 28, 2024, We regret to inform our valued subscribers that San Sofia, Tangkaan areas experience no internet due to Fiber break. Thank you
+[10:33:07]:[QLT][Santa Sofia]:[Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09757126324', '=message=ADVISORY: October 28, 2024, We regret to inform our valued subscribers that San Sofia, Tangkaan areas experience no internet due to Fiber break. Thank you')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[10:33:15]:[QLT][Santa Sofia]:[Sent] : ['1) 09757126324: ANTONIO KADAVERO JR.', '1) 09518511601: BERNADETTE V. EMPUESTO', '1) 09277558372: CHIQUI PILOTON']
+[10:33:20]:[QLT][Santa Sofia]:[Sent] : ['1) 09690715303: CHRISTIAN REY N. ORJALEZA', '1) 09125267727: CLARIN RAMIL ZAPANTA 2', '1) 09059499967: CLEOFE C. MORIAL']
+[10:33:25]:[QLT][Santa Sofia]:[Sent] : ['1) 09706816509: EDELWEISS S. BACTINDON', '1) 09517777405: FELIX T. MORIAL', '1) 09709938499: FELMAR R. MAJOR']
+[10:33:30]:[QLT][Santa Sofia]:[Sent] : ['1) 09300270911: IMELDA MAALAT', '1) 09639641853: ISABELITA B. EBUENGA', '1) 09050259846: JANINE B. FLOREN']
+[10:33:35]:[QLT][Santa Sofia]:[Sent] : ['1) 09171182458: JEREMIAS C. BARCELON II', '1) 09662403659: JHUNRIEL P. GASPAR', '1) 09177231620: JOSELYN MAHILOM']
+[10:33:41]:[QLT][Santa Sofia]:[Sent] : ['1) 09352728189: JOVITO DALUGDUGAN', '1) 09268313833: KERWIN S. CONEJOS', '1) 09503526169: KHRISTOPHER JOHN G. BARCELON']
+[10:33:46]:[QLT][Santa Sofia]:[Sent] : ['1) 09516556033: LIMUEL R. ESCOBAL', '1) 09173146178: MARIA FE CRISPINA B. POBLETE 2ND ACC', '1) 09306221540: MARIA LUALHATI WALES EVANS']
+[10:33:51]:[QLT][Santa Sofia]:[Sent] : ['1) 09362705840: MARITES M. BARCELON', '1) 09533559963: MARY ANN RISMA', '1) 09665218618: MARY KRISTINE Y. CUEVAS']
+[10:37:00]:[QLT][Santa Sofia]:[Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09759120485', '=message=ADVISORY: October 28, 2024, We regret to inform our valued subscribers that San Sofia, Tangkaan areas experience no internet due to Fiber break. Thank you')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[10:37:08]:[QLT][Santa Sofia]:[Sent] : ['1) 09759120485: MEINARD F. MIRO', '1) 09533559607: NIDA TURCAL', '1) 09615728321: PADRE BURGOS COMMUNITY HOSPITAL']
+[10:37:12]:[QLT][Santa Sofia]:[Sent] : ['1) 09639641718: PINKY G. TE', '1) 09175037530: RAFI MICROFINANCE, INC.', '1) 09197902048: ROCHIE ANN SABANDAL']
+[10:37:17]:[QLT][Santa Sofia]:[Sent] : ['1) 09355393624: ROSALINA T. BORJA', '1) 09125429788: ROWENA COMBATE LONGAN', '09513535176: Success notification!']
+[10:37:21]:[QLT][Santa Sofia]:[Rejected] : Invalid contact number
+093173136554: JULITA MANGALO
+[10:37:21]:[QLT][Santa Sofia]:[End]
+
+
+[10:38:47]:[QLT][Tangkaan]:[Start] : Sent by Ramon Denzo Jr. (Technical Support)
+[10:38:47]:[QLT][Tangkaan]:[Message] :
+ADVISORY: October 28, 2024, We regret to inform our valued subscribers that San Sofia, Tangkaan areas experience no internet due to Fiber break. Thank you
+[10:38:58]:[QLT][Tangkaan]:[Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09510342874', '=message=ADVISORY: October 28, 2024, We regret to inform our valued subscribers that San Sofia, Tangkaan areas experience no internet due to Fiber break. Thank you')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[10:39:07]:[QLT][Tangkaan]:[Sent] : ['1) 09510342874: AIYEN FRONTERAS', '1) 09297904444: ALLAN JUDE RECTO ALLER', '1) 09306964846: AMORLINA V. AMORIN']
+[10:39:12]:[QLT][Tangkaan]:[Sent] : ['1) 09514497909: ANALIE V. ROBELLA', '1) 09201612685: ANGELICA C. MANGALO', '1) 09300154138: ARCHELLE DAÑO AMORIN']
+[10:39:17]:[QLT][Tangkaan]:[Sent] : ['1) 09090263144: CHAMEL ACABO', '1) 09982838924: CHRISTINE E. BALABA', '1) 09633439771: CHRISTINE MAY VILLAMAR']
+[10:39:22]:[QLT][Tangkaan]:[Sent] : ['1) 09222164322: CRISTINA GAVIOLA ANG-BLUEMEL', '1) 09677551890: DAISY P. PUNAY', '1) 09505313720: EMMA R. TURCAL']
+[10:39:27]:[QLT][Tangkaan]:[Sent] : ['1) 09917897219: ERIC RE BONIEL', '1) 09776076672: ERICA T. CASTOLO', '1) 09380374823: EUBE BERNADETTE BATALON']
+[10:39:32]:[QLT][Tangkaan]:[Sent] : ['1) 09480619700: FLORDELIZA SOMBOL HERMOSA', '1) 09385020614: GILBERT P. ESPINA', '1) 09639525187: GUALBERTO B. ROSELLO']
+[10:39:37]:[QLT][Tangkaan]:[Sent] : ['1) 09163949105: JANET  E. PURVEY', '1) 09465994224: JENNY CHRIS LOPEZ', '1) 09603852618: JENNY ESCOL']
+[10:39:42]:[QLT][Tangkaan]:[Sent] : ['1) 09308689247: JOSEPHINE MANGUBAT', '1) 09466954359: JOVELYN DAÑIO/ ROANN JOY DAÑO', '1) 09512125220: JOVELYN DAÑO 2ND']
+[10:39:48]:[QLT][Tangkaan]:[Sent] : ['1) 09473711619: JOY M. GOFF', '1) 09686907373: LEAM V AMORIN', '1) 09476264837: LENY SABANDAL']
+[10:39:53]:[QLT][Tangkaan]:[Sent] : ['1) 09503788370: LEONARDO L. BALABA', '1) 09692580435: LIZEL MONGHIT', '1) 09510219193: LOUIEL JAY ACAMPADO']
+[10:39:58]:[QLT][Tangkaan]:[Sent] : ['1) 09075375184: MAICA MAE LIM', '1) 09194805104: MARIA ROCHELLA ROMERO', '1) 09937346214: MARIANE B. LIM 2']
+[10:40:03]:[QLT][Tangkaan]:[Sent] : ['1) 09700568554: MARVI B. LIM', '1) 09362428805: MAYETH R. PLASQUITA 2', '1) 09154914602: MITCHELLE ARAYAN 2ND']
+[10:40:08]:[QLT][Tangkaan]:[Sent] : ['1) 09100418188: NEMFA BATALON', '1) 09100418188: NEMFA Y. BATALON 2ND ACCOUNT', '1) 09268603354: NICOL A. DAÑO']
+[10:40:13]:[QLT][Tangkaan]:[Sent] : ['1) 09202734376: NIDA PALERO', '1) 09091211884: ORWELIA P. SABANDAL', '1) 09811207492: PETER STEERS']
+[10:40:18]:[QLT][Tangkaan]:[Sent] : ['1) 09759711910: RAFAEL P. ESPERE', '1) 09502555362: RETCHIEL S. PETALLAR', '1) 09481703865: RUTH A. VILLARIASA']
+[10:40:23]:[QLT][Tangkaan]:[Sent] : ['1) 09481703865: RUTH A. VILLARIASA-2', '1) 09709937644: RYLYN D. CARINEA', '1) 09684565252: SANDRA P. BACTIDON']
+[10:40:28]:[QLT][Tangkaan]:[Sent] : ['1) 09158588865: TANGKAAN ELEMENTARY SCHOOL', '09513535176: Success notification!']
+[10:40:32]:[QLT][Tangkaan]:[End]
+
+
+[10:41:21]:[QLT][Tangkaan]:[Start] : Sent by Ramon Denzo Jr. (Technical Support)
+[10:41:21]:[QLT][Tangkaan]:[Message] :
+ADVISORY: October 28, 2024, We regret to inform our valued subscribers that San Sofia, Tangkaan areas experience no internet due to Fiber break. Thank you
+[10:41:24]:[QLT][Tangkaan]:[Sent] : ['1) 09510342874: AIYEN FRONTERAS', '1) 09297904444: ALLAN JUDE RECTO ALLER', '1) 09306964846: AMORLINA V. AMORIN']
+[10:41:29]:[QLT][Tangkaan]:[Sent] : ['1) 09514497909: ANALIE V. ROBELLA', '1) 09201612685: ANGELICA C. MANGALO', '1) 09300154138: ARCHELLE DAÑO AMORIN']
+[10:41:35]:[QLT][Tangkaan]:[Sent] : ['1) 09090263144: CHAMEL ACABO', '1) 09982838924: CHRISTINE E. BALABA', '1) 09633439771: CHRISTINE MAY VILLAMAR']
+[10:41:41]:[QLT][Tangkaan]:[Sent] : ['1) 09222164322: CRISTINA GAVIOLA ANG-BLUEMEL', '1) 09677551890: DAISY P. PUNAY', '1) 09505313720: EMMA R. TURCAL']
+[10:41:46]:[QLT][Tangkaan]:[Sent] : ['1) 09917897219: ERIC RE BONIEL', '1) 09776076672: ERICA T. CASTOLO', '1) 09380374823: EUBE BERNADETTE BATALON']
+[10:41:52]:[QLT][Tangkaan]:[Sent] : ['1) 09480619700: FLORDELIZA SOMBOL HERMOSA', '1) 09385020614: GILBERT P. ESPINA', '1) 09639525187: GUALBERTO B. ROSELLO']
+[10:41:58]:[QLT][Tangkaan]:[Sent] : ['1) 09163949105: JANET  E. PURVEY', '1) 09465994224: JENNY CHRIS LOPEZ', '1) 09603852618: JENNY ESCOL']
+[10:42:03]:[QLT][Tangkaan]:[Sent] : ['1) 09308689247: JOSEPHINE MANGUBAT', '1) 09466954359: JOVELYN DAÑIO/ ROANN JOY DAÑO', '1) 09512125220: JOVELYN DAÑO 2ND']
+[10:42:09]:[QLT][Tangkaan]:[Sent] : ['1) 09473711619: JOY M. GOFF', '1) 09686907373: LEAM V AMORIN', '1) 09476264837: LENY SABANDAL']
+[10:42:15]:[QLT][Tangkaan]:[Sent] : ['1) 09503788370: LEONARDO L. BALABA', '1) 09692580435: LIZEL MONGHIT', '1) 09510219193: LOUIEL JAY ACAMPADO']
+[10:42:21]:[QLT][Tangkaan]:[Sent] : ['1) 09075375184: MAICA MAE LIM', '1) 09194805104: MARIA ROCHELLA ROMERO', '1) 09937346214: MARIANE B. LIM 2']
+[10:42:28]:[QLT][Tangkaan]:[Error] : timed out
+[10:42:36]:[QLT][Tangkaan]:[Sent] : ['1) 09700568554: MARVI B. LIM', '1) 09362428805: MAYETH R. PLASQUITA 2', '1) 09154914602: MITCHELLE ARAYAN 2ND']
+[10:42:41]:[QLT][Tangkaan]:[Sent] : ['1) 09100418188: NEMFA BATALON', '1) 09100418188: NEMFA Y. BATALON 2ND ACCOUNT', '1) 09268603354: NICOL A. DAÑO']
+[10:42:46]:[QLT][Tangkaan]:[Sent] : ['1) 09202734376: NIDA PALERO', '1) 09091211884: ORWELIA P. SABANDAL', '1) 09811207492: PETER STEERS']
+[10:42:51]:[QLT][Tangkaan]:[Sent] : ['1) 09759711910: RAFAEL P. ESPERE', '1) 09502555362: RETCHIEL S. PETALLAR', '1) 09481703865: RUTH A. VILLARIASA']
+[10:42:56]:[QLT][Tangkaan]:[Sent] : ['1) 09481703865: RUTH A. VILLARIASA-2', '1) 09709937644: RYLYN D. CARINEA', '1) 09684565252: SANDRA P. BACTIDON']
+[10:43:01]:[QLT][Tangkaan]:[Sent] : ['1) 09158588865: TANGKAAN ELEMENTARY SCHOOL', '09513535176: Success notification!']
+[10:43:05]:[QLT][Tangkaan]:[End]
+
+

@@ -1,0 +1,69 @@
+[11:14:51]:[QLTPL][Jordan]:[Start] : Sent by Catherine Roque (Account Officer)
+[11:14:51]:[QLTPL][Jordan]:[Message] :
+Hi,your bill for the month of August 2024 is now available and will be due on August 30,2024.To pay your bill,kindly visit our office(walk-in)or use our online payment system(gcash,palawan).Message our account officer in Messenger or QLT BILLING PALOMPON if you have any questions concerning your bill.Thank you.
+[11:14:51]:[QLTPL][Jordan]:[Split Messages] :
+1)  Hi,your bill for the month of August 2024 is now available and will be due on August 30,2024.To pay your bill,kindly visit our office(walk-in)or use our
+2) online payment system(gcash,palawan).Message our account officer in Messenger or QLT BILLING PALOMPON if you have any questions concerning your bill.Thank
+3) you.
+[11:17:50]:[QLTPL][Jordan]:[Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09606443060', '=message=1)  Hi,your bill for the month of August 2024 is now available and will be due on August 30,2024.To pay your bill,kindly visit our office(walk-in)or use our')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[11:17:58]:[QLTPL][Jordan]:[Sent] : ['1) 09606443060: ABIGAEL OMEGA', '2) 09606443060: ABIGAEL OMEGA', '3) 09606443060: ABIGAEL OMEGA']
+[11:18:03]:[QLTPL][Jordan]:[Sent] : ['1) 09065129030: AGNES ADLAWAN/ EMPERADOR', '2) 09065129030: AGNES ADLAWAN/ EMPERADOR', '3) 09065129030: AGNES ADLAWAN/ EMPERADOR']
+[11:18:08]:[QLTPL][Jordan]:[Sent] : ['1) 09773698185: ALBERT M.NALO', '2) 09773698185: ALBERT M.NALO', '3) 09773698185: ALBERT M.NALO']
+[11:18:13]:[QLTPL][Jordan]:[Sent] : ['1) 09972584190: ARLYN C.ARAÑEZ 2', '2) 09972584190: ARLYN C.ARAÑEZ 2', '3) 09972584190: ARLYN C.ARAÑEZ 2']
+[11:21:23]:[QLTPL][Jordan]:[Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09976802973', '=message=1)  Hi,your bill for the month of August 2024 is now available and will be due on August 30,2024.To pay your bill,kindly visit our office(walk-in)or use our')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[11:21:30]:[QLTPL][Jordan]:[Sent] : ['1) 09976802973: BABY JANE O. DUJA', '2) 09976802973: BABY JANE O. DUJA', '3) 09976802973: BABY JANE O. DUJA']
+[11:22:35]:[QLTPL][Jordan]:[Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09161134493', '=message=1)  Hi,your bill for the month of August 2024 is now available and will be due on August 30,2024.To pay your bill,kindly visit our office(walk-in)or use our')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[11:22:42]:[QLTPL][Jordan]:[Sent] : ['1) 09161134493: BOYMAR N. AYA-AY', '2) 09161134493: BOYMAR N. AYA-AY', '3) 09161134493: BOYMAR N. AYA-AY']
+[11:22:46]:[QLTPL][Jordan]:[Sent] : ['1) 09172447129: CINDY LOUIE E.GARCIA 2', '2) 09172447129: CINDY LOUIE E.GARCIA 2', '3) 09172447129: CINDY LOUIE E.GARCIA 2']
+[11:22:50]:[QLTPL][Jordan]:[Sent] : ['1) 09951540124: DANICA A.OMBAJEN', '2) 09951540124: DANICA A.OMBAJEN', '3) 09951540124: DANICA A.OMBAJEN']
+[11:22:54]:[QLTPL][Jordan]:[Sent] : ['1) 09162957794: DELIA S.AYA-AY', '2) 09162957794: DELIA S.AYA-AY', '3) 09162957794: DELIA S.AYA-AY']
+[11:22:58]:[QLTPL][Jordan]:[Sent] : ['1) 09051785876: DIOSCORO MONTE', '2) 09051785876: DIOSCORO MONTE', '3) 09051785876: DIOSCORO MONTE']
+[11:23:02]:[QLTPL][Jordan]:[Sent] : ['1) 09556242119: EDISON MHEL AGOSTO', '2) 09556242119: EDISON MHEL AGOSTO', '3) 09556242119: EDISON MHEL AGOSTO']
+[11:23:06]:[QLTPL][Jordan]:[Sent] : ['1) 09163215925: EDUBETH M. ALVACIETE', '2) 09163215925: EDUBETH M. ALVACIETE', '3) 09163215925: EDUBETH M. ALVACIETE']
+[11:23:10]:[QLTPL][Jordan]:[Sent] : ['1) 09129195154: ELENITA BALBIN', '2) 09129195154: ELENITA BALBIN', '3) 09129195154: ELENITA BALBIN']
+[11:23:14]:[QLTPL][Jordan]:[Sent] : ['1) 09972584190: EMYLOU/ALBERTO/ ARLYN C.ARAÑEZ 3', '2) 09972584190: EMYLOU/ALBERTO/ ARLYN C.ARAÑEZ 3', '3) 09972584190: EMYLOU/ALBERTO/ ARLYN C.ARAÑEZ 3']
+[11:23:18]:[QLTPL][Jordan]:[Sent] : ['1) 09153941062: FAITH C.AYA-AY', '2) 09153941062: FAITH C.AYA-AY', '3) 09153941062: FAITH C.AYA-AY']
+[11:23:22]:[QLTPL][Jordan]:[Sent] : ['1) 09271620639: FEDERICO TEODORO JR.', '2) 09271620639: FEDERICO TEODORO JR.', '3) 09271620639: FEDERICO TEODORO JR.']
+[11:23:26]:[QLTPL][Jordan]:[Sent] : ['1) 09053485648: JANICE MADJUS', '2) 09053485648: JANICE MADJUS', '3) 09053485648: JANICE MADJUS']
+[11:23:30]:[QLTPL][Jordan]:[Sent] : ['1) 09771606694: JAYLAN CALA/ ALICIA COJEN', '2) 09771606694: JAYLAN CALA/ ALICIA COJEN', '3) 09771606694: JAYLAN CALA/ ALICIA COJEN']
+[11:23:34]:[QLTPL][Jordan]:[Sent] : ['1) 09156463643: JORDAN ELEMENTARY SCHOOL', '2) 09156463643: JORDAN ELEMENTARY SCHOOL', '3) 09156463643: JORDAN ELEMENTARY SCHOOL']
+[11:23:38]:[QLTPL][Jordan]:[Sent] : ['1) 09154204786: LEON MORALES JR.', '2) 09154204786: LEON MORALES JR.', '3) 09154204786: LEON MORALES JR.']
+[11:23:42]:[QLTPL][Jordan]:[Sent] : ['1) 09129195154: MA.CECELIA L.NALDOZA', '2) 09129195154: MA.CECELIA L.NALDOZA', '3) 09129195154: MA.CECELIA L.NALDOZA']
+[11:23:46]:[QLTPL][Jordan]:[Sent] : ['1) 09357121104: MARK RAYMOND BERGAMO', '2) 09357121104: MARK RAYMOND BERGAMO', '3) 09357121104: MARK RAYMOND BERGAMO']
+[11:23:50]:[QLTPL][Jordan]:[Sent] : ['1) 09060570449: MEJELOU D.GAYLAWAN', '2) 09060570449: MEJELOU D.GAYLAWAN', '3) 09060570449: MEJELOU D.GAYLAWAN']
+[11:23:54]:[QLTPL][Jordan]:[Sent] : ['1) 09129195154: MICHAEL C.VAPOR', '2) 09129195154: MICHAEL C.VAPOR', '3) 09129195154: MICHAEL C.VAPOR']
+[11:23:58]:[QLTPL][Jordan]:[Sent] : ['1) 09276400919: NENETTE L. APARECIO', '2) 09276400919: NENETTE L. APARECIO', '3) 09276400919: NENETTE L. APARECIO']
+[11:25:10]:[QLTPL][Jordan]:[Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09488919515', '=message=1)  Hi,your bill for the month of August 2024 is now available and will be due on August 30,2024.To pay your bill,kindly visit our office(walk-in)or use our')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[11:25:17]:[QLTPL][Jordan]:[Sent] : ['1) 09488919515: PAUL PETER A. SARINO', '2) 09488919515: PAUL PETER A. SARINO', '3) 09488919515: PAUL PETER A. SARINO']
+[11:25:21]:[QLTPL][Jordan]:[Sent] : ['1) 09479664098: RITCHEL D. SALAZAR', '2) 09479664098: RITCHEL D. SALAZAR', '3) 09479664098: RITCHEL D. SALAZAR']
+[11:25:25]:[QLTPL][Jordan]:[Sent] : ['1) 09097996774: ROGER B.BARBOSA 2', '2) 09097996774: ROGER B.BARBOSA 2', '3) 09097996774: ROGER B.BARBOSA 2']
+[11:25:29]:[QLTPL][Jordan]:[Sent] : ['1) 09270831142: ROSALIE O. JORGE', '2) 09270831142: ROSALIE O. JORGE', '3) 09270831142: ROSALIE O. JORGE']
+[11:25:33]:[QLTPL][Jordan]:[Sent] : ['1) 09756779940: ROWENA AYA-AY', '2) 09756779940: ROWENA AYA-AY', '3) 09756779940: ROWENA AYA-AY']
+[11:25:37]:[QLTPL][Jordan]:[Sent] : ['1) 09989086890: RUSTICO D. ELORDE', '2) 09989086890: RUSTICO D. ELORDE', '3) 09989086890: RUSTICO D. ELORDE']
+[11:25:41]:[QLTPL][Jordan]:[Sent] : ['1) 09513704974: SHERRY LEI H. SALVANI', '2) 09513704974: SHERRY LEI H. SALVANI', '3) 09513704974: SHERRY LEI H. SALVANI']
+[11:25:45]:[QLTPL][Jordan]:[Sent] : ['1) 09061000493: TEODORICO B. VAPOR', '2) 09061000493: TEODORICO B. VAPOR', '3) 09061000493: TEODORICO B. VAPOR']
+[11:25:49]:[QLTPL][Jordan]:[Sent] : ['1) 09109915321: TIFANY DELA RAMA', '2) 09109915321: TIFANY DELA RAMA', '3) 09109915321: TIFANY DELA RAMA']
+[11:25:53]:[QLTPL][Jordan]:[Sent] : ['1) 09454331141: WILLIAM G. ADLAWAN', '2) 09454331141: WILLIAM G. ADLAWAN', '3) 09454331141: WILLIAM G. ADLAWAN']
+[11:25:57]:[QLTPL][Jordan]:[End]
+
+
+[11:46:32]:[QLT][Dolores OLT]:[Start] : Sent by Nelio Pono (Technical Supervisor)
+[11:46:32]:[QLT][Dolores OLT]:[Message] :
+Hi,your bill for the month of August 2024 is now available and will be due on August 30,2024.To pay your bill,kindly visit our office(walk-in)or use our online payment system(gcash,palawan).Message our account officer in Messenger or QLT BILLING PALOMPON if you have any questions concerning your bill.Thank you.
+[11:46:32]:[QLT][Dolores OLT]:[Split Messages] :
+1)  Hi,your bill for the month of August 2024 is now available and will be due on August 30,2024.To pay your bill,kindly visit our office(walk-in)or use our
+2) online payment system(gcash,palawan).Message our account officer in Messenger or QLT BILLING PALOMPON if you have any questions concerning your bill.Thank
+3) you.
+[11:46:45]:[QLT][Dolores OLT]:[Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09094180770', '=message=1)  Hi,your bill for the month of August 2024 is now available and will be due on August 30,2024.To pay your bill,kindly visit our office(walk-in)or use our')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[11:46:53]:[QLT][Dolores OLT]:[Sent] : ['1) 09094180770: NELIO PONO', '2) 09094180770: NELIO PONO', '3) 09094180770: NELIO PONO']
+[11:46:57]:[QLT][Dolores OLT]:[End]

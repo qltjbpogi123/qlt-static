@@ -1,0 +1,10 @@
+05/22/2024 - 08:08:28
+FTTH Monthly Notification
+Branch : Queens Link - Baybay
+Message : Hello, as of May 2024, you have # pending monthly bills. Contact us at 09854476003 or on our Facebook page. By Queens Link - Baybay.
+
+[Error Records]:
+[Error Message][08:08:31] : Error: API failed to connect to socket. Host: 26.0.3.53, port: 8728.
+
+
+

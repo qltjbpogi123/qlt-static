@@ -1,0 +1,214 @@
+[15:42:55]:[QLT][Lungsodaan][Multiple SMS][End]
+[15:42:55]:[QLT][Lungsodaan][Multiple SMS][Message] : We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology 
+[15:43:00]:[QLT][Lungsodaan][Multiple SMS][Error] : timed out
+[15:43:07]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09954334355', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[15:43:15]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09954334355: ALLEN DAVE BUHAT 2ND ACCOUNT', '1) 09454830952: ALREN L. PACATE', '1) 09260415362: ANALIE TAMBA CANDILA']
+[15:43:20]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09163760064: ANNALYN TINIO', '1) 09275504093: ARIANE IMBOC', '1) 09262921568: BARANGGAY LUNGSODAAN']
+[15:43:25]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09955044985: BRYAN ABEJO', '1) 09973309575: CELMA BESLIG', '1) 09061166428: CHERYL ANN P. BESLIG']
+[15:43:30]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09975070912: DANHEL S. COSTILLAS', '1) 09271732069: DANILO COSTILLAS JR.', '1) 09659847152: DARWIN T. LERCANA']
+[15:43:36]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09952909720: DAVID BUCK', '1) 09537150398: DAVID N. LABRADOR (2ND ACCOUNT)', '1) 09759955281: EDGARDO S. MADERA']
+[15:43:41]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09056822494: EPHRAIM R. ODIAS', '1) 09056822494: EPHRAIM R. ODIAS 2', '1) 09654886485: ESTER A. AMPO']
+[15:43:46]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09455201416: FLOR MANAUG', '1) 09275106426: FLORAMIE N. LABRADOR', '1) 09360375177: GARY P. BACTINDON']
+[15:43:51]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09706943752: GILDA MARIE C. CASTINO', '1) 09365102170: GLENDA FAMADOR', '1) 09353070128: HAZEL P. TINOMA']
+[15:43:56]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09268312865: HERMELINA ESCLAMADO', '1) 09665768927: JESSICA JOY D. OCTOBRE', '1) 09677281316: JHEL-ANJOY G. BERNALES']
+[15:44:02]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09096747398: JIMMY BESLIG BALLESPIN', '1) 09958943307: JOMEL BERSABAL', '1) 09054896125: JUANITA P. LICAYAN']
+[15:44:07]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09692381940: JUDITH LUIZ S. CASTINO', '1) 09352179670: LAARNI B. BELOY', '1) 09656713047: LONGFELLOW E. PALERMO']
+[15:44:14]:[QLT][Lungsodaan][Multiple SMS][Error] : timed out
+[15:44:21]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[15:44:28]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[15:44:35]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:44:42]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:44:49]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:44:56]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:45:03]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:45:10]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:45:17]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:45:24]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:45:31]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:45:38]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:45:45]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:45:52]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:45:59]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:46:06]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:46:13]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:46:20]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:46:27]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', "=message=failure: Failed to acquire, can't find device"], ['!done']]
+[15:46:34]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', "=message=failure: Failed to acquire, can't find device"], ['!done']]
+[15:46:41]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', "=message=failure: Failed to acquire, can't find device"], ['!done']]
+[15:46:48]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', "=message=failure: Failed to acquire, can't find device"], ['!done']]
+[15:46:55]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:47:02]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:47:09]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:47:16]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158205900', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:47:24]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09158205900: LUCIA  M. LICAYAN', '1) 09064320897: MARICEL M. MURILLO', '1) 09565202247: MARISTELA NARONA PALERMO']
+[15:47:28]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09457130898: MARJORIE B. MEPAÑA', '1) 09950365697: MARY ANN BERNALES', '1) 09175701435: MARY JEAN MIRA (3RD ACCOUNT)']
+[15:47:33]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09359712173: MERCEDES MACCONN', '1) 09661489535: MERHIL CAÑON STORK', '1) 09350730349: MERLYN MANLANGIT']
+[15:47:40]:[QLT][Lungsodaan][Multiple SMS][Error] : timed out
+[15:47:49]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09468636694', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[15:47:56]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09468636694', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[15:48:03]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09468636694', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[15:48:10]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09468636694', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[15:48:17]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09468636694', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:48:24]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09468636694', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:48:31]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09468636694', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:48:38]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09468636694', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:48:45]:[QLT][Lungsodaan][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09468636694', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:48:52]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09468636694: METRA, MARIA IRENE ROSE R.', '1) 09051683410: MYRNA BIONG DUNNING', '1) 09277558291: MYRNA C. DALUGDUGAN']
+[15:48:56]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09268622281: NELFA TAN BACALSO', '1) 09164281351: Peregrina M. Solana', '1) 09551367306: RECHELL C. PAGANGPANG']
+[15:49:00]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09551367306: RECHELL PAGANGPANG 2ND ACC', '1) 09165242998: RICO A. MAUSISA', '1) 09265330763: ROSA DUBLOIS']
+[15:49:04]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09952820640: ROSE ANN PALERO', '1) 09762661757: ROSELYN A. URBIZTONDO', '1) 09155207274: SOGOD BAY SCUBA RESORT, INC.']
+[15:49:08]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09211748441: SYLVIUS SOLANA', '1) 09158205900: TELMA N. MADERA', '1) 09167992310: TORBEN CHRISTIANSEN']
+[15:49:12]:[QLT][Lungsodaan][Multiple SMS][Sent] : ['1) 09270825607: WIVINA COÑADO', '1) 09566533592: YOLANDA N. SIAO', '09513535716: Success notification!']
+[15:49:16]:[QLT][Lungsodaan][Multiple SMS][Start] : Sent by Ramon Denzo Jr. (Technical Support)
+[15:50:05]:[QLT][San Juan (Ormoc)][Multiple SMS][End]
+[15:50:05]:[QLT][San Juan (Ormoc)][Multiple SMS][Message] : We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology 
+[15:50:08]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09639485654: AGUSTINA PONO', '1) 09497608603: AIRON MATUGUINA', '1) 09199748585: Amando P. Luceños Sr.']
+[15:50:14]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09635844625: ANABELLE MULLEJON', '1) 09464503817: ANALYN DEGELLO', '1) 09751685502: ANNIE S AMARILLO']
+[15:50:19]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09056549205: APRIL REBOLLOS', '1) 09127092271: ARIEL YBAÑEZ', '1) 09816326164: BENJAMIN MARTINITO']
+[15:50:25]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09639119654: BERLITO PADILLA', '1) 09954342120: CAROL KETH M. ABUNDO', '1) 09531265373: CHERRY MAE MATUGUINA']
+[15:50:34]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : timed out
+[15:50:44]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : timed out
+[15:50:51]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09357192703', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[15:50:58]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09357192703', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[15:51:05]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09357192703', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:51:12]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09357192703', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:51:19]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09357192703', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:51:26]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09357192703', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:51:33]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09357192703', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:51:40]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09357192703: CLAIRE CANTERO', '1) 09109465747: CRISANTO P. IGNACIO', '1) 09169565982: CRISTY TOROCTOCON']
+[15:51:45]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09531279519: EFRENIA CANTERO', '1) 09913316001: EMELYN V. FELIPE', '1) 09675613772: FE ERBITO DIAZ']
+[15:51:50]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09156725078: FE O. BAISE', '1) 09535615382: FERNANDO LAGMAN', '1) 09350310407: FLOR E. RUIZ']
+[15:51:54]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09099048186: GENREY JESSA POGOSA', '1) 09564017452: ISAEL BULLO JUEVESANO', '1) 09563771382: JANICE PALES']
+[15:51:59]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09504987222: JARREL SINDAY', '1) 09383269276: JAY RYAN F. SUICO', '1) 09155765712: JENNELYN L. PELICANO']
+[15:52:03]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09700895792: JESSICA ALONZO', '1) 09558646007: JILIEJOY /JESELIE ANDO', '1) 09481706627: JONATHAN CASINILLO']
+[15:52:08]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09817763275: JOSEFA U. MENDOZA', '1) 09693838766: JOSEPH COGAY', '1) 09263610578: JOSEPHINE IGNACIO']
+[15:52:13]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09098783730: JULITO SARINO BOLANO/JURISA BOLANO', '1) 09537745214: KIM CUSI', '1) 09355061690: LORNA FELICITA']
+[15:52:17]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09462228191: LUZ HAJHAMDO', '1) 09486593013: MARIA LILIBETH MATUGUINA', '1) 09506516668: MARICAR C. CASINILLO']
+[15:52:22]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09060574505: MARJORIE PADILLA', '1) 09973667629: MARLENITO FELICITA', '1) 09534462800: MARY GRACE M ERBITO']
+[15:52:29]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : timed out
+[15:52:37]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09983113214', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[15:52:44]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09983113214', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[15:52:51]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09983113214', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[15:52:58]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09983113214', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[15:53:05]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09983113214', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:53:12]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09983113214', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:53:19]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09983113214', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:53:26]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09983113214', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:53:33]:[QLT][San Juan (Ormoc)][Multiple SMS][Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09983113214', '=message=We regret to inform that you experiencing no internet connectivity due to fiber break in Lungsodaan to San Juan. Contact FB:Queens Link Technology ')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[15:53:40]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09983113214: MARY JANE CASINILLO / MARY JANE CANTERO', '1) 09358286595: MARY JANE M. ERBITO', '1) 09759771048: MARY VENICE BOOK']
+[15:53:44]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09485378459: MELANIE MATRES  GERUNDIO', '1) 09380356018: MERCEDES EVANGELISTA', '1) 09129990482: MERLIZA S. ELIZONDO']
+[15:53:48]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09688556902: MUNNY M. SHOJI', '1) 09474164751: NANCY SECRETARIA', '1) 09124363223: PATROCINIA GOMEZ/JERIC COGAY']
+[15:53:52]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09260467682: PCPL FRANCISCO MENDAROS', '1) 09991941942: REBECCA SIABOC', '1) 09510450128: ROGER OLILA']
+[15:53:56]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09465262155: ROGYN B. PEPITO', '1) 09171533244: RONNEL PADERNAL', '1) 09608858937: ROSALIA DELA RAMA']
+[15:54:00]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09173103876: ROSITA PECORRE', '1) 09384444970: SAN JUAN BRGY. HALL', '1) 09662543246: SAN JUAN ELEM. SCHOOL']
+[15:54:04]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09489437111: SHAINA MAE JAVIER', '1) 09195999294: SHEILA ARO', '1) 09513688640: SONNY BOLANIO']
+[15:54:08]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['1) 09187369947: TEODORA B.PEPITO', '1) 09054163439: VICTORIA DEBIL', '1) 09354896014: VIRGINIA EGAY']
+[15:54:12]:[QLT][San Juan (Ormoc)][Multiple SMS][Sent] : ['09513535716: Success notification!']
+[15:54:16]:[QLT][San Juan (Ormoc)][Multiple SMS][Rejected] : Invalid contact number
+0997 927 1542: CHARITO BAGUION
+094648402384: JELLY JOY OCHEA
+[15:54:16]:[QLT][San Juan (Ormoc)][Multiple SMS][Start] : Sent by Ramon Denzo Jr. (Technical Support)

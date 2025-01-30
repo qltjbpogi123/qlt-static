@@ -1,0 +1,168 @@
+table.dataTable thead > tr > th.dt-orderable-asc, table.dataTable thead > tr > th.dt-orderable-desc, table.dataTable thead > tr > td.dt-orderable-asc, table.dataTable thead > tr > td.dt-orderable-desc {
+    cursor: pointer;
+}
+
+table.dataTable thead > tr > th.dt-orderable-asc, table.dataTable thead > tr > th.dt-orderable-desc, table.dataTable thead > tr > th.dt-ordering-asc, table.dataTable thead > tr > th.dt-ordering-desc, table.dataTable thead > tr > td.dt-orderable-asc, table.dataTable thead > tr > td.dt-orderable-desc, table.dataTable thead > tr > td.dt-ordering-asc, table.dataTable thead > tr > td.dt-ordering-desc {
+    position: relative;
+    padding-right: 30px;
+}
+
+table.dataTable thead > tr > th.dt-orderable-asc span.dt-column-order, table.dataTable thead > tr > th.dt-orderable-desc span.dt-column-order, table.dataTable thead > tr > th.dt-ordering-asc span.dt-column-order, table.dataTable thead > tr > th.dt-ordering-desc span.dt-column-order, table.dataTable thead > tr > td.dt-orderable-asc span.dt-column-order, table.dataTable thead > tr > td.dt-orderable-desc span.dt-column-order, table.dataTable thead > tr > td.dt-ordering-asc span.dt-column-order, table.dataTable thead > tr > td.dt-ordering-desc span.dt-column-order {
+    position: absolute;
+    right: 12px;
+    top: 0;
+    bottom: 0;
+    width: 12px;
+    color: black;
+}
+
+table.dataTable thead > tr > th.dt-ordering-asc span.dt-column-order:before, table.dataTable thead > tr > th.dt-ordering-desc span.dt-column-order:after, table.dataTable thead > tr > td.dt-ordering-asc span.dt-column-order:before, table.dataTable thead > tr > td.dt-ordering-desc span.dt-column-order:after {
+    opacity: 0.6 !important;
+}
+
+table.dataTable thead > tr > th.dt-orderable-asc span.dt-column-order:before, table.dataTable thead > tr > th.dt-orderable-asc span.dt-column-order:after, table.dataTable thead > tr > th.dt-orderable-desc span.dt-column-order:before, table.dataTable thead > tr > th.dt-orderable-desc span.dt-column-order:after, table.dataTable thead > tr > th.dt-ordering-asc span.dt-column-order:before, table.dataTable thead > tr > th.dt-ordering-asc span.dt-column-order:after, table.dataTable thead > tr > th.dt-ordering-desc span.dt-column-order:before, table.dataTable thead > tr > th.dt-ordering-desc span.dt-column-order:after, table.dataTable thead > tr > td.dt-orderable-asc span.dt-column-order:before, table.dataTable thead > tr > td.dt-orderable-asc span.dt-column-order:after, table.dataTable thead > tr > td.dt-orderable-desc span.dt-column-order:before, table.dataTable thead > tr > td.dt-orderable-desc span.dt-column-order:after, table.dataTable thead > tr > td.dt-ordering-asc span.dt-column-order:before, table.dataTable thead > tr > td.dt-ordering-asc span.dt-column-order:after, table.dataTable thead > tr > td.dt-ordering-desc span.dt-column-order:before, table.dataTable thead > tr > td.dt-ordering-desc span.dt-column-order:after {
+    left: 0;
+    opacity: 0.125;
+    line-height: 9px;
+    font-size: 0.8em;
+}
+
+table.dataTable thead > tr > th.dt-orderable-asc span.dt-column-order:before, table.dataTable thead > tr > th.dt-ordering-asc span.dt-column-order:before, table.dataTable thead > tr > td.dt-orderable-asc span.dt-column-order:before, table.dataTable thead > tr > td.dt-ordering-asc span.dt-column-order:before {
+    position: absolute;
+    display: block;
+    bottom: 50%;
+    content: "\25B2";
+    content: "\25B2" / "";
+    color: #9CA3AF;
+}
+
+
+table.dataTable thead > tr > th.dt-orderable-desc span.dt-column-order:after, table.dataTable thead > tr > th.dt-ordering-desc span.dt-column-order:after, table.dataTable thead > tr > td.dt-orderable-desc span.dt-column-order:after, table.dataTable thead > tr > td.dt-ordering-desc span.dt-column-order:after {
+    position: absolute;
+    display: block;
+    top: 50%;
+    content: "\25BC";
+    content: "\25BC" / "";
+    color: #9CA3AF;
+}
+
+table.dataTable thead > tr > th.dt-orderable-asc:hover, table.dataTable thead > tr > th.dt-orderable-desc:hover, table.dataTable thead > tr > td.dt-orderable-asc:hover, table.dataTable thead > tr > td.dt-orderable-desc:hover {
+    outline: 1px solid rgba(236, 72, 153, 1);
+    outline-offset: 0px !important;
+}
+
+ .dt-layout-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    font-size: 0.875rem;
+}
+
+.dt-layout-table {
+    display: block !important;
+    overflow-x: auto;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+    border: 1px solid #374151;
+}
+
+@media (min-width: 768px) {
+    .dt-layout-table {
+        border-radius: 0.5rem;
+    }
+}
+
+.dt-info {
+color: white;
+margin-inline-start: .5rem;
+}
+
+.dt-input {
+    background-color: #1F2937;
+    border:1px solid #374151;
+    border-radius: .5rem;
+    color: white;
+    margin: 0 .4rem;
+    font-family: Montserrat, sans-serif;
+    font-size: 0.875rem;
+}
+
+#dt-search-0 {
+    background-color: #1F2937 !important;
+}
+
+.dt-input:focus {
+   outline: none;
+   box-shadow: none;
+   border:1px solid #f472b6 !important;
+
+}
+
+.dt-length label, .dt-search label {
+    color: white;
+    font-family: Montserrat, sans-serif;
+}
+
+.dt-paging {
+    color: white;
+    margin-inline-end: .5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2rem;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    border-radius:0.5rem; /* Equivalent to rounded-s-lg */
+    border: 1px solid #374151; /* Equivalent to border and border-gray-700 */
+}
+
+.dt-paging > *:not([hidden]) + *:not([hidden]) {
+    margin-left: -1px;
+}
+
+.dt-paging-button {
+    height: 2rem; 
+    border: 1px solid #374151; 
+    padding-left: 0.75rem; 
+    padding-right: 0.75rem; 
+    line-height: 1.25; 
+    background-color: #111827; 
+    color: #9CA3AF; 
+}
+.dt-paging-button:hover:not(.disabled) {
+    text-decoration: underline;
+    background-color: #374151;
+}
+
+.dt-paging-button.disabled:hover{
+    cursor: not-allowed !important;
+}
+
+.dt-paging-button.current {
+    border-color: #be185d !important;
+    background-color: #be185d !important;
+    border-radius: 0 !important;
+}
+
+.dt-paging-button.first {
+    border-radius: 0.5rem 0 0 0.5rem;
+}
+
+.dt-paging-button.last {
+    border-radius: 0 0.5rem 0.5rem 0;
+}
+
+.ellipsis {
+    padding: 0 .3rem;
+}
+
+.dt-empty {
+    text-align: center;
+    font-size: 1rem !important;
+    line-height: 1.5rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 1rem 0;
+}

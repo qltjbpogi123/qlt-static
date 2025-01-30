@@ -1,0 +1,259 @@
+div.dataTables_wrapper {
+    width: 100%;
+
+    .dataTables_length {
+        display: inline-block;
+        width: 50%;
+        color: inherit;
+
+        label {
+            color: #67748e;
+
+            select {
+                padding: .25rem 1.25rem .25rem .5rem;
+                border-style: solid;
+                border-width: 1px;
+                border-color: $color-border;
+                border-radius: 0.25rem;
+                background: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3e%3cpath fill='%23343a40' d='M2 0L0 2h4zm0 5L0 3h4z'/%3e%3c/svg%3e") no-repeat right .5rem center/8px 10px;
+                appearance: none;
+                outline: none;
+
+                &:focus,
+                &:hover {
+                    border-color: $bs-primary;
+                }
+            }
+        }
+    }
+
+    .dataTables_filter {
+        display: inline-block;
+        width: 50%;
+        text-align: right;
+
+        label {
+            color: #67748e;
+            margin-left: 0;
+
+            input {
+                padding: .25rem .5rem;
+                border: 1px solid $color-border;
+                border-radius: 0.25rem;
+                outline: none;
+
+                &:focus,
+                &:hover {
+                    border-color: $bs-primary;
+                }
+            }
+        }
+    }
+
+    table.dataTable {
+        width: 100% !important;
+
+        &.no-footer {
+            border-bottom-color: rgb(233, 236, 239);
+        }
+
+        border-bottom-color: rgb(233, 236, 239);
+
+        thead {
+
+            .sorting,
+            .sorting_asc,
+            .sorting_desc {
+                outline: none;
+                color: $bs-gray-500;
+
+                &:focus,
+                &:hover {
+                    background-color: $bs-light;
+                    color: $bs-secondary;
+                }
+
+                &:before {
+                    content: '\25B2';
+                    line-height: 1;
+                    top: 50%;
+                    bottom: auto;
+                    transform: translateY(-100%);
+                    right: .5rem;
+                }
+
+                &:after {
+                    content: '\25BC';
+                    line-height: 1;
+                    right: .5rem;
+                    bottom: auto;
+                    top: 50%;
+                }
+            }
+
+            .sorting_asc,
+            .sorting_desc {
+                color: $bs-dark;
+            }
+        }
+
+        tbody {
+            tr {
+
+                th,
+                td {
+                    padding-left: .5rem;
+                    padding-right: .5rem;
+
+                    &.dtr-control {
+                        &::before {
+                            // content: '\2139' !important;
+                            color: $bs-dark !important;
+                            background-color: $bs-white !important;
+                            box-shadow: none !important;
+                            // border-radius: .25rem !important;
+                            border: 1px solid $color-border !important;
+                            // transform: translateY(-50%);
+                            // margin: 0 !important;
+                            width: 1rem !important;
+                            height: 1rem !important;
+                        }
+                    }
+                }
+
+                &.parent {
+
+                    th.dtr-control,
+                    td.dtr-control {
+                        &::before {
+                            background-color: $bs-primary !important;
+                            border-color: $bs-primary !important;
+                            color: $bs-white !important;
+                        }
+                    }
+                }
+
+                &.child {
+                    td.child {
+                        background-color: $bs-gray-100;
+
+                        ul.dtr-details {
+                            width: 100%;
+
+                            li {
+                                display: flex;
+                                flex-flow: wrap row;
+                                border-bottom: none;
+
+                                span {
+                                    &.dtr-title {
+                                        min-width: 25%;
+                                        border-right: 1px solid $color-border;
+                                        margin-right: .5rem;
+                                        display: flex;
+                                        align-items: center;
+                                    }
+
+                                    &.dtr-data {
+                                        display: flex;
+                                        // flex-grow: 1;
+                                        flex-flow: wrap column;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    div.dataTables_info {
+        display: inline-block;
+        width: 50%;
+        color: #67748e;
+        font-size: .75rem;
+        margin-top: .5rem;
+        padding-top: .25rem;
+        font-weight: bold;
+    }
+
+    div.dataTables_paginate {
+        display: inline-block;
+        width: 50%;
+        text-align: right;
+        margin-top: .5rem;
+        padding-top: 0;
+
+        .paginate_button {
+            color: #67748e;
+            border: 1px solid $color-border;
+            border-radius: .25rem;
+            padding: .25rem .75rem;
+            font-weight: bold;
+            font-size: .75rem;
+            margin-left: .25rem;
+            cursor: pointer;
+
+            &:focus,
+            &:hover {
+                &:not(.disabled) {
+                    border-color: $bs-primary;
+                }
+            }
+
+            &.current {
+                color: #FFF !important;
+                border-color: $bs-primary;
+                background-color: $bs-primary;
+            }
+
+            // &.previous {
+            &.disabled {
+                background-color: $bs-light;
+                color: $bs-secondary;
+                cursor: default;
+            }
+
+            // }
+
+            // &.next {
+            //     &.disabled {
+            //         background-color: $bs-light;
+            //         cursor: default;
+            //     }
+            // }
+        }
+
+        .ellipsis {
+            margin-left: .25rem;
+        }
+    }
+
+    @media screen and (max-width: 767px) {
+
+        div.dataTables_info,
+        div.dataTables_paginate {
+            width: 100%;
+            text-align: center;
+        }
+
+        div.dataTables_paginate {
+            margin-top: 0.5em;
+        }
+    }
+
+    @media screen and (max-width: 640px) {
+
+        div.dataTables_length,
+        div.dataTables_filter {
+            width: 100%;
+            text-align: center;
+        }
+
+        div.dataTables_filter {
+            margin-top: 0.5rem;
+        }
+    }
+
+}

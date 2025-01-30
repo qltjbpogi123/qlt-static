@@ -1,0 +1,8 @@
+[13:13:33]:[QLTSG][Libagon OLT]:[Start] : Sent by Melanie Sampaton (Account Officer)
+[13:13:33]:[QLTSG][Libagon OLT]:[Message] :
+Hello, as of August 2024, you have pending monthly bills. Contact us at 09198603662 or on our Facebook page. By Queens Link - Sogod.
+[13:13:36]:[QLTSG][Libagon OLT]:[Error] : Error: API failed to connect to socket. Host: 26.0.3.53, port: 8728.
+[13:15:13]:[QLTSG][Malitbog OLT]:[Start] : Sent by Melanie Sampaton (Account Officer)
+[13:15:13]:[QLTSG][Malitbog OLT]:[Message] :
+Hello, as of August 2024, you have pending monthly bills. Contact us at 09198603662 or on our Facebook page. By Queens Link - Sogod.
+[13:15:16]:[QLTSG][Malitbog OLT]:[Error] : Error: API failed to connect to socket. Host: 26.0.3.53, port: 8728.

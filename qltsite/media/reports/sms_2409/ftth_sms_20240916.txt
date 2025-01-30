@@ -1,0 +1,80 @@
+[16:27:24]:[QLT][Molopolo]:[Start] : Sent by Ramon Denzo Jr. (Technical Support)
+[16:27:24]:[QLT][Molopolo]:[Message] :
+Hello, some may experience loss of internet connection due to a fiber break in our main line in Brgy.Molo polo, Aguinaldo, Canlusay. Sorry for this inconvenience.
+[16:27:24]:[QLT][Molopolo]:[Split Messages] :
+1)  Hello, some may experience loss of internet connection due to a fiber break in our main line in Brgy.Molo polo, Aguinaldo, Canlusay. Sorry for this
+2) inconvenience.
+[16:27:36]:[QLT][Molopolo]:[Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09533559814', '=message=1)  Hello, some may experience loss of internet connection due to a fiber break in our main line in Brgy.Molo polo, Aguinaldo, Canlusay. Sorry for this')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[16:27:44]:[QLT][Molopolo]:[Sent] : ['1) 09533559814: ANA LIZA ARANZADO', '2) 09533559814: ANA LIZA ARANZADO', '1) 09924698218: ANGIE GAERTNER']
+[16:27:49]:[QLT][Molopolo]:[Sent] : ['2) 09924698218: ANGIE GAERTNER', '1) 09933866924: BRGY. MOLOPOLO, MACROHON/LONIBETH M. MAGPATOC', '2) 09933866924: BRGY. MOLOPOLO, MACROHON/LONIBETH M. MAGPATOC']
+[16:27:54]:[QLT][Molopolo]:[Sent] : ['1) 09924990873: DOMINADOR M. MAGPATOC', '2) 09924990873: DOMINADOR M. MAGPATOC', '1) 09925967607: EDEN MAUREAL']
+[16:31:04]:[QLT][Molopolo]:[Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09925967607', '=message=2) inconvenience.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[16:31:12]:[QLT][Molopolo]:[Sent] : ['2) 09925967607: EDEN MAUREAL', '1) 09988464691: FAYE E. TURA', '2) 09988464691: FAYE E. TURA']
+[16:31:17]:[QLT][Molopolo]:[Sent] : ['1) 09934942811: JEAN MONTER', '2) 09934942811: JEAN MONTER', '1) 09924392917: JERRY B. AMOLO']
+[16:31:21]:[QLT][Molopolo]:[Sent] : ['2) 09924392917: JERRY B. AMOLO', '1) 09918766243: JOHN REYNON BERNADES', '2) 09918766243: JOHN REYNON BERNADES']
+[16:31:26]:[QLT][Molopolo]:[Sent] : ['1) 09268498689: LEAH I. MANTILLA', '2) 09268498689: LEAH I. MANTILLA', '1) 09057265644: LETECIA B. VECINA']
+[16:31:31]:[QLT][Molopolo]:[Sent] : ['2) 09057265644: LETECIA B. VECINA', '1) 09924674364: MARK ANTHONY INOCANDO', '2) 09924674364: MARK ANTHONY INOCANDO']
+[16:31:35]:[QLT][Molopolo]:[Sent] : ['1) 09178884701: MOLOPOLO ELEM. SCHOOL', '2) 09178884701: MOLOPOLO ELEM. SCHOOL', '1) 09555980708: RJAY C. TELEN']
+[16:36:17]:[QLT][Molopolo]:[Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09555980708', '=message=2) inconvenience.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[16:36:24]:[QLT][Molopolo]:[Sent] : ['2) 09555980708: RJAY C. TELEN', '1) 09757046252: SHEILA MAE ESTELA', '2) 09757046252: SHEILA MAE ESTELA']
+[16:36:28]:[QLT][Molopolo]:[Sent] : ['09513535176: Success notification!']
+[16:36:32]:[QLT][Molopolo]:[End]
+
+
+[16:37:11]:[QLT][Aguinaldo]:[Start] : Sent by Ramon Denzo Jr. (Technical Support)
+[16:37:11]:[QLT][Aguinaldo]:[Message] :
+Hello, some may experience loss of internet connection due to a fiber break in our main line in Brgy.Molo polo, Aguinaldo, Canlusay. Sorry for this inconvenience.
+[16:37:11]:[QLT][Aguinaldo]:[Split Messages] :
+1)  Hello, some may experience loss of internet connection due to a fiber break in our main line in Brgy.Molo polo, Aguinaldo, Canlusay. Sorry for this
+2) inconvenience.
+[16:37:13]:[QLT][Aguinaldo]:[Sent] : ['1) 09533182946: AGUINALDO ELEMENTARY SCHOOL', '2) 09533182946: AGUINALDO ELEMENTARY SCHOOL', '1) 09553217460: ARMELO M. BETONIO']
+[16:37:19]:[QLT][Aguinaldo]:[Sent] : ['2) 09553217460: ARMELO M. BETONIO', '1) 09553217460: ARMELO M. BETONIO (3RD ACCOUNT)', '2) 09553217460: ARMELO M. BETONIO (3RD ACCOUNT)']
+[16:37:25]:[QLT][Aguinaldo]:[Sent] : ['1) 09922608886: BEJA , JHACELE', '2) 09922608886: BEJA , JHACELE', '1) 09850505510: BENJAMIN MAGSANAY']
+[16:37:30]:[QLT][Aguinaldo]:[Sent] : ['2) 09850505510: BENJAMIN MAGSANAY', '1) 09928392146: CHONA B. TABLO', '2) 09928392146: CHONA B. TABLO']
+[16:37:36]:[QLT][Aguinaldo]:[Sent] : ['1) 09924835474: CHRISTOPHER D. TORINO', '2) 09924835474: CHRISTOPHER D. TORINO', '1) 09650925627: DARWIN AÑAVESA']
+[16:37:41]:[QLT][Aguinaldo]:[Sent] : ['2) 09650925627: DARWIN AÑAVESA', '1) 09926751066: DEBBIE G. RESMA', '2) 09926751066: DEBBIE G. RESMA']
+[16:37:47]:[QLT][Aguinaldo]:[Sent] : ['1) 09925332150: DEXTER BETONIO', '2) 09925332150: DEXTER BETONIO', '1) 09194255816: ELIZA R. SAAVEDRA']
+[16:37:53]:[QLT][Aguinaldo]:[Sent] : ['2) 09194255816: ELIZA R. SAAVEDRA', '1) 09752211927: GLADYS JO M. TAGRA', '2) 09752211927: GLADYS JO M. TAGRA']
+[16:37:59]:[QLT][Aguinaldo]:[Sent] : ['1) 09085386689: HILMER B. RIN', '2) 09085386689: HILMER B. RIN', '1) 09854522910: JAILYN M. PAIMALAN']
+[16:38:04]:[QLT][Aguinaldo]:[Sent] : ['2) 09854522910: JAILYN M. PAIMALAN', '1) 09503458120: JANNETH MANTILLA', '2) 09503458120: JANNETH MANTILLA']
+[16:38:10]:[QLT][Aguinaldo]:[Sent] : ['1) 09603560507: JEMMALYN PELIGRO', '2) 09603560507: JEMMALYN PELIGRO', '1) 09924760093: JOBERT M. CAMANCHO']
+[16:38:15]:[QLT][Aguinaldo]:[Sent] : ['2) 09924760093: JOBERT M. CAMANCHO', '1) 09758761348: JONEL S. MONTER', '2) 09758761348: JONEL S. MONTER']
+[16:38:21]:[QLT][Aguinaldo]:[Sent] : ['1) 09283762406: JONIL A. PERALES', '2) 09283762406: JONIL A. PERALES', '1) 09512273905: JUNARD MONTER SALVAME']
+[16:38:27]:[QLT][Aguinaldo]:[Sent] : ['2) 09512273905: JUNARD MONTER SALVAME', '1) 09283761628: KRISTINE JOY MAGSANAY', '2) 09283761628: KRISTINE JOY MAGSANAY']
+[16:38:32]:[QLT][Aguinaldo]:[Sent] : ['1) 09924954255: MELINDA B. MANTILLA', '2) 09924954255: MELINDA B. MANTILLA', '1) 09061961876: MERHADZ M. MANTILLA']
+[16:38:38]:[QLT][Aguinaldo]:[Sent] : ['2) 09061961876: MERHADZ M. MANTILLA', '1) 09924022344: MERIE JEAN M. MANTILLA', '2) 09924022344: MERIE JEAN M. MANTILLA']
+[16:38:44]:[QLT][Aguinaldo]:[Sent] : ['1) 09975278468: MICHELLE M. IMBOC', '2) 09975278468: MICHELLE M. IMBOC', '1) 09995773032: MYRA LYN R. TORRES']
+[16:38:50]:[QLT][Aguinaldo]:[Sent] : ['2) 09995773032: MYRA LYN R. TORRES', '1) 09977738500: NARIZA R. PLUMA', '2) 09977738500: NARIZA R. PLUMA']
+[16:38:55]:[QLT][Aguinaldo]:[Sent] : ['1) 09451685401: NELSON M.RIN', '2) 09451685401: NELSON M.RIN', '1) 09208968044: Noel T. Reparado']
+[16:39:01]:[QLT][Aguinaldo]:[Sent] : ['2) 09208968044: Noel T. Reparado', '1) 09051006204: ODESSA B. LANUGON', '2) 09051006204: ODESSA B. LANUGON']
+[16:39:07]:[QLT][Aguinaldo]:[Sent] : ['1) 09062393374: Redentor C. Navarro Jr.', '2) 09062393374: Redentor C. Navarro Jr.', '1) 09561549760: RESTITUTO C. VELIGANIO']
+[16:39:12]:[QLT][Aguinaldo]:[Sent] : ['2) 09561549760: RESTITUTO C. VELIGANIO', '1) 09058828800: RIZEL R. MANLUNAS', '2) 09058828800: RIZEL R. MANLUNAS']
+[16:39:18]:[QLT][Aguinaldo]:[Sent] : ['1) 09307006100: ROSIE MARIE D. VILLASIS', '2) 09307006100: ROSIE MARIE D. VILLASIS', '1) 09179740466: SALVADOR G. OLAIVAR']
+[16:39:23]:[QLT][Aguinaldo]:[Sent] : ['2) 09179740466: SALVADOR G. OLAIVAR', '1) 09168710342: VIRGINIA MAGPATOC', '2) 09168710342: VIRGINIA MAGPATOC']
+[16:39:29]:[QLT][Aguinaldo]:[Sent] : ['1) 09851341565: ZENAIDA M. RIN', '2) 09851341565: ZENAIDA M. RIN', '09513535176: Success notification!']
+[16:39:33]:[QLT][Aguinaldo]:[End]
+
+
+[16:42:16]:[QLT][Canlusay]:[Start] : Sent by Ramon Denzo Jr. (Technical Support)
+[16:42:16]:[QLT][Canlusay]:[Message] :
+Hello, some may experience loss of internet connection due to a fiber break in our main line in Brgy.Molo polo, Aguinaldo, Canlusay. Sorry for this inconvenience.
+[16:42:16]:[QLT][Canlusay]:[Split Messages] :
+1)  Hello, some may experience loss of internet connection due to a fiber break in our main line in Brgy.Molo polo, Aguinaldo, Canlusay. Sorry for this
+2) inconvenience.
+[16:43:19]:[QLT][Canlusay]:[Error] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09925967212', '=message=1)  Hello, some may experience loss of internet connection due to a fiber break in our main line in Brgy.Molo polo, Aguinaldo, Canlusay. Sorry for this')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[16:43:27]:[QLT][Canlusay]:[Sent] : ['1) 09925967212: Fe Ligad Siegmund', '2) 09925967212: Fe Ligad Siegmund', '1) 09939085695: LUNETA G. ORIAS']
+[16:43:31]:[QLT][Canlusay]:[Sent] : ['2) 09939085695: LUNETA G. ORIAS', '1) 09554207166: MARIA TERESA R.MULLER', '2) 09554207166: MARIA TERESA R.MULLER']
+[16:43:36]:[QLT][Canlusay]:[Sent] : ['1) 09261971165: RACHELLE M. TILLO', '2) 09261971165: RACHELLE M. TILLO', '1) 09675048818: REX G. MIRAS']
+[16:43:41]:[QLT][Canlusay]:[Sent] : ['2) 09675048818: REX G. MIRAS', '1) 09364548746: Victoriano Mibulos', '2) 09364548746: Victoriano Mibulos']
+[16:43:45]:[QLT][Canlusay]:[Sent] : ['09513535176: Success notification!']
+[16:43:49]:[QLT][Canlusay]:[End]
+
+

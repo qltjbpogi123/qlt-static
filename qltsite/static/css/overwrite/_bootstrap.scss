@@ -1,0 +1,94 @@
+// // Table
+// .table {
+//     tbody {
+//         tr {
+//             th, td {
+//                 font-size: .875rem;
+//             }
+//         }
+//     }
+// }
+
+// .table.border-gray-300 {
+//     tr, th, td {
+//         border-color: #dee2e6 !important;
+//     }
+// }
+// .table.border-gray-400 {
+//     tr, td, th {
+//         border-color: #ced4da !important;
+//     }
+// }
+
+// // Form Control
+// .form-control {
+//     padding-left: .625rem;
+//     padding-right: .625rem;
+//     border-radius: .25rem;
+// }
+
+// .input-group.group-outline {
+//     border-radius: .25rem;
+//     &:focus-within {
+//         box-shadow: 0 0 0 2px #e9aede;
+//     }
+//     &:focus-within > .input-group-text {
+//         border: 1px solid rgb(226, 147, 211);
+//     }
+
+//     .input-group-text {
+//         border-radius: .25rem;
+//         &:not(:last-child):not(.dropdown-toggle):not(.dropdown-menu) {
+//             border-top-right-radius: 0;
+//             border-bottom-right-radius: 0;
+//             border-right: none;
+//         }
+//         &:not(:first-child):not(.dropdown-toggle):not(.dropdown-menu) {
+//             border-top-left-radius: .25rem;
+//             border-bottom-left-radius: .25rem;
+//             border-left: none;
+//         }
+//     }
+
+//     .form-control {
+//         &:not(:first-child) {
+//             // padding-left: .25rem;
+//             &:focus {
+//                 border-left: none !important;
+//             }
+//         }
+//         &:not(:last-child) {
+//             // padding-right: .25rem;
+//             &:focus {
+//                 border-right: none !important;
+//             }
+//         }
+//         &:focus {
+//             outline: 0;
+//             box-shadow: none;
+//         }
+//     }
+// }
+
+// // Badge
+// .badge {
+//     border-radius: .25rem;
+// }
+
+.popover {
+    min-width: 10rem;
+
+    // .popover-arrow {
+    //     border-color: #e9ecef;
+    // }
+
+    .popover-header {
+        font-family: $qlt-font-serif;
+        color: #344767 !important;
+    }
+
+    .popover-body {
+        font-size: 0.875rem;
+        font-family: $qlt-font-sans;
+    }
+}

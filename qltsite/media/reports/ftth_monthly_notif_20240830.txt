@@ -1,0 +1,30 @@
+08/30/2024 - 11:05:55
+FTTH Monthly Notification
+Branch : Queens Link - Palompon
+Message : Hello, as of August 2024, you have # pending monthly bills. Contact us at 09623162972 or on our Facebook page. By Queens Link - Palompon.
+[Success][11:05:56] : ['09771619001, BEATO TORDILLO JR.: 1 pending monthly bill', '09071466225, FE B.FLOR: 1 pending monthly bill', '09513657694, HELEN R. DELA PAZ: 1 pending monthly bill']
+[Success][11:06:01] : ['09675574584, JOEL Z.COLO: 1 pending monthly bill', '09997869189, JUDITH M.RUBILLOS: 1 pending monthly bill', '09700571287, MERY LYN S.JAQUIAS: 1 pending monthly bill']
+[Success][11:06:06] : ['09606525968, SAN JUAN  TEACHERS/LOREFE: 1 pending monthly bill', '09454331141, WILLIAM G. ADLAWAN: 1 pending monthly bill']
+
+[Rejected Records]:
+ARSENIA I.ENCIENZO, 9274396755: Invalid Contact Number
+BABY BERNADETTE MONTEMOR, 9554019575: Invalid Contact Number
+MARK ANTHONY BERNAL, 9198675461: Invalid Contact Number
+
+
+
+08/30/2024 - 15:57:02
+FTTH Monthly Notification
+Branch : Queens Link - Palompon
+Message : Hello, as of August 2024, you have # pending monthly bills. Contact us at 09623162972 or on our Facebook page. By Queens Link - Palompon.
+[Success][15:57:02] : ['09771619001, BEATO TORDILLO JR.: 1 pending monthly bill', '09071466225, FE B.FLOR: 1 pending monthly bill', '09513657694, HELEN R. DELA PAZ: 1 pending monthly bill']
+[Success][15:57:07] : ['09675574584, JOEL Z.COLO: 1 pending monthly bill', '09997869189, JUDITH M.RUBILLOS: 1 pending monthly bill', '09700571287, MERY LYN S.JAQUIAS: 1 pending monthly bill']
+[Success][15:57:12] : ['09606525968, SAN JUAN  TEACHERS/LOREFE: 1 pending monthly bill', '09454331141, WILLIAM G. ADLAWAN: 1 pending monthly bill']
+
+[Rejected Records]:
+ARSENIA I.ENCIENZO, 9274396755: Invalid Contact Number
+BABY BERNADETTE MONTEMOR, 9554019575: Invalid Contact Number
+MARK ANTHONY BERNAL, 9198675461: Invalid Contact Number
+
+
+

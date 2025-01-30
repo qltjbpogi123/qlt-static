@@ -1,0 +1,60 @@
+OLT : Macrohon OLT (Maasin - 2)
+Message : Good day! We regret to inform our valued subscribers that you may experience internet interruptions due to fiber break Area Affected: Padre Burgos.
+Sent By : EVSU Training (Technical Support)
+
+
+[Error Records]:
+[Error Message][09:22:55] : Error: API failed to connect to socket. Host: 10.47.53.1, port: 8728.
+
+
+
+OLT : Macrohon OLT (Maasin - 2)
+Message : Good day! We regret to inform our valued subscribers that you may experience internet interruptions due to fiber break Area Affected: Padre Burgos.
+Sent By : EVSU Training (Technical Support)
+
+
+[Error Records]:
+[Error Message][09:23:35] : Error: API failed to connect to socket. Host: 10.47.53.1, port: 8728.
+
+
+
+OLT : Macrohon OLT (Maasin - 2)
+Message : Good day! We regret to inform our valued subscribers that you may experience internet interruptions due to fiber break Area Affected: Padre Burgos.
+Sent By : EVSU Training (Technical Support)
+
+
+[Error Records]:
+[Error Message][09:24:21] : Error: API failed to connect to socket. Host: 10.47.53.1, port: 8728.
+
+
+
+OLT : Macrohon OLT (Maasin - 2)
+Message : Good day! We regret to inform our valued subscribers that you may experience internet interruptions due to fiber break Area Affected: Padre Burgos.
+Sent By : John Niño  Sios-e (Technical Support)
+
+
+[Error Records]:
+[Error Message][09:24:57] : Error: API failed to connect to socket. Host: 10.47.53.1, port: 8728.
+
+
+
+OLT : Macrohon OLT (Maasin - 2)
+Message : Good day! We regret to inform our valued subscribers that you may experience internet interruptions due to fiber break Area Affected: Padre Burgos.
+Sent By : John Niño  Sios-e (Technical Support)
+
+
+[Error Records]:
+[Error Message][09:25:25] : Error: API failed to connect to socket. Host: 10.47.53.1, port: 8728.
+
+
+
+OLT : Macrohon OLT (Maasin - 2)
+Message : Good day! We regret to inform our valued subscribers that you may experience internet interruptions due to fiber break Area Affected: Padre Burgos.
+Sent By : Ramon Denzo Jr. (Technical Support)
+
+
+[Error Records]:
+[Error Message][09:26:39] : Error: API failed to connect to socket. Host: 10.47.53.1, port: 8728.
+
+
+

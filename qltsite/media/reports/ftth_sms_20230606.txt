@@ -1,0 +1,99 @@
+Location : San Juan (Ormoc) (Brgy. San Juan, Ormoc City)
+Message : To our valued subscribers, some may be experiencing intermittent to no internet connectivity, due to fiber break. Thank you and please bear with us.
+
+   [Fail][09:32:43] : ['09557755863: AGNES P. MATA', '09367961075: AILANE COSIDO', '09264736407: Aileen I. Tagbak']
+   [Fail][09:32:49] : ['09497608603: AIRON MATUGUINA', '09279644012: ALJOLYN L. AMPARO', '09199748585: Amando P. Luceños Sr.']
+[Success][09:32:55] : ['09635844625: ANABELLE MULLEJON', '09464503817: ANALYN DEGELLO', '09501767056: ANALYN LUCENOS']
+[Success][09:33:02] : ['09751685502: ANNIE S AMARILLO', '09056549205: APRIL REBOLLOS', '09127092271: ARIEL YBAÑEZ']
+[Success][09:33:09] : ['09262332714: BABYLIEN L. RUBIATO', '09569262448: BACALSO NINOLITO OMAMBAC', '09531265373: BENEDICTO MATUGUINA']
+[Success][09:33:16] : ['09639119654: BERLITO PADILLA', '09954342120: CAROL KETH M. ABUNDO', '09551060445: CATHERINE C. CANTERO']
+[Success][09:33:23] : ['09198890166: CHARITO BAGUION', '09770910747: Cherry Ve C. Vasquez ', '09420218952: CHERYL ENG']
+[Success][09:33:30] : ['09309008976: Cinet Pardillo', '09073062661: CLAIRE CANTERO', '09109465747: CRISANTO P. IGNACIO']
+[Success][09:33:46] : ['09169565982: CRISTY TOROCTOCON', '09472712896: DANDY HIMONGAYA', '09482401575: Daryl Candelasa']
+[Success][09:33:53] : ['09675608376: DAVE CANDELASA', '09658363620: DOVERLYN M. ALDIANO', '09531279519: EFRENIA CANTERO']
+[Success][09:34:00] : ['09098291643: ELLIZABETH PEPITO', '09913316001: EMELYN V. FELIPE', '09562367025: ESTELITA EBERO']
+[Success][09:34:07] : ['09983842930: EVELYN TAPANG', '09675613772: Fe Erbito Diaz', '09513662149: FERNANDO LAGMAN']
+[Success][09:34:14] : ['09350310407: FLOR E. RUIZ', '09505952819: GENEVEVE BAISE', '09099048186: GENREY JESSA POGOSA']
+[Success][09:34:21] : ['09928573561: GERALDINE CABARUBIAS', '09567145505: Grechie Cortel', '09564017452: ISAEL BULLO JUEVESANO']
+[Success][09:34:29] : ['09773639058: JAN ANTHONY L. PAREDES', '09709254615: JAQUILO CONDE', '09504987222: JARREL SINDAY']
+[Success][09:34:36] : ['09383269276: Jay Ryan F. Suico', '09155765712: JENNELYN L. PELICANO', '09773509040: Jennes C. Plaza']
+[Success][09:34:43] : ['09639182523: JHEA WENCY PARILLA', '09558646007: JILIEJOY TEVES ANDO', '09560943459: JOANA DOMINQUE B. YUNSON']
+[Success][09:34:50] : ['09363926732: JOHN MARTE', '09481706627: JONATHAN CASINILLO', '09817763275: JOSEFA U. MENDOZA']
+[Success][09:34:57] : ['09693838766: Joseph Cogay', '09263610578: JOSEPHINES IGNACIO', '09098783730: JULITO SARINO BOLANO/JURISA BOLANO']
+[Success][09:35:04] : ['09384444970: KAY KENT CANTERO (BRYG. HALL)', '09287171227: KEVIN ROBLE', '09639640813: Lolando Muaña']
+[Success][09:35:10] : ['09462228191: LUZ HAJHAMDO', '09062926894: MA. MEDA MIRAMONTE', '09393573719: MARGIE EÑIGO']
+[Success][09:35:17] : ['09566145043: Maria A.Egay', '09486593013: MARIA LILIBETH MATUGUINA', '09091748909: MARIA VILMA CANTERO']
+[Success][09:35:24] : ['09506516668: MARICAR C. CASINILLO', '09305082878: MARILYN C  TAGANA', '09950022206: MARIO M. LAGUNA']
+[Success][09:35:31] : ['09368421299: MARITES E. CABAÑERO', '09060574505: MARJORIE PADILLA', '09661481047: MARK P. BACALSO']
+[Success][09:35:38] : ['09367862644: Marlon G. Catubig', '09218686052: MARY APPLE P. REPONTE', '09983113214: MARY JANE CASINILLO']
+[Success][09:35:45] : ['09955342018: MARY JANE NIVENS', '09759771048: MARY VENICE BOOK', '09458511139: MAY ANNE JAVIER']
+[Success][09:35:52] : ['09380356018: Mercedes Evangelista', '09129990482: MERLIZA S. ELIZONDO', '09666517593: MONICA EGAY']
+[Success][09:35:59] : ['09474164751: NANCY SECRETARIA', '09124363223: PATROCINIA GOMEZ', '09751387731: RAMIL RYAN T. TORREFIEL']
+[Success][09:36:05] : ['09991941942: REBECCA SIABOC', '09122531442: RICARDO CANTERO', '09700569930: RIZA MAE LUCEÑOS']
+[Success][09:36:12] : ['09654063927: ROGELIO AQUILES', '09510450128: ROGER OLILA', '09465262155: ROGYN B. PEPITO']
+[Success][09:36:28] : ['09172711991: Rollin Jude T. Manaug', '09319701445: ROMELYN TOLO', '09171533244: RONNEL PADERNAL']
+[Success][09:36:35] : ['09559643324: ROSEL IGNACIO PEPITO', '09759755882: ROSEMARIE B. SOLEJON', '09551461921: ROSITA PECORRE']
+[Success][09:36:41] : ['09267150637: RUEL DELA CRUZ', '09384444890: RUSSEL C. GUBALANI', '09273209794: SAN JUAN ELEM. SCHOOL']
+[Success][09:36:49] : ['09489437111: SHAINA MAE JAVIER', '09195999294: SHIELA ARO', '09513688640: SONNY BOLANIO']
+[Success][09:36:55] : ['09187369947: TEODORA B.PEPITO', '09750696800: TIMOTHY ASEO', '09054163439: VICTORIA DEBIL']
+[Success][09:37:10] : ['09354896014: VIRGINIA EGAY', '09066093706: WILMAR BACALSO', '09557755863: AGNES P. MATA']
+[Success][09:37:17] : ['09367961075: AILANE COSIDO', '09264736407: Aileen I. Tagbak', '09497608603: AIRON MATUGUINA']
+[Success][09:37:23] : ['09279644012: ALJOLYN L. AMPARO', '09199748585: Amando P. Luceños Sr.']
+
+[Error Records]:
+[Error Message][09:32:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09264736407', '=message=To our valued subscribers, some may be experiencing intermittent to no internet connectivity, due to fiber break. Thank you and please bear with us.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[Error Message][09:32:49] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09199748585', '=message=To our valued subscribers, some may be experiencing intermittent to no internet connectivity, due to fiber break. Thank you and please bear with us.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+
+
+
+Location : Puerto Bello (Brgy. Puertobello, Merida)
+Message : To our valued subscribers, some may be experiencing intermittent to no internet connectivity, due to fiber break. Thank you and please bear with us.
+
+[Success][09:38:04] : ['09358923342: ALDRIN-LAGADAN-PUNASIN', '09568334476: ALEXANDER BACALSO', '09497097411: ANGELINA JORGE BATES']
+   [Fail][09:38:10] : ['09263619697: AURELIO C. SIBLOS JR.', '09351068556: CLARIZA L. DUMAGING', '09262332881: CRISTINE C. DINDIN']
+   [Fail][09:39:16] : ['09066093203: CRISTY ANN PENING', '09209731470: IRENE TASAN', '09659103783: JASSA R. NEMOTEO']
+[Success][09:39:22] : ['09975416852: JAY-AR BATING', '09396075385: JEMIE C. JIMENEZ', '09984208109: JOAN OMAMBAC']
+[Success][09:39:29] : ['09976640900: JONATHAN BACALSO OMAMBAC', '09267020405: KATHRYN D. ESPINA', '09288962876: LOSIE P. SIABOC']
+[Success][09:39:35] : ['09107631738: MARIA CRISTINA RAMOS', '09499430492: NANITA TASAN', '09274093443: PEDELITA P. PATONOG']
+[Success][09:39:42] : ['09063204492: ROLANDO VILLASENCIO (MACATOL)', '09184594323: ROMEO BULLO', '09453755550: RONAMAY PRINGLE']
+[Success][09:39:49] : ['09154995095: Villasencio Global Development Corp.', '09496449381: WILSON GULAYAN', '09263619697: AURELIO C. SIBLOS JR.']
+[Success][09:39:56] : ['09351068556: CLARIZA L. DUMAGING', '09262332881: CRISTINE C. DINDIN', '09066093203: CRISTY ANN PENING']
+[Success][09:40:03] : ['09209731470: IRENE TASAN', '09659103783: JASSA R. NEMOTEO']
+
+[Rejected Records]:
+JOCELYN VILLASICA, 093675082369: Invalid Contact Number
+
+[Error Records]:
+[Error Message][09:38:10] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09351068556', '=message=To our valued subscribers, some may be experiencing intermittent to no internet connectivity, due to fiber break. Thank you and please bear with us.')
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+[Error Message][09:39:16] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09659103783', '=message=To our valued subscribers, some may be experiencing intermittent to no internet connectivity, due to fiber break. Thank you and please bear with us.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+
+
+
+Location : Casilda (Brgy. Casilda, Merida)
+Message : To our valued subscribers, some may be experiencing intermittent to no internet connectivity, due to fiber break. Thank you and please bear with us.
+
+   [Fail][09:40:56] : ['09207519350: ALICIA CABARSE', '09302088335: ALLENE ANONG', '09209020807: BARANGAY CASILDA BARANGAY HALL']
+[Success][09:41:03] : ['09686904872: Brian Vance R. Mejia', '09454304604: CARMEN ABAPO ANONG', '09399130303: CASILDA ELEMENTARY SCHOOL']
+[Success][09:41:10] : ['09300828328: CORAZON P. LASCOÑA', '09501339477: DIVINA S. QUINZON', '09504958303: FELICISIMA ROSEL GUINAREZ']
+[Success][09:41:16] : ['09540628606: IVY DUMAGSA', '09659625016: JAIME T. ENERO JR.', '09815466027: JOAN P. GUINAREZ']
+[Success][09:41:23] : ['09208999772: JOSEFINA P. AMISTAD', '09631170488: LEMARD MEÑOZA', '09706882064: LILIA BOHOLST']
+[Success][09:41:30] : ['09215222070: LORNA GECAIN', '09382757140: MA. GRACE P. SINDAY', '09563793128: MANILYN ORIAS']
+[Success][09:41:37] : ['09090714737: MARIA TITA CONCEPCION A. BACALSO', '09466809767: MELVIN BACALSO', '09981817203: NADINE KRISTENE MABIYA']
+[Success][09:41:44] : ['09100396848: Rhoda Pañares', '09089560292: RODELYN BACALSO', '09498941787: TREVOR WINSON']
+[Success][09:41:51] : ['09207519350: ALICIA CABARSE', '09302088335: ALLENE ANONG', '09209020807: BARANGAY CASILDA BARANGAY HALL']
+
+[Error Records]:
+[Error Message][09:40:56] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09209020807', '=message=To our valued subscribers, some may be experiencing intermittent to no internet connectivity, due to fiber break. Thank you and please bear with us.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+
+
+

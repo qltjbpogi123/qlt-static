@@ -1,0 +1,21 @@
+Location : Casilda (Brgy. Casilda, Merida)
+Message : Good morning, some may have experience loss of internet connection, this is due to a fiber break in the main line. Our tech is on the way to fix this ASAP.
+Location : Casilda (Brgy. Casilda, Merida)
+Message : Good morning, some may have experience loss of internet connection, this is due to a fiber break in the main line. Our tech is on the way to fix this ASAP.
+Location : Casilda (Brgy. Casilda, Merida)
+Message : Good morning, some may have experience loss of internet connection, this is due to a fiber break in the main line. Our tech is on the way to fix this ASAP.
+Location : Casilda (Brgy. Casilda, Merida)
+Message : Good morning, some may have experience loss of internet connection, this is due to a fiber break in the main line. Our tech is on the way to fix this ASAP.
+Location : Casilda (Brgy. Casilda, Merida)
+Message : Good morning, some may have experienced internet loss, this is due to a fiber break located in Casilda. Our tech is currently on-site working on the problem.
+
+[Success][09:45:52] : ['09207519350: ALICIA CABARSE', '09302088335: ALLENE ANONG', '09209020807: BARANGAY CASILDA BARANGAY HALL']
+[Success][09:45:59] : ['09686904872: Brian Vance R. Mejia', '09454304604: CARMEN ABAPO ANONG', '09399130303: CASILDA ELEMENTARY SCHOOL']
+[Success][09:46:06] : ['09300828328: Corazon P. Lascoña', '09659625016: JAIME T. ENERO JR.', '09989899181: JEONEL R. LISTON']
+[Success][09:46:13] : ['09208999772: JOSEFINA P. AMISTAD', '09631170488: LEMARD MEÑOZA', '09706882064: LILIA BOHOLST']
+[Success][09:46:19] : ['09215222070: LORNA GECAIN', '09563793128: MANILYN ORIAS', '09466809767: MELVIN BACALSO']
+[Success][09:46:26] : ['09981817203: NADINE KRISTENE MABIYA', '09100396848: Rhoda Pañares', '09089560292: RODELYN BACALSO']
+[Success][09:46:33] : ['09498941787: TREVOR WINSON']
+
+
+

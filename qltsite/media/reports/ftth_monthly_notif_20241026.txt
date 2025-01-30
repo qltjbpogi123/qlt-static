@@ -1,0 +1,1100 @@
+10/26/2024 - 09:06:25
+FTTH Monthly Notification
+Branch : Queens Link - St. Bernard
+Message : Hello, as of October 2024, you have # pending monthly bills. Contact us at 09637959812 or on our Facebook page. By Queens Link - St. Bernard.
+[Success][09:06:25] : ['09262515725, CAROL MAE D. YAP: 1 pending monthly bill', '09550793714, CHARISH M. BAJAO: 1 pending monthly bill', '09955682907, CHARLES JIM CUSTODIO: 1 pending monthly bill']
+[Success][09:06:32] : ['09816322176, CRISTAL H. ADOLFO: 2 pending monthly bills', '09945922781, DANILO DAPO JR.: 1 pending monthly bill', '09264562547, EMILOU C. MANCIO: 1 pending monthly bill']
+[Success][09:06:39] : ['09162813664, FELICITY KAYE B. MIRANG: 1 pending monthly bill', '09075883745, HAZEL L. CAGARAL: 1 pending monthly bill', '09976494345, JEAN MICHEL M.CAÑON: 2 pending monthly bills']
+[Success][09:06:46] : ['09196406050, JERRY T. BAJAO: 1 pending monthly bill', '09649162527, JINGGO R. MANLIMOS: 1 pending monthly bill', '09656445213, JOCELYN BONAOBRA DIPAY: 1 pending monthly bill']
+[Success][09:06:53] : ['09750687648, KAREN QUIBAN ALACRE: 1 pending monthly bill', '09264463467, KIM ARDESON O. CAJATE: 1 pending monthly bill', '09855882742, MIA MABALHIN: 2 pending monthly bills']
+[Success][09:06:59] : ['09770611079, MILAGROS GABON: 1 pending monthly bill', '09051129021, MOLOPOLO BRGY. HALL / DAYLYN L. PINTUYAN: 1 pending monthly bill', '09676347001, OFELIA CATURAN: 2 pending monthly bills']
+[Success][09:07:06] : ['09972896908, PETCHE MAE L. MANCIO: 2 pending monthly bills', '09355786099, REYJAY B. HINANIBAN: 1 pending monthly bill', '09085386936, REYNALD TALISAYSAY: 1 pending monthly bill']
+[Success][09:07:14] : ['09512224487, RIZA M. HINANIBAN: 1 pending monthly bill', '09120854546, ROLAND C. TOREJOS: 2 pending monthly bills', '09273859737, ROLANDO H. SILOT: 1 pending monthly bill']
+[Success][09:07:21] : ['09750690468, RONILO D. PINTUYAN: 1 pending monthly bill', '09125166917, ROSENDA H. OLVERO: 1 pending monthly bill', '09700551814, SUSAN B. TOMOL: 2 pending monthly bills']
+[Success][09:07:27] : ['09274345269, TRISHA KAYE TABON: 1 pending monthly bill', '09637959812, QLTSB: Success notification!', '09094180770, QLTSB: Success notification!']
+
+[Rejected Records]:
+ANGELICA L. DURO, 099553195092: Invalid Contact Number
+CRISEL JARENCIO, 9705816264: Invalid Contact Number
+ERIBERTO M. LAMBAN, 9302046906/956: Invalid Contact Number
+LEAH M. ALBINO, 099732990101: Invalid Contact Number
+LISA DAGANGAN, 9554265985: Invalid Contact Number
+LOIDA A. VALLEJOS, 0951003295: Invalid Contact Number
+MARY JANE M. ABOYLO, 0936729647: Invalid Contact Number
+SHAIRA JOY S. LIBATO, 9056730030: Invalid Contact Number
+VENERANDO ALFARO, 9153943781: Invalid Contact Number
+
+
+
+10/26/2024 - 10:09:27
+FTTH Monthly Notification
+Branch : Queens Link Technology
+Message : Hello, as of October 2024, you have # pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.
+   [Fail][10:09:27] : ['09857754576, ABELARDO SUÑER: 2 pending monthly bills', '09066112946, ABUNDIO PAGALAN JR.: 1 pending monthly bill', '09265906357, ADELITA A. PERNITO: 1 pending monthly bill']
+   [Fail][10:09:36] : ['09656245195, ADENA A. TOLIBAS (SECOND ACCOUNT): 2 pending monthly bills', '09216631592, ADRIAN PETER T. MOSCH: 1 pending monthly bill', '09533182946, AGUINALDO ELEMENTARY SCHOOL: 1 pending monthly bill']
+[Success][10:09:41] : ['09177232821, AGUITING ELEMENTARY SCHOOL: 1 pending monthly bill', '09639485654, AGUSTINA PONO: 1 pending monthly bill', '09564353613, AGUSTINA Q. PEDRA: 1 pending monthly bill']
+[Success][10:09:47] : ['09367961075, AILANE COSIDO: 1 pending monthly bill', '09510342874, AIYEN FRONTERAS: 1 pending monthly bill', '09093529532, AIZA C. SALILI: 1 pending monthly bill']
+[Success][10:09:54] : ['09755422551, AJOSE LORENA PAGALAN: 1 pending monthly bill', '09307779402, ALAN M. PAYUD: 1 pending monthly bill', '09911085294, ALBENIA J. JACA: 1 pending monthly bill']
+[Success][10:10:00] : ['09566530630, ALBERT APAS: 1 pending monthly bill', '09122512476, ALEJANDRO C. BORINAGA: 2 pending monthly bills', '09977222207, ALEJO P. BANDIOLA: 1 pending monthly bill']
+[Success][10:10:06] : ['09754765615, ALEXA KATE B. GUIMBAL: 2 pending monthly bills', '09062039092, ALICIA ROSALES: 2 pending monthly bills', '09363915727, ALILAN FLORES SOROTE: 1 pending monthly bill']
+[Success][10:10:12] : ['09945837026, ALLAN S GOJOCO: 1 pending monthly bill', '09186815568, ALLAN S. COLO: 1 pending monthly bill', '09682532302, ALLEN T. ESCLAMADO: 1 pending monthly bill']
+[Success][10:10:18] : ['09533962060, ALLISON M. JUNIO / MUNICPALITY OF KANANGA: 2 pending monthly bills', '09154766807, ALMA C. CAYANONG: 1 pending monthly bill', '09280394164, ALMA Y. MACASERO: 1 pending monthly bill']
+[Success][10:10:24] : ['09164812279, ALOHA S. LAPAY: 1 pending monthly bill', '09161592754, ALONA E DIEZ: 1 pending monthly bill', '09454830952, ALREN L. PACATE: 1 pending monthly bill']
+[Success][10:10:30] : ['09854480410, ALVIN ARRADAZA: 2 pending monthly bills', '09202532933, ALVINO R. LIMOSNERO: 1 pending monthly bill', '09263117669, AMABAO, MARILYN DELALAMON: 2 pending monthly bills']
+[Success][10:10:36] : ['09657027319, AMELIA F. VILLAR: 2 pending monthly bills', '09383915587, AMELITA ROA: 2 pending monthly bills', '09396029804, AMEN ESTRERA: 1 pending monthly bill']
+[Success][10:10:42] : ['09955759501, AMIE M. MARTINEZ: 1 pending monthly bill', '09495891909, AMOR CONSTANTINO ORIBE: 1 pending monthly bill', '09533559814, ANA LIZA ARANZADO: 2 pending monthly bills']
+[Success][10:10:48] : ['09771364663, ANA LIZA O. MATULAC: 1 pending monthly bill', '09553962763, ANA LUARDES MACARIOLA: 2 pending monthly bills', '09635844625, ANABELLE MULLEJON: 1 pending monthly bill']
+[Success][10:10:54] : ['09926567934, ANALYN V. LUBANG: 2 pending monthly bills', '09365149390, ANARIA C. ESTRERA: 2 pending monthly bills', '09551463959, ANDREY P. COLLO: 1 pending monthly bill']
+[Success][10:11:00] : ['09538742994, ANGEL A. MONTESCLAROS: 1 pending monthly bill', '09753333597, ANGEL MAE R. ANDO: 3 pending monthly bills', '09064442490, ANGELICA C. PABILAN: 2 pending monthly bills']
+[Success][10:11:07] : ['09052222823, ANGELICA P. GERALDO/ANALIE PILAPEL: 1 pending monthly bill', '09924425913, ANGELINE D. DEGOMA: 1 pending monthly bill', '09283861419, ANGELITA CABAHUG: 1 pending monthly bill']
+[Success][10:11:13] : ['09317313781, ANGELO BATIAO: 1 pending monthly bill', '09924698218, ANGIE GAERTNER: 1 pending monthly bill', '09928252531, ANITA  D. SENILLO: 1 pending monthly bill']
+[Success][10:11:19] : ['09613280762, ANNA MAE E. SERATO: 2 pending monthly bills', '09178781160, ANNA MARIE MONTEDERAMOS: 1 pending monthly bill', '09452999191, ANNALISA  C. YGANA: 1 pending monthly bill']
+[Success][10:11:25] : ['09175052646, ANTHONY NUDALO: 1 pending monthly bill', '09195738499, ANTHONY PETER FENTON: 1 pending monthly bill', '09172018097, Anthony Sicsic: 2 pending monthly bills']
+[Success][10:11:31] : ['09500316742, ANTONIETTE M. HERMIAS: 2 pending monthly bills', '09359320622, ANTONIO LISTON: 1 pending monthly bill', '09929034859, ANTONIO S. MAITEM: 2 pending monthly bills']
+[Success][10:11:37] : ['09662753142, APPLE JOYCE L. MONCADA: 1 pending monthly bill', '09510227214, APRIL JOY QUILAY: 3 pending monthly bills', '09512755597, APRIL LOVE F. GUMBA: 1 pending monthly bill']
+   [Fail][10:11:43] : ['09924837269, ARCELYN TERO: 2 pending monthly bills', '09551581062, Arfe D. Magallano: 1 pending monthly bill', '09995715448, ARIEL D. KAINDOY/BFP MACROHON: 1 pending monthly bill']
+   [Fail][10:11:52] : ['09154203199, ARIEL JOSEPH TORRION: 1 pending monthly bill', '09176596965, ARIEL S. MOSOT: 2 pending monthly bills', '09274666256, ARLYN MANTILLA: 1 pending monthly bill']
+   [Fail][10:12:00] : ['09539865018, ARMANDO YBAÑEZ JR.: 2 pending monthly bills', '09295445813, ARSENIO DEDACE: 1 pending monthly bill', '09550922550, ARVIN A. CARAAN: 1 pending monthly bill']
+   [Fail][10:12:05] : ['09559643324, ASTERIA I. PEPITO: 2 pending monthly bills', '09924955016, ASUNCION MANAUG: 3 pending monthly bills', '09675060709, AXELL D. EBO: 1 pending monthly bill']
+   [Fail][10:12:10] : ['09563624837, BALTAZAR C. CASAS: 2 pending monthly bills', '09107969966, BARANGAY LOWER VILLA JACINTA/SHIELA MAE M. PLORIDA: 1 pending monthly bill', '09262921568, BARANGGAY LUNGSODAAN: 2 pending monthly bills']
+   [Fail][10:12:15] : ['09926853397, BASMAYOR  JESSEL VILLAROSA: 1 pending monthly bill', '09163535132, BEATRIZ REGINO: 1 pending monthly bill', '09362200347, BELMER LIGAN LUMBA: 1 pending monthly bill']
+   [Fail][10:12:20] : ['09562973164, BENIDA C ARDINES: 1 pending monthly bill', '09051266373, BENJAMIN V. CASTAÑAS: 4 pending monthly bills', '09639119654, BERLITO PADILLA: 2 pending monthly bills']
+   [Fail][10:12:25] : ['09070671189, BERNADETH C. SEGUIDO: 2 pending monthly bills', '09075810003, BERNADETTE ALDIANO: 2 pending monthly bills', '09171370298, BERNADETTE PETEROS: 2 pending monthly bills']
+   [Fail][10:12:30] : ['09950011745, BERNARD S. DORIA: 1 pending monthly bill', '09120960843, BERNIE L. YOMERO: 1 pending monthly bill', '09561031509, BITUIN MONSANTO: 3 pending monthly bills']
+   [Fail][10:12:35] : ['09076159355, BLESSED GRACE BADA: 2 pending monthly bills', '09551379555, BLGU BUNGA: 1 pending monthly bill', '09279382384, BLGU- STO. ROSARIO: 1 pending monthly bill']
+   [Fail][10:12:40] : ['09056852719, BLUE SAPPHIRE AGGREGATES CONSTRUCTION & SUPPLY INC.: 1 pending monthly bill', '09758081194, BRENDA F. ABINON: 2 pending monthly bills', '09933866924, BRGY. MOLOPOLO, MACROHON/LONIBETH M. MAGPATOC: 1 pending monthly bill']
+   [Fail][10:12:45] : ['09275509395, BRIAN A. CARRIDO: 1 pending monthly bill', '09669562080, BRIAN N. SUBANG: 1 pending monthly bill', '09366490846, BRIANNA MARIE S. WALKER: 1 pending monthly bill']
+   [Fail][10:12:50] : ['09955044985, BRYAN ABEJO: 1 pending monthly bill', '09929905758, BRYL D. DACLAN: 1 pending monthly bill', '09280394164, BUNGA ELEMENTARY MULTI-GRADE SCHOOL: 1 pending monthly bill']
+[Success][10:12:55] : ['09454304604, CAREN BARTOLABAC: 2 pending monthly bills', '09753907448, CARIN A. CASAS: 2 pending monthly bills', '09855675874, CARL IRVEN MILLANES: 1 pending monthly bill']
+[Success][10:13:00] : ['09065591605, CARLA MAGBAGO: 1 pending monthly bill', '09751387593, CARLITO CAOCTOY: 1 pending monthly bill', '09104494469, CECILE BANZON: 3 pending monthly bills']
+[Success][10:13:05] : ['09973309575, CELMA BESLIG: 1 pending monthly bill', '09669564688, CESAR IAN C. BORER: 2 pending monthly bills', '09670612873, CHARISSE MAE Q. BARING: 1 pending monthly bill']
+[Success][10:13:10] : ['09195595804, CHARLES L. RAMOS: 2 pending monthly bills', '09924425913, CHARMAIGNE KAYE CANONIGO (3RD ACCOUNT): 1 pending monthly bill', '09751406974, CHEN CHEN GUMILAN: 1 pending monthly bill']
+[Success][10:13:15] : ['09675604201, CHERLITA T. CARAMPATAN: 1 pending monthly bill', '09532343308, CHERRY ANN DONAIRE: 3 pending monthly bills', '09489146734, CHERRY FE M. CATAAG: 1 pending monthly bill']
+[Success][10:13:20] : ['09531265373, CHERRY MAE MATUGUINA: 1 pending monthly bill', '09061166428, CHERYL ANN P. BESLIG: 1 pending monthly bill', '09420218952, CHERYL ENG: 2 pending monthly bills']
+[Success][10:13:25] : ['09815529183, CHERYL GARCIANO: 1 pending monthly bill', '09631154520, CHERYLENE T. MACABUHAY: 2 pending monthly bills', '09086041329, CHERYLL MAGBAG: 1 pending monthly bill']
+[Success][10:13:30] : ['09975273787, CHLOE PANILAG MAKILING: 1 pending monthly bill', '09928392146, CHONA B. TABLO: 1 pending monthly bill', '09928392146, CHONA B. TABLO/AGUINALDO BRGY. HALL: 2 pending monthly bills']
+   [Fail][10:13:35] : ['09504221309, CHONA M. ESMERO: 1 pending monthly bill', '09062459164, CHRISTIAN PAUL ECOY: 2 pending monthly bills', '09066086636, CHRISTIAN REY E. BARING: 1 pending monthly bill']
+   [Fail][10:13:43] : ['09666518675, CHRISTIANNE KYLE ESPERANZA: 1 pending monthly bill', '09973296133, CHRISTINE  C. SIMANGCA: 1 pending monthly bill', '09656242920, CHRISTINE C. BORJA: 1 pending monthly bill']
+   [Fail][10:13:50] : ['09120731292, CHRISTINE JOY ECO: 1 pending monthly bill', '09317296791, CHRISTINE M. SENOSIN: 2 pending monthly bills', '09633439771, CHRISTINE MAY VILLAMAR: 1 pending monthly bill']
+   [Fail][10:13:55] : ['09100038879, CHRISTINE S. QUIAMCO: 2 pending monthly bills', '09515907611, CINDY LEOPARDAS: 1 pending monthly bill', '09510402374, CINDY LOQUIAS GLORIA: 1 pending monthly bill']
+   [Fail][10:14:00] : ['09639117675, CITADEL L. PAREJA: 2 pending monthly bills', '09357192703, CLAIRE CANTERO: 1 pending monthly bill', '09125267727, CLARIN RAMIL ZAPANTA 2: 1 pending monthly bill']
+   [Fail][10:14:05] : ['09105194842, CLARIZA B. POGOY: 2 pending monthly bills', '09389665808, CLEOFE S. ALKUINO: 2 pending monthly bills', '09993039221, CLIFF GARCERA: 1 pending monthly bill']
+   [Fail][10:14:10] : ['09367353974, CLINT CATCHARRO: 1 pending monthly bill', '09495720389, CONCHITA YNOT: 1 pending monthly bill', '09972440032, Conigondes Taguik: 1 pending monthly bill']
+   [Fail][10:14:15] : ['09304722991, CONRADO C. MIAGA JR.: 1 pending monthly bill', '09202901896, CONSTANTINE, JOHN DEJON: 1 pending monthly bill', '09121029459, CRIS E. NAPULI: 1 pending monthly bill']
+   [Fail][10:14:20] : ['09120960863, CRISALJEN MORCEN: 1 pending monthly bill', '09975417161, CRISTINA VELORIA: 1 pending monthly bill', '09058264631, CRISTINE  G. MATIG-ALDAO: 1 pending monthly bill']
+   [Fail][10:14:25] : ['09267928047, CRISTINE CABAHUG: 3 pending monthly bills', '09156713761, CRISTINE MAE NOVAL: 3 pending monthly bills', '09169565982, CRISTY TOROCTOCON: 2 pending monthly bills']
+   [Fail][10:14:30] : ['09519437016, CURVA ELEMENTARY SCHOOL 2: 1 pending monthly bill', '09519437016, CURVA ELEMENTARY SCHOOL/ ELVIRA DE LEON: 1 pending monthly bill', '09067848762, DAISY J. SENDREJAS: 1 pending monthly bill']
+   [Fail][10:14:35] : ['09677551890, DAISY P. PUNAY: 1 pending monthly bill', '09477207138, DAIZA JEAN HORCA: 1 pending monthly bill', '09478467462, DAMASINO C. CASTRO: 1 pending monthly bill']
+[Success][10:14:40] : ['09975070912, DANHEL S. COSTILLAS: 1 pending monthly bill', '09452502062, DANIEL R. BECERA: 1 pending monthly bill', '09067831668, DANILO A. CASTRO 2ND: 3 pending monthly bills']
+[Success][10:14:45] : ['09067831668, DANILO A. CASTRO/VISCA: 1 pending monthly bill', '09950097727, DANILO M. LLEVER JR.: 2 pending monthly bills', '09260455510, DANILO PLEÑOS JR.: 2 pending monthly bills']
+[Success][10:14:50] : ['09501530356, DARLENE BELLE A. CABALLERO: 1 pending monthly bill', '09922794195, DARYL HANNAH MAE Y. VILLA: 1 pending monthly bill', '09488552911, DARYL M. GALENZOGA: 2 pending monthly bills']
+[Success][10:14:55] : ['09063947652, DAVID C. FELIPE: 1 pending monthly bill', '09537150398, DAVID N. LABRADOR (2ND ACCOUNT): 1 pending monthly bill', '09126563463, DAYNA B. GUBALANE: 1 pending monthly bill']
+[Success][10:15:00] : ['09926751066, DEBBIE G. RESMA: 2 pending monthly bills', '09751595958, DEEJAY M. LUMANAO: 2 pending monthly bills', '09764211045, DELAILA BERTOS: 1 pending monthly bill']
+[Success][10:15:05] : ['09676002326, DELYN NIVAL: 2 pending monthly bills', '09558663651, DEMETRIO E. URDANETA JR.: 2 pending monthly bills', '09564487254, DENNIS DUMAGUIT: 3 pending monthly bills']
+[Success][10:15:10] : ['09551269733, DESIREE PAJO: 1 pending monthly bill', '09058398213, DHAVE MORENO BALDEVIA: 3 pending monthly bills', '09651279402, DIEGO PASAYLOON: 1 pending monthly bill']
+[Success][10:15:15] : ['09175706101, DIGNA ESTALANI- BALILI: 2 pending monthly bills', '09171057225, DILG  PADRE BURGOS: 1 pending monthly bill', '09151748243, DIONALYN R. JOHNSON: 1 pending monthly bill']
+[Success][10:15:21] : ['09051204997, DIOSCORO AMISTAD: 4 pending monthly bills', '09161151519, DIOSDADO OLIVEROS JR.: 2 pending monthly bills', '09770219345, DISOMANGCOP P. MAMA: 2 pending monthly bills']
+[Success][10:15:26] : ['09263275674, DOLORES C. NOTARTE: 1 pending monthly bill', '09924990873, DOMINADOR M. MAGPATOC: 2 pending monthly bills', '09667461921, DOMINGA C. VALENZONA: 2 pending monthly bills']
+[Success][10:15:31] : ['09942669546, DONNA MAE M. DEMETERIO: 1 pending monthly bill', '09750178918, DORIS CAÑETE: 1 pending monthly bill', '09455521928, DULCE C. NAPALA: 1 pending monthly bill']
+[Success][10:15:36] : ['09565367337, DYAN AGORDO: 2 pending monthly bills', '09923238916, ECEL C LAGRIMAS: 2 pending monthly bills', '09067811906, EDDIE A CASAS: 2 pending monthly bills']
+[Success][10:15:41] : ['09155257598, EDDIE PITOGO ARCILLA: 2 pending monthly bills', '09777098596, EDITA T. BITOS /09682162560: 1 pending monthly bill', '09663495183, EDITHA POLE: 2 pending monthly bills']
+[Success][10:15:46] : ['09279408936, EDNA M. NUÑEZ: 2 pending monthly bills', '09751786928, EDNA O. PANTOÑAL: 3 pending monthly bills', '09385017778, EDNALYN B. FUENTES: 1 pending monthly bill']
+[Success][10:15:51] : ['09362600959, EDOT TEODOSIO: 1 pending monthly bill', '09196420896, EDUARDO NAZARIO 2ND ACCOUNT: 1 pending monthly bill', '09061082339, EDUARDO T. ROXAS: 3 pending monthly bills']
+[Success][10:15:56] : ['09261510601, EDWIN CAÑETE: 1 pending monthly bill', '09359316339, EFREN DIONALDO: 3 pending monthly bills', '09531279519, EFRENIA CANTERO: 1 pending monthly bill']
+[Success][10:16:01] : ['09924701105, ELDEN MARIE B. EBACITAS: 1 pending monthly bill', '09531232279, ELENA G. PINO: 1 pending monthly bill', '09059563798, ELEONIDA A MONTER: 2 pending monthly bills']
+[Success][10:16:06] : ['09815529793, ELISEO ARRADAZA: 2 pending monthly bills', '09156096998, ELMA D. LAURIA: 2 pending monthly bills', '09357513811, ELMA N. BONGCAWEL/ BGRY CANTUTANG: 1 pending monthly bill']
+[Success][10:16:11] : ['09925950786, ELMER M. CLEMENTE: 2 pending monthly bills', '09260717547, ELMER R. ANG JR.: 1 pending monthly bill', '09651278288, ELSA O. OSTRIA: 2 pending monthly bills']
+[Success][10:16:16] : ['09926797879, ELSIE CASAS: 2 pending monthly bills', '09966685162, ELTON JAY EMCARGUEZ: 1 pending monthly bill', '09267991626, ELVIE B. GOMEZ: 1 pending monthly bill']
+[Success][10:16:21] : ['09275509986, ELVIRA R. ISHIZUKA: 1 pending monthly bill', '09365356482, EMELIE B. ALAG: 1 pending monthly bill', '09351954832, EMELIE M. GALLARDO: 1 pending monthly bill']
+[Success][10:16:26] : ['09913316001, EMELYN V. FELIPE: 1 pending monthly bill', '09171055274, EMETERIA-PIRAMIDE: 1 pending monthly bill', '09853013742, EMILY V. PITOGO: 1 pending monthly bill']
+[Success][10:16:31] : ['09770658403, EMMANUEL A. TIEMPO: 2 pending monthly bills', '09056822494, EPHRAIM R. ODIAS: 2 pending monthly bills', '09056822494, EPHRAIM R. ODIAS 2: 2 pending monthly bills']
+[Success][10:16:36] : ['09056822494, EPHRAIM R. ODIAS 3: 2 pending monthly bills', '09758827229, EPIFANIA ERMA JABON: 2 pending monthly bills', '09478520759, ERENIO/MARY JEAN DINDIN: 2 pending monthly bills']
+[Success][10:16:41] : ['09935668392, ERIC BORINAGA: 1 pending monthly bill', '09917897219, ERIC RE BONIEL: 2 pending monthly bills', '09776076672, ERICA T. CASTOLO: 1 pending monthly bill']
+[Success][10:16:46] : ['09666832651, ERILITA L. BISNAN: 1 pending monthly bill', '09672531739, ERMA MORALES: 1 pending monthly bill', '09551138567, ERNANITA G. MIRA: 1 pending monthly bill']
+[Success][10:16:51] : ['09556545160, ERNESTO G. IMBOC: 1 pending monthly bill', '09977736862, ERNESTO M. GENOSA JR.: 1 pending monthly bill', '09939281293, ERNESTO PIANO BISNAR: 1 pending monthly bill']
+[Success][10:16:56] : ['09056720904, ERRALYN MANTILLA: 2 pending monthly bills', '09977218486, ERWIN ALKUINO: 2 pending monthly bills', '09062349679, ERWIN M. CAPAROSO: 1 pending monthly bill']
+[Success][10:17:01] : ['09551126500, ESTELLA . LOQUINERIO: 2 pending monthly bills', '09654886485, ESTER A. AMPO: 1 pending monthly bill', '09129093465, ETHEL B. GORON: 2 pending monthly bills']
+[Success][10:17:06] : ['09356653692, ETHEL BORELA TAN: 3 pending monthly bills', '09061837561, EVA JOSEPHINE SABINO: 2 pending monthly bills', '09363915561, EVELYN BASTATAS TORING: 1 pending monthly bill']
+[Success][10:17:11] : ['09656243368, EVELYN JARQUE: 2 pending monthly bills', '09278152496, FABIAN E. DOLORES: 1 pending monthly bill', '09534515013, FATIMA CAYANONG 2ND ACCOUNT: 1 pending monthly bill']
+[Success][10:17:16] : ['09675613772, FE ERBITO DIAZ: 1 pending monthly bill', '09156725078, FE O. BAISE: 2 pending monthly bills', '09380367088, FE OROSIO GARJAS: 2 pending monthly bills']
+[Success][10:17:21] : ['09276027478, FEDERICO M. VILLASENCIO JR.: 2 pending monthly bills', '09661899199, FELIMON M. CALABIA: 2 pending monthly bills', '09686907000, FELIPE OSIP JR: 2 pending monthly bills']
+[Success][10:17:26] : ['09517777405, FELIX T. MORIAL: 1 pending monthly bill', '09755781452, FERDINAND NIÑO F. OLMOGUEZ: 2 pending monthly bills', '09176302242, FERNANDO E. MORALDE: 2 pending monthly bills']
+[Success][10:17:31] : ['09535615382, FERNANDO LAGMAN: 1 pending monthly bill', '09953575624, FERNANDO T. LIBRES: 1 pending monthly bill', '09606628648, FEVIE MANTILLA: 1 pending monthly bill']
+[Success][10:17:36] : ['09947104725, FEVIE PIELAGO: 2 pending monthly bills', '09152352998, FIDEL MANATAD: 2 pending monthly bills', '09669971312, FILAMDA PENUS: 1 pending monthly bill']
+[Success][10:17:41] : ['09088874683, FIRST GLOBAL ALLIANCE TRANSPORT SERVICE INC.: 4 pending monthly bills', '09350310407, FLOR E. RUIZ: 2 pending monthly bills', '09275106426, FLORAMIE N. LABRADOR: 2 pending monthly bills']
+[Success][10:17:46] : ['09532206087, FLORENCE SALLY ACUÑA: 1 pending monthly bill', '09165487400, FRETZIE C. TOMINGBANG/RHU PADRE BURGOS: 6 pending monthly bills', '09938682184, GABRIL NAPULI: 1 pending monthly bill']
+[Success][10:17:51] : ['09169143247, GARRY GUIANAN: 2 pending monthly bills', '09360375177, GARY P. BACTIDON: 2 pending monthly bills', '09672518389, GEMMA FE C. ENDRIGA: 1 pending monthly bill']
+[Success][10:17:56] : ['09533565280, GEMMA M. MOLDEZ: 2 pending monthly bills', '09260341251, GEMMA MORTA: 2 pending monthly bills', '09815944075, GENE A. RODAS: 1 pending monthly bill']
+[Success][10:18:01] : ['09383389052, GENELYN DEMETERIO: 2 pending monthly bills', '09165040250, GENOVEVA P. POLIQUIT: 1 pending monthly bill', '09099048186, GENREY JESSA POGOSA: 1 pending monthly bill']
+[Success][10:18:06] : ['09300449484, GERARDA C. HIBIONADA: 1 pending monthly bill', '09267021067, GERHARD LANG: 1 pending monthly bill', '09510326533, GERLYN R. MALATAMBAN: 2 pending monthly bills']
+[Success][10:18:11] : ['09058502600, GERRY CROSBY BONITA / YEISHA SABANDAL: 1 pending monthly bill', '09281472218, GIFFREY TIBRE HIMZON: 3 pending monthly bills', '09757685352, GILBERT BERNADES/REAH SARINAS: 2 pending monthly bills']
+[Success][10:18:16] : ['09972862575, GINA M. MORIE: 1 pending monthly bill', '09759968916, GINA MANTO: 2 pending monthly bills', '09217049281, GINA MORILES LINGUAJE: 2 pending monthly bills']
+[Success][10:18:21] : ['09567832864, GLAIZA GRACE P. LAURITO: 2 pending monthly bills', '09265910930, GLECERIO NUEVO: 1 pending monthly bill', '09639818129, GLECYRSER W. CATINGUB: 1 pending monthly bill']
+[Success][10:18:26] : ['09568514171, GLENDA C. DE DIOS: 2 pending monthly bills', '09656032382, GLENDA D. POLIQUIT: 4 pending monthly bills', '09559640426, GLENDA D. VILLARENTE: 2 pending monthly bills']
+[Success][10:18:31] : ['09097182201, GLENN BERNAL: 2 pending monthly bills', '09917738673, GLOR L. CABARSE: 4 pending monthly bills', '09368251147, GLORIA MAE LOLA: 1 pending monthly bill']
+[Success][10:18:36] : ['09983842427, GRACE A. CONOPIO: 1 pending monthly bill', '09983842737, GRACE M. ECO: 2 pending monthly bills', '09263687201, GRESA B. ALMENDRAS: 2 pending monthly bills']
+[Success][10:18:41] : ['09385610582, GRETCHIE LOU AMBE POROY: 2 pending monthly bills', '09639525187, GUALBERTO B. ROSELLO: 1 pending monthly bill', '09273247879, HANNA LIZA L. TIEMPO: 1 pending monthly bill']
+[Success][10:18:46] : ['09606572845, HARTE A TULIN: 2 pending monthly bills', '09161864526, HAZEL CRESTINES: 3 pending monthly bills', '09353070128, HAZEL P. TINOMA: 1 pending monthly bill']
+[Success][10:18:51] : ['09309589830, HEIDE BALTUNADO: 1 pending monthly bill', '09757715723, HELBERT A. BALILI: 1 pending monthly bill', '09695481561, HELEN E. MAPALAD: 2 pending monthly bills']
+[Success][10:18:56] : ['09278483497, HENRY  P.  BALATA: 1 pending monthly bill', '09947121602, HENRY M. TUMANG: 3 pending monthly bills', '09563620004, HENZEL GRACE CANDARI: 2 pending monthly bills']
+[Success][10:19:01] : ['09185557537, HERMAN BALABA: 2 pending monthly bills', '09104812017, HUBERT LAPITAN: 1 pending monthly bill', '09919318733, INGRID ANN B. CATILTIL: 3 pending monthly bills']
+[Success][10:19:06] : ['09688539851, IRENE G.CABREGA (RUSTICO CAPAHI SR. MEM. SHS): 1 pending monthly bill', '09751784657, IRENE SON GENERALE: 1 pending monthly bill', '09504226003, IRISH MAY PINGOY: 1 pending monthly bill']
+[Success][10:19:11] : ['09105498578, IRVIN JAY COLALJO: 1 pending monthly bill', '09654055482, ISIDRO UBAY VALEZ: 2 pending monthly bills', '09362966618, IVY B. TEQUILLO: 3 pending monthly bills']
+[Success][10:19:16] : ['09938706799, IVY DIANNE DAG-UMAN: 2 pending monthly bills', '09532209453, IVY G. BAGUIO: 1 pending monthly bill', '09667559656, J.A. ELEAZAR A. RANQUE/KYLIE MARIE GRAHAM: 2 pending monthly bills']
+[Success][10:19:21] : ['09550689769, JACQUELINE GOC-ONG: 2 pending monthly bills', '09854522910, JAILYN M. PAIMALAN: 1 pending monthly bill', '09126350017, JAIME C. MARA: 3 pending monthly bills']
+[Success][10:19:26] : ['09208777293, JAKE SINGSON: 1 pending monthly bill', '09163949105, JANET  E. PURVEY: 1 pending monthly bill', '09353517882, JANET BUSTILLO: 2 pending monthly bills']
+[Success][10:19:31] : ['09553627652, JANETH B. BALBARONA: 1 pending monthly bill', '09123176161, JANETH TENEDERO: 2 pending monthly bills', '09365149076, JANETTE S. BORBONGA: 1 pending monthly bill']
+[Success][10:19:36] : ['09657022210, JANICE C. CARLES: 2 pending monthly bills', '09166677900, JANICE JEILAH U. NEPOMUCENO: 1 pending monthly bill', '09924920959, JANICE KATRINE FAMADOR: 2 pending monthly bills']
+[Success][10:19:41] : ['09639623260, JANICE OBIEN: 3 pending monthly bills', '09563771382, JANICE PALES: 2 pending monthly bills', '09515017706, JANNA ANTONIA S, TULIN: 3 pending monthly bills']
+[Success][10:19:46] : ['09975422362, JAQUELINE MAHUSAY LABADOR: 3 pending monthly bills', '09169078854, JASMIN E. TUBO: 1 pending monthly bill', '09353521934, JASON DENZO ALMOROTO: 1 pending monthly bill']
+[Success][10:19:51] : ['09355052293, JASON PATRICK MONTAJES: 2 pending monthly bills', '09277642999, JASON V. CUABO: 1 pending monthly bill', '09354418515, JASSA R. NEMOTEO: 1 pending monthly bill']
+[Success][10:19:56] : ['09353518571, JASTONI C. PABILAN: 2 pending monthly bills', '09943794992, JAY  CORTES: 1 pending monthly bill', '09383269276, JAY RYAN F. SUICO: 1 pending monthly bill']
+[Success][10:20:01] : ['09501593969, JAY-AR ABAJON: 1 pending monthly bill', '09610570586, JAY-R CAPRICHO: 1 pending monthly bill', '09659481259, JAYAI G. GUIMBAL: 2 pending monthly bills']
+[Success][10:20:06] : ['09368425157, JAYCEL VARGAS: 2 pending monthly bills', '09533504326, JAYPEE EMPIMO: 2 pending monthly bills', '09161984503, JAYPEE FELIAS: 10 pending monthly bills']
+[Success][10:20:11] : ['09653601543, JAZER A. UBAY: 1 pending monthly bill', '09502385012, JEAN S. BUNGOT: 2 pending monthly bills', '09983459211, JEANET M. MALINAO: 2 pending monthly bills']
+[Success][10:20:16] : ['09560056094, JEANNE CADAO: 1 pending monthly bill', '09973356248, JECYLMAE L. RUIZO: 2 pending monthly bills', '09178959592, Jed C.Mabitad C/O HARMONY BEACH: 1 pending monthly bill']
+[Success][10:20:21] : ['09499883247, JEFFREY BAROLA: 2 pending monthly bills', '09760301484, JEHOVAH JIRAH SOMBILON: 2 pending monthly bills', '09925727189, JELICA U. GUEVARRA: 1 pending monthly bill']
+[Success][10:20:26] : ['09812873819, JELLY ANN PIA: 2 pending monthly bills', '09953642883, JELYN SUMALINOG: 1 pending monthly bill', '09151810393, JEMAR PANA: 1 pending monthly bill']
+[Success][10:20:31] : ['09971698606, JENELLIE BASTATAS: 3 pending monthly bills', '09533199340, JENEVEB E. MORENO: 2 pending monthly bills', '09487000988, JENIFER E. FIEL: 2 pending monthly bills']
+[Success][10:20:36] : ['09155765712, JENNELYN L. PELICANO: 3 pending monthly bills', '09773509040, JENNES C. PLAZA: 2 pending monthly bills', '09751890341, JENNIFER M. ABAYON: 1 pending monthly bill']
+[Success][10:20:41] : ['09559655188, JENNY ANN BALBERAN: 2 pending monthly bills', '09465994224, JENNY CHRIS LOPEZ: 1 pending monthly bill', '09197904257, JENNY FE P. CABRERA-2: 2 pending monthly bills']
+[Success][10:20:46] : ['09989899181, JEONEL R. LISTON: 2 pending monthly bills', '09355785808, JERA TARIPE: 1 pending monthly bill', '09483673868, JERALDINE JAY C.BAZARTE: 1 pending monthly bill']
+[Success][10:20:51] : ['09558644997, JERAME HERMOSO: 1 pending monthly bill', '09677019284, JEREMY P SORINGA: 1 pending monthly bill', '09157528076, JEROME S. MACALDO: 1 pending monthly bill']
+[Success][10:20:56] : ['09810948114, JERRY B. CLAROS: 2 pending monthly bills', '09639791107, JERYLENE A. LAMOSTE: 2 pending monthly bills', '09971698794, JESELLE M. MANAGBANAG: 1 pending monthly bill']
+[Success][10:21:01] : ['09353520914, JESSA C. BATOON: 3 pending monthly bills', '09108006934, JESSALYN CATAAG: 3 pending monthly bills', '09098378604, JESSE C. AÑASCO: 3 pending monthly bills']
+   [Fail][10:21:06] : ['09665768927, JESSICA JOY D. OCTOBRE: 2 pending monthly bills', '09927836415, JESSIE B. CORRALES: 3 pending monthly bills', '09816332763, JESSIE O. PABILAR: 1 pending monthly bill']
+[Success][10:21:13] : ['09926541642, JESTONI G. DIEZ: 2 pending monthly bills', '09159695688, JESUS C. DEREQUITO JR: 1 pending monthly bill', '09269775001, JESUS D. SURINGA: 2 pending monthly bills']
+[Success][10:21:18] : ['09354420319, JETHRO DOGMOC: 2 pending monthly bills', '09355049833, JEYNO GIVA: 1 pending monthly bill', '09750444876, JEZIEL SOTTO: 1 pending monthly bill']
+[Success][10:21:23] : ['09757047446, JHADE D. CONDES: 2 pending monthly bills', '09677281316, JHEL-ANJOY G. BERNALES: 1 pending monthly bill', '09468881103, JHOMELYN VILLASENCIO: 1 pending monthly bill']
+[Success][10:21:28] : ['09939049893, JHON DONNEL C. CAPALARAN: 1 pending monthly bill', '09915691778, JHON MARTIN DAMAYO: 1 pending monthly bill', '09662403659, JHUNRIEL P. GASPAR: 2 pending monthly bills']
+   [Fail][10:21:33] : ['09359324727, JILLIAN HOPE C. CARUNGAY: 5 pending monthly bills', '09075058056, JIMMY LOU C. DIVA: 2 pending monthly bills', '09317614690, JIMUEL C. PONTALBA: 1 pending monthly bill']
+   [Fail][10:21:38] : ['09465067597, JINSON GAVIOLA: 1 pending monthly bill', '09815466027, JOAN P. GUINAREZ: 3 pending monthly bills', '09560943459, JOANA DOMINQUE B. YUNSON: 2 pending monthly bills']
+   [Fail][10:21:46] : ['09363930670, JOANA FE CERVANTES: 2 pending monthly bills', '09391071895, JOCELYN CASTRO: 2 pending monthly bills', '09169067525, JOCELYN F. ROSAL: 1 pending monthly bill']
+[Success][10:21:51] : ['09273507350, JOCELYN L. TIDOY: 4 pending monthly bills', '09855908930, JOCELYN M. TOLIBAS: 1 pending monthly bill', '09996816557, JOCELYN NUÑEZ: 1 pending monthly bill']
+[Success][10:21:56] : ['09061133028, JOCELYN P. LORA: 2 pending monthly bills', '09058037820, JOCELYN P. VILLAMOR: 5 pending monthly bills', '09079236042, JOEL JOHN S. VALENZONA: 1 pending monthly bill']
+[Success][10:22:01] : ['09100096458, JOEL LANGUIDO BELARDO: 1 pending monthly bill', '09498840619, JOEL M. GABAS: 2 pending monthly bills', '09916681358, JOEL NIVAL. PEPITO: 1 pending monthly bill']
+[Success][10:22:06] : ['09983766024, JOEL T. BALLADARES: 1 pending monthly bill', '09918921242, JOELA U. PITOGO: 4 pending monthly bills', '09358659084, JOHN BERT M. GOTIS: 1 pending monthly bill']
+[Success][10:22:11] : ['09550769796, JOHN KEN C. TUANDO: 2 pending monthly bills', '09566470216, John Rey B. Guianan: 1 pending monthly bill', '09569881752, JOHN ROLAND HERMIAS TAMPOS: 4 pending monthly bills']
+[Success][10:22:16] : ['09675084132, JOJIE MONTER: 1 pending monthly bill', '09058353002, JOMAR MAGDADARO: 1 pending monthly bill', '09535074658, JOMAR SAROL: 1 pending monthly bill']
+[Success][10:22:21] : ['09855570447, JONARD V. MOGAN: 2 pending monthly bills', '09518516777, JONAS S. BAEL: 1 pending monthly bill', '09815292852, JONEL S. ASIS/BLOSSOM ASIS: 5 pending monthly bills']
+[Success][10:22:26] : ['09535616568, JONIOR LESTINO: 2 pending monthly bills', '09364078232, JONNA FERNANDEZ ARROGANTE: 2 pending monthly bills', '09502509485, JONNEL M. MAQUILAN: 5 pending monthly bills']
+   [Fail][10:22:31] : ['09066158727, JORLITA RAMOS MORALES: 3 pending monthly bills', '09300327913, JOSE MANUEL A. DAMAYO: 1 pending monthly bill', '09693838766, JOSEPH COGAY: 1 pending monthly bill']
+   [Fail][10:22:39] : ['09754648291, JOSEPH M. GUCELA JR.(BA-DO-DO): 2 pending monthly bills', '09956096001, JOSEPHINE R. ORTULA: 3 pending monthly bills', '09168898576, JOSHUA B. MONTAJES: 1 pending monthly bill']
+   [Fail][10:22:44] : ['09368220342, JOSHUA BRYAN C. OBEJERO: 4 pending monthly bills', '09989682226, JOSHUA T. ARIAS: 2 pending monthly bills', '09352728189, JOVITO DALUGDUGAN: 2 pending monthly bills']
+   [Fail][10:22:49] : ['09673277637, JOVY LUCAÑAS TYANNIKOV: 3 pending monthly bills', '09473711619, JOY M. GOFF: 3 pending monthly bills', '09667356604, JOYCE D. NUÑEZ: 1 pending monthly bill']
+   [Fail][10:22:54] : ['09196224167, JOYCE S. DELA CRUZ: 2 pending monthly bills', '09554936435, JOYLEN ANTONINO: 1 pending monthly bill', '09307860893, JUANITA D. SINGSON: 1 pending monthly bill']
+   [Fail][10:22:59] : ['09177266421, Jube Elma C. Calatrava: 1 pending monthly bill', '09951867506, JUDILYN PAYOD: 2 pending monthly bills', '09165336878, JUDITHA MANDRAS: 2 pending monthly bills']
+   [Fail][10:23:04] : ['09274396702, JUDY VIE BUYA: 1 pending monthly bill', '09363268728, JULIA Y. DALION: 4 pending monthly bills', '09277749138, JULIACRIS MANATAD: 2 pending monthly bills']
+   [Fail][10:23:09] : ['09852994681, JULIETA GONZAGA JUPIA: 3 pending monthly bills', '09502946813, JULINA AMORES: 1 pending monthly bill', '09098783730, JULITO SARINO BOLANO/JURISA BOLANO: 3 pending monthly bills']
+   [Fail][10:23:15] : ['09664983184, JUNDINO CASE RAZON: 1 pending monthly bill', '09066094876, JUNEMAR O. PANTONIAL: 3 pending monthly bills', '09363870869, JUNMARIE JONGAY: 2 pending monthly bills']
+   [Fail][10:23:20] : ['09363763207, JUSTIN M. PALERMO: 2 pending monthly bills', '09510348385, JUVELYN T. MAHAYAG: 2 pending monthly bills', '09362763696, JUVIE S. GENARES: 1 pending monthly bill']
+   [Fail][10:23:25] : ['09453372661, KAREN A. CARBA: 1 pending monthly bill', '09267923530, KAREN ANTIGUA: 1 pending monthly bill', '09300830990, KAREN CARTAGENA: 1 pending monthly bill']
+   [Fail][10:23:30] : ['09178781517, KAREN P. BORER: 2 pending monthly bills', '09067893688, KARL ANTHONY DONAIRE: 4 pending monthly bills', '09673244011, KARLA MAE D. LEOVERAS: 1 pending monthly bill']
+   [Fail][10:23:35] : ['09290295398, KASSANDRA CLAIRE O. REYNERA: 1 pending monthly bill', '09471473313, KATHERINE LAURETO: 3 pending monthly bills', '09499407059, KATHERINE S. ABLEN: 1 pending monthly bill']
+   [Fail][10:23:40] : ['09267020405, KATHRYN D. ESPINA: 2 pending monthly bills', '09972586436, KENT JEROME C. DIAZ: 3 pending monthly bills', '09754642037, KEVIN M. RADAM: 2 pending monthly bills']
+[Success][10:23:45] : ['09647517194, KEVIN ROBLE: 2 pending monthly bills', '09098375056, KHEN DIANO CALUB: 2 pending monthly bills', '09503526169, KHRISTOPHER JOHN G. BARCELON: 2 pending monthly bills']
+[Success][10:23:50] : ['09368240072, KRIS I. CASTONUEVO: 1 pending monthly bill', '09662756546, KRISTINE ROSE ABELLA: 1 pending monthly bill', '09351073827, KYOMI SIOC TAKAGI: 2 pending monthly bills']
+[Success][10:23:55] : ['09948379579, KYSHIA JEAN ROSAL: 1 pending monthly bill', '09120576233, La Arnie R. Godinez: 1 pending monthly bill', '09481701126, LADYLOU DE GUZMAN: 2 pending monthly bills']
+[Success][10:24:00] : ['09531346499, LALAINE C. ANTONINO: 1 pending monthly bill', '09317305097, LARRAH JANE ESMERO: 4 pending monthly bills', '09759966069, LARRY ABUEVA: 1 pending monthly bill']
+[Success][10:24:05] : ['09213606539, LAURA FIGUEROA: 3 pending monthly bills', '09510453256, LEA JOY B. GINGCO: 1 pending monthly bill', '09098760040, LELIBETH ENGCOY LIWANASAN: 1 pending monthly bill']
+[Success][10:24:10] : ['09971698606, LEONARDO CAMAY JR.: 4 pending monthly bills', '09395006179, LEONIL ELVIRA: 1 pending monthly bill', '09186330556, LEONILO BAÑEZ: 3 pending monthly bills']
+[Success][10:24:15] : ['09096255023, LESLIE MAE MOPON: 5 pending monthly bills', '09630622163, LESTER M. LLENAS: 2 pending monthly bills', '09553646545, LEXTER ANGELA TANTOY: 1 pending monthly bill']
+[Success][10:24:20] : ["09637524863, LGU - PADRE BURGOS - ASSESSOR'S OFFICE: 3 pending monthly bills", '09815944126, LGU PADRE BURGOS (BPLO): 1 pending monthly bill', '09158607071, LGU PADRE BURGOS (MAYOR OFFICE): 1 pending monthly bill']
+[Success][10:24:25] : ['09171049128, LGU PADRE BURGOS (MPDC OFFICE): 1 pending monthly bill', '09815944126, LGU PADRE BURGUS (MUNICIPAL TREASURES OFFICE  ): 1 pending monthly bill', '09610569490, LIEZEL BALTONADO: 3 pending monthly bills']
+[Success][10:24:30] : ['09559049302, LILIBETH T OMADLAO: 3 pending monthly bills', '09478465720, LILITH M. BALLECERA: 3 pending monthly bills', '09505096082, LIMUEL P. OMEGA: 3 pending monthly bills']
+[Success][10:24:35] : ['09516556033, LIMUEL R. ESCOBAL: 1 pending monthly bill', '09154039113, LITA D. RANQUE: 3 pending monthly bills', '09853005753, LIZLIE D. LIM: 4 pending monthly bills']
+[Success][10:24:40] : ['09701332264, LOREEN E. SALARDE: 4 pending monthly bills', '09666521935, LOREJEAN L. BESERA: 2 pending monthly bills', '09123435176, LORENA I. SULIBRAN: 2 pending monthly bills']
+[Success][10:24:45] : ['09617962130, LORETA FLORES: 2 pending monthly bills', '09656679732, LORJE MAGDAONG: 2 pending monthly bills', '09488749426, LORLIE D. PALER: 1 pending monthly bill']
+[Success][10:24:50] : ['09606624626, LORRAINE C.DONIO: 1 pending monthly bill', '09288962876, LOSIE P. SIABOC: 2 pending monthly bills', '09083708015, LOURDES B. VISBAL: 1 pending monthly bill']
+[Success][10:24:55] : ['09923547107, LOVENA P. BASALLAJE: 1 pending monthly bill', '09754648103, LUCENA T. CASIPE: 1 pending monthly bill', '09275464479, LUCENA T. JUANILLO: 1 pending monthly bill']
+[Success][10:25:00] : ['09927588169, LUCIA CATILTIL TAGUIK: 1 pending monthly bill', '09169125256, LUCILO D. PEPITO: 2 pending monthly bills', '09855853634, LUCITA INLUCIDO: 1 pending monthly bill']
+[Success][10:25:05] : ['09976875998, LUCRESIA DELA CRUZ: 3 pending monthly bills', '09121926185, LUDIVINA DOLORES: 2 pending monthly bills', '09939085695, LUNETA G. ORIAS: 2 pending monthly bills']
+[Success][10:25:10] : ['09155487338, MA NIÑA ANGELA M BACSAL: 1 pending monthly bill', '09654164557, MA. BAUTISTA MAGPATOC: 1 pending monthly bill', '09063374885, MA. CELLISA M. BAROLA: 2 pending monthly bills']
+[Success][10:25:15] : ['09151639705, MA. CLAUDINE A. BAYLON: 2 pending monthly bills', '09355925354, MA. CRISTINA NEVALLO: 3 pending monthly bills', '09661460281, MA. LIBERTY B. KUYKENDALL: 1 pending monthly bill']
+[Success][10:25:20] : ['09063947579, MA. LOLITA L. AERNI: 3 pending monthly bills', '09970890739, MAC JEROME W. LIBRES: 2 pending monthly bills', '09126323315, MADELYN  A. MABULAY: 3 pending monthly bills']
+[Success][10:25:25] : ['09982680176, MAEVELYN P. ETIS: 1 pending monthly bill', '09075375184, MAICA MAE LIM: 1 pending monthly bill', '09945798557, MALCHIJAH ANOOS: 2 pending monthly bills']
+[Success][10:25:30] : ['09954714889, MALOU GICA: 2 pending monthly bills', '09540696139, MANILYN B. TAN: 1 pending monthly bill', '09563793128, MANILYN ORIAS: 1 pending monthly bill']
+[Success][10:25:35] : ['09654892807, MANNY B. MERCOLITA: 2 pending monthly bills', '09454251288, MANUEL CATURAN JR.: 1 pending monthly bill', '09751793280, MARETES ABAYON: 1 pending monthly bill']
+[Success][10:25:40] : ['09489284550, MARGARITA DALTON: 1 pending monthly bill', '09753907152, MARGEN ELEMENTARY SCHOOL: 1 pending monthly bill', '09853320709, MARIA ARLITA E. ISMA: 2 pending monthly bills']
+[Success][10:25:45] : ['09380383094, MARIA CRISTINA PARRILLA: 1 pending monthly bill', '09173146178, MARIA FE CRISPINA B. POBLETE 2ND ACC: 2 pending monthly bills', '09207314255, MARIA FE DAYANAN: 1 pending monthly bill']
+[Success][10:25:50] : ['09692290093, MARIA FLOR G.CONSTANTINO: 1 pending monthly bill', '09935927919, MARIA HELEN DE LEON: 4 pending monthly bills', '09518332257, MARIA KYLA C. CAPORAS: 1 pending monthly bill']
+[Success][10:25:55] : ['09157626353, MARIA LOINA TRIGOSA: 1 pending monthly bill', '09296623482, MARIA M. NUNEZ: 3 pending monthly bills', '09771105757, MARIA MONESSA JIMENEZ: 2 pending monthly bills']
+[Success][10:26:00] : ['09194805104, MARIA ROCHELLA ROMERO: 1 pending monthly bill', '09922801731, MARIA SALOME P. OBOR: 1 pending monthly bill', '09612607027, MARIA THERESA AYSO: 2 pending monthly bills']
+[Success][10:26:05] : ['09673951529, MARIA THERISA DOLLETE: 1 pending monthly bill', '09090714737, MARIA TITA CONCEPCION A. BACALSO: 2 pending monthly bills', '09504175783, MARIA VICTORIA LAMOC: 1 pending monthly bill']
+[Success][10:26:10] : ['09060967443, MARIA VILMA T. DIEZ: 1 pending monthly bill', '09926452018, MARIANITO CORTES: 1 pending monthly bill', '09273976325, MARIANNE MAE L. CARMELOTES: 1 pending monthly bill']
+   [Fail][10:26:15] : ['09506516668, MARICAR C. CASINILLO: 1 pending monthly bill', '09851326230, MARICAR MILLAN: 2 pending monthly bills', '09754767977, MARICAR N. DEGUIA: 2 pending monthly bills']
+   [Fail][10:26:23] : ['09771105733, MARICEL PITOGO: 3 pending monthly bills', '09631001168, MARICRIS RODRIGUEZ AMORIN: 1 pending monthly bill', '09502458534, MARIDOL DAJAB: 1 pending monthly bill']
+   [Fail][10:26:28] : ['09751543390, MARIENE T. GAVIOLA: 1 pending monthly bill', '09474547943, MARIFE ACEBUCHE: 2 pending monthly bills', '09518520615, MARILOU A. CASTELLANO: 1 pending monthly bill']
+   [Fail][10:26:33] : ['09369658690, MARILOU R. IMBOC: 1 pending monthly bill', '09176587296, MARILYN E. SABALO: 1 pending monthly bill', '09169070414, MARINA M. SARABIA: 1 pending monthly bill']
+   [Fail][10:26:38] : ['09308870993, MARIO GARROTE: 1 pending monthly bill', '09169579673, MARIPOL PEARSON CELEDIO: 1 pending monthly bill', '09451270765, MARISSA DOLLENTAS: 1 pending monthly bill']
+   [Fail][10:26:43] : ['09356488238, MARISSA T. GALDO: 1 pending monthly bill', '09362705840, MARITES M. BARCELON: 1 pending monthly bill', '09461722522, MARITESS M. BACTINDON: 1 pending monthly bill']
+   [Fail][10:26:48] : ['09263651418, MARJAN ARAÑA: 2 pending monthly bills', '09457130898, MARJORIE B. MEPAÑA: 2 pending monthly bills', '09925821554, MARK HENSON G MIRA: 1 pending monthly bill']
+   [Fail][10:26:53] : ['09967148843, MARK LORENZ AREÑA/SEFF TRANSPORT SERVICES: 2 pending monthly bills', '09569877856, MARK TRISTAN M. MATEO: 1 pending monthly bill', '09367862644, Marlon G. Catubig: 2 pending monthly bills']
+   [Fail][10:26:58] : ['09398829336, MARLON O. ESTELA: 2 pending monthly bills', '09700568554, MARVI B. LIM: 2 pending monthly bills', '09754304629, MARVIN P. ORONOS: 1 pending monthly bill']
+   [Fail][10:27:03] : ['09950365697, MARY ANN BERNALES: 1 pending monthly bill', '09533559963, MARY ANN RISMA: 2 pending monthly bills', '09926793323, MARY ERLINEOR D. ESTUNINA: 2 pending monthly bills']
+   [Fail][10:27:08] : ['09532697549, MARY IMELY Z. MAXINO: 1 pending monthly bill', '09514196045, MARY JOYCE SENDREJAS: 2 pending monthly bills', '09759771048, MARY VENICE BOOK: 1 pending monthly bill']
+   [Fail][10:27:13] : ['09989843247, MAY ANN P. TANIO: 1 pending monthly bill', '09758184482, MDRRMO OFFICE-LGU PADRE BURGOS: 1 pending monthly bill', '09677284135, MELAGROS MERRO: 1 pending monthly bill']
+   [Fail][10:27:18] : ['09485378459, MELANIE MATRES  GERUNDIO: 2 pending monthly bills', '09654124731, MELESSA M. SAN JUAN: 2 pending monthly bills', '09694896279, MELONIE AMPOAN: 1 pending monthly bill']
+   [Fail][10:27:23] : ['09531633574, MERCEDITA T. MIÑOZA: 2 pending monthly bills', '09061961876, MERHADZ M. MANTILLA: 1 pending monthly bill', '09924022344, MERIE JEAN M. MANTILLA: 1 pending monthly bill']
+   [Fail][10:27:28] : ['09695481561, MERLINA BORJA SEVANDAL: 1 pending monthly bill', '09564355438, MERLINDA P. MARTINEZ: 2 pending monthly bills', '09691771889, MERLITA T. ALDIANO: 1 pending monthly bill']
+   [Fail][10:27:33] : ['09126332948, MERLYN SAGAYNO PALACIO: 1 pending monthly bill', '09468636694, METRA, MARIA IRENE ROSE R.: 2 pending monthly bills', '09535126566, MIA VEY D. UBAY: 1 pending monthly bill']
+   [Fail][10:27:38] : ['09485164420, MICHAEL L. FORMENTO: 2 pending monthly bills', '09771616683, MICHELLE A. TOLENTINO: 1 pending monthly bill', '09457333175, MICHELLE APUYA: 1 pending monthly bill']
+[Success][10:27:43] : ['09759052844, MICHELLE BERNAL TONDAN: 1 pending monthly bill', '09709341403, MICHELLE C. PEPITO: 1 pending monthly bill', '09276036883, MICHELLE L. FERNANDEZ: 1 pending monthly bill']
+[Success][10:27:48] : ['09709943808, MICHELLE M. DAGUIA: 1 pending monthly bill', '09975278468, MICHELLE M. IMBOC: 1 pending monthly bill', '09366113337, MICOH OMANDAC: 2 pending monthly bills']
+[Success][10:27:53] : ['09120876260, MILAGROS M. JUGAR: 2 pending monthly bills', '09055256213, MILKESIDEC G. GALDO: 1 pending monthly bill', '09154914602, MITCHELLE ARAYAN: 1 pending monthly bill']
+[Success][10:27:58] : ['09154914602, MITCHELLE ARAYAN 2ND: 1 pending monthly bill', '09078266278, MITZIL FLORES: 1 pending monthly bill', '09178884701, MOLOPOLO ELEM. SCHOOL: 1 pending monthly bill']
+[Success][10:28:03] : ['09658837442, MORENO, JEAN -LOU: 1 pending monthly bill', '09159681795, MUNICIPAL ENGINEERING OFFICE LGU PADRE BURGOS: 1 pending monthly bill', '09924921028, MYCA UMACOB: 1 pending monthly bill']
+[Success][10:28:08] : ['09364082146, MYLENE PANILAG: 1 pending monthly bill', '09684012350, MYLENE PASTIDIO: 2 pending monthly bills', '09995773032, MYRA LYN R. TORRES: 2 pending monthly bills']
+[Success][10:28:13] : ['09855886997, MYRISIA DERIQUITO: 1 pending monthly bill', '09937832197, NAME: ROSELYN B. SOTERO: 1 pending monthly bill', '09814538787, NATIVIDAD C. GUINIPA.AN: 1 pending monthly bill']
+[Success][10:28:18] : ['09279627535, NECO CANTILA: 1 pending monthly bill', '09212724457, NEIL G. PEREZ: 2 pending monthly bills', '09358815118, NELBOY T. YBAÑEZ: 1 pending monthly bill']
+[Success][10:28:23] : ['09677494206, NELCY C. INANO: 2 pending monthly bills', '09156500772, NELVIE ALCOBER: 1 pending monthly bill', '09380225018, NENITA B. MONTE: 1 pending monthly bill']
+[Success][10:28:28] : ['09815529917, NENITA D. BALTONADO: 2 pending monthly bills', '09153192613, NERO L. MIOLE: 1 pending monthly bill', '09515936424, NESTOR KISTERIA: 1 pending monthly bill']
+[Success][10:28:33] : ['09686361254, NICSON GLEN MATURAN: 2 pending monthly bills', '09202734376, NIDA PALERO: 2 pending monthly bills', '09533559607, NIDA TURCAL: 1 pending monthly bill']
+[Success][10:28:38] : ['09082011997, NIEL SUDARIA: 1 pending monthly bill', '09275509986, NIKKO LYN M. RODAS: 1 pending monthly bill', '09561446720, NOEL C. COMINGKING: 1 pending monthly bill']
+[Success][10:28:43] : ['09101474215, NOEMI ROSE ZAPANTA: 2 pending monthly bills', '09856195554, NOLFREN CASTINO: 3 pending monthly bills', '09518511009, NORALYN ABELA: 1 pending monthly bill']
+[Success][10:28:48] : ['09105231221, NORALYN BARQUIO: 2 pending monthly bills', '09518212665, NORBERTO CUTA TAMBIS III: 2 pending monthly bills', '09605969004, NORIEL S TANAID: 1 pending monthly bill']
+[Success][10:28:53] : ['09533506835, NORLYN A. BAMBAO/JOHN DAVE CABAÑERO: 1 pending monthly bill', '09656830021, NORMAN G. ESTELA: 1 pending monthly bill', '09267179058, NORMANDY TERO: 1 pending monthly bill']
+   [Fail][10:28:58] : ['09260459064, NORRIS L. PABILAN: 2 pending monthly bills', '09929977882, NOVA MAE REJES: 1 pending monthly bill', '09620758991, NOVE KENNETH OLIVEROS: 3 pending monthly bills']
+   [Fail][10:29:06] : ['09460915938, NOVELYN BUAL: 1 pending monthly bill', '09152352792, NYMPHA T. YGAÑA: 2 pending monthly bills', '09120919106, OFFICE OF THE MUNICIPAL AGRICULTURAL SERVICES: 1 pending monthly bill']
+   [Fail][10:29:11] : ['09510339338, OLIVE B. VILLAMERA: 2 pending monthly bills', '09922995824, OLIVER M. MONTER: 1 pending monthly bill', '09606574083, OPHE S. TERANA: 1 pending monthly bill']
+   [Fail][10:29:16] : ['09263682752, ORDANILO OCENAR: 1 pending monthly bill', '09173065680, PAQUITO T. JAYME: 1 pending monthly bill', '09465263694, PASTOR C. HERMOSILLA: 1 pending monthly bill']
+   [Fail][10:29:21] : ['09096314326, PATRICIA MAE BATALON: 1 pending monthly bill', '09124363223, PATROCINIA GOMEZ/JERIC COGAY: 1 pending monthly bill', '09944654917, PAUL E. CAYANONG: 1 pending monthly bill']
+   [Fail][10:29:26] : ['09677015301, PAULINA DUMAGUIT: 1 pending monthly bill', '09810940472, PAZ BALDOVISO: 2 pending monthly bills', '09537166309, PEQUITA A.SUNGAHID: 2 pending monthly bills']
+   [Fail][10:29:31] : ['09164281351, Peregrina M. Solana: 1 pending monthly bill', '09566186119, PERLA  A. FELIPE: 1 pending monthly bill', '09956171246, PHILIPPE LOUBEAN: 1 pending monthly bill']
+   [Fail][10:29:36] : ['09306354625, PLARISAN MELANIE RONDINA: 1 pending monthly bill', '09677017347, PRESCILA LIMBRE: 1 pending monthly bill', '09273518242, PRIMARIO C. POZON: 2 pending monthly bills']
+   [Fail][10:29:41] : ['09653766222, PRINCESS MAE RANQUE: 4 pending monthly bills', '09466747436, PRINCESS ZYRAH TERO: 2 pending monthly bills', '09338109095, PROSERFINA CANOY YBAÑEZ: 1 pending monthly bill']
+   [Fail][10:29:46] : ['09508664818, PROVINCIAL MULTI- SPECIES MARINE FISH HATCHERY: 1 pending monthly bill', '09306369461, QUERICA D. RUBIA: 1 pending monthly bill', '09158663587, RACHEL BOLANO/HANNA G. JUNTONG: 6 pending monthly bills']
+   [Fail][10:29:51] : ['09754450485, RACHELLE R. LEONES: 1 pending monthly bill', '09558439679, RAMON ITANG GAZO: 2 pending monthly bills', '09265019099, RAMON P. CAPANGPANGAN: 1 pending monthly bill']
+   [Fail][10:29:56] : ['09158662523, RANILYN  N. RANGCAPOLLO: 1 pending monthly bill', '09815501259, RANJIE E. BOHOL: 1 pending monthly bill', '09124349347, RAQUEL ANONG: 1 pending monthly bill']
+   [Fail][10:30:01] : ['09751542514, RAQUEL DELA CRUZ: 1 pending monthly bill', '09856183597, RAUL G. ITCHON / MDRRMO-MERIDA: 5 pending monthly bills', '09948379572, RAUL JUSAY JR: 1 pending monthly bill']
+   [Fail][10:30:06] : ['09854468349, RAUL P. BULAWIT JR.: 2 pending monthly bills', '09777138052, RAY JHAY ALAG: 2 pending monthly bills', '09771105503, RAYMOND ESPANTE: 2 pending monthly bills']
+   [Fail][10:30:11] : ['09306525750, RAYMOND P. LEYSON: 2 pending monthly bills', '09935774705, RAZEL DUBLOIS: 2 pending monthly bills', '09551367306, RECHELL C. PAGANGPANG: 1 pending monthly bill']
+   [Fail][10:30:16] : ['09551367306, RECHELL C. PAGANGPANG (3RD): 1 pending monthly bill', '09551367306, RECHELL PAGANGPANG 2ND ACC: 1 pending monthly bill', '09665293761, REDENCION R. CATAAG: 3 pending monthly bills']
+[Success][10:30:21] : ['09062393374, Redentor C. Navarro Jr.: 5 pending monthly bills', '09277135669, REDENTOR N. CODILLA SR.: 1 pending monthly bill', '09562365123, REGIE F. SOLANO: 2 pending monthly bills']
+[Success][10:30:26] : ['09692387912, REINALYN T. ROA: 2 pending monthly bills', '09358614539, RENANTE S. DELIS: 1 pending monthly bill', '09559647808, RENE A. TEJADA: 1 pending monthly bill']
+[Success][10:30:31] : ['09457438727, RESTHOUSE ( ROLANDO VILLACENSIO ): 4 pending monthly bills', '09561549760, RESTITUTO C. VELIGANIO: 2 pending monthly bills', '09502555362, RETCHIEL S. PETALLAR: 1 pending monthly bill']
+[Success][10:30:36] : ['09925727183, REUH DAYDAY: 2 pending monthly bills', '09261559482, REY A. CULOD SR.: 1 pending monthly bill', '09059608657, Reyls G. Yangson: 1 pending monthly bill']
+[Success][10:30:41] : ['09361020665, REYNALDO E. NAIDAS: 1 pending monthly bill', '09051230326, REZZA MAE P. SANCHEZ: 12 pending monthly bills', '09757351192, RHEA M. REYES: 1 pending monthly bill']
+[Success][10:30:46] : ['09977182191, RHEA MAE P. SAMUELE: 1 pending monthly bill', '09272859138, RHO ANN AGRAVIADOR: 1 pending monthly bill', '09510404143, RHODORA GARCIANO: 1 pending monthly bill']
+[Success][10:30:51] : ['09700228862, RHYME OTIDA: 10 pending monthly bills', '09051012670, RICARDO C. SERRANO: 1 pending monthly bill', '09774840456, RICARDO C. VASQUEZ: 1 pending monthly bill']
+[Success][10:30:56] : ['09120392770, RICKY S. PAGOLONG: 2 pending monthly bills', '09532214302, RINALYN VILAN: 2 pending monthly bills', '09260721030, RITCHEL PALAMOS: 1 pending monthly bill']
+   [Fail][10:31:01] : ['09207549824, RITCHIE CORBO: 2 pending monthly bills', '09570320316, RIZA ORAIS SACRO: 2 pending monthly bills', '09676631721, RIZA POLE  BARCOMA: 1 pending monthly bill']
+   [Fail][10:31:08] : ['09555980708, RJAY C. TELEN: 1 pending monthly bill', '09355191325, ROBERT T. PERALTA: 2 pending monthly bills', '09561177115, ROBERTO I. CAMACHO: 2 pending monthly bills']
+   [Fail][10:31:13] : ['09469224082, ROBINSON PELIGRO: 1 pending monthly bill', '09161592785, ROCELLE T. GALLARDO: 1 pending monthly bill', '09942364757, ROCELYN V. VIARINO: 1 pending monthly bill']
+   [Fail][10:31:18] : ['09392473469, ROCHELL D. PEROSO/MICHAEL PEROSO ( UT): 3 pending monthly bills', '09214838683, RODEL YU RAMAS (2ND ACCOUNT): 3 pending monthly bills', '09273710603, RODILA BUENAVENTURA: 1 pending monthly bill']
+   [Fail][10:31:23] : ['09918444025, ROEL ROMERO: 2 pending monthly bills', '09267922118, ROEL W. OLIVERIO: 1 pending monthly bill', '09264472581, ROGER GABRIELES: 2 pending monthly bills']
+   [Fail][10:31:28] : ['09942390871, ROGER MAGPATOC: 1 pending monthly bill', '09510450128, ROGER OLILA: 2 pending monthly bills', '09657022210, ROGER P. SALVA: 1 pending monthly bill']
+   [Fail][10:31:33] : ['09465262155, ROGYN B. PEPITO: 1 pending monthly bill', '09619691961, ROILAND VILLASENCIO: 2 pending monthly bills', '09281893326, ROLANDO P. CABAHUG: 8 pending monthly bills']
+   [Fail][10:31:38] : ['09150028748, ROLANDO POLIQUIT: 1 pending monthly bill', '09666536418, ROLANDO T. POSADAS: 1 pending monthly bill', '09619691961, ROLANDO VILLASENCIO: 2 pending monthly bills']
+   [Fail][10:31:43] : ['09751597982, ROLLIN JUDE T. MANAUG: 1 pending monthly bill', '09169416287, ROMAN B. DANGCOLIS JR.: 2 pending monthly bills', '09051029363, ROMILYN M. CAMPBELL: 1 pending monthly bill']
+   [Fail][10:31:48] : ['09261863018, Ronald M.Estampa: 1 pending monthly bill', '09154388193, RONALD SABAYLE: 2 pending monthly bills', '09063952749, RONALIE PUMAR: 1 pending monthly bill']
+   [Fail][10:31:53] : ['09501316555, RONALINE B. BACALSO: 8 pending monthly bills', '09510446438, RONAMAE G. VELASQUEZ: 1 pending monthly bill', '09453755550, RONAMAY PRINGLE: 2 pending monthly bills']
+   [Fail][10:31:58] : ['09354424719, RONEL BIO: 1 pending monthly bill', '09085835236, ROSALIA MARTINITO ALCARAZ: 3 pending monthly bills', '09815473553, ROSALINA AMBOJIA: 1 pending monthly bill']
+   [Fail][10:32:03] : ['09069501219, ROSALINA MASONG: 1 pending monthly bill', '09559651874, ROSALINDA A. PABILAN: 1 pending monthly bill', '09169143423, ROSALINDA COLANAG: 4 pending monthly bills']
+   [Fail][10:32:08] : ['09657103536, ROSEBELLIA A. CARAMPATAN: 1 pending monthly bill', '09917510922, ROSELDA APARIS: 1 pending monthly bill', '09604341838, ROSELITO B. LIMBO: 1 pending monthly bill']
+   [Fail][10:32:13] : ['09508670766, ROSELYN A. DACAL: 2 pending monthly bills', '09120494609, ROSELYN C. ESTUPA: 2 pending monthly bills', '09058835984, ROSELYN G. FLORES: 1 pending monthly bill']
+   [Fail][10:32:18] : ['09635844671, ROSEMARIE LARGO: 1 pending monthly bill', '09532696161, ROSEMARIE Y. MENDEZ: 1 pending monthly bill', '09551461921, ROSITA PECORRE: 2 pending monthly bills']
+   [Fail][10:32:23] : ['09273508101, ROWEL BERNAL: 1 pending monthly bill', '09369658754, ROWENA A JABONERO: 2 pending monthly bills', '09503586847, ROWENA C. CAHAPAY: 2 pending monthly bills']
+   [Fail][10:32:28] : ['09954324535, ROWENA L. SUSON: 1 pending monthly bill', '09666832648, ROWENA V. LABATA: 3 pending monthly bills', '09539861163, ROY G. GARCISO: 2 pending monthly bills']
+   [Fail][10:32:33] : ['09667927825, ROY MONTESCLAROS: 1 pending monthly bill', '09162354767, ROY PERNITO: 1 pending monthly bill', '09356203765, RUBELIN A. LURZANO: 2 pending monthly bills']
+   [Fail][10:32:38] : ['09073454065, RUBELYN POLIDO: 1 pending monthly bill', '09065424558, RUBIE SHEILA E. CARMEN: 1 pending monthly bill', '09661990758, RUDLON AGUELO: 1 pending monthly bill']
+   [Fail][10:32:43] : ['09750764270, RUDMAR PEROSO: 3 pending monthly bills', '09915492193, RUNETH ANN SOLANO: 1 pending monthly bill', '09688539851, RUSTICO CAPAHI SR. MEMORIAL NHS: 1 pending monthly bill']
+   [Fail][10:32:48] : ['09972482114, RYAN GONZAGA: 1 pending monthly bill', '09262300203, RYZA ARETHA CLAIRE A. BOOC: 1 pending monthly bill', '09182327757, SALVADOR A. GRIPO: 2 pending monthly bills']
+   [Fail][10:32:53] : ['09178781437, SAMSON S. CLARUS: 1 pending monthly bill', '09069323502, SAMUEL L. MIAGA 2: 1 pending monthly bill', '09952739313, SAN VICENTE ELEM. SCHOOL: 1 pending monthly bill']
+   [Fail][10:32:58] : ['09639179450, SANDY MARIEL AGUELO DIZON: 2 pending monthly bills', '09565513400, SANITO BASAN JR.: 1 pending monthly bill', '09171182458, SANTO ROSARIO ELEMENTARY SCHOOL: 1 pending monthly bill']
+   [Fail][10:33:03] : ['09121987724, SARAH SUMAGANG: 2 pending monthly bills', '09943794978, SEVERINO P. PIEZA JR.: 1 pending monthly bill', '09659967218, SHAINA ALQUILITA: 3 pending monthly bills']
+   [Fail][10:33:08] : ['09489437111, SHAINA MAE JAVIER: 2 pending monthly bills', '09157285385, SHALIMAR CASTRO: 2 pending monthly bills', '09393441960, SHANNA BEA ALBIENDA: 1 pending monthly bill']
+   [Fail][10:33:13] : ['09559135063, SHARMAINE C. LUARDO: 1 pending monthly bill', '09518212086, SHARMAINE M. MORALDE: 1 pending monthly bill', '09771600170, SHAYNE B. VENANCIO: 1 pending monthly bill']
+   [Fail][10:33:18] : ['09095002520, SHEEN MARIE Z. CAPUTOL: 2 pending monthly bills', '09151473495, SHEENA CASTANAS: 1 pending monthly bill', '09151473495, SHEENA F. CASTAÑAS (2ND ACCOUNT): 2 pending monthly bills']
+   [Fail][10:33:23] : ['09176378680, SHIELA MAE BANAAG POBLACION: 1 pending monthly bill', '09277748779, SHIELA MARIE GLORI PAEL: 1 pending monthly bill', '09059049613, SHIELDON C. CORTEL: 1 pending monthly bill']
+   [Fail][10:33:28] : ['09753926263, SHIRLEY A. VITAL/ROLEX OMOTO: 2 pending monthly bills', '09706814300, SIMPHILLIP B. SULLANO: 1 pending monthly bill', '09815957951, SK SAN JOAQUIN: 2 pending monthly bills']
+   [Fail][10:33:33] : ['09465179702, SONIA MARIA GOC-ONG: 2 pending monthly bills', '09513688640, SONNY BOLANIO: 1 pending monthly bill', '09454367317, SUSAN  S. CORTES: 1 pending monthly bill']
+   [Fail][10:33:38] : ['09533501818, SUSAN E. ROMERO: 1 pending monthly bill', '09056720904, SUSANA D . ZAMORA: 1 pending monthly bill', '09262585520, TAN MARISTELA SUSON: 2 pending monthly bills']
+   [Fail][10:33:43] : ['09158588865, TANGKAAN ELEMENTARY SCHOOL: 1 pending monthly bill', '09192040163, TEOFILA GLASER: 1 pending monthly bill', '09430910711, TERECITA S. CASTRO: 2 pending monthly bills']
+   [Fail][10:33:48] : ['09363990427, TERESITA MARAPOC: 1 pending monthly bill', '09774651536, TERISITA C. TURNER: 1 pending monthly bill', '09062456777, TISHA MAE MAHUSAY: 1 pending monthly bill']
+   [Fail][10:33:53] : ['09618866083, TITUS RODULFO D. PALERMO 2ND ACCOUNT: 2 pending monthly bills', '09618866083, TITUS RODULFO D. PALERMO 3RD ACCOUNT: 2 pending monthly bills', '09639621766, TRISHA M. ALVARADO: 2 pending monthly bills']
+   [Fail][10:33:58] : ['09756723014, VAN ROMO: 3 pending monthly bills', '09995063399, VANESSA R. GABISAY 2ND: 1 pending monthly bill', '09756303159, VENUS G. BARONTOY: 1 pending monthly bill']
+   [Fail][10:34:03] : ['09308184964, VERBEN TICOD ENATO: 2 pending monthly bills', '09058247055, VHIE JEAN B. MELANEZ: 1 pending monthly bill', '09207922068, VICTOR D. YCOY: 2 pending monthly bills']
+   [Fail][10:34:08] : ['09054163439, VICTORIA DEBIL: 2 pending monthly bills', '09750984458, VICTORIANO TANTOY GLORIA: 1 pending monthly bill', '09121639917, VILLA NORA T. CLARIN: 2 pending monthly bills']
+   [Fail][10:34:13] : ['09322323222, VILMA B. CHALLIS: 2 pending monthly bills', '09651335090, VINCENT B. MILO: 1 pending monthly bill', '09662995975, VIRGINIA N. MORENO: 1 pending monthly bill']
+   [Fail][10:34:18] : ['09171139395, Vychille Ann Ramos: 3 pending monthly bills', '09502994202, WARLYN GATO: 3 pending monthly bills', '09563600008, WENCESLAO M. QUIROS: 1 pending monthly bill']
+   [Fail][10:34:23] : ['09354895628, WENNIE LISTON SABENORIO: 3 pending monthly bills', '09614640374, WENZIL M. OSORES: 1 pending monthly bill', '09676004795, WILFREDA E. TAGBAK: 1 pending monthly bill']
+   [Fail][10:34:28] : ['09630741323, WILMA L.BATING: 1 pending monthly bill', '09454330136, WILMA M. ESTRERA: 1 pending monthly bill', '09774042697, WILMA MANTILLA VALENCIA: 1 pending monthly bill']
+   [Fail][10:34:33] : ['09817759652, WILMAR R. PITOGO: 2 pending monthly bills', '09205262890, WILSON S. ACERO: 1 pending monthly bill', '09705340236, WILYN A.MIPARANOM: 1 pending monthly bill']
+   [Fail][10:34:38] : ['09973574247, WINSTON O. SOLEJON: 1 pending monthly bill', '09916185465, YHOBEL MAY E. ALEJANRIA: 1 pending monthly bill', '09164276409, YNIER GULFO ENERO: 2 pending monthly bills']
+   [Fail][10:34:43] : ['09155257968, YSRAEL I FLORES: 1 pending monthly bill', '09555441147, ZENAIDA P. CONCEPCION: 1 pending monthly bill', '09093158128, ZOSIMO O. AMATRIL: 2 pending monthly bills']
+   [Fail][10:34:48] : ['09815957182, QLT: Success notification!', '09094180770, QLT: Success notification!', '09857754576, ABELARDO SUÑER: 2 pending monthly bills']
+   [Fail][10:34:53] : ['09066112946, ABUNDIO PAGALAN JR.: 1 pending monthly bill', '09265906357, ADELITA A. PERNITO: 1 pending monthly bill', '09656245195, ADENA A. TOLIBAS (SECOND ACCOUNT): 2 pending monthly bills']
+   [Fail][10:34:58] : ['09216631592, ADRIAN PETER T. MOSCH: 1 pending monthly bill', '09533182946, AGUINALDO ELEMENTARY SCHOOL: 1 pending monthly bill', '09924837269, ARCELYN TERO: 2 pending monthly bills']
+   [Fail][10:35:03] : ['09551581062, Arfe D. Magallano: 1 pending monthly bill', '09995715448, ARIEL D. KAINDOY/BFP MACROHON: 1 pending monthly bill', '09154203199, ARIEL JOSEPH TORRION: 1 pending monthly bill']
+   [Fail][10:35:08] : ['09176596965, ARIEL S. MOSOT: 2 pending monthly bills', '09274666256, ARLYN MANTILLA: 1 pending monthly bill', '09539865018, ARMANDO YBAÑEZ JR.: 2 pending monthly bills']
+[Success][10:35:13] : ['09295445813, ARSENIO DEDACE: 1 pending monthly bill', '09550922550, ARVIN A. CARAAN: 1 pending monthly bill', '09559643324, ASTERIA I. PEPITO: 2 pending monthly bills']
+[Success][10:35:18] : ['09924955016, ASUNCION MANAUG: 3 pending monthly bills', '09675060709, AXELL D. EBO: 1 pending monthly bill', '09563624837, BALTAZAR C. CASAS: 2 pending monthly bills']
+[Success][10:35:23] : ['09107969966, BARANGAY LOWER VILLA JACINTA/SHIELA MAE M. PLORIDA: 1 pending monthly bill', '09262921568, BARANGGAY LUNGSODAAN: 2 pending monthly bills', '09926853397, BASMAYOR  JESSEL VILLAROSA: 1 pending monthly bill']
+[Success][10:35:28] : ['09163535132, BEATRIZ REGINO: 1 pending monthly bill', '09362200347, BELMER LIGAN LUMBA: 1 pending monthly bill', '09562973164, BENIDA C ARDINES: 1 pending monthly bill']
+[Success][10:35:33] : ['09051266373, BENJAMIN V. CASTAÑAS: 4 pending monthly bills', '09639119654, BERLITO PADILLA: 2 pending monthly bills', '09070671189, BERNADETH C. SEGUIDO: 2 pending monthly bills']
+[Success][10:35:38] : ['09075810003, BERNADETTE ALDIANO: 2 pending monthly bills', '09171370298, BERNADETTE PETEROS: 2 pending monthly bills', '09950011745, BERNARD S. DORIA: 1 pending monthly bill']
+[Success][10:35:43] : ['09120960843, BERNIE L. YOMERO: 1 pending monthly bill', '09561031509, BITUIN MONSANTO: 3 pending monthly bills', '09076159355, BLESSED GRACE BADA: 2 pending monthly bills']
+[Success][10:35:48] : ['09551379555, BLGU BUNGA: 1 pending monthly bill', '09279382384, BLGU- STO. ROSARIO: 1 pending monthly bill', '09056852719, BLUE SAPPHIRE AGGREGATES CONSTRUCTION & SUPPLY INC.: 1 pending monthly bill']
+[Success][10:35:53] : ['09758081194, BRENDA F. ABINON: 2 pending monthly bills', '09933866924, BRGY. MOLOPOLO, MACROHON/LONIBETH M. MAGPATOC: 1 pending monthly bill', '09275509395, BRIAN A. CARRIDO: 1 pending monthly bill']
+[Success][10:35:58] : ['09669562080, BRIAN N. SUBANG: 1 pending monthly bill', '09366490846, BRIANNA MARIE S. WALKER: 1 pending monthly bill', '09955044985, BRYAN ABEJO: 1 pending monthly bill']
+[Success][10:36:03] : ['09929905758, BRYL D. DACLAN: 1 pending monthly bill', '09280394164, BUNGA ELEMENTARY MULTI-GRADE SCHOOL: 1 pending monthly bill', '09504221309, CHONA M. ESMERO: 1 pending monthly bill']
+[Success][10:36:08] : ['09062459164, CHRISTIAN PAUL ECOY: 2 pending monthly bills', '09066086636, CHRISTIAN REY E. BARING: 1 pending monthly bill', '09666518675, CHRISTIANNE KYLE ESPERANZA: 1 pending monthly bill']
+   [Fail][10:36:13] : ['09973296133, CHRISTINE  C. SIMANGCA: 1 pending monthly bill', '09656242920, CHRISTINE C. BORJA: 1 pending monthly bill', '09120731292, CHRISTINE JOY ECO: 1 pending monthly bill']
+   [Fail][10:36:21] : ['09317296791, CHRISTINE M. SENOSIN: 2 pending monthly bills', '09633439771, CHRISTINE MAY VILLAMAR: 1 pending monthly bill', '09100038879, CHRISTINE S. QUIAMCO: 2 pending monthly bills']
+   [Fail][10:36:26] : ['09515907611, CINDY LEOPARDAS: 1 pending monthly bill', '09510402374, CINDY LOQUIAS GLORIA: 1 pending monthly bill', '09639117675, CITADEL L. PAREJA: 2 pending monthly bills']
+   [Fail][10:36:31] : ['09357192703, CLAIRE CANTERO: 1 pending monthly bill', '09125267727, CLARIN RAMIL ZAPANTA 2: 1 pending monthly bill', '09105194842, CLARIZA B. POGOY: 2 pending monthly bills']
+   [Fail][10:36:36] : ['09389665808, CLEOFE S. ALKUINO: 2 pending monthly bills', '09993039221, CLIFF GARCERA: 1 pending monthly bill', '09367353974, CLINT CATCHARRO: 1 pending monthly bill']
+   [Fail][10:36:41] : ['09495720389, CONCHITA YNOT: 1 pending monthly bill', '09972440032, Conigondes Taguik: 1 pending monthly bill', '09304722991, CONRADO C. MIAGA JR.: 1 pending monthly bill']
+   [Fail][10:36:46] : ['09202901896, CONSTANTINE, JOHN DEJON: 1 pending monthly bill', '09121029459, CRIS E. NAPULI: 1 pending monthly bill', '09120960863, CRISALJEN MORCEN: 1 pending monthly bill']
+   [Fail][10:36:51] : ['09975417161, CRISTINA VELORIA: 1 pending monthly bill', '09058264631, CRISTINE  G. MATIG-ALDAO: 1 pending monthly bill', '09267928047, CRISTINE CABAHUG: 3 pending monthly bills']
+   [Fail][10:36:56] : ['09156713761, CRISTINE MAE NOVAL: 3 pending monthly bills', '09169565982, CRISTY TOROCTOCON: 2 pending monthly bills', '09519437016, CURVA ELEMENTARY SCHOOL 2: 1 pending monthly bill']
+   [Fail][10:37:01] : ['09519437016, CURVA ELEMENTARY SCHOOL/ ELVIRA DE LEON: 1 pending monthly bill', '09067848762, DAISY J. SENDREJAS: 1 pending monthly bill', '09677551890, DAISY P. PUNAY: 1 pending monthly bill']
+   [Fail][10:37:06] : ['09477207138, DAIZA JEAN HORCA: 1 pending monthly bill', '09478467462, DAMASINO C. CASTRO: 1 pending monthly bill', '09665768927, JESSICA JOY D. OCTOBRE: 2 pending monthly bills']
+   [Fail][10:37:11] : ['09927836415, JESSIE B. CORRALES: 3 pending monthly bills', '09816332763, JESSIE O. PABILAR: 1 pending monthly bill', '09359324727, JILLIAN HOPE C. CARUNGAY: 5 pending monthly bills']
+   [Fail][10:37:16] : ['09075058056, JIMMY LOU C. DIVA: 2 pending monthly bills', '09317614690, JIMUEL C. PONTALBA: 1 pending monthly bill', '09465067597, JINSON GAVIOLA: 1 pending monthly bill']
+   [Fail][10:37:21] : ['09815466027, JOAN P. GUINAREZ: 3 pending monthly bills', '09560943459, JOANA DOMINQUE B. YUNSON: 2 pending monthly bills', '09363930670, JOANA FE CERVANTES: 2 pending monthly bills']
+   [Fail][10:37:26] : ['09391071895, JOCELYN CASTRO: 2 pending monthly bills', '09169067525, JOCELYN F. ROSAL: 1 pending monthly bill', '09066158727, JORLITA RAMOS MORALES: 3 pending monthly bills']
+   [Fail][10:37:31] : ['09300327913, JOSE MANUEL A. DAMAYO: 1 pending monthly bill', '09693838766, JOSEPH COGAY: 1 pending monthly bill', '09754648291, JOSEPH M. GUCELA JR.(BA-DO-DO): 2 pending monthly bills']
+[Success][10:37:36] : ['09956096001, JOSEPHINE R. ORTULA: 3 pending monthly bills', '09168898576, JOSHUA B. MONTAJES: 1 pending monthly bill', '09368220342, JOSHUA BRYAN C. OBEJERO: 4 pending monthly bills']
+[Success][10:37:41] : ['09989682226, JOSHUA T. ARIAS: 2 pending monthly bills', '09352728189, JOVITO DALUGDUGAN: 2 pending monthly bills', '09673277637, JOVY LUCAÑAS TYANNIKOV: 3 pending monthly bills']
+[Success][10:37:46] : ['09473711619, JOY M. GOFF: 3 pending monthly bills', '09667356604, JOYCE D. NUÑEZ: 1 pending monthly bill', '09196224167, JOYCE S. DELA CRUZ: 2 pending monthly bills']
+[Success][10:37:51] : ['09554936435, JOYLEN ANTONINO: 1 pending monthly bill', '09307860893, JUANITA D. SINGSON: 1 pending monthly bill', '09177266421, Jube Elma C. Calatrava: 1 pending monthly bill']
+[Success][10:37:56] : ['09951867506, JUDILYN PAYOD: 2 pending monthly bills', '09165336878, JUDITHA MANDRAS: 2 pending monthly bills', '09274396702, JUDY VIE BUYA: 1 pending monthly bill']
+[Success][10:38:01] : ['09363268728, JULIA Y. DALION: 4 pending monthly bills', '09277749138, JULIACRIS MANATAD: 2 pending monthly bills', '09852994681, JULIETA GONZAGA JUPIA: 3 pending monthly bills']
+[Success][10:38:06] : ['09502946813, JULINA AMORES: 1 pending monthly bill', '09098783730, JULITO SARINO BOLANO/JURISA BOLANO: 3 pending monthly bills', '09664983184, JUNDINO CASE RAZON: 1 pending monthly bill']
+[Success][10:38:11] : ['09066094876, JUNEMAR O. PANTONIAL: 3 pending monthly bills', '09363870869, JUNMARIE JONGAY: 2 pending monthly bills', '09363763207, JUSTIN M. PALERMO: 2 pending monthly bills']
+   [Fail][10:38:16] : ['09510348385, JUVELYN T. MAHAYAG: 2 pending monthly bills', '09362763696, JUVIE S. GENARES: 1 pending monthly bill', '09453372661, KAREN A. CARBA: 1 pending monthly bill']
+   [Fail][10:38:22] : ['09267923530, KAREN ANTIGUA: 1 pending monthly bill', '09300830990, KAREN CARTAGENA: 1 pending monthly bill', '09178781517, KAREN P. BORER: 2 pending monthly bills']
+   [Fail][10:38:27] : ['09067893688, KARL ANTHONY DONAIRE: 4 pending monthly bills', '09673244011, KARLA MAE D. LEOVERAS: 1 pending monthly bill', '09290295398, KASSANDRA CLAIRE O. REYNERA: 1 pending monthly bill']
+   [Fail][10:38:32] : ['09471473313, KATHERINE LAURETO: 3 pending monthly bills', '09499407059, KATHERINE S. ABLEN: 1 pending monthly bill', '09267020405, KATHRYN D. ESPINA: 2 pending monthly bills']
+   [Fail][10:38:37] : ['09972586436, KENT JEROME C. DIAZ: 3 pending monthly bills', '09754642037, KEVIN M. RADAM: 2 pending monthly bills', '09506516668, MARICAR C. CASINILLO: 1 pending monthly bill']
+   [Fail][10:38:42] : ['09851326230, MARICAR MILLAN: 2 pending monthly bills', '09754767977, MARICAR N. DEGUIA: 2 pending monthly bills', '09771105733, MARICEL PITOGO: 3 pending monthly bills']
+   [Fail][10:38:47] : ['09631001168, MARICRIS RODRIGUEZ AMORIN: 1 pending monthly bill', '09502458534, MARIDOL DAJAB: 1 pending monthly bill', '09751543390, MARIENE T. GAVIOLA: 1 pending monthly bill']
+   [Fail][10:38:52] : ['09474547943, MARIFE ACEBUCHE: 2 pending monthly bills', '09518520615, MARILOU A. CASTELLANO: 1 pending monthly bill', '09369658690, MARILOU R. IMBOC: 1 pending monthly bill']
+   [Fail][10:38:57] : ['09176587296, MARILYN E. SABALO: 1 pending monthly bill', '09169070414, MARINA M. SARABIA: 1 pending monthly bill', '09308870993, MARIO GARROTE: 1 pending monthly bill']
+   [Fail][10:39:02] : ['09169579673, MARIPOL PEARSON CELEDIO: 1 pending monthly bill', '09451270765, MARISSA DOLLENTAS: 1 pending monthly bill', '09356488238, MARISSA T. GALDO: 1 pending monthly bill']
+   [Fail][10:39:07] : ['09362705840, MARITES M. BARCELON: 1 pending monthly bill', '09461722522, MARITESS M. BACTINDON: 1 pending monthly bill', '09263651418, MARJAN ARAÑA: 2 pending monthly bills']
+   [Fail][10:39:12] : ['09457130898, MARJORIE B. MEPAÑA: 2 pending monthly bills', '09925821554, MARK HENSON G MIRA: 1 pending monthly bill', '09967148843, MARK LORENZ AREÑA/SEFF TRANSPORT SERVICES: 2 pending monthly bills']
+   [Fail][10:39:17] : ['09569877856, MARK TRISTAN M. MATEO: 1 pending monthly bill', '09367862644, Marlon G. Catubig: 2 pending monthly bills', '09398829336, MARLON O. ESTELA: 2 pending monthly bills']
+   [Fail][10:39:22] : ['09700568554, MARVI B. LIM: 2 pending monthly bills', '09754304629, MARVIN P. ORONOS: 1 pending monthly bill', '09950365697, MARY ANN BERNALES: 1 pending monthly bill']
+   [Fail][10:39:27] : ['09533559963, MARY ANN RISMA: 2 pending monthly bills', '09926793323, MARY ERLINEOR D. ESTUNINA: 2 pending monthly bills', '09532697549, MARY IMELY Z. MAXINO: 1 pending monthly bill']
+   [Fail][10:39:32] : ['09514196045, MARY JOYCE SENDREJAS: 2 pending monthly bills', '09759771048, MARY VENICE BOOK: 1 pending monthly bill', '09989843247, MAY ANN P. TANIO: 1 pending monthly bill']
+[Success][10:39:37] : ['09758184482, MDRRMO OFFICE-LGU PADRE BURGOS: 1 pending monthly bill', '09677284135, MELAGROS MERRO: 1 pending monthly bill', '09485378459, MELANIE MATRES  GERUNDIO: 2 pending monthly bills']
+[Success][10:39:42] : ['09654124731, MELESSA M. SAN JUAN: 2 pending monthly bills', '09694896279, MELONIE AMPOAN: 1 pending monthly bill', '09531633574, MERCEDITA T. MIÑOZA: 2 pending monthly bills']
+[Success][10:39:47] : ['09061961876, MERHADZ M. MANTILLA: 1 pending monthly bill', '09924022344, MERIE JEAN M. MANTILLA: 1 pending monthly bill', '09695481561, MERLINA BORJA SEVANDAL: 1 pending monthly bill']
+[Success][10:39:52] : ['09564355438, MERLINDA P. MARTINEZ: 2 pending monthly bills', '09691771889, MERLITA T. ALDIANO: 1 pending monthly bill', '09126332948, MERLYN SAGAYNO PALACIO: 1 pending monthly bill']
+[Success][10:39:57] : ['09468636694, METRA, MARIA IRENE ROSE R.: 2 pending monthly bills', '09535126566, MIA VEY D. UBAY: 1 pending monthly bill', '09485164420, MICHAEL L. FORMENTO: 2 pending monthly bills']
+[Success][10:40:02] : ['09771616683, MICHELLE A. TOLENTINO: 1 pending monthly bill', '09457333175, MICHELLE APUYA: 1 pending monthly bill', '09260459064, NORRIS L. PABILAN: 2 pending monthly bills']
+[Success][10:40:07] : ['09929977882, NOVA MAE REJES: 1 pending monthly bill', '09620758991, NOVE KENNETH OLIVEROS: 3 pending monthly bills', '09460915938, NOVELYN BUAL: 1 pending monthly bill']
+[Success][10:40:12] : ['09152352792, NYMPHA T. YGAÑA: 2 pending monthly bills', '09120919106, OFFICE OF THE MUNICIPAL AGRICULTURAL SERVICES: 1 pending monthly bill', '09510339338, OLIVE B. VILLAMERA: 2 pending monthly bills']
+[Success][10:40:17] : ['09922995824, OLIVER M. MONTER: 1 pending monthly bill', '09606574083, OPHE S. TERANA: 1 pending monthly bill', '09263682752, ORDANILO OCENAR: 1 pending monthly bill']
+[Success][10:40:22] : ['09173065680, PAQUITO T. JAYME: 1 pending monthly bill', '09465263694, PASTOR C. HERMOSILLA: 1 pending monthly bill', '09096314326, PATRICIA MAE BATALON: 1 pending monthly bill']
+[Success][10:40:27] : ['09124363223, PATROCINIA GOMEZ/JERIC COGAY: 1 pending monthly bill', '09944654917, PAUL E. CAYANONG: 1 pending monthly bill', '09677015301, PAULINA DUMAGUIT: 1 pending monthly bill']
+[Success][10:40:32] : ['09810940472, PAZ BALDOVISO: 2 pending monthly bills', '09537166309, PEQUITA A.SUNGAHID: 2 pending monthly bills', '09164281351, Peregrina M. Solana: 1 pending monthly bill']
+[Success][10:40:37] : ['09566186119, PERLA  A. FELIPE: 1 pending monthly bill', '09956171246, PHILIPPE LOUBEAN: 1 pending monthly bill', '09306354625, PLARISAN MELANIE RONDINA: 1 pending monthly bill']
+[Success][10:40:42] : ['09677017347, PRESCILA LIMBRE: 1 pending monthly bill', '09273518242, PRIMARIO C. POZON: 2 pending monthly bills', '09653766222, PRINCESS MAE RANQUE: 4 pending monthly bills']
+[Success][10:40:47] : ['09466747436, PRINCESS ZYRAH TERO: 2 pending monthly bills', '09338109095, PROSERFINA CANOY YBAÑEZ: 1 pending monthly bill', '09508664818, PROVINCIAL MULTI- SPECIES MARINE FISH HATCHERY: 1 pending monthly bill']
+[Success][10:40:52] : ['09306369461, QUERICA D. RUBIA: 1 pending monthly bill', '09158663587, RACHEL BOLANO/HANNA G. JUNTONG: 6 pending monthly bills', '09754450485, RACHELLE R. LEONES: 1 pending monthly bill']
+[Success][10:40:57] : ['09558439679, RAMON ITANG GAZO: 2 pending monthly bills', '09265019099, RAMON P. CAPANGPANGAN: 1 pending monthly bill', '09158662523, RANILYN  N. RANGCAPOLLO: 1 pending monthly bill']
+[Success][10:41:02] : ['09815501259, RANJIE E. BOHOL: 1 pending monthly bill', '09124349347, RAQUEL ANONG: 1 pending monthly bill', '09751542514, RAQUEL DELA CRUZ: 1 pending monthly bill']
+[Success][10:41:07] : ['09856183597, RAUL G. ITCHON / MDRRMO-MERIDA: 5 pending monthly bills', '09948379572, RAUL JUSAY JR: 1 pending monthly bill', '09854468349, RAUL P. BULAWIT JR.: 2 pending monthly bills']
+[Success][10:41:12] : ['09777138052, RAY JHAY ALAG: 2 pending monthly bills', '09771105503, RAYMOND ESPANTE: 2 pending monthly bills', '09306525750, RAYMOND P. LEYSON: 2 pending monthly bills']
+[Success][10:41:17] : ['09935774705, RAZEL DUBLOIS: 2 pending monthly bills', '09551367306, RECHELL C. PAGANGPANG: 1 pending monthly bill', '09551367306, RECHELL C. PAGANGPANG (3RD): 1 pending monthly bill']
+[Success][10:41:22] : ['09551367306, RECHELL PAGANGPANG 2ND ACC: 1 pending monthly bill', '09665293761, REDENCION R. CATAAG: 3 pending monthly bills', '09207549824, RITCHIE CORBO: 2 pending monthly bills']
+[Success][10:41:27] : ['09570320316, RIZA ORAIS SACRO: 2 pending monthly bills', '09676631721, RIZA POLE  BARCOMA: 1 pending monthly bill', '09555980708, RJAY C. TELEN: 1 pending monthly bill']
+[Success][10:41:32] : ['09355191325, ROBERT T. PERALTA: 2 pending monthly bills', '09561177115, ROBERTO I. CAMACHO: 2 pending monthly bills', '09469224082, ROBINSON PELIGRO: 1 pending monthly bill']
+[Success][10:41:37] : ['09161592785, ROCELLE T. GALLARDO: 1 pending monthly bill', '09942364757, ROCELYN V. VIARINO: 1 pending monthly bill', '09392473469, ROCHELL D. PEROSO/MICHAEL PEROSO ( UT): 3 pending monthly bills']
+[Success][10:41:42] : ['09214838683, RODEL YU RAMAS (2ND ACCOUNT): 3 pending monthly bills', '09273710603, RODILA BUENAVENTURA: 1 pending monthly bill', '09918444025, ROEL ROMERO: 2 pending monthly bills']
+[Success][10:41:47] : ['09267922118, ROEL W. OLIVERIO: 1 pending monthly bill', '09264472581, ROGER GABRIELES: 2 pending monthly bills', '09942390871, ROGER MAGPATOC: 1 pending monthly bill']
+[Success][10:41:52] : ['09510450128, ROGER OLILA: 2 pending monthly bills', '09657022210, ROGER P. SALVA: 1 pending monthly bill', '09465262155, ROGYN B. PEPITO: 1 pending monthly bill']
+[Success][10:41:57] : ['09619691961, ROILAND VILLASENCIO: 2 pending monthly bills', '09281893326, ROLANDO P. CABAHUG: 8 pending monthly bills', '09150028748, ROLANDO POLIQUIT: 1 pending monthly bill']
+[Success][10:42:03] : ['09666536418, ROLANDO T. POSADAS: 1 pending monthly bill', '09619691961, ROLANDO VILLASENCIO: 2 pending monthly bills', '09751597982, ROLLIN JUDE T. MANAUG: 1 pending monthly bill']
+[Success][10:42:08] : ['09169416287, ROMAN B. DANGCOLIS JR.: 2 pending monthly bills', '09051029363, ROMILYN M. CAMPBELL: 1 pending monthly bill', '09261863018, Ronald M.Estampa: 1 pending monthly bill']
+[Success][10:42:13] : ['09154388193, RONALD SABAYLE: 2 pending monthly bills', '09063952749, RONALIE PUMAR: 1 pending monthly bill', '09501316555, RONALINE B. BACALSO: 8 pending monthly bills']
+[Success][10:42:18] : ['09510446438, RONAMAE G. VELASQUEZ: 1 pending monthly bill', '09453755550, RONAMAY PRINGLE: 2 pending monthly bills', '09354424719, RONEL BIO: 1 pending monthly bill']
+[Success][10:42:23] : ['09085835236, ROSALIA MARTINITO ALCARAZ: 3 pending monthly bills', '09815473553, ROSALINA AMBOJIA: 1 pending monthly bill', '09069501219, ROSALINA MASONG: 1 pending monthly bill']
+[Success][10:42:28] : ['09559651874, ROSALINDA A. PABILAN: 1 pending monthly bill', '09169143423, ROSALINDA COLANAG: 4 pending monthly bills', '09657103536, ROSEBELLIA A. CARAMPATAN: 1 pending monthly bill']
+[Success][10:42:33] : ['09917510922, ROSELDA APARIS: 1 pending monthly bill', '09604341838, ROSELITO B. LIMBO: 1 pending monthly bill', '09508670766, ROSELYN A. DACAL: 2 pending monthly bills']
+[Success][10:42:38] : ['09120494609, ROSELYN C. ESTUPA: 2 pending monthly bills', '09058835984, ROSELYN G. FLORES: 1 pending monthly bill', '09635844671, ROSEMARIE LARGO: 1 pending monthly bill']
+[Success][10:42:43] : ['09532696161, ROSEMARIE Y. MENDEZ: 1 pending monthly bill', '09551461921, ROSITA PECORRE: 2 pending monthly bills', '09273508101, ROWEL BERNAL: 1 pending monthly bill']
+[Success][10:42:48] : ['09369658754, ROWENA A JABONERO: 2 pending monthly bills', '09503586847, ROWENA C. CAHAPAY: 2 pending monthly bills', '09954324535, ROWENA L. SUSON: 1 pending monthly bill']
+[Success][10:42:53] : ['09666832648, ROWENA V. LABATA: 3 pending monthly bills', '09539861163, ROY G. GARCISO: 2 pending monthly bills', '09667927825, ROY MONTESCLAROS: 1 pending monthly bill']
+[Success][10:42:58] : ['09162354767, ROY PERNITO: 1 pending monthly bill', '09356203765, RUBELIN A. LURZANO: 2 pending monthly bills', '09073454065, RUBELYN POLIDO: 1 pending monthly bill']
+[Success][10:43:03] : ['09065424558, RUBIE SHEILA E. CARMEN: 1 pending monthly bill', '09661990758, RUDLON AGUELO: 1 pending monthly bill', '09750764270, RUDMAR PEROSO: 3 pending monthly bills']
+[Success][10:43:08] : ['09915492193, RUNETH ANN SOLANO: 1 pending monthly bill', '09688539851, RUSTICO CAPAHI SR. MEMORIAL NHS: 1 pending monthly bill', '09972482114, RYAN GONZAGA: 1 pending monthly bill']
+   [Fail][10:43:13] : ['09262300203, RYZA ARETHA CLAIRE A. BOOC: 1 pending monthly bill', '09182327757, SALVADOR A. GRIPO: 2 pending monthly bills', '09178781437, SAMSON S. CLARUS: 1 pending monthly bill']
+[Success][10:43:18] : ['09069323502, SAMUEL L. MIAGA 2: 1 pending monthly bill', '09952739313, SAN VICENTE ELEM. SCHOOL: 1 pending monthly bill', '09639179450, SANDY MARIEL AGUELO DIZON: 2 pending monthly bills']
+[Success][10:43:23] : ['09565513400, SANITO BASAN JR.: 1 pending monthly bill', '09171182458, SANTO ROSARIO ELEMENTARY SCHOOL: 1 pending monthly bill', '09121987724, SARAH SUMAGANG: 2 pending monthly bills']
+[Success][10:43:28] : ['09943794978, SEVERINO P. PIEZA JR.: 1 pending monthly bill', '09659967218, SHAINA ALQUILITA: 3 pending monthly bills', '09489437111, SHAINA MAE JAVIER: 2 pending monthly bills']
+[Success][10:43:33] : ['09157285385, SHALIMAR CASTRO: 2 pending monthly bills', '09393441960, SHANNA BEA ALBIENDA: 1 pending monthly bill', '09559135063, SHARMAINE C. LUARDO: 1 pending monthly bill']
+[Success][10:43:38] : ['09518212086, SHARMAINE M. MORALDE: 1 pending monthly bill', '09771600170, SHAYNE B. VENANCIO: 1 pending monthly bill', '09095002520, SHEEN MARIE Z. CAPUTOL: 2 pending monthly bills']
+[Success][10:43:43] : ['09151473495, SHEENA CASTANAS: 1 pending monthly bill', '09151473495, SHEENA F. CASTAÑAS (2ND ACCOUNT): 2 pending monthly bills', '09176378680, SHIELA MAE BANAAG POBLACION: 1 pending monthly bill']
+   [Fail][10:43:48] : ['09277748779, SHIELA MARIE GLORI PAEL: 1 pending monthly bill', '09059049613, SHIELDON C. CORTEL: 1 pending monthly bill', '09753926263, SHIRLEY A. VITAL/ROLEX OMOTO: 2 pending monthly bills']
+   [Fail][10:43:53] : ['09706814300, SIMPHILLIP B. SULLANO: 1 pending monthly bill', '09815957951, SK SAN JOAQUIN: 2 pending monthly bills', '09465179702, SONIA MARIA GOC-ONG: 2 pending monthly bills']
+[Success][10:43:58] : ['09513688640, SONNY BOLANIO: 1 pending monthly bill', '09454367317, SUSAN  S. CORTES: 1 pending monthly bill', '09533501818, SUSAN E. ROMERO: 1 pending monthly bill']
+[Success][10:44:03] : ['09056720904, SUSANA D . ZAMORA: 1 pending monthly bill', '09262585520, TAN MARISTELA SUSON: 2 pending monthly bills', '09158588865, TANGKAAN ELEMENTARY SCHOOL: 1 pending monthly bill']
+[Success][10:44:08] : ['09192040163, TEOFILA GLASER: 1 pending monthly bill', '09430910711, TERECITA S. CASTRO: 2 pending monthly bills', '09363990427, TERESITA MARAPOC: 1 pending monthly bill']
+[Success][10:44:13] : ['09774651536, TERISITA C. TURNER: 1 pending monthly bill', '09062456777, TISHA MAE MAHUSAY: 1 pending monthly bill', '09618866083, TITUS RODULFO D. PALERMO 2ND ACCOUNT: 2 pending monthly bills']
+[Success][10:44:18] : ['09618866083, TITUS RODULFO D. PALERMO 3RD ACCOUNT: 2 pending monthly bills', '09639621766, TRISHA M. ALVARADO: 2 pending monthly bills', '09756723014, VAN ROMO: 3 pending monthly bills']
+[Success][10:44:23] : ['09995063399, VANESSA R. GABISAY 2ND: 1 pending monthly bill', '09756303159, VENUS G. BARONTOY: 1 pending monthly bill', '09308184964, VERBEN TICOD ENATO: 2 pending monthly bills']
+[Success][10:44:28] : ['09058247055, VHIE JEAN B. MELANEZ: 1 pending monthly bill', '09207922068, VICTOR D. YCOY: 2 pending monthly bills', '09054163439, VICTORIA DEBIL: 2 pending monthly bills']
+[Success][10:44:33] : ['09750984458, VICTORIANO TANTOY GLORIA: 1 pending monthly bill', '09121639917, VILLA NORA T. CLARIN: 2 pending monthly bills', '09322323222, VILMA B. CHALLIS: 2 pending monthly bills']
+[Success][10:44:38] : ['09651335090, VINCENT B. MILO: 1 pending monthly bill', '09662995975, VIRGINIA N. MORENO: 1 pending monthly bill', '09171139395, Vychille Ann Ramos: 3 pending monthly bills']
+[Success][10:44:43] : ['09502994202, WARLYN GATO: 3 pending monthly bills', '09563600008, WENCESLAO M. QUIROS: 1 pending monthly bill', '09354895628, WENNIE LISTON SABENORIO: 3 pending monthly bills']
+[Success][10:44:48] : ['09614640374, WENZIL M. OSORES: 1 pending monthly bill', '09676004795, WILFREDA E. TAGBAK: 1 pending monthly bill', '09630741323, WILMA L.BATING: 1 pending monthly bill']
+[Success][10:44:53] : ['09454330136, WILMA M. ESTRERA: 1 pending monthly bill', '09774042697, WILMA MANTILLA VALENCIA: 1 pending monthly bill', '09817759652, WILMAR R. PITOGO: 2 pending monthly bills']
+[Success][10:44:58] : ['09205262890, WILSON S. ACERO: 1 pending monthly bill', '09705340236, WILYN A.MIPARANOM: 1 pending monthly bill', '09973574247, WINSTON O. SOLEJON: 1 pending monthly bill']
+[Success][10:45:03] : ['09916185465, YHOBEL MAY E. ALEJANRIA: 1 pending monthly bill', '09164276409, YNIER GULFO ENERO: 2 pending monthly bills', '09155257968, YSRAEL I FLORES: 1 pending monthly bill']
+[Success][10:45:08] : ['09555441147, ZENAIDA P. CONCEPCION: 1 pending monthly bill', '09093158128, ZOSIMO O. AMATRIL: 2 pending monthly bills', '09815957182, QLT: Success notification!']
+[Success][10:45:13] : ['09094180770, QLT: Success notification!', '09857754576, ABELARDO SUÑER: 2 pending monthly bills', '09066112946, ABUNDIO PAGALAN JR.: 1 pending monthly bill']
+[Success][10:45:18] : ['09265906357, ADELITA A. PERNITO: 1 pending monthly bill', '09656245195, ADENA A. TOLIBAS (SECOND ACCOUNT): 2 pending monthly bills', '09216631592, ADRIAN PETER T. MOSCH: 1 pending monthly bill']
+[Success][10:45:23] : ['09533182946, AGUINALDO ELEMENTARY SCHOOL: 1 pending monthly bill', '09924837269, ARCELYN TERO: 2 pending monthly bills', '09551581062, Arfe D. Magallano: 1 pending monthly bill']
+   [Fail][10:45:28] : ['09995715448, ARIEL D. KAINDOY/BFP MACROHON: 1 pending monthly bill', '09154203199, ARIEL JOSEPH TORRION: 1 pending monthly bill', '09176596965, ARIEL S. MOSOT: 2 pending monthly bills']
+   [Fail][10:45:33] : ['09274666256, ARLYN MANTILLA: 1 pending monthly bill', '09539865018, ARMANDO YBAÑEZ JR.: 2 pending monthly bills', '09973296133, CHRISTINE  C. SIMANGCA: 1 pending monthly bill']
+   [Fail][10:45:38] : ['09656242920, CHRISTINE C. BORJA: 1 pending monthly bill', '09120731292, CHRISTINE JOY ECO: 1 pending monthly bill', '09317296791, CHRISTINE M. SENOSIN: 2 pending monthly bills']
+   [Fail][10:45:43] : ['09633439771, CHRISTINE MAY VILLAMAR: 1 pending monthly bill', '09100038879, CHRISTINE S. QUIAMCO: 2 pending monthly bills', '09515907611, CINDY LEOPARDAS: 1 pending monthly bill']
+   [Fail][10:45:48] : ['09510402374, CINDY LOQUIAS GLORIA: 1 pending monthly bill', '09639117675, CITADEL L. PAREJA: 2 pending monthly bills', '09357192703, CLAIRE CANTERO: 1 pending monthly bill']
+   [Fail][10:45:53] : ['09125267727, CLARIN RAMIL ZAPANTA 2: 1 pending monthly bill', '09105194842, CLARIZA B. POGOY: 2 pending monthly bills', '09389665808, CLEOFE S. ALKUINO: 2 pending monthly bills']
+   [Fail][10:45:59] : ['09993039221, CLIFF GARCERA: 1 pending monthly bill', '09367353974, CLINT CATCHARRO: 1 pending monthly bill', '09495720389, CONCHITA YNOT: 1 pending monthly bill']
+   [Fail][10:46:04] : ['09972440032, Conigondes Taguik: 1 pending monthly bill', '09304722991, CONRADO C. MIAGA JR.: 1 pending monthly bill', '09202901896, CONSTANTINE, JOHN DEJON: 1 pending monthly bill']
+   [Fail][10:46:09] : ['09121029459, CRIS E. NAPULI: 1 pending monthly bill', '09120960863, CRISALJEN MORCEN: 1 pending monthly bill', '09975417161, CRISTINA VELORIA: 1 pending monthly bill']
+   [Fail][10:46:14] : ['09058264631, CRISTINE  G. MATIG-ALDAO: 1 pending monthly bill', '09267928047, CRISTINE CABAHUG: 3 pending monthly bills', '09156713761, CRISTINE MAE NOVAL: 3 pending monthly bills']
+   [Fail][10:46:19] : ['09169565982, CRISTY TOROCTOCON: 2 pending monthly bills', '09519437016, CURVA ELEMENTARY SCHOOL 2: 1 pending monthly bill', '09519437016, CURVA ELEMENTARY SCHOOL/ ELVIRA DE LEON: 1 pending monthly bill']
+   [Fail][10:46:24] : ['09067848762, DAISY J. SENDREJAS: 1 pending monthly bill', '09677551890, DAISY P. PUNAY: 1 pending monthly bill', '09477207138, DAIZA JEAN HORCA: 1 pending monthly bill']
+   [Fail][10:46:29] : ['09478467462, DAMASINO C. CASTRO: 1 pending monthly bill', '09665768927, JESSICA JOY D. OCTOBRE: 2 pending monthly bills', '09927836415, JESSIE B. CORRALES: 3 pending monthly bills']
+   [Fail][10:46:34] : ['09816332763, JESSIE O. PABILAR: 1 pending monthly bill', '09359324727, JILLIAN HOPE C. CARUNGAY: 5 pending monthly bills', '09075058056, JIMMY LOU C. DIVA: 2 pending monthly bills']
+   [Fail][10:46:39] : ['09317614690, JIMUEL C. PONTALBA: 1 pending monthly bill', '09465067597, JINSON GAVIOLA: 1 pending monthly bill', '09815466027, JOAN P. GUINAREZ: 3 pending monthly bills']
+[Success][10:46:44] : ['09560943459, JOANA DOMINQUE B. YUNSON: 2 pending monthly bills', '09363930670, JOANA FE CERVANTES: 2 pending monthly bills', '09391071895, JOCELYN CASTRO: 2 pending monthly bills']
+[Success][10:46:49] : ['09169067525, JOCELYN F. ROSAL: 1 pending monthly bill', '09066158727, JORLITA RAMOS MORALES: 3 pending monthly bills', '09300327913, JOSE MANUEL A. DAMAYO: 1 pending monthly bill']
+[Success][10:46:54] : ['09693838766, JOSEPH COGAY: 1 pending monthly bill', '09754648291, JOSEPH M. GUCELA JR.(BA-DO-DO): 2 pending monthly bills', '09510348385, JUVELYN T. MAHAYAG: 2 pending monthly bills']
+[Success][10:46:59] : ['09362763696, JUVIE S. GENARES: 1 pending monthly bill', '09453372661, KAREN A. CARBA: 1 pending monthly bill', '09267923530, KAREN ANTIGUA: 1 pending monthly bill']
+[Success][10:47:04] : ['09300830990, KAREN CARTAGENA: 1 pending monthly bill', '09178781517, KAREN P. BORER: 2 pending monthly bills', '09067893688, KARL ANTHONY DONAIRE: 4 pending monthly bills']
+[Success][10:47:09] : ['09673244011, KARLA MAE D. LEOVERAS: 1 pending monthly bill', '09290295398, KASSANDRA CLAIRE O. REYNERA: 1 pending monthly bill', '09471473313, KATHERINE LAURETO: 3 pending monthly bills']
+[Success][10:47:14] : ['09499407059, KATHERINE S. ABLEN: 1 pending monthly bill', '09267020405, KATHRYN D. ESPINA: 2 pending monthly bills', '09972586436, KENT JEROME C. DIAZ: 3 pending monthly bills']
+[Success][10:47:19] : ['09754642037, KEVIN M. RADAM: 2 pending monthly bills', '09506516668, MARICAR C. CASINILLO: 1 pending monthly bill', '09851326230, MARICAR MILLAN: 2 pending monthly bills']
+[Success][10:47:24] : ['09754767977, MARICAR N. DEGUIA: 2 pending monthly bills', '09771105733, MARICEL PITOGO: 3 pending monthly bills', '09631001168, MARICRIS RODRIGUEZ AMORIN: 1 pending monthly bill']
+[Success][10:47:29] : ['09502458534, MARIDOL DAJAB: 1 pending monthly bill', '09751543390, MARIENE T. GAVIOLA: 1 pending monthly bill', '09474547943, MARIFE ACEBUCHE: 2 pending monthly bills']
+[Success][10:47:34] : ['09518520615, MARILOU A. CASTELLANO: 1 pending monthly bill', '09369658690, MARILOU R. IMBOC: 1 pending monthly bill', '09176587296, MARILYN E. SABALO: 1 pending monthly bill']
+[Success][10:47:39] : ['09169070414, MARINA M. SARABIA: 1 pending monthly bill', '09308870993, MARIO GARROTE: 1 pending monthly bill', '09169579673, MARIPOL PEARSON CELEDIO: 1 pending monthly bill']
+[Success][10:47:44] : ['09451270765, MARISSA DOLLENTAS: 1 pending monthly bill', '09356488238, MARISSA T. GALDO: 1 pending monthly bill', '09362705840, MARITES M. BARCELON: 1 pending monthly bill']
+[Success][10:47:49] : ['09461722522, MARITESS M. BACTINDON: 1 pending monthly bill', '09263651418, MARJAN ARAÑA: 2 pending monthly bills', '09457130898, MARJORIE B. MEPAÑA: 2 pending monthly bills']
+[Success][10:47:54] : ['09925821554, MARK HENSON G MIRA: 1 pending monthly bill', '09967148843, MARK LORENZ AREÑA/SEFF TRANSPORT SERVICES: 2 pending monthly bills', '09569877856, MARK TRISTAN M. MATEO: 1 pending monthly bill']
+[Success][10:47:59] : ['09367862644, Marlon G. Catubig: 2 pending monthly bills', '09398829336, MARLON O. ESTELA: 2 pending monthly bills', '09700568554, MARVI B. LIM: 2 pending monthly bills']
+[Success][10:48:04] : ['09754304629, MARVIN P. ORONOS: 1 pending monthly bill', '09950365697, MARY ANN BERNALES: 1 pending monthly bill', '09533559963, MARY ANN RISMA: 2 pending monthly bills']
+[Success][10:48:09] : ['09926793323, MARY ERLINEOR D. ESTUNINA: 2 pending monthly bills', '09532697549, MARY IMELY Z. MAXINO: 1 pending monthly bill', '09514196045, MARY JOYCE SENDREJAS: 2 pending monthly bills']
+[Success][10:48:14] : ['09759771048, MARY VENICE BOOK: 1 pending monthly bill', '09989843247, MAY ANN P. TANIO: 1 pending monthly bill', '09262300203, RYZA ARETHA CLAIRE A. BOOC: 1 pending monthly bill']
+[Success][10:48:19] : ['09182327757, SALVADOR A. GRIPO: 2 pending monthly bills', '09178781437, SAMSON S. CLARUS: 1 pending monthly bill', '09277748779, SHIELA MARIE GLORI PAEL: 1 pending monthly bill']
+[Success][10:48:24] : ['09059049613, SHIELDON C. CORTEL: 1 pending monthly bill', '09753926263, SHIRLEY A. VITAL/ROLEX OMOTO: 2 pending monthly bills', '09706814300, SIMPHILLIP B. SULLANO: 1 pending monthly bill']
+[Success][10:48:29] : ['09815957951, SK SAN JOAQUIN: 2 pending monthly bills', '09465179702, SONIA MARIA GOC-ONG: 2 pending monthly bills', '09995715448, ARIEL D. KAINDOY/BFP MACROHON: 1 pending monthly bill']
+[Success][10:48:34] : ['09154203199, ARIEL JOSEPH TORRION: 1 pending monthly bill', '09176596965, ARIEL S. MOSOT: 2 pending monthly bills', '09274666256, ARLYN MANTILLA: 1 pending monthly bill']
+[Success][10:48:39] : ['09539865018, ARMANDO YBAÑEZ JR.: 2 pending monthly bills', '09973296133, CHRISTINE  C. SIMANGCA: 1 pending monthly bill', '09656242920, CHRISTINE C. BORJA: 1 pending monthly bill']
+[Success][10:48:44] : ['09120731292, CHRISTINE JOY ECO: 1 pending monthly bill', '09317296791, CHRISTINE M. SENOSIN: 2 pending monthly bills', '09633439771, CHRISTINE MAY VILLAMAR: 1 pending monthly bill']
+[Success][10:48:49] : ['09100038879, CHRISTINE S. QUIAMCO: 2 pending monthly bills', '09515907611, CINDY LEOPARDAS: 1 pending monthly bill', '09510402374, CINDY LOQUIAS GLORIA: 1 pending monthly bill']
+[Success][10:48:54] : ['09639117675, CITADEL L. PAREJA: 2 pending monthly bills', '09357192703, CLAIRE CANTERO: 1 pending monthly bill', '09125267727, CLARIN RAMIL ZAPANTA 2: 1 pending monthly bill']
+[Success][10:48:59] : ['09105194842, CLARIZA B. POGOY: 2 pending monthly bills', '09389665808, CLEOFE S. ALKUINO: 2 pending monthly bills', '09993039221, CLIFF GARCERA: 1 pending monthly bill']
+[Success][10:49:04] : ['09367353974, CLINT CATCHARRO: 1 pending monthly bill', '09495720389, CONCHITA YNOT: 1 pending monthly bill', '09972440032, Conigondes Taguik: 1 pending monthly bill']
+[Success][10:49:09] : ['09304722991, CONRADO C. MIAGA JR.: 1 pending monthly bill', '09202901896, CONSTANTINE, JOHN DEJON: 1 pending monthly bill', '09121029459, CRIS E. NAPULI: 1 pending monthly bill']
+[Success][10:49:14] : ['09120960863, CRISALJEN MORCEN: 1 pending monthly bill', '09975417161, CRISTINA VELORIA: 1 pending monthly bill', '09058264631, CRISTINE  G. MATIG-ALDAO: 1 pending monthly bill']
+[Success][10:49:19] : ['09267928047, CRISTINE CABAHUG: 3 pending monthly bills', '09156713761, CRISTINE MAE NOVAL: 3 pending monthly bills', '09169565982, CRISTY TOROCTOCON: 2 pending monthly bills']
+[Success][10:49:24] : ['09519437016, CURVA ELEMENTARY SCHOOL 2: 1 pending monthly bill', '09519437016, CURVA ELEMENTARY SCHOOL/ ELVIRA DE LEON: 1 pending monthly bill', '09067848762, DAISY J. SENDREJAS: 1 pending monthly bill']
+[Success][10:49:29] : ['09677551890, DAISY P. PUNAY: 1 pending monthly bill', '09477207138, DAIZA JEAN HORCA: 1 pending monthly bill', '09478467462, DAMASINO C. CASTRO: 1 pending monthly bill']
+[Success][10:49:34] : ['09665768927, JESSICA JOY D. OCTOBRE: 2 pending monthly bills', '09927836415, JESSIE B. CORRALES: 3 pending monthly bills', '09816332763, JESSIE O. PABILAR: 1 pending monthly bill']
+[Success][10:49:39] : ['09359324727, JILLIAN HOPE C. CARUNGAY: 5 pending monthly bills', '09075058056, JIMMY LOU C. DIVA: 2 pending monthly bills', '09317614690, JIMUEL C. PONTALBA: 1 pending monthly bill']
+[Success][10:49:44] : ['09465067597, JINSON GAVIOLA: 1 pending monthly bill', '09815466027, JOAN P. GUINAREZ: 3 pending monthly bills']
+
+[Rejected Records]:
+ALDETH R MECASIA, 0955003630: Invalid Contact Number
+CHARITO BAGUION, 0997 927 1542: Invalid Contact Number
+GERLYN P. GECALE, 0950158956: Invalid Contact Number
+IRENE A. GABUYA, 0905857572880: Invalid Contact Number
+IRISH L. DELA CRUZ, 0948667352: Invalid Contact Number
+JELLY JOY OCHEA, 094648402384: Invalid Contact Number
+JENNIFER RODRIGUEZ, 091931749975: Invalid Contact Number
+JOEL NORONIO, 0949279686: Invalid Contact Number
+JULITA MANGALO, 093173136554: Invalid Contact Number
+MARIA FAITH BELLO, 08984022314: Invalid Contact Number
+MARIANNIE ALICABA CORTEZ, Sitio Kapangia: Invalid Contact Number
+MARIETA C. COTO, 0946665641: Invalid Contact Number
+MARY GRACE P. LIMBRE, 096540665560: Invalid Contact Number
+MEMCO MACROHON SATELLITE, 570-8978: Invalid Contact Number
+METCHIE S. ASTROLOGO, 095525000431: Invalid Contact Number
+NIELCY J. CASINILLO, BGRY,Hilapnita: Invalid Contact Number
+
+[Error Records]:
+[Error Message][10:09:27] : timed out
+[Error Message][10:09:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09656245195', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[Error Message][10:12:00] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09539865018', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[Error Message][10:12:05] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09559643324', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:12:10] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09563624837', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:12:15] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09926853397', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:12:20] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09562973164', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:12:25] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09070671189', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:12:30] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09950011745', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:12:35] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09076159355', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:12:40] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09056852719', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:12:45] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09275509395', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:12:50] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09955044985', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:13:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09666518675', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[Error Message][10:13:50] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09120731292', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:13:55] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09100038879', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:14:00] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09639117675', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:14:05] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09105194842', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:14:10] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09367353974', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:14:15] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09304722991', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:14:20] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09120960863', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:14:25] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09267928047', '=message=Hello, as of October 2024, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:14:30] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09519437016', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:14:35] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09677551890', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:21:06] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09816332763', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[Error Message][10:21:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09075058056', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=action failed (6)'], ['!done']]
+[Error Message][10:21:46] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09363930670', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[Error Message][10:22:39] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09754648291', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[Error Message][10:22:44] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09368220342', '=message=Hello, as of October 2024, you have 4 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:22:49] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09673277637', '=message=Hello, as of October 2024, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:22:54] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09196224167', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:22:59] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09177266421', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:23:04] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09274396702', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:23:09] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09852994681', '=message=Hello, as of October 2024, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:23:15] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09664983184', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:23:20] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09363763207', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:23:25] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09453372661', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:23:30] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09178781517', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:23:35] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09290295398', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:23:40] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09267020405', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:26:23] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09771105733', '=message=Hello, as of October 2024, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[Error Message][10:26:28] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09751543390', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:26:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09369658690', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:26:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09308870993', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:26:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09356488238', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:26:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09263651418', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:26:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09967148843', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:26:58] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09398829336', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:27:03] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09950365697', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:27:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09532697549', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:27:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09989843247', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:27:18] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09485378459', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:27:23] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09531633574', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:27:28] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09695481561', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:27:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09126332948', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:27:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09485164420', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:29:06] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09460915938', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[Error Message][10:29:11] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09510339338', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:29:16] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09263682752', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:29:21] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09096314326', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:29:26] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09677015301', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:29:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09164281351', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:29:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09306354625', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:29:41] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09653766222', '=message=Hello, as of October 2024, you have 4 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:29:46] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09508664818', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:29:51] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09754450485', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:29:56] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158662523', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:30:01] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09751542514', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:30:06] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09854468349', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:30:11] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09306525750', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:30:16] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09551367306', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:31:01] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09570320316', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[Error Message][10:31:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09555980708', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:31:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09469224082', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:31:18] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09392473469', '=message=Hello, as of October 2024, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:31:23] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09918444025', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:31:28] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09942390871', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:31:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09465262155', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:31:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09150028748', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:31:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09751597982', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:31:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09261863018', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:31:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09501316555', '=message=Hello, as of October 2024, you have 8 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:31:58] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09354424719', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:32:03] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09069501219', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:32:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09657103536', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:32:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09508670766', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:32:18] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09635844671', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[Error Message][10:32:23] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09273508101', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:32:28] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09954324535', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:32:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09667927825', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:32:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09073454065', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:32:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09750764270', '=message=Hello, as of October 2024, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:32:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09972482114', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:32:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09178781437', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:32:58] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09639179450', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:33:03] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09121987724', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:33:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09489437111', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:33:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09559135063', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:33:18] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09095002520', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:33:23] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09176378680', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:33:28] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09753926263', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:33:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09465179702', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:33:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09533501818', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:33:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09158588865', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:33:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09363990427', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:33:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09618866083', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:33:58] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09756723014', '=message=Hello, as of October 2024, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:34:03] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09308184964', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:34:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09054163439', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:34:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09322323222', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:34:18] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09171139395', '=message=Hello, as of October 2024, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', "=message=failure: Failed to acquire, can't find device"], ['!done']]
+[Error Message][10:34:23] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09354895628', '=message=Hello, as of October 2024, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', "=message=failure: Failed to acquire, can't find device"], ['!done']]
+[Error Message][10:34:28] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09630741323', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', "=message=failure: Failed to acquire, can't find device"], ['!done']]
+[Error Message][10:34:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09817759652', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', "=message=failure: Failed to acquire, can't find device"], ['!done']]
+[Error Message][10:34:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09973574247', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', "=message=failure: Failed to acquire, can't find device"], ['!done']]
+[Error Message][10:34:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09155257968', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', "=message=failure: Failed to acquire, can't find device"], ['!done']]
+[Error Message][10:34:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09815957182', '=message=Monthly bill notification has been successfully sent!')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:34:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09066112946', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:34:58] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09216631592', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:35:03] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09551581062', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:35:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09176596965', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:36:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09973296133', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[Error Message][10:36:21] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09317296791', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:36:26] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09515907611', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:36:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09357192703', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:36:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09389665808', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:36:41] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09495720389', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:36:46] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09202901896', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:36:51] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09975417161', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:36:56] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09156713761', '=message=Hello, as of October 2024, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:37:06] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09477207138', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:37:11] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09927836415', '=message=Hello, as of October 2024, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:37:16] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09075058056', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:37:21] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09815466027', '=message=Hello, as of October 2024, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:37:26] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09391071895', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:37:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09300327913', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:38:16] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09362763696', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[Error Message][10:38:22] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09267923530', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:38:27] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09067893688', '=message=Hello, as of October 2024, you have 4 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:38:32] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09471473313', '=message=Hello, as of October 2024, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:38:37] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09972586436', '=message=Hello, as of October 2024, you have 3 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:38:42] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09851326230', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:38:47] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09631001168', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:38:52] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09474547943', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:38:57] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09176587296', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:39:02] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09169579673', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:39:07] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09362705840', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:39:12] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09457130898', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:39:17] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09569877856', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:39:22] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09700568554', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:39:27] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09533559963', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:39:32] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09514196045', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:43:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09262300203', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[Error Message][10:43:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09277748779', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=action failed (6)'], ['!done']]
+[Error Message][10:43:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09815957951', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[Error Message][10:45:28] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09995715448', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[Error Message][10:45:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09274666256', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:45:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09656242920', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:45:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09633439771', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:45:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09510402374', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:45:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09125267727', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:45:59] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09993039221', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:46:04] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09972440032', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:46:09] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09121029459', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][10:46:14] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09058264631', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:46:19] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09169565982', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:46:24] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09067848762', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:46:29] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09478467462', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:46:34] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09816332763', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][10:46:39] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09317614690', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09815957182 or on our Facebook page. By Queens Link Technology.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+
+
+
+10/26/2024 - 13:51:07
+FTTH Monthly Notification
+Branch : Queens Link - Palompon
+Message : Hello, as of October 2024, you have # pending monthly bills. Contact us at 09623162972 or on our Facebook page. By Queens Link - Palompon.
+   [Fail][13:51:07] : ['09513679059, ALFREDO N. MILES JR.: 1 pending monthly bill', '09513657694, HELEN R. DELA PAZ: 1 pending monthly bill', '09552243106, RHODORA ARMENTA: 1 pending monthly bill']
+   [Fail][13:51:16] : ['09064445280, RYAN D. PEÑARANDA: 2 pending monthly bills', '09460638865, SALVADO B. WASLO: 12 pending monthly bills', '09623162972, QLTPL: Success notification!']
+   [Fail][13:51:24] : ['09094180770, QLTPL: Success notification!', '09513679059, ALFREDO N. MILES JR.: 1 pending monthly bill', '09513657694, HELEN R. DELA PAZ: 1 pending monthly bill']
+   [Fail][13:51:29] : ['09552243106, RHODORA ARMENTA: 1 pending monthly bill', '09064445280, RYAN D. PEÑARANDA: 2 pending monthly bills', '09460638865, SALVADO B. WASLO: 12 pending monthly bills']
+   [Fail][13:51:34] : ['09623162972, QLTPL: Success notification!', '09094180770, QLTPL: Success notification!', '09513679059, ALFREDO N. MILES JR.: 1 pending monthly bill']
+   [Fail][13:51:39] : ['09513657694, HELEN R. DELA PAZ: 1 pending monthly bill', '09552243106, RHODORA ARMENTA: 1 pending monthly bill', '09064445280, RYAN D. PEÑARANDA: 2 pending monthly bills']
+   [Fail][13:51:44] : ['09460638865, SALVADO B. WASLO: 12 pending monthly bills', '09623162972, QLTPL: Success notification!', '09094180770, QLTPL: Success notification!']
+   [Fail][13:51:49] : ['09513679059, ALFREDO N. MILES JR.: 1 pending monthly bill', '09513657694, HELEN R. DELA PAZ: 1 pending monthly bill', '09552243106, RHODORA ARMENTA: 1 pending monthly bill']
+   [Fail][13:51:54] : ['09064445280, RYAN D. PEÑARANDA: 2 pending monthly bills', '09460638865, SALVADO B. WASLO: 12 pending monthly bills', '09623162972, QLTPL: Success notification!']
+   [Fail][13:51:59] : ['09094180770, QLTPL: Success notification!', '09513679059, ALFREDO N. MILES JR.: 1 pending monthly bill', '09513657694, HELEN R. DELA PAZ: 1 pending monthly bill']
+   [Fail][13:52:04] : ['09552243106, RHODORA ARMENTA: 1 pending monthly bill', '09064445280, RYAN D. PEÑARANDA: 2 pending monthly bills', '09460638865, SALVADO B. WASLO: 12 pending monthly bills']
+[Success][13:52:09] : ['09623162972, QLTPL: Success notification!', '09094180770, QLTPL: Success notification!', '09513679059, ALFREDO N. MILES JR.: 1 pending monthly bill']
+[Success][13:52:14] : ['09513657694, HELEN R. DELA PAZ: 1 pending monthly bill', '09552243106, RHODORA ARMENTA: 1 pending monthly bill', '09064445280, RYAN D. PEÑARANDA: 2 pending monthly bills']
+[Success][13:52:20] : ['09460638865, SALVADO B. WASLO: 12 pending monthly bills']
+
+[Rejected Records]:
+ARSENIA I.ENCIENZO, 9274396755: Invalid Contact Number
+BABY BERNADETTE MONTEMOR, 9554019575: Invalid Contact Number
+DAHLIA E. PACQUIAO, BRGY.JORDAN 1: Invalid Contact Number
+JOSEPH DEMETERIO, 0965610505: Invalid Contact Number
+JUDITH ANN  IMPOC, 091087531847: Invalid Contact Number
+LUCENO AYA-AY, 0991729564: Invalid Contact Number
+MARK ANTHONY BERNAL, 9198675461: Invalid Contact Number
+MARLO O.OBANDO, 092986640291: Invalid Contact Number
+MARY ANN P.YBAÑEZ, 0909383167: Invalid Contact Number
+NATHANIEL S. ISIDRO II, 097736443672: Invalid Contact Number
+SEVENTH DAY ADVENTIST, 095010340033: Invalid Contact Number
+TERESITA ANTHONY 2, 0927 471 6250: Invalid Contact Number
+
+[Error Records]:
+[Error Message][13:51:07] : timed out
+[Error Message][13:51:24] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09094180770', '=message=Monthly bill notification has been successfully sent from QLTPL!')
+Returned an error: [['!trap', '=message=failure: port timeout'], ['!done']]
+[Error Message][13:51:29] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09552243106', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09623162972 or on our Facebook page. By Queens Link - Palompon.')
+Returned an error: [['!trap', '=message=failure: device stat down'], ['!done']]
+[Error Message][13:51:34] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09623162972', '=message=Monthly bill notification has been successfully sent!')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][13:51:39] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09513657694', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09623162972 or on our Facebook page. By Queens Link - Palompon.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][13:51:44] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09460638865', '=message=Hello, as of October 2024, you have 12 pending monthly bills. Contact us at 09623162972 or on our Facebook page. By Queens Link - Palompon.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][13:51:49] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09513679059', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09623162972 or on our Facebook page. By Queens Link - Palompon.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][13:51:54] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09064445280', '=message=Hello, as of October 2024, you have 2 pending monthly bills. Contact us at 09623162972 or on our Facebook page. By Queens Link - Palompon.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][13:51:59] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09094180770', '=message=Monthly bill notification has been successfully sent from QLTPL!')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+[Error Message][13:52:04] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09552243106', '=message=Hello, as of October 2024, you have 1 pending monthly bill. Contact us at 09623162972 or on our Facebook page. By Queens Link - Palompon.')
+Returned an error: [['!trap', '=message=failure: Failed to acquire, LTE not active'], ['!done']]
+
+
+

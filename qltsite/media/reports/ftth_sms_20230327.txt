@@ -1,0 +1,703 @@
+OLT : Albuera OLT
+Message : Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.
+OLT : Albuera OLT
+Message : Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.
+
+[Success][11:10:00] : ['09093529532: AIRA C. SALILI', '09159768449: ALDEN PUNAY', '09106036618: ALEXANDER E. FLORITO']
+[Success][11:10:07] : ['09985771460: ALLAN B. DENDEN', '09260461761: ALLAN O. CELEDONIO', '09364989369: ALLYM B. PIANO']
+[Success][11:10:14] : ['09154766807: ALMA C. CAYANONG', '09263386274: AMELITA MACAMAY', '09282925009: ANALYN C. TAGLE']
+[Success][11:10:20] : ['09151961215: Andreas c. Ortula', '09262909325: ANDRIA L. FALCONE', '09556543574: ANGEL R. NAPISA']
+[Success][11:10:36] : ['09559642178: ANGELO C. GALLARDO', '09751542772: ANNA MARIE Y. TUMAMAK', '09991559701: ANNABELLE C. TAMPOS']
+[Success][11:10:51] : ['09677018225: ARCHIE E. CASTRO', '09064441681: Balugo National H.S. (Junior)', '09064441681: Balugo National H.S. (Senior)']
+[Success][11:11:07] : ['09922480169: BETHANY J. BERAY', '09076159355: BLESSED GRACE BADA', '09366490846: BRIANNA MARIE S. WALKER']
+[Success][11:11:14] : ['09128760966: BYRON MARIE S. CABILING', '09653608856: CANTIGA L. FRANCISCO', '09159602611: CAREN JANE A. ATANACIO']
+[Success][11:11:21] : ['09263117509: CATHERINE C. PADAGDAG', '09458536575: CELSA P. YGANA', '09365360756: CESAR MARVIN A. FERNANDEZ']
+[Success][11:11:28] : ['09532209087: CHERRY V. GALAURA', '09093327438: CHRISTINE LIZA B. SALVACION', '09639117675: CITADEL L. PAREJA']
+[Success][11:11:34] : ['09096630249: CONRADO D. OCHAVILLO', '09458533131: CORAZON GUMOP-AS (2nd Account)', '09458533131: CORAZON GUMOP-AS BERNAL']
+[Success][11:11:41] : ['09569123547: CRISTINA AVILA', '09953209928: CRISTINA D. JANSON', '09975417161: CRISTINA VELORIA']
+[Success][11:11:49] : ['09532454118: DAINA C. DESADES', '09677510675: DAISY D. PADLA', '09568500850: DAMULAAN NATIONAL HIGH SCHOOL (SENIOR HIGH)']
+[Success][11:11:55] : ['09751595958: DEEJAY M. LUMANAO', '09167859787: DENNIS D. INGENTE', '09354209724: DIVINA VELEZ']
+[Success][11:12:02] : ['09756762952: DORESA RICA', '09702241033: DYAN AGORDO', '09468032910: EDGARDO C. OCHAVILLO']
+[Success][11:12:09] : ['09701708142: EDITHA GULANE', '09063951750: ELENA M. EBERO', '09268753806: ELEZABETH R. MARAPOC']
+[Success][11:12:16] : ['09095380173: ELMER C. ALKUINO', '09260717547: Elmer R. Ang Jr.', '09051037416: ELOISA GRACE V. MANCILLA']
+[Success][11:12:23] : ['09184629116: EMELITO I. FLORES', '09458533332: ESMERALDA C. TAGANAHAN', '09398174183: EVELYN G. POLANGCUS']
+[Success][11:12:29] : ['09464441863: FEBIE A. ALISON', '09357454906: FLORDELIZA G. MANILA', '09273307056: Florencia Reondo']
+[Success][11:12:36] : ['09266736984: GENARA CALABIA', '09510326533: GERLYN R. MALATAMBAN', '09567832864: GLAIZA GRACE P. LAURITO']
+[Success][11:12:43] : ['09062459164: GRACE R. PEÑAFIEL', '09278589811: GRACE YGAÑA', '09655524963: HANNIE PEARL G. PIANO']
+[Success][11:12:50] : ['09052853684: JACKLYN AVILA DEL ROSARIO', '09651338927: JAIME VELARDE', '09659448360: JAMES A. CARIÑO']
+[Success][11:12:57] : ['09604062965: JANICE IMAZEKI', '09063947476: JEDEL TAYONG', '09533199340: JENEVEB E. MORENO']
+[Success][11:13:12] : ['09355831832: JENIC P. MORENO', '09154204881: JESSAN P. LEQUIN', '09067732608: JESSON O. EBERO']
+[Success][11:13:19] : ['09061021712: JESTONI OMOTO', '09773875405: JIEBOY P. BERTOS', '09692602491: JOAN B. PEREZ']
+[Success][11:13:26] : ['09058037820: JOCELYN P. VILLAMOR', '09096672187: JOSELITO C. MANAPCO', '09956096001: JOSEPHINE R. ORTULA']
+[Success][11:13:33] : ['09277043117: JOVANIE C. PEREZ/EDERLINA S. GRANADA', '09673277637: JOVY LUCAÑAS TYANNIKOV', '09051757517: JUANITO CELEDIO']
+[Success][11:13:39] : ['09273102625: JUSAN E. GAMUSA', '09267923530: KAREN ANTIGUA', '09156565365: KARLO JAMES SEMILLA']
+[Success][11:13:47] : ['09176335366: KENN KANGLEON', '09058615820: KIET L. APORADOR', '09672544172: KIMBERLY D. PASIGNA']
+[Success][11:13:53] : ['09770294013: LEA LUNZAGA', '09262584150: LENITH J. CABISON', '09265010661: LEONIDES D. LIPARDO']
+[Success][11:14:00] : ['09630622163: LESTER M. LLENAS', '09533506066: LEZABETH M. CASTAÑARES', '09265014990: LIBRADA N. DELAGANAR']
+[Success][11:14:07] : ['09169459050: LILEBETH C. LONGAKIT', '09083708015: LOURDES B. VISBAL', '09391088282: LOVELY F. DE LEON']
+[Success][11:14:13] : ['09275464479: LUCENA T. JUANILLO', '09067563276: LYDIA GORRE', '09461320106: MA. JANET C. PAQUETTE']
+[Success][11:14:19] : ['09606635068: MA. JESSICA N. IBAY', '09063947579: MA. LOLITA L. AERNI', '09973511153: MA. LOURDES M. CALIZAR']
+[Success][11:14:26] : ['09154384194: MA. PERLITA C. LUNDAY', '09954714889: MALOU GICA', '09567987685: MANDEL B. BUCABUCA']
+[Success][11:14:33] : ['09062612012: MARIA CHARITO O L. TODAVIA', '09759945206: MARIA GENEZEN C. POLIQUIT', '09368421026: MARIA JEVEE P. LUMAPAS']
+[Success][11:14:40] : ['09277524320: MARIA LIZA P. MIRARAN', '09157626353: MARIA LOINA TRIGOSA', '09653602961: MARIA REGINE P. CAPARAS']
+[Success][11:14:47] : ['09972852469: MARIA SALOME E. CANTIGA', '09350229616: MARIAN CATAG-CATAG', '09666536480: MARIE MAE F. BERNALDEZ']
+[Success][11:14:54] : ['09615916398: MARIETA T. MACAPAÑAS', '09169579673: MARIPOL PEARSON CELEDIO', '09532453899: MARIS A. BERMUDEZ']
+[Success][11:15:01] : ['09054442917: MARISSA M. MOAÑA', '09391011320: MARK GEL MARAPOC', '09533506066: MARK ROY CASTAÑARES']
+[Success][11:15:07] : ['09488878061: Marlito D. Apas', '09158841613: MERCEDITA A. BONGO', '09564355438: MERLINDA P. MARTINEZ']
+[Success][11:15:14] : ['09195694579: MERYJEC C. VERZOSA', '09556136075: MICHELLE LANUTAN', '09303954113: MILA C. VERANO']
+[Success][11:15:21] : ['09363917586: MINERVA V. MORADA', '09532708948: MITOS A. DE VILLENA', '09363926824: MYLENE MARTIN']
+[Success][11:15:28] : ['09972706139: MYRNA E. TIDOY', '09755316067: NELSON R. DELGADO', '09996523307: NENITA P. NARCISO']
+[Success][11:15:35] : ['09058346768: NESTOR D. FLORES', '09653343801: NIEVES TUBO', '09561446720: NOEL S. COMINGKING']
+[Success][11:15:42] : ['09155734997: NORLYN A. BAMBAO', '09533506210: ODON TOYONG', '09260460728: PEDRITO F. RIVERA, JR.']
+[Success][11:15:48] : ['09677506135: PRECY MAE B. VALERIO', '09273518242: PRIMARIO C. POZON', '09532451782: RACHEL W. DALANON']
+[Success][11:15:55] : ['09099610201: RAQUEL MANDRAS', '09363918851: REGINA A. POLIQUIT', '09157835869: RENATO CASTAÑARES']
+[Success][11:16:02] : ['09551059894: RENATO T. VELASQUEZ', '09977182191: RHEA MAE P. SAMUELE', '09700228862: RHYME OTIDA']
+[Success][11:16:09] : ['09261736631: RITCHEL M. CASOY', '09317287969: RIZALYN R. CASTELLAS', '09978543493: RIZZA A. MENESES']
+[Success][11:16:16] : ['09988634506: ROBERT AMITH', '09267126039: RODOLFO B. ATON', '09273510736: RODRIGO P. CELEDIO']
+[Success][11:16:23] : ['09150028748: ROLANDO POLIQUIT', '09666536418: ROLANDO T. POSADAS', '09560672401: ROMEL MORATA']
+[Success][11:16:30] : ['09950239754: RONNEL P. PASANA', '09168681394: ROSA MARIA B. ARQUILLANO', '09169143423: ROSALINDA COLANAG']
+[Success][11:16:37] : ['09125566009: ROSALINDA M. BILLIONES', '09069501219: ROSALINDA MASONG', '09654990611: ROSEBY SENILLO']
+[Success][11:16:44] : ['09162354767: ROY PERNITO', '09651333820: RUBY ADOLFO', '09753904002: RUBY MAE A. BACANG']
+[Success][11:16:58] : ['09977181167: SALVE M. RELENTE', '09069323502: SAMUEL L. MIAGA', '09069323502: SAMUEL L. MIAGA 2']
+[Success][11:17:05] : ['09565513400: SANITO BASAN JR.', '09753926263: SHIRLEY A. VITAL/ROLEX OMOT', '09059723047: SUSANA B. CALVARIO']
+[Success][11:17:12] : ['09753901218: TABGAS ELEM. SCHOOL', '09677982041: VIOLITA G. MALAYAN', '09179647831: VIVIAN B. JABALLA']
+[Success][11:17:19] : ['09695080018: WILLIAM C. CALALO', '09475199181: WILLIAM CLAUDE STEVENSON', '09353865162: WILLIAM TAN JR.']
+
+
+
+OLT : Isabel OLT
+Message : Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.
+
+[Success][12:21:05] : ['09168785808: ABEGAIL M. DIMAS', '09654275673: JOHN CARL REPOLIDO', '09336033191: NENITA-LAURENTE']
+[Success][12:21:12] : ['09383528445: PRESCILLA G. OUANO', '09950211368: Randy M. Tomalcin']
+
+
+
+OLT : Laray OLT
+Message : Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.
+
+[Success][12:21:32] : ['09503521297: ANDYMEL LAUDE', '09185239308: Chona T. Sarana', '09384450164: GRACE P. TUBIL']
+[Error Message][12:21:41] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09107116936', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:21:41] : ['09107116936: JUDITH DEMASUHID', '09305901186: MARIA NENITA PULVERA', '09192718676: ROBIN BELTRAN']
+[Error Message][12:21:47] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09354420901', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:21:47] : ['09354420901: Rodel Yu - LEA GRACE BENITUA', '09915492193: RUNETH ANN SOLANO', '09513696241: VIVERLYN A. DIMASUHID']
+[Error Message][12:21:52] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09107116936', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:21:52] : ['09107116936: JUDITH DEMASUHID', '09305901186: MARIA NENITA PULVERA', '09192718676: ROBIN BELTRAN']
+[Success][12:21:57] : ['09354420901: Rodel Yu - LEA GRACE BENITUA', '09915492193: RUNETH ANN SOLANO', '09513696241: VIVERLYN A. DIMASUHID']
+[Success][12:22:04] : ['09107116936: JUDITH DEMASUHID', '09305901186: MARIA NENITA PULVERA', '09192718676: ROBIN BELTRAN']
+
+
+
+OLT : Margen OLT
+Message : Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.
+
+[Success][12:22:52] : ['09380234553: ABRAM T. CAJIGAS', '09168682845: ADAM PONTIANO', '09557755863: AGNES P. MATA']
+[Success][12:22:59] : ['09564353613: AGUSTINA Q. PEDRA', '09756358467: AILEEN HERMOSO / KIESHA S. DELA CORTA', '09497608603: AIRON MATUGUINA']
+[Success][12:23:05] : ['09260464604: Alan Pleños', '09566530630: ALBERT APAS', '09385022400: ALBERT BANEZ']
+[Success][12:23:12] : ['09122512476: ALEJANDRO C. BORINAGA', '09382193870: ALEMIER D. MERCED', '09554965970: ALEX ROM']
+[Success][12:23:19] : ['09568334476: ALEXANDER BACALSO', '09207519350: ALICIA CABARSE', '09060966990: ALJOLYN L. AMPARO']
+[Error Message][12:23:28] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09302088335', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:23:28] : ['09302088335: ALLENE ANONG', '09090718581: ALMIRA ABAYON', '09164812279: ALOHA S. LAPAY']
+[Error Message][12:23:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09279555311', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:23:33] : ['09279555311: ALOHNA DIOLA', '09199748585: Amando P. Luceños Sr.', '09955205925: ANA MARIE A. PAGLINAWAN']
+[Error Message][12:23:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09676340448', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:23:38] : ['09676340448: Anabella J.Macaraob', '09635844625: ANABELLE MULLEJON', '09187370015: ANALYN ALVARADO P.']
+[Error Message][12:23:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09497097411', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:23:43] : ['09497097411: ANGELINA JORGE BATES', '09924425913: ANGELINE D. DEGOMA', '09150029013: ANSELMA E. ABAJON']
+[Error Message][12:23:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09064203857', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:23:48] : ['09064203857: ARGELINA A. OCANG', '09950246053: ARIEL JOSEPH TORRION', '09127092271: ARIEL YBAÑEZ']
+[Error Message][12:23:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09771681587', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:23:53] : ['09771681587: ARJEN U. WAFFER', '09362072050: ARTHUR SUMONDONG', '09179562017: BABY JANE M. AMOYIN']
+[Error Message][12:23:58] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09569262448', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:23:58] : ['09569262448: BACALSO NINOLITO OMAMBAC', '09209020807: BARANGAY CASILDA BARANGAY HALL', '09073684787: BEMBOY B. AMORIN']
+[Error Message][12:24:03] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09531265373', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:24:03] : ['09531265373: BENEDICTO MATUGUINA', '09359316395: BENJIE CASIMERO', '09639119654: BERLITO PADILLA']
+[Error Message][12:24:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09075810003', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:24:08] : ['09075810003: BERNADETTE ALDIANO', '09923505350: BOBBY ANDREW H TAGALOG', '09054712645: BRIAN BINUEZA ']
+[Error Message][12:24:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09686904872', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:24:13] : ['09686904872: Brian Vance R. Mejia', '09262328784: BRITNEY APAS', '09550691625: Bryan Parrilla']
+[Error Message][12:24:18] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09463633306', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:24:18] : ['09463633306: CAREN QUIMBO', '09393767399: CARLOS CUESTA', '09454304604: CARMEN ABAPO ANONG']
+[Error Message][12:24:24] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09954342120', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:24:24] : ['09954342120: CAROL KETH M. ABUNDO', '09399130303: CASILDA ELEMENTARY SCHOOL', '09269068551: Cecile Daño']
+[Error Message][12:24:29] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09479572468', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:24:29] : ['09479572468: CERCIO QUIRANTE', '09957484347: CHARISSA B. TEQUILLO', '09198890166: CHARITO BAGUION']
+[Error Message][12:24:34] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09972482114', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:24:34] : ['09972482114: CHARMAINE CANONIGO 1 (Baugo)', '09959142259: CHARMAINE CANONIGO 2 (Proper)', '09171361479: CHEMICAL ALLOY CORPORATION']
+[Error Message][12:24:39] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09751406974', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:24:39] : ['09751406974: CHEN CHEN GUMILAN', '09489146734: CHERRY FE M. CATAAG', '09420218952: CHERYL ENG']
+[Error Message][12:24:44] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09062459164', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:24:44] : ['09062459164: CHRISTIAN PAUL ECOY', '09666518675: Christianne Kyle Esperanza', '09100038879: CHRISTINE S. QUIAMCO']
+[Error Message][12:24:49] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09073062661', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:24:49] : ['09073062661: CLAIRE CANTERO', '09164825703: CLAIRE GARCIANO', '09560038021: CONRADO S. DUALLO JR.']
+[Error Message][12:24:54] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09202901896', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:24:54] : ['09202901896: CONSTANTINE, JOHN DEJON', '09300828328: Corazon P. Lascoña', '09267928047: CRISTINE CABAHUG']
+[Error Message][12:24:59] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09156713761', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:24:59] : ['09156713761: CRISTINE MAE NOVAL', '09066093203: CRISTY ANN PENING', '09351600610: CRISTY B. PAGLINAWAN']
+[Error Message][12:25:04] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09934957633', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:25:04] : ['09934957633: CURVA CHURCH', '09510348827: CURVA ELEMENTARY SCHOOL', '09510348827: CURVA ELEMENTARY SCHOOL 2']
+[Error Message][12:25:09] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09472712896', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:25:09] : ['09472712896: DANDY HIMONGAYA', '09950097727: DANILO M. LLEVER JR.', '09614643352: DAPROSA PEREZ / Jennie Lyn Perez']
+[Error Message][12:25:14] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09462123869', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:25:14] : ['09462123869: DELIA B. ROYERAS', '09564487254: DENNIS DUMAGUIT', '09464562818: DIANE JANE PACAANAS']
+[Error Message][12:25:19] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09673243991', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:25:19] : ['09673243991: DIONALDO BAGCAT', '09561834201: DOLLY LIGARAY', '09480137712: Eden Vanie L. Elegio']
+[Error Message][12:25:24] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09709937129', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:25:24] : ['09709937129: EDISA MANULAT', '09151353815: EDITHA MANING', '09663495183: EDITHA POLE']
+[Error Message][12:25:29] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09518313525', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:25:29] : ['09518313525: EDIZA LUNA M. ALFAJARDO', '09302084140: EDUARDO GUBALANE', '09531279519: EFRENIA CANTERO']
+[Error Message][12:25:34] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09966685162', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:25:34] : ['09966685162: ELTON JAY EMCARGUEZ', '09302683520: Emelita S. Cantila', '09662495223: EMELY B. NOGAR']
+[Error Message][12:25:39] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09913316001', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:25:39] : ['09913316001: EMELYN V. FELIPE', '09973677580: ERLINA LABISTE', '09759756761: ESTRELLA UDTOHAN']
+[Error Message][12:25:44] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09368420714', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:25:44] : ['09368420714: EVELYN MADIS', '09163470273: EVELYN SUGAROL', '09983842930: EVELYN TAPANG']
+[Error Message][12:25:49] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09532458558', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:25:49] : ['09532458558: EVJAINE S. LAGARDE', '09359336093: FATIMA O. LAUDE', '09129692893: FEBIE CAPUYAN']
+[Error Message][12:25:54] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09686907000', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:25:54] : ['09686907000: FELIPE OSIP JR', '09513662149: FERNANDO LAGMAN', '09655562572: FR. MARLON CUA']
+[Error Message][12:25:59] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09384766830', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:25:59] : ['09384766830: FRANCES DEANNE BONSILAO', '09505952819: GENEVEVE BAISE', '09099048186: GENREY JESSA POGOSA']
+[Error Message][12:26:04] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09518234791', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+   [Fail][12:26:04] : ['09518234791: GERALDINE TALABOC', '09281472218: GIFFREY TIBRE HIMZON', '09453374902: GRACE NUNEZ']
+[Error Message][12:26:09] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09362771732', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:26:09] : ['09362771732: HAIDE M. VILLASENCIO', '09104812017: HUBERT LAPITAN', '09277576097: Ikhalyn Roble']
+[Error Message][12:26:14] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09209731470', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:26:14] : ['09209731470: IRENE TASAN', '09105498578: IRVIN JAY COLALJO', '09564017452: ISAEL BULLO JUEVESANO']
+[Success][12:26:19] : ['09674025933: ISIDRO LUSANTA', '09362966618: IVY B. TEQUILLO', '09532209453: IVY G. BAGUIO']
+[Success][12:26:26] : ['09550689769: JACQUELINE GOC-ONG', '09659625016: JAIME T. ENERO JR.', '09208777293: JAKE SINGSON']
+[Success][12:26:33] : ['09266861887: JAMES RAYMOND LAÑOJAN', '09105493803: Janice A. Boholst', '09709254615: JAQUILO CONDE']
+[Success][12:26:40] : ['09504987222: JARREL SINDAY', '09383269276: Jay Ryan F. Suico', '09973356248: JECYLMAE L. RUIZO']
+[Success][12:26:47] : ['09514794626: JEFF YARAS', '09675579038: JEFFREY PEPITO JR.', '09058234217: JEFY MANORINA']
+[Success][12:26:53] : ['09760301484: JEHOVAH JIRAH SOMBILON', '09971952308: JEHSA M. TUMULAK', '09396075385: JEMIE C. JIMENEZ']
+[Success][12:27:00] : ['09155765712: JENNELYN L. PELICANO', '09673521195: JENNESA BERNAL', '09989899181: JEONEL R. LISTON']
+[Success][12:27:07] : ['09678266483: JERALYN M. CAMPO', '09985503878: JERAMEL COSE', '09265444263: JEROME O. CAJES']
+[Success][12:27:14] : ['09354420319: JETHRO DAGMOC', '09757047446: JHADE D. CONDES', '09468881103: JHOMELYN VILLASENCIO']
+[Success][12:27:20] : ['09558646007: JILIEJOY TEVES ANDO', '09359324727: Jillian Hope C. Carungay', '09855146422: JOAN ABAYON S.']
+[Success][12:27:27] : ['09560943459: JOANA DOMINQUE B. YUNSON', '09653341838: JOCELYN JUSTO', '09753908048: JOCELYN L. CANONIGO']
+[Success][12:27:34] : ['09066203424: JOCELYN QUIRANTE', '09558439053: JOEBERT MADIS', '09918457332: JOEL P. MERIN']
+[Success][12:27:41] : ['09918921242: JOELA U. PITOGO', '09199852693: JOGEN MANOREÑA', '09363926732: JOHN MARTE']
+[Success][12:27:48] : ['09500316811: JOHN PAUL POLE', '09639111787: JOHN PHILIP SACAY', '09124919992: JONATHAN ALCALA']
+[Success][12:27:54] : ['09124919992: JONATHAN ALCALA 2', '09976640900: JONATHAN BACALSO OMAMBAC', '09481706627: JONATHAN CASINILLO']
+[Success][12:28:01] : ['09208999772: JOSEFINA P. AMISTAD', '09512683673: JOSEPH SINGSON', '09263610578: JOSEPHINES IGNACIO']
+[Success][12:28:08] : ['09215922867: JOSHUA JUMAO-AS', '09661356254: Jovelyn R. Pitogo', '09164824839: JULIE ANN LOPEZ']
+[Success][12:28:15] : ['09098783730: JULITO SARINO BOLANO/JURISA BOLANO', '09066882671: JUNGIE A. PEGUERA', '09533504309: Junrel Pobadora']
+[Success][12:28:22] : ['09300830990: KAREN CARTAGENA', '09384444970: Kay Kent Cantero (Bryg. Hall)', '09565390118: KENNETH LEOVERAS']
+[Success][12:28:29] : ['09531346499: LALAINE C. ANTONINO', '09066094975: LAURIE ASTAIRE BAYAOA', '09174261178: Leizl M. Yumang / Elvin Manoriña']
+[Success][12:28:35] : ['09631170488: LEMARD MEÑOZA', '09991574229: LEONARDO E. RAMELLETE JR.', '09706882064: LILIA BOHOLST']
+[Success][12:28:42] : ['09204378156: LOLITA L. LOPEZ', '09656679732: LORJE MAGDAONG', '09215222070: LORNA GECAIN']
+[Success][12:28:58] : ['09288962876: LOSIE P. SIABOC', '09452268518: Lowie A. Arellano', '09976875998: LUCRESIA DELA CRUZ']
+[Success][12:29:05] : ['09462228191: LUZ HAJHAMDO', '09061177442: MA. JULIETA ARCINA', '09062926894: MA. MEDA MIRAMONTE']
+[Success][12:29:11] : ['09483800232: MA.FRANS KRISTINE GARCISO', '09353520322: MANNY B. MERCOLITA', '09753907152: MARGEN ELEMENTARY SCHOOL']
+[Success][12:29:18] : ['09979565029: MARGEN NATIONAL HIGH SCHOOL', '09351256530: MARGIE BIALAO LIMBING', '09393573719: MARGIE EÑIGO']
+[Success][12:29:25] : ['09107631738: MARIA CRISTINA RAMOS', '09486593013: MARIA LILIBETH MATUGUINA', '09503655732: MARIA SHERLITA QUIRINO ABARILLA']
+[Success][12:29:40] : ['09091748909: MARIA VILMA CANTERO', '09771105733: MARICEL PITOGO', '09978533757: Marie Erl H. Arnaiz']
+[Success][12:29:47] : ['09951489609: MARIO A. DACILLO', '09950022206: MARIO M. LAGUNA', '09451270765: MARISSA DOLLENTAS']
+[Success][12:29:54] : ['09368421299: MARITES E. CABAÑERO', '09060574505: MARJORIE PADILLA', '09365344799: MARLON FRANCIS SABINO']
+[Success][12:30:01] : ['09218686052: MARY APPLE P. REPONTE', '09756509815: MARY CRIS A. DIVA', '09983113214: MARY JANE CASINILLO']
+[Success][12:30:07] : ['09955342018: MARY JANE NIVENS', '09207464966: MARY JEAN L. TANGUAL', '09759771048: MARY VENICE BOOK']
+[Success][12:30:30] : ['09532451352: MARYJEAN SANTIAÑEZ', '09674025988: MELAGROS VILLASENCIO', '09466809767: MELVIN BACALSO']
+[Success][12:30:37] : ['09675538523: Michelle Olavidez', '09659447996: MOLAVE G. LABOGA', '09666517593: MONICA EGAY']
+[Success][12:30:44] : ['09981817203: NADINE KRISTENE MABIYA', '09499430492: NANITA TASAN', '09369541988: NENITO ANONAT']
+[Success][12:30:51] : ['09161182658: NICOLE FAITH LAURENTE', '09082011997: Niel Sudaria', '09557761171: NILDA MING']
+[Success][12:30:58] : ['09269780317: NOE ALMADEN', '09164073861: NORA BASUBAS', '09124363223: PATROCINIA GOMEZ']
+[Success][12:31:05] : ['09274093443: PEDELITA P. PATONOG', '09173249309: RAFAEL PINAT', '09308573774: RAMELITO BATING']
+[Success][12:31:11] : ['09751387731: RAMIL RYAN T. TORREFIEL', '09382137965: RAN-RAN S. BAQUERO', '09777138052: RAY JHAY ALAG']
+[Success][12:31:18] : ['09985103543: REAGAN S. DEGILLO', '09991941942: REBECCA SIABOC', '09927828882: RENATO V. DONDOYANO']
+[Success][12:31:25] : ['09517998223: REYNAND A. CANONIGO', '09100396848: Rhoda Pañares', '09363916681: RICARDO CABRERA']
+[Success][12:31:33] : ['09122531442: RICARDO CANTERO', '09062036402: RICHARD DEEN L. POGOY', '09510455298: RICKY CAÑONEO']
+[Success][12:31:39] : ['09919404700: RITCHE N.SINGSON', '09161657217: Riva A. Hibrada', '09063948994: ROBERT REY ALAMIL']
+[Success][12:31:46] : ['09392473469: ROCHELL D. PEROSO/MICHAEL PEROSO ( UT)', '09089560292: RODELYN BACALSO', '09561327396: RODNEY QUIRANTE']
+[Success][12:31:53] : ['09367962853: RODOLFO OMANITO', '09654063927: ROGELIO AQUILES', '09950729032: ROGELIO MAGLASANG']
+[Success][12:32:00] : ['09510450128: ROGER OLILA', '09975417399: ROGER PLUMAS', '09063204492: ROLANDO VILLASENCIO (Macatol)']
+[Error Message][12:32:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09564417180', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+   [Fail][12:32:13] : ['09564417180: ROLLY S. CASENILLO', '09184594323: ROMEO BULLO', '09353519890: ROMULO T. DIEZ JR.']
+[Error Message][12:33:18] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09063952749', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:33:18] : ['09063952749: Ronalie Pumar', '09777133809: ROSARIO BATING', '09563792755: ROSEMARIE CANONIGO']
+[Error Message][12:33:23] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09551461921', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:33:23] : ['09551461921: ROSITA PECORRE', '09451000234: ROXAN FLORENTINO', '09659603832: Ruben Imping Hitohat']
+[Error Message][12:33:28] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09663021840', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:33:28] : ['09663021840: RYAN BINOYA', '09972482114: RYAN GONZAGA', '09661430758: SAMUEL B. DEGELLO']
+[Error Message][12:33:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09273209794', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:33:33] : ['09273209794: SAN JUAN ELEM. SCHOOL', '09952739313: SAN VICENTE ELEM. SCHOOL', '09533508008: SHIRLY SACAY']
+[Error Message][12:33:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09513688640', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:33:38] : ['09513688640: SONNY BOLANIO', '09709260487: SONNYMON A. SOBREVILLA', '09163002878: STELLA MARIE T. CAGULADA']
+[Error Message][12:33:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09212130741', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:33:43] : ['09212130741: TEODORO BADION', '09750696800: TIMOTHY ASEO', '09777141967: TRECIA C. MEDELO']
+[Error Message][12:33:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09087090552', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:33:48] : ['09087090552: VENUS ASTUDILLO', '09670126977: VERNA CABUDOL', '09054163439: VICTORIA DEBIL']
+[Error Message][12:33:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09154995095', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:33:53] : ['09154995095: Villasencio Global Development Corp.', '09354896014: VIRGINIA EGAY', '09502994202: WARLYN GATO']
+[Error Message][12:33:58] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09165887172', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:33:58] : ['09165887172: WARREN WAFFER', '09496449381: WILSON GULAYAN', '09973574247: WINSTON O. SOLEJON']
+[Error Message][12:34:03] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09164276409', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:34:03] : ['09164276409: YNIER GULFO ENERO', '09302088335: ALLENE ANONG', '09090718581: ALMIRA ABAYON']
+[Error Message][12:34:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09164812279', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:34:08] : ['09164812279: ALOHA S. LAPAY', '09279555311: ALOHNA DIOLA', '09199748585: Amando P. Luceños Sr.']
+[Error Message][12:34:14] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09955205925', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:34:14] : ['09955205925: ANA MARIE A. PAGLINAWAN', '09676340448: Anabella J.Macaraob', '09635844625: ANABELLE MULLEJON']
+[Error Message][12:34:19] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09187370015', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:34:19] : ['09187370015: ANALYN ALVARADO P.', '09497097411: ANGELINA JORGE BATES', '09924425913: ANGELINE D. DEGOMA']
+[Error Message][12:34:24] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09150029013', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:34:24] : ['09150029013: ANSELMA E. ABAJON', '09064203857: ARGELINA A. OCANG', '09950246053: ARIEL JOSEPH TORRION']
+[Error Message][12:34:29] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09127092271', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:34:29] : ['09127092271: ARIEL YBAÑEZ', '09771681587: ARJEN U. WAFFER', '09362072050: ARTHUR SUMONDONG']
+[Error Message][12:34:34] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09179562017', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:34:34] : ['09179562017: BABY JANE M. AMOYIN', '09569262448: BACALSO NINOLITO OMAMBAC', '09209020807: BARANGAY CASILDA BARANGAY HALL']
+[Error Message][12:34:39] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09073684787', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:34:39] : ['09073684787: BEMBOY B. AMORIN', '09531265373: BENEDICTO MATUGUINA', '09359316395: BENJIE CASIMERO']
+[Error Message][12:34:44] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09639119654', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:34:44] : ['09639119654: BERLITO PADILLA', '09075810003: BERNADETTE ALDIANO', '09923505350: BOBBY ANDREW H TAGALOG']
+[Error Message][12:34:49] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09054712645', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:34:49] : ['09054712645: BRIAN BINUEZA ', '09686904872: Brian Vance R. Mejia', '09262328784: BRITNEY APAS']
+[Error Message][12:34:54] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09550691625', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][12:34:54] : ['09550691625: Bryan Parrilla', '09463633306: CAREN QUIMBO', '09393767399: CARLOS CUESTA']
+[Error Message][12:34:59] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09454304604', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+   [Fail][12:34:59] : ['09454304604: CARMEN ABAPO ANONG', '09954342120: CAROL KETH M. ABUNDO', '09399130303: CASILDA ELEMENTARY SCHOOL']
+[Error Message][12:35:04] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09269068551', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:35:04] : ['09269068551: Cecile Daño', '09479572468: CERCIO QUIRANTE', '09957484347: CHARISSA B. TEQUILLO']
+[Error Message][12:35:09] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09198890166', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:35:09] : ['09198890166: CHARITO BAGUION', '09972482114: CHARMAINE CANONIGO 1 (Baugo)', '09959142259: CHARMAINE CANONIGO 2 (Proper)']
+[Success][12:35:14] : ['09171361479: CHEMICAL ALLOY CORPORATION', '09751406974: CHEN CHEN GUMILAN', '09489146734: CHERRY FE M. CATAAG']
+[Success][12:35:21] : ['09420218952: CHERYL ENG', '09062459164: CHRISTIAN PAUL ECOY', '09666518675: Christianne Kyle Esperanza']
+[Success][12:35:28] : ['09100038879: CHRISTINE S. QUIAMCO', '09073062661: CLAIRE CANTERO', '09164825703: CLAIRE GARCIANO']
+[Success][12:35:46] : ['09560038021: CONRADO S. DUALLO JR.', '09202901896: CONSTANTINE, JOHN DEJON', '09300828328: Corazon P. Lascoña']
+[Error Message][12:35:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09066093203', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+   [Fail][12:35:53] : ['09267928047: CRISTINE CABAHUG', '09156713761: CRISTINE MAE NOVAL', '09066093203: CRISTY ANN PENING']
+[Success][12:36:07] : ['09351600610: CRISTY B. PAGLINAWAN', '09934957633: CURVA CHURCH', '09510348827: CURVA ELEMENTARY SCHOOL']
+[Success][12:36:13] : ['09510348827: CURVA ELEMENTARY SCHOOL 2', '09472712896: DANDY HIMONGAYA', '09950097727: DANILO M. LLEVER JR.']
+[Success][12:36:20] : ['09614643352: DAPROSA PEREZ / Jennie Lyn Perez', '09462123869: DELIA B. ROYERAS', '09564487254: DENNIS DUMAGUIT']
+[Success][12:36:27] : ['09464562818: DIANE JANE PACAANAS', '09673243991: DIONALDO BAGCAT', '09561834201: DOLLY LIGARAY']
+[Success][12:36:33] : ['09480137712: Eden Vanie L. Elegio', '09709937129: EDISA MANULAT', '09151353815: EDITHA MANING']
+[Success][12:36:40] : ['09663495183: EDITHA POLE', '09518313525: EDIZA LUNA M. ALFAJARDO', '09302084140: EDUARDO GUBALANE']
+[Success][12:36:47] : ['09531279519: EFRENIA CANTERO', '09966685162: ELTON JAY EMCARGUEZ', '09302683520: Emelita S. Cantila']
+[Success][12:36:54] : ['09662495223: EMELY B. NOGAR', '09913316001: EMELYN V. FELIPE', '09973677580: ERLINA LABISTE']
+[Success][12:37:01] : ['09759756761: ESTRELLA UDTOHAN', '09368420714: EVELYN MADIS', '09163470273: EVELYN SUGAROL']
+[Success][12:37:08] : ['09983842930: EVELYN TAPANG', '09532458558: EVJAINE S. LAGARDE', '09359336093: FATIMA O. LAUDE']
+[Success][12:37:15] : ['09129692893: FEBIE CAPUYAN', '09686907000: FELIPE OSIP JR', '09513662149: FERNANDO LAGMAN']
+[Success][12:37:21] : ['09655562572: FR. MARLON CUA', '09384766830: FRANCES DEANNE BONSILAO', '09505952819: GENEVEVE BAISE']
+[Success][12:37:28] : ['09099048186: GENREY JESSA POGOSA', '09518234791: GERALDINE TALABOC', '09281472218: GIFFREY TIBRE HIMZON']
+[Error Message][12:37:44] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09453374902', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:37:44] : ['09453374902: GRACE NUNEZ', '09362771732: HAIDE M. VILLASENCIO', '09104812017: HUBERT LAPITAN']
+[Error Message][12:37:49] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09277576097', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][12:37:49] : ['09277576097: Ikhalyn Roble', '09209731470: IRENE TASAN', '09105498578: IRVIN JAY COLALJO']
+[Success][12:37:54] : ['09564017452: ISAEL BULLO JUEVESANO', '09564417180: ROLLY S. CASENILLO', '09184594323: ROMEO BULLO']
+[Success][12:38:00] : ['09353519890: ROMULO T. DIEZ JR.', '09063952749: Ronalie Pumar', '09777133809: ROSARIO BATING']
+[Success][12:38:07] : ['09563792755: ROSEMARIE CANONIGO', '09551461921: ROSITA PECORRE', '09451000234: ROXAN FLORENTINO']
+[Success][12:38:14] : ['09659603832: Ruben Imping Hitohat', '09663021840: RYAN BINOYA', '09972482114: RYAN GONZAGA']
+[Success][12:38:21] : ['09661430758: SAMUEL B. DEGELLO', '09273209794: SAN JUAN ELEM. SCHOOL', '09952739313: SAN VICENTE ELEM. SCHOOL']
+[Success][12:38:27] : ['09533508008: SHIRLY SACAY', '09513688640: SONNY BOLANIO', '09709260487: SONNYMON A. SOBREVILLA']
+[Success][12:38:34] : ['09163002878: STELLA MARIE T. CAGULADA', '09212130741: TEODORO BADION', '09750696800: TIMOTHY ASEO']
+[Success][12:38:41] : ['09777141967: TRECIA C. MEDELO', '09087090552: VENUS ASTUDILLO', '09670126977: VERNA CABUDOL']
+[Success][12:38:48] : ['09054163439: VICTORIA DEBIL', '09154995095: Villasencio Global Development Corp.', '09354896014: VIRGINIA EGAY']
+[Success][12:38:55] : ['09502994202: WARLYN GATO', '09165887172: WARREN WAFFER', '09496449381: WILSON GULAYAN']
+[Success][12:39:01] : ['09973574247: WINSTON O. SOLEJON', '09164276409: YNIER GULFO ENERO', '09302088335: ALLENE ANONG']
+[Success][12:39:08] : ['09090718581: ALMIRA ABAYON', '09164812279: ALOHA S. LAPAY', '09279555311: ALOHNA DIOLA']
+[Success][12:39:15] : ['09199748585: Amando P. Luceños Sr.', '09955205925: ANA MARIE A. PAGLINAWAN', '09676340448: Anabella J.Macaraob']
+[Success][12:39:22] : ['09635844625: ANABELLE MULLEJON', '09187370015: ANALYN ALVARADO P.', '09497097411: ANGELINA JORGE BATES']
+[Success][12:39:28] : ['09924425913: ANGELINE D. DEGOMA', '09150029013: ANSELMA E. ABAJON', '09064203857: ARGELINA A. OCANG']
+[Success][12:39:35] : ['09950246053: ARIEL JOSEPH TORRION', '09127092271: ARIEL YBAÑEZ', '09771681587: ARJEN U. WAFFER']
+[Success][12:39:42] : ['09362072050: ARTHUR SUMONDONG', '09179562017: BABY JANE M. AMOYIN', '09569262448: BACALSO NINOLITO OMAMBAC']
+[Success][12:39:49] : ['09209020807: BARANGAY CASILDA BARANGAY HALL', '09073684787: BEMBOY B. AMORIN', '09531265373: BENEDICTO MATUGUINA']
+[Success][12:39:56] : ['09359316395: BENJIE CASIMERO', '09639119654: BERLITO PADILLA', '09075810003: BERNADETTE ALDIANO']
+[Success][12:40:02] : ['09923505350: BOBBY ANDREW H TAGALOG', '09054712645: BRIAN BINUEZA ', '09686904872: Brian Vance R. Mejia']
+[Success][12:40:09] : ['09262328784: BRITNEY APAS', '09550691625: Bryan Parrilla', '09463633306: CAREN QUIMBO']
+[Success][12:40:16] : ['09393767399: CARLOS CUESTA', '09454304604: CARMEN ABAPO ANONG', '09954342120: CAROL KETH M. ABUNDO']
+[Success][12:40:23] : ['09399130303: CASILDA ELEMENTARY SCHOOL', '09269068551: Cecile Daño', '09479572468: CERCIO QUIRANTE']
+[Success][12:40:30] : ['09957484347: CHARISSA B. TEQUILLO', '09198890166: CHARITO BAGUION', '09972482114: CHARMAINE CANONIGO 1 (Baugo)']
+[Success][12:40:36] : ['09959142259: CHARMAINE CANONIGO 2 (Proper)', '09267928047: CRISTINE CABAHUG', '09156713761: CRISTINE MAE NOVAL']
+[Success][12:40:43] : ['09066093203: CRISTY ANN PENING', '09453374902: GRACE NUNEZ', '09362771732: HAIDE M. VILLASENCIO']
+[Success][12:40:50] : ['09104812017: HUBERT LAPITAN', '09277576097: Ikhalyn Roble', '09209731470: IRENE TASAN']
+[Success][12:40:57] : ['09105498578: IRVIN JAY COLALJO']
+
+
+
+OLT : Margen OLT (2nd)
+Message : Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.
+
+[Success][13:01:27] : ['09165220398: AARON RAY M. CABAHUG', '09754771946: AILEEN ORSABIA', '09759061015: AIRENE A. MIRO']
+[Success][13:01:34] : ['09358923342: ALDRIN-LAGADAN-PUNASIN', '09666219129: ALLAN R. CAGALAWAN', '09501767056: ANALYN LUCENOS']
+[Success][13:01:41] : ['09384766831: ANECITA D. CRUDA', '09359320622: Antonio liston', '09056549205: APRIL REBOLLOS']
+[Success][13:01:47] : ['09657019404: ARYANE JANE WAFFER', '09262332714: BABYLIEN L. RUBIATO', '09675614593: CARREN JUPIA']
+[Success][13:01:54] : ['09309008976: Cinet Pardillo', '09262332881: CRISTINE C. DINDIN', '09169565982: CRISTY TOROCTOCON']
+[Success][13:02:01] : ['09501530356: Darlene Belle A. Caballero', '09482401575: Daryl Candelasa', '09126563463: DAYNA B. GUBALANE']
+[Success][13:02:07] : ['09501339477: DIVINA S. QUINZON', '09098291643: ELLIZABETH PEPITO', '09207518796: ELSIE ROSALES']
+[Success][13:02:14] : ['09562367025: ESTELITA EBERO', '09129093465: ETHEL B. GORON', '09164288547: EVELYN A. ESCARPE']
+[Success][13:02:21] : ['09753864973: Fatima R. Etang ', '09675613772: Fe Erbito Diaz', '09350310407: FLOR E. RUIZ']
+[Success][13:02:28] : ['09554717991: GEMALYN R. CUERVO', '09928573561: GERALDINE CABARUBIAS', '09173686615: JAIME LOS BAÑOS']
+[Success][13:02:35] : ['09773639058: JAN ANTHONY L. PAREDES', '09067564062: JANEH T. ACODESIN', '09659103783: JASSA R. NEMOTEO']
+[Success][13:02:41] : ['09975416852: JAY-AR BATING', '09983459211: JEANET M. MALINAO', '09751890254: JENNA MEA MIRIQUILLO']
+[Success][13:02:59] : ['09954346253: JESSA OBAOB', '09924425871: JESSEL L. NODALO', '09514966813: JESSICA C. INTUD']
+[Success][13:03:05] : ['09639182523: JHEA WENCY PARILLA', '09677022147: JIMMY S. RADORES JR.', '09058353002: JOMAR MAGDADARO']
+[Success][13:03:12] : ['09817763275: JOSEFA U. MENDOZA', '09693838766: Joseph Cogay', '09265352298: Joy Olorvida']
+[Success][13:03:19] : ['09554936435: JOYLEN ANTONINO', '09703332606: JOYMEE VILLA', '09267020405: KATHRYN D. ESPINA']
+[Success][13:03:37] : ['09287171227: KEVIN ROBLE', '09639640813: Lolando Muaña', '09169125256: Lucilo D. Pepito']
+[Success][13:03:44] : ['09751859836: MA. KRISTHINE MAE BARBA', '09563793128: MANILYN ORIAS', '09566145043: Maria A.Egay']
+[Success][13:03:50] : ['09506516668: MARICAR C. CASINILLO', '09518520615: MARILOU A. CASTELLANO', '09854538739: MARIO PAJARON JR']
+[Success][13:03:57] : ['09267224775: MARK DOMINIC MONSANTO', '09661481047: MARK P. BACALSO', '09458511139: MAY ANNE JAVIER']
+[Success][13:04:04] : ['09380356018: Mercedes Evangelista', '09284918181: Monroe Magdadaro', '09690678323: NICOLAS D. BERNALES JR.']
+[Success][13:04:11] : ['09677015301: PAULINA DUMAGUIT', '09466747436: Princess Zyrah Tero', '09102649656: REYNA CORDEÑO']
+[Success][13:04:18] : ['09306738483: RICHARD CASTRO', '09700569930: RIZA MAE LUCEÑOS', '09214838683: Rodel Yu Ramas (2nd account)']
+[Success][13:04:24] : ['09267922118: ROEL W. OLIVERIO', '09465262155: ROGYN B. PEPITO', '09619691961: ROILAND VILLASENCIO']
+[Success][13:04:31] : ['09319701445: ROMELYN TOLO', '09072205036: ROMILYN JUPIA', '09171533244: RONNEL PADERNAL']
+[Success][13:04:38] : ['09657103536: ROSEBELLIA A. CARAMPATAN', '09759755882: ROSEMARIE B. SOLEJON', '09677521300: Rosemarie Jean Pernito Torrejos']
+[Success][13:04:56] : ['09267150637: RUEL DELA CRUZ', '09384444890: RUSSEL C. GUBALANI', '09262300203: RYZA ARETHA CLAIRE A. BOOC']
+[Success][13:05:02] : ['09489437111: SHAINA MAE JAVIER', '09195999294: SHIELA ARO', '09187369947: TEODORA B.PEPITO']
+[Success][13:05:09] : ['09454330136: WILMA M. ESTRERA', '09072930563: Wilma M. Samarez', '09066093706: WILMAR BACALSO']
+[Success][13:05:16] : ['09388385288: ZIMBO A. CASTRODES']
+
+
+
+OLT : Mas-in OLT
+Message : Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.
+
+[Success][13:06:02] : ['09651569435: ALFONSO M. INDOLOS', '09679177855: ALLAN ANDO', '09504221309: CHONA M. ESMERO']
+[Success][13:06:09] : ['09461736172: DELIA C. ASEO', '09676002326: DELYN NIVAL', '09161827110: DIOSCORA ROMO']
+[Success][13:06:15] : ['09192503687: DOROTEA ROM', '09385610413: EDNALY D. ANGOLO', '09362600959: EDOT TEODOSIO']
+[Error Message][13:06:22] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09153570388', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:06:22] : ['09153570388: ELDA S. ELISAN', '09471015792: GENECIL E. CAACOY ', '09469328176: ISMAEL T. ANDO']
+[Error Message][13:06:27] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09161183233', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:06:27] : ['09161183233: JEFFREY ARMENTANO', '09558644997: JERAME HERMOSO', '09973504228: JOSEPHINE M. CORPIN']
+[Error Message][13:06:32] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09317434716', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:06:32] : ['09317434716: LAARNIE MECA SAMSON', '09317305097: LARRAH JANE ESMERO', '09354421403: LINDY JANE L. ANDO']
+[Error Message][13:06:37] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09296623482', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:06:37] : ['09296623482: MARIA M. NUNEZ', '09353521045: MARICEL ANDO', '09510402713: NENITA L. LEONES']
+[Error Message][13:06:42] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09514409905', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:06:42] : ['09514409905: NIEL C. CONGSON', '09677267142: Oscar Cruz Oliver', '09561177115: ROBERTO I. CAMACHO']
+[Error Message][13:06:47] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09567423063', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:06:47] : ['09567423063: RODNEY L. PAÑA', '09465667755: RONILO L. ESMERO', '09754771692: ROSEL MINGAO']
+[Error Message][13:06:52] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09666521182', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:06:52] : ['09666521182: ROXAN M. CORPIN', '09973276648: SANREA C. BASTATAS', '09386769971: VENICE CONGSON']
+[Error Message][13:06:57] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09058247055', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:06:57] : ['09058247055: VHIE JEAN B. MELANEZ', '09563600008: WENCESLAO M. QUIROS', '09153570388: ELDA S. ELISAN']
+[Error Message][13:07:02] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09471015792', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:07:02] : ['09471015792: GENECIL E. CAACOY ', '09469328176: ISMAEL T. ANDO', '09161183233: JEFFREY ARMENTANO']
+[Error Message][13:07:07] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09558644997', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:07:07] : ['09558644997: JERAME HERMOSO', '09973504228: JOSEPHINE M. CORPIN', '09317434716: LAARNIE MECA SAMSON']
+[Error Message][13:07:12] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09317305097', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:07:12] : ['09317305097: LARRAH JANE ESMERO', '09354421403: LINDY JANE L. ANDO', '09296623482: MARIA M. NUNEZ']
+[Error Message][13:07:17] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09353521045', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:07:17] : ['09353521045: MARICEL ANDO', '09510402713: NENITA L. LEONES', '09514409905: NIEL C. CONGSON']
+[Error Message][13:07:22] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09677267142', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:07:22] : ['09677267142: Oscar Cruz Oliver', '09561177115: ROBERTO I. CAMACHO', '09567423063: RODNEY L. PAÑA']
+[Error Message][13:07:27] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09465667755', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:07:27] : ['09465667755: RONILO L. ESMERO', '09754771692: ROSEL MINGAO', '09666521182: ROXAN M. CORPIN']
+[Error Message][13:07:32] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09973276648', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:07:32] : ['09973276648: SANREA C. BASTATAS', '09386769971: VENICE CONGSON', '09058247055: VHIE JEAN B. MELANEZ']
+[Error Message][13:07:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09563600008', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:07:38] : ['09563600008: WENCESLAO M. QUIROS', '09153570388: ELDA S. ELISAN', '09471015792: GENECIL E. CAACOY ']
+[Error Message][13:07:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09469328176', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:07:43] : ['09469328176: ISMAEL T. ANDO', '09161183233: JEFFREY ARMENTANO', '09558644997: JERAME HERMOSO']
+[Error Message][13:07:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09973504228', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:07:48] : ['09973504228: JOSEPHINE M. CORPIN', '09317434716: LAARNIE MECA SAMSON', '09317305097: LARRAH JANE ESMERO']
+[Error Message][13:07:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09354421403', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:07:53] : ['09354421403: LINDY JANE L. ANDO', '09296623482: MARIA M. NUNEZ', '09353521045: MARICEL ANDO']
+[Error Message][13:07:58] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09510402713', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:07:58] : ['09510402713: NENITA L. LEONES', '09514409905: NIEL C. CONGSON', '09677267142: Oscar Cruz Oliver']
+[Error Message][13:08:03] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09561177115', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:08:03] : ['09561177115: ROBERTO I. CAMACHO', '09567423063: RODNEY L. PAÑA', '09465667755: RONILO L. ESMERO']
+[Error Message][13:08:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09754771692', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:08:08] : ['09754771692: ROSEL MINGAO', '09666521182: ROXAN M. CORPIN', '09973276648: SANREA C. BASTATAS']
+[Error Message][13:08:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09386769971', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][13:08:13] : ['09386769971: VENICE CONGSON', '09058247055: VHIE JEAN B. MELANEZ', '09563600008: WENCESLAO M. QUIROS']
+[Error Message][13:08:18] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09153570388', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][13:08:18] : ['09153570388: ELDA S. ELISAN', '09471015792: GENECIL E. CAACOY ', '09469328176: ISMAEL T. ANDO']
+[Error Message][13:08:23] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09161183233', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][13:08:23] : ['09161183233: JEFFREY ARMENTANO', '09558644997: JERAME HERMOSO', '09973504228: JOSEPHINE M. CORPIN']
+[Error Message][13:08:28] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09317434716', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][13:08:28] : ['09317434716: LAARNIE MECA SAMSON', '09317305097: LARRAH JANE ESMERO', '09354421403: LINDY JANE L. ANDO']
+[Error Message][13:08:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09296623482', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][13:08:33] : ['09296623482: MARIA M. NUNEZ', '09353521045: MARICEL ANDO', '09510402713: NENITA L. LEONES']
+[Error Message][13:08:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09514409905', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][13:08:38] : ['09514409905: NIEL C. CONGSON', '09677267142: Oscar Cruz Oliver', '09561177115: ROBERTO I. CAMACHO']
+[Error Message][13:08:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09567423063', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+   [Fail][13:08:43] : ['09567423063: RODNEY L. PAÑA', '09465667755: RONILO L. ESMERO', '09754771692: ROSEL MINGAO']
+[Error Message][13:08:48] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09666521182', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+   [Fail][13:08:48] : ['09666521182: ROXAN M. CORPIN', '09973276648: SANREA C. BASTATAS', '09386769971: VENICE CONGSON']
+[Error Message][13:08:53] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09058247055', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:08:53] : ['09058247055: VHIE JEAN B. MELANEZ', '09563600008: WENCESLAO M. QUIROS', '09153570388: ELDA S. ELISAN']
+[Error Message][13:08:58] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09471015792', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+   [Fail][13:08:58] : ['09471015792: GENECIL E. CAACOY ', '09469328176: ISMAEL T. ANDO', '09161183233: JEFFREY ARMENTANO']
+[Success][13:09:03] : ['09558644997: JERAME HERMOSO', '09973504228: JOSEPHINE M. CORPIN', '09317434716: LAARNIE MECA SAMSON']
+[Success][13:09:21] : ['09317305097: LARRAH JANE ESMERO', '09354421403: LINDY JANE L. ANDO', '09296623482: MARIA M. NUNEZ']
+[Success][13:09:27] : ['09353521045: MARICEL ANDO', '09510402713: NENITA L. LEONES', '09514409905: NIEL C. CONGSON']
+[Success][13:09:34] : ['09677267142: Oscar Cruz Oliver', '09561177115: ROBERTO I. CAMACHO', '09567423063: RODNEY L. PAÑA']
+[Success][13:09:52] : ['09465667755: RONILO L. ESMERO', '09754771692: ROSEL MINGAO', '09666521182: ROXAN M. CORPIN']
+[Success][13:09:59] : ['09973276648: SANREA C. BASTATAS', '09386769971: VENICE CONGSON', '09058247055: VHIE JEAN B. MELANEZ']
+[Success][13:10:16] : ['09563600008: WENCESLAO M. QUIROS', '09153570388: ELDA S. ELISAN', '09471015792: GENECIL E. CAACOY ']
+[Success][13:10:22] : ['09469328176: ISMAEL T. ANDO', '09161183233: JEFFREY ARMENTANO']
+
+
+
+OLT : Merida OLT
+Message : Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.
+
+[Success][13:16:51] : ['09357742729: ALBERTO SABALONES RUAYA', '09062039092: ALICIA ROSALES', '09068206690: ALVIN VEGA']
+[Success][13:16:58] : ['09495891909: Amor Constantino Oribe', '09458537212: ANNIELYN CAMPEHIOS', '09172018097: Anthony Sicsic']
+[Success][13:17:05] : ['09772166003: ARNEL BACAYO', '09674274661: ARNEL RANIDO', '09101029155: AUBRINA P. TABAR']
+[Success][13:17:12] : ['09153600516: AUREO A. MELLEJOR', '09261739400: BENJAMIN CATALUNA JR', '09171370298: BERNADETTE PETEROS']
+[Success][13:17:31] : ['09058397281: BRIAN TABON', '09065591605: CARLA MAGBAGO', '09161706739: CESAR S. GERA']
+[Success][13:17:47] : ['09088923430: CHARIS ROSAL', '09061952710: CHERYL PETEROS', '09069276344: Chonita Kilapio']
+[Success][13:17:53] : ['09457126736: CHRISTINE MAY COLON', '09465290850: CLARIVELLE PARILLA', '09091622326: CORAZON GRACE M. FERNANDEZ']
+[Success][13:18:11] : ['09956185676: DAHLHIA BATOY', '09513663817: DANIEL JOHN MOJADO', '09452502062: DANIEL R. BECERA']
+[Success][13:18:18] : ['09773564158: ELENA GRAFILON', '09651278989: Ellen Jean Parrilla Nodalo', '09262782088: EMELINDA C. NALDOZA']
+[Error Message][13:18:24] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09268175244', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+   [Fail][13:18:24] : ['09663542407: ERNESTO BALASABAS JR.', '09483406386: FELIZA MOJADO MATUGUINA', '09268175244: GEMCORE INDUSTRIAL RESOURCES CORP']
+[Error Message][13:19:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09508203170', "=message=Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.")
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+   [Fail][13:19:31] : ['09354896171: GEMMA GARBE', '09504960159: GIRLIE CABANDOG', '09508203170: Grace Estobañez']
+[Success][13:19:37] : ['09352461415: GRETCHEN TARIPE', '09677020147: HANSEL LAVESORES', '09062223827: HAROLD CATIIL']
+[Success][13:19:44] : ['09678250300: JAY LYZANDER C. SEPRADO', '09452488479: JAYVEE C. DIMAS', '09654275673: JENELYN M. REPOLIDO']
+[Success][13:19:51] : ['09468193460: JERALD C. MOJADO', '09065794549: JOCELYN ROSAL/LIBAS ELEMENTARY SCHOOL', '09066266349: JONATHAN ROMO']
+[Success][13:19:58] : ['09481703216: JULITO MONIEZA', '09350319355: KEIRO JAY M. BOHOL', '09972586436: KENT JEROME C. DIAZ']
+[Success][13:20:05] : ['09513692584: LARRY LORENO', '09561049660: LENIE PARILLA', '09096255023: LESLIE MAE MOPON']
+[Success][13:20:23] : ['09972588115: LIMELEY DE LEON', '09618919936: LOENORA CABRAHAN', '09453053065: Lorna C. Gabad']
+[Success][13:20:30] : ['09058813451: MA. IRIS IMPING', '09193290902: MACARIO ELEMENTARY SCHOOL', '09509217458: MARIA CORAZON RABE']
+[Success][13:20:47] : ['09275183598: MARIA JINKY NODALO', '09771105757: MARIA MONESSA JIMENEZ', '09083748794: Marianita A. Gabas']
+[Success][13:20:54] : ['09064204037: MARICRIS SOLAMO', '09951564570: MECEL ALVARES', '09975280922: MELISSA IGOT OCLARIT']
+[Success][13:21:01] : ['09487101271: MEQUIAS BARRO', '09513697587: MILFRED R. REVALO', '09061992761: NELSON GELIG SR.']
+[Success][13:21:07] : ['09510446884: NESTOR DONAYRE', '09755788173: NILO C. LUCERO', '09163077021: RACHEL DECINA']
+[Success][13:21:14] : ['09993641783: RANULFO M. CUSTODIO, JR.', '09389845895: RENIE IGOT ROMO', '09068204738: REYNALDO PO']
+[Success][13:21:21] : ['09085206674: RHAMSHIE COLITANA', '09362960650: RICHARD LAZO', '09265014088: ROBELYN M. MATIGA']
+[Success][13:21:28] : ['09214838683: RODEL YU RAMAS/MERIDA GOLDIN SHOWER', '09971464024: RODMAR A. ALDIANO', '09551325864: ROLANDO G. ROMO']
+[Success][13:21:34] : ['09457438727: Rolando Villasencio', '09157442704: ROQUE MAZAREDO', '09054262139: ROSE ANN P. MIRA']
+[Success][13:21:41] : ['09065499241: ROSELYN CAPUCAO', '09064863008: SATURNINO LABATOS JR.', '09677020719: SEVERINO REPOLLO']
+[Success][13:21:48] : ['09350319355: VICTORIA M. BOHOL', '09675528999: WILLIAM S.PALADA', '09263672860: YNA MARIE GICA']
+[Success][13:21:55] : ['09464781530: ZOSIMA SOLIVA', '09663542407: ERNESTO BALASABAS JR.', '09483406386: FELIZA MOJADO MATUGUINA']
+[Success][13:22:01] : ['09268175244: GEMCORE INDUSTRIAL RESOURCES CORP', '09354896171: GEMMA GARBE', '09504960159: GIRLIE CABANDOG']
+[Success][13:22:08] : ['09508203170: Grace Estobañez']
+
+
+
+OLT : Office OLT
+Message : Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.
+
+[Success][13:23:26] : ['09472201315: AILEEN PARILLA', '09283861419: ANGELITA CABAHUG', '09186418612: ANITA ALAO']
+[Success][13:23:33] : ['09289789103: ANSELMO L. PEGANO', '09079236215: ARNEL N. PANILAG', '09673243544: AURELIO QUIRIM']
+[Success][13:23:39] : ['09508646737: BEBAY HERMOSILLA', '09096983644: BLENDA ELENA ANTONIO', '09675604201: CHERLITA T. CARAMPATAN']
+[Success][13:23:46] : ['09495720389: CONCHITA YNOT', '09615380398: DANIEL GARRIDO', '09051204997: Dioscoro Amistad']
+[Success][13:23:53] : ['09300482771: DIOSCORO BATUCAN JR.', '09125613450: EDU MARK VEGA', '09363747524: ELIZABETH MAHINAY']
+[Success][13:24:00] : ['09058234678: ELVIRA MONTEHERMOSO', '09484809290: FELICISIMO NAZARIO', '09658446456: FLORABEL TAGSIP/ Camille Sabelino']
+[Success][13:24:07] : ['09700554935: FREDESWIDA F. MAMATO', '09263687201: GRESA B. ALMENDRAS', '09105382246: Hannah Joy K. Salomon']
+[Success][13:24:14] : ['09483673868: Jeraldine Jay C.Bazarte', '09300327913: JOSE MANUEL A. DAMAYO', '09235114301: Josefina m. Salili']
+[Success][13:24:21] : ['09755782510: Joy Ebero Masula', '09505096082: LIMUEL P. OMEGA', '09638126554: LINDY JANE CAYANONG']
+[Success][13:24:28] : ['09772590065: LORANIEN TAGOLINO', '09569262140: LOVELY PARILLA', '09164260316: Lynette M. Eman']
+[Success][13:24:35] : ['09380383094: Maria Cristina Parrilla', '09083662739: Maria Isabel Cabonergo', '09639818162: Marilyn Espinosa']
+[Success][13:24:41] : ['09308769810: MARINA JARDIN', '09317928352: MARK ANTHONY BOISER', '09325939107: MAXIMO COLONIA']
+[Success][13:24:48] : ['09164535364: MYNIE M. PAYUD', '09814538787: NATIVIDAD C. GUINIPA.AN', '09279627535: NECO CANTILA']
+[Success][13:24:55] : ['09285732200: NINO B. MAHINAY', '09518511009: NORALYN ABELA', '09704776933: ORFE PETER JOHN BACUNAL/JENNY LARGO']
+[Success][13:25:02] : ['09489094764: Orias Roque', '09977189575: RAMON CINCO JR', '09391007961: REZZA MAE P. SANCHEZ']
+[Success][13:25:09] : ['09281893326: ROLANDO P. CABAHUG', '09085835236: ROSALIA MARTINITO ALCARAZ', '09501321713: ROWELL GICA']
+[Success][13:25:15] : ['09927826399: RYAN ALLISTAIRE J. BERAY', '09121987724: SARAH SUMAGANG', '09564338183: SHELLA BERDOS']
+
+
+
+OLT : Sabang Bao
+Message : Greetings from Queens Link Technology, your plan's maximum Mbps has been upgraded. Please turn-off then turn-on your router for this to be applied.
+
+[Success][13:26:27] : ['09551463959: ANDREY P. COLLO', '09917588673: Bernardita A. Guino', '09273097881: CRUZ V. MENDEZ']
+[Success][13:26:34] : ['09368418214: Edito Perico Sr.', '09166463305: ENRICO L. PAÑA', '09278152496: FABIAN E. DOLORES']
+[Success][13:26:41] : ['09125239333: HELEN C. TAGALOG', '09102652263: IMEE CUYOS NEGRITE', '09971698606: JENELLIE BASTATAS']
+[Success][13:26:48] : ['09667356604: JOYCE D. NUÑEZ', '09168600544: LUCIA D. SABETE ', '09121926185: LUDIVINA DOLORES']
+[Success][13:26:55] : ['09557749838: MA. REVLYN C. CAÑALITA', '09274742289: Maraley T. Timbal', '09967148843: MARK LORENZ AREÑA']
+[Success][13:27:02] : ['09955029330: MICHELL C. CAÑALITA', '09771105503: RAYMOND ESPANTE', '09068517182: REMEDIOS M. CABEROS']
+[Success][13:27:08] : ['09265573322: ROSAL CARLOSITA', '09151702230: ROSALIA C.BORNIE', '09688539851: RUSTICO CAPAHI SR. MEMORIAL NHS']
+[Success][13:27:15] : ['09469456289: SALVACION AMO JOMANTOC']
+
+
+

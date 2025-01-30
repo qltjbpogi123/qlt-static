@@ -1,0 +1,19 @@
+09/12/2024 - 13:59:13
+FTTH Monthly Notification
+Branch : Queens Link - St. Bernard
+Message : Hello, as of September 2024, you have # pending monthly bills. Contact us at 09624627136 or on our Facebook page. By Queens Link - St. Bernard.
+[Success][13:59:13] : ['09973209180, BERNIE M. GALEA: 1 pending monthly bill', '09262515725, CAROL MAE D. YAP: 1 pending monthly bill', '09550793714, CHARISH M. BAJAO: 1 pending monthly bill']
+[Success][13:59:18] : ['09955682907, CHARLES JIM CUSTODIO: 2 pending monthly bills', '09816322176, CRISTAL H. ADOLFO: 1 pending monthly bill', '09094362482, ELOISE ERA C. MOLO: 1 pending monthly bill']
+[Success][13:59:23] : ['09264562547, EMILOU C. MANCIO: 1 pending monthly bill', '09976494345, JEAN MICHEL M.CAÑON: 1 pending monthly bill', '09959128051, JEMALHENE PAGULONG: 1 pending monthly bill']
+[Success][13:59:28] : ['09649162527, JINGGO R. MANLIMOS: 2 pending monthly bills', '09750687648, KAREN QUIBAN ALACRE: 1 pending monthly bill', '09367659468, MARIE FE Q. JUANICO: 1 pending monthly bill']
+[Success][13:59:33] : ['09855882742, MIA MABALHIN: 2 pending monthly bills', '09051129021, MOLOPOLO BRGY. HALL / DAYLYN L. PINTUYAN: 2 pending monthly bills', '09368240845, NONILA B. MALUBAY: 2 pending monthly bills']
+[Success][13:59:38] : ['09676347001, OFELIA CATURAN: 1 pending monthly bill', '09972896908, PETCHE MAE L. MANCIO: 1 pending monthly bill', '09562918328, RAQUEL RENALE CORBETE: 1 pending monthly bill']
+[Success][13:59:43] : ['09512224487, RIZA M. HINANIBAN: 1 pending monthly bill', '09120854546, ROLAND C. TOREJOS: 1 pending monthly bill', '09273859737, ROLANDO H. SILOT: 1 pending monthly bill']
+[Success][13:59:48] : ['09750690468, RONILO D. PINTUYAN: 2 pending monthly bills', '09700551814, SUSAN B. TOMOL: 1 pending monthly bill', '09050287400, VERLINDA M. FELIZILDA: 1 pending monthly bill']
+[Success][13:59:53] : ['09624627136, QLTSB: Success notification!', '09094180770, QLTSB: Success notification!']
+
+[Rejected Records]:
+LOIDA A. VALLEJOS, 0951003295: Invalid Contact Number
+
+
+

@@ -1,0 +1,923 @@
+Location : Bitanhuan (Brgy. Bitanhuan, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][09:16:06] : ['09953532452: ARCHER A. ABELLAR', '09368412796: CESAR B. YAP JR.', '09977746745: DELIA MONDERONDO']
+[Success][09:16:13] : ['09156505570: DEOGRASCIAS E. PERNITTEZ', '09363911531: EVA A. PAYNANDOS', '09161831951: JIMMY G.BAÑOC']
+[Success][09:16:20] : ['09753339620: LERMA IMPANG', '09171057792: MERLYN DE LOS NIEVES', '09277534625: PAUL ANGELO GUMBA']
+[Success][09:16:27] : ['09674122840: SAMPAGUITA MANUEL', '09659725236: SAMUEL L. DAWAL JR.', '09067200376: WILFREDA AMARILLE']
+
+
+
+Location : Bitanhuan (Brgy. Bitanhuan, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+   [Fail][09:19:30] : ['09953532452: ARCHER A. ABELLAR', '09368412796: CESAR B. YAP JR.', '09977746745: DELIA MONDERONDO']
+[Success][09:19:43] : ['09156505570: DEOGRASCIAS E. PERNITTEZ', '09363911531: EVA A. PAYNANDOS', '09161831951: JIMMY G.BAÑOC']
+[Success][09:19:50] : ['09753339620: LERMA IMPANG', '09171057792: MERLYN DE LOS NIEVES', '09277534625: PAUL ANGELO GUMBA']
+[Success][09:19:57] : ['09674122840: SAMPAGUITA MANUEL', '09659725236: SAMUEL L. DAWAL JR.', '09067200376: WILFREDA AMARILLE']
+[Success][09:20:04] : ['09953532452: ARCHER A. ABELLAR', '09368412796: CESAR B. YAP JR.', '09977746745: DELIA MONDERONDO']
+
+[Error Records]:
+[Error Message][09:19:30] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09977746745', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+
+
+
+Location : Ga-as (Brgy. Ga-as, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+   [Fail][09:20:30] : ['09295388590: ARLEN DIGMAN EEKHOF', '09981567187: ELLEN ROSE GALLEGO', '09298668960: LEONILO ABREO KINGCO']
+[Success][09:20:36] : ['09317425799: NANETTE P. PERNITES (2ND ACCOUNT)', '09510905530: OLE MAE C. PALMITOS', '09120515430: PEARL VILLO']
+[Success][09:20:43] : ['09302450244: RITCHELLE ACILO IBAÑEZ', '09855932296: ROSEMARIE C. QUIÑO', '09295388590: ARLEN DIGMAN EEKHOF']
+[Success][09:20:50] : ['09981567187: ELLEN ROSE GALLEGO', '09298668960: LEONILO ABREO KINGCO']
+
+[Error Records]:
+[Error Message][09:20:30] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09298668960', '=message=We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+
+
+
+Location : Ga-as (Brgy. Ga-as, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:22:38] : ['09295388590: ARLEN DIGMAN EEKHOF', '09981567187: ELLEN ROSE GALLEGO', '09298668960: LEONILO ABREO KINGCO']
+[Success][09:22:52] : ['09317425799: NANETTE P. PERNITES (2ND ACCOUNT)', '09510905530: OLE MAE C. PALMITOS', '09120515430: PEARL VILLO']
+[Success][09:22:59] : ['09302450244: RITCHELLE ACILO IBAÑEZ', '09855932296: ROSEMARIE C. QUIÑO']
+
+
+
+Location : Guadalupe (Brgy. Guadalupe, Inopacan, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction. 
+
+[Success][09:23:27] : ['09458965140: BIERNA MARIS P. SURALTA', '09094909189: KIM S. MUNDALA']
+
+
+
+Location : Guadalupe (Brgy. Guadalupe, Inopacan, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:23:46] : ['09458965140: BIERNA MARIS P. SURALTA', '09094909189: KIM S. MUNDALA']
+
+
+
+Location : Hipusngo (Brgy. Hipusngo, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+   [Fail][09:24:27] : ['09465439250: JOSE COLASTE', '09070266447: MARLO GARZON', '09481383541: PERLA GLORIA']
+[Success][09:24:40] : ['09639171586: ROMAREEN KAYCEE CAPITULO', '09465439250: JOSE COLASTE', '09070266447: MARLO GARZON']
+   [Fail][09:24:56] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:25:01] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:25:06] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:25:11] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:25:16] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:25:21] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:25:26] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:25:31] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:25:36] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:25:41] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:25:46] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:25:51] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:25:56] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:26:01] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:26:06] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:26:11] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:26:17] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:26:22] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:26:27] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:26:32] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:26:37] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:26:42] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:26:47] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:26:52] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:26:57] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:27:02] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:27:07] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:27:12] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:27:17] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:27:22] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:27:27] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+   [Fail][09:27:32] : ['09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA', '09481383541: PERLA GLORIA']
+[Success][09:27:37] : ['09481383541: PERLA GLORIA']
+
+[Error Records]:
+[Error Message][09:24:27] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09481383541', '=message=We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+[Error Message][09:24:56] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09481383541', '=message=We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][09:26:47] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09481383541', '=message=We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][09:27:22] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09481383541', '=message=We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+
+
+
+Location : Hipusngo (Brgy. Hipusngo, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+   [Fail][09:29:33] : ['09465439250: JOSE COLASTE', '09070266447: MARLO GARZON', '09481383541: PERLA GLORIA']
+[Success][09:29:43] : ['09639171586: ROMAREEN KAYCEE CAPITULO', '09465439250: JOSE COLASTE', '09070266447: MARLO GARZON']
+[Success][09:29:50] : ['09481383541: PERLA GLORIA']
+
+[Error Records]:
+[Error Message][09:29:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09481383541', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+
+
+
+Location : Jaena (Brgy. Jaena, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][09:30:33] : ['09481180801: KIMBERLY M. DECENA', '09612245648: MILONA P. CAPANING']
+
+
+
+Location : Jaena (Brgy. Jaena, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:31:06] : ['09481180801: KIMBERLY M. DECENA', '09612245648: MILONA P. CAPANING']
+
+
+
+Location : Maitum (Brgy. Maitum, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][09:31:26] : ['09087436644: GERMAN B. BAÑOC']
+
+
+
+Location : Maitum (Brgy. Maitum, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:31:40] : ['09087436644: GERMAN B. BAÑOC']
+
+
+
+Location : Maslug (Brgy. Maslug, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+   [Fail][09:31:58] : ['09510220984: ANALYN J. VILLAFAÑA', '09515005001: LEONISA P PIASTRO', '09383624269: REYNALINDA JAGUNOS GUETA']
+[Success][09:32:09] : ['09650525900: ROSE ANGEL REBOLLOS', '09510220984: ANALYN J. VILLAFAÑA', '09515005001: LEONISA P PIASTRO']
+[Success][09:32:15] : ['09383624269: REYNALINDA JAGUNOS GUETA']
+
+[Error Records]:
+[Error Message][09:31:58] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09383624269', '=message=We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+
+
+
+Location : Maslug (Brgy. Maslug, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+   [Fail][09:32:30] : ['09510220984: ANALYN J. VILLAFAÑA', '09515005001: LEONISA P PIASTRO', '09383624269: REYNALINDA JAGUNOS GUETA']
+   [Fail][09:33:37] : ['09650525900: ROSE ANGEL REBOLLOS', '09510220984: ANALYN J. VILLAFAÑA', '09515005001: LEONISA P PIASTRO']
+[Success][09:33:43] : ['09383624269: REYNALINDA JAGUNOS GUETA', '09650525900: ROSE ANGEL REBOLLOS', '09510220984: ANALYN J. VILLAFAÑA']
+[Success][09:33:50] : ['09515005001: LEONISA P PIASTRO']
+
+[Error Records]:
+[Error Message][09:32:30] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09383624269', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+[Error Message][09:33:37] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09515005001', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error\r\n+CFUN: 1\r\nOK'], ['!done']]
+
+
+
+Location : Palhi (Brgy. Palhi, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][09:34:14] : ['09854476004: BAYBAY CITY GUN CLUB']
+
+
+
+Location : Palhi (Brgy. Palhi, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:34:31] : ['09854476004: BAYBAY CITY GUN CLUB']
+
+
+
+Location : Plaridel (Brgy. Plaridel, Baybay City)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][09:35:05] : ['09196976774: CAROLINA C PORAZO', '09122192196: CYMBELIN P. TABARANZA', '09855146411: EDGAR ROMANO SR.']
+[Success][09:35:12] : ['09289228300: JOHN PHILIP L. PRECILDA (2ND SERVER)', '09066082489: KNARF NAVE ENRIQUEZ', '09510448053: LOLITA B BARCIAL']
+[Success][09:35:19] : ['09515111740: MAGDALENA SURALTA TORING', '09606647772: MARIA LOURDES T. GORRE', '09089338865: REA ROMANO BANOC']
+[Success][09:35:25] : ['09175603050: RENELOU CERILLA', '09513646123: RUELITO L. APIPI', '09061177240: THELMA SURALTA']
+[Success][09:35:32] : ['09982527209: ULDARICO GARCIA SR']
+
+
+
+Location : Plaridel (Brgy. Plaridel, Baybay City)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:36:17] : ['09196976774: CAROLINA C PORAZO', '09122192196: CYMBELIN P. TABARANZA', '09855146411: EDGAR ROMANO SR.']
+   [Fail][09:36:31] : ['09289228300: JOHN PHILIP L. PRECILDA (2ND SERVER)', '09066082489: KNARF NAVE ENRIQUEZ', '09510448053: LOLITA B BARCIAL']
+[Success][09:36:44] : ['09515111740: MAGDALENA SURALTA TORING', '09606647772: MARIA LOURDES T. GORRE', '09089338865: REA ROMANO BANOC']
+[Success][09:36:51] : ['09175603050: RENELOU CERILLA', '09513646123: RUELITO L. APIPI', '09061177240: THELMA SURALTA']
+[Success][09:36:58] : ['09982527209: ULDARICO GARCIA SR', '09289228300: JOHN PHILIP L. PRECILDA (2ND SERVER)', '09066082489: KNARF NAVE ENRIQUEZ']
+[Success][09:37:05] : ['09510448053: LOLITA B BARCIAL']
+
+[Error Records]:
+[Error Message][09:36:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09510448053', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+
+
+
+Location : Punta (Brgy. Punta, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][09:38:55] : ['09658445062: ANGIE MARK POLINAR', '09654278840: ARLYN POLINAR', '09267993411: EDNA CORCINO']
+
+
+
+Location : Punta (Brgy. Punta, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:39:21] : ['09658445062: ANGIE MARK POLINAR', '09654278840: ARLYN POLINAR', '09267993411: EDNA CORCINO']
+
+
+
+Location : Sabang (Brgy. Sabang, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+
+[Success][09:39:45] : ['09957325094: ELMER C. TRIGOSA', '09983380176: MARK JASON M. CASTRO', '09395906956: PASTOR GARCIA']
+[Success][09:39:52] : ['09854301400: RONALD M. MERCADO', '09704532342: ROSALIE B. SABORNIDO', '09602946704: XENA MAE E. GLORIA']
+
+
+
+Location : Sabang (Brgy. Sabang, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:41:36] : ['09957325094: ELMER C. TRIGOSA', '09983380176: MARK JASON M. CASTRO', '09395906956: PASTOR GARCIA']
+[Success][09:41:43] : ['09854301400: RONALD M. MERCADO', '09704532342: ROSALIE B. SABORNIDO', '09602946704: XENA MAE E. GLORIA']
+
+
+
+Location : Tahud (Brgy Tahud Inopacan)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][09:42:03] : ['09916019169: BENVERTO LICAYAN', '09916152321: FERNANDO M FAUSTINO']
+
+
+
+Location : Tahud (Brgy Tahud Inopacan)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:42:22] : ['09916019169: BENVERTO LICAYAN', '09916152321: FERNANDO M FAUSTINO']
+
+
+
+Location : Zone 1 (Pob.) (Poblacion Zone 1, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+
+[Success][09:42:41] : ['09662495504: CARLOMAN P. CORMANES', '09308849425: CRISLYN B. PACAT', '09355306255: DESERIE RALLOS']
+[Success][09:42:48] : ['09978532813: HILDA PASAYLOON', '09154672995: JEFF MARK TABUDLONG', '09852544836: JOMAICA ANN A. SORIA']
+[Success][09:42:55] : ['09073499761: LIGAYA O. DUMAGUING', '09450944976: MARIA JESHA PRADO', '09085049088: MAVERICK SANTOS']
+[Success][09:43:02] : ['09157088001: PATRICIO CELLONA', '09263056618: RODEL LACANDULA', '09311602637: VANESSA MAE D. VASQUEZ']
+
+
+
+Location : Zone 1 (Pob.) (Poblacion Zone 1, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:43:34] : ['09662495504: CARLOMAN P. CORMANES', '09308849425: CRISLYN B. PACAT', '09355306255: DESERIE RALLOS']
+[Success][09:43:41] : ['09978532813: HILDA PASAYLOON', '09154672995: JEFF MARK TABUDLONG', '09852544836: JOMAICA ANN A. SORIA']
+[Success][09:43:48] : ['09073499761: LIGAYA O. DUMAGUING', '09450944976: MARIA JESHA PRADO', '09085049088: MAVERICK SANTOS']
+[Success][09:43:54] : ['09157088001: PATRICIO CELLONA', '09263056618: RODEL LACANDULA', '09311602637: VANESSA MAE D. VASQUEZ']
+
+
+
+Location : Zone 10 (Pob.) (Poblacion Zone 10, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+
+[Success][09:44:25] : ['09210851351: BAYBAY PNP EOD/K9 UNIT', '09985638547: BOFEL UN', '09559103933: JUDY M. BASLAN']
+[Success][09:44:32] : ['09166001624: MARIA THERESA C. NUÑEZ', '09230841233: PNP ( OLD STATION ) INTEL', '09700552922: ROJEAN VILLAMOR MANAWATAO']
+
+[Rejected Records]:
+PROSECUTOR'S OFFICE/ LGU BAYBAY, 563-7740: Invalid Contact Number
+
+
+
+Location : Zone 10 (Pob.) (Poblacion Zone 10, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:45:08] : ['09210851351: BAYBAY PNP EOD/K9 UNIT', '09985638547: BOFEL UN', '09559103933: JUDY M. BASLAN']
+[Success][09:45:15] : ['09166001624: MARIA THERESA C. NUÑEZ', '09230841233: PNP ( OLD STATION ) INTEL', '09700552922: ROJEAN VILLAMOR MANAWATAO']
+
+[Rejected Records]:
+PROSECUTOR'S OFFICE/ LGU BAYBAY, 563-7740: Invalid Contact Number
+
+
+
+Location : Zone 11 (Pob.) (Poblacion Zone 11, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][09:45:38] : ['09073295143: FRANZ JOSEF MEÑOZA', '09125912266: GRACE ALBARICO', '09271272838: LGU/ MARKET MANAGEMENT OFFICE']
+[Success][09:45:45] : ['09279569571: ROSALIE M. LORICA', '09451635638: RUEL CORTES']
+
+
+
+Location : Zone 11 (Pob.) (Poblacion Zone 11, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:47:09] : ['09073295143: FRANZ JOSEF MEÑOZA', '09125912266: GRACE ALBARICO', '09271272838: LGU/ MARKET MANAGEMENT OFFICE']
+[Success][09:47:15] : ['09279569571: ROSALIE M. LORICA', '09451635638: RUEL CORTES']
+
+
+
+Location : Zone 12 (Pob.) (Poblacion Zone 12, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][09:48:27] : ['09654056606: FAST CASH FINANCE CO. INC', '09202734751: MANILYN BAÑOC NAYRE']
+
+
+
+Location : Zone 12 (Pob.) (Poblacion Zone 12, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:48:52] : ['09654056606: FAST CASH FINANCE CO. INC', '09202734751: MANILYN BAÑOC NAYRE']
+
+
+
+Location : Zone 13 (Pob.) (Poblacion Zone 13, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][09:49:20] : ['09368230647: JOVELYN A GALLEGO', '09502538139: MAFELIA S. ABAYA']
+
+
+
+Location : Zone 13 (Pob.) (Poblacion Zone 13, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:49:39] : ['09368230647: JOVELYN A GALLEGO', '09502538139: MAFELIA S. ABAYA']
+
+
+
+Location : Zone 14 (Pob.) (Poblacion Zone 14, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][09:50:06] : ['09094224687: CHRISTIAN JELOURD TORTOSA', '09991569778: JESSEBELLE PAÑA', '09854476003: QLT BAYBAY OFFICE']
+
+
+
+Location : Zone 14 (Pob.) (Poblacion Zone 14, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:50:26] : ['09094224687: CHRISTIAN JELOURD TORTOSA', '09991569778: JESSEBELLE PAÑA', '09854476003: QLT BAYBAY OFFICE']
+
+
+
+Location : Zone 15 (Pob.) (Poblacion Zone 15, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+
+[Success][09:50:44] : ['09498597008: BAYBAY CITY POLICE SUB. STATION', '09502394843: BOBBY JAMES GORRE', '09777171887: EDRALINA IPIL TABUDLONG']
+[Success][09:50:51] : ['09672533143: EMAN JEMSON DENDEN', '09656831078: TOMAS CAIDLANG JR.']
+
+
+
+Location : Zone 15 (Pob.) (Poblacion Zone 15, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][09:51:10] : ['09498597008: BAYBAY CITY POLICE SUB. STATION', '09502394843: BOBBY JAMES GORRE', '09777171887: EDRALINA IPIL TABUDLONG']
+[Success][09:51:17] : ['09672533143: EMAN JEMSON DENDEN', '09656831078: TOMAS CAIDLANG JR.']
+
+
+
+Location : Zone 16 (Pob.) (Poblacion Zone 16, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+
+[Success][09:51:37] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+
+
+
+Location : Zone 16 (Pob.) (Poblacion Zone 16, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+   [Fail][09:51:50] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:51:55] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:52:00] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:52:05] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:52:10] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:52:15] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:52:20] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:52:25] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:52:30] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:52:35] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:52:40] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:52:45] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:52:50] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:52:55] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:53:00] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:53:05] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:53:10] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:53:15] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:53:20] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:53:25] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:53:30] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:53:36] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:53:41] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:53:46] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:53:51] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:53:56] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:54:01] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:54:06] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:54:11] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:54:16] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+   [Fail][09:54:21] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+[Success][09:54:26] : ['09817761382: ANGELO ELECCIONES', '09985638547: BOFEL UN (2ND ACCOUNT)', '09498728541: CRISTINA C. HILONGOS']
+
+[Error Records]:
+[Error Message][09:51:50] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09817761382', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][09:53:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09817761382', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][09:54:11] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09817761382', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+
+
+
+Location : Zone 17 (Pob.) (Poblacion Zone 17, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][10:11:10] : ['09855864381: BAYBAY BARRACKS', '09704571049: LEOPOLDO A. AGRAVANTE', '09150572492: PETER LUKE VALENZONA']
+
+
+
+Location : Zone 17 (Pob.) (Poblacion Zone 17, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][10:11:25] : ['09855864381: BAYBAY BARRACKS', '09704571049: LEOPOLDO A. AGRAVANTE', '09150572492: PETER LUKE VALENZONA']
+
+
+
+Location : Zone 18 (Pob.) (Poblacion Zone 18, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][10:11:44] : ['09855915131: DIAMOND CONSTRUCTION SUPPLIES', '09124158466: RYAN REY B. DIMAPILIS']
+
+
+
+Location : Zone 18 (Pob.) (Poblacion Zone 18, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][10:12:02] : ['09855915131: DIAMOND CONSTRUCTION SUPPLIES', '09124158466: RYAN REY B. DIMAPILIS']
+
+
+
+Location : Zone 19 (Pob.) (Poblacion Zone 19, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][10:12:24] : ['09615092180: ALBERT FILEMON B. DACLAG', '09690476424: ROSIELYN O. MASON']
+
+
+
+Location : Zone 19 (Pob.) (Poblacion Zone 19, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][10:12:41] : ['09615092180: ALBERT FILEMON B. DACLAG', '09690476424: ROSIELYN O. MASON']
+
+
+
+Location : Zone 2 (Pob.) (Poblacion Zone 2, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][10:13:12] : ['09455115835: ACE WENDELL MAZO', '09651333353: SONNY REBUYAS LAPESEROS']
+
+
+
+Location : Zone 2 (Pob.) (Poblacion Zone 2, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][10:13:47] : ['09455115835: ACE WENDELL MAZO', '09651333353: SONNY REBUYAS LAPESEROS']
+
+
+
+Location : Zone 20 (Pob.) (Poblacion Zone 20, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+
+[Success][10:14:22] : ['09630512425: ANGELITO M. MUÑEZ JR.', '09955373690: DAMIANA JOPIA', '09109250991: ERLINDA TITO']
+   [Fail][10:14:36] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:15:41] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:15:46] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:15:51] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:15:56] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:16:01] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:16:06] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:16:11] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:16:16] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:16:21] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:16:26] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:16:31] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:16:36] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:16:41] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:16:46] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:16:51] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:16:56] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:17:01] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:17:06] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:17:11] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:17:16] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+[Success][10:17:21] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+
+[Error Records]:
+[Error Message][10:14:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09214137150', '=message=We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.\r\n')
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+[Error Message][10:15:41] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09510404515', '=message=We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.\r\n')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:15:46] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09214137150', '=message=We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.\r\n')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:16:31] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09510404515', '=message=We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.\r\n')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:16:36] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09214137150', '=message=We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.\r\n')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:17:01] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09510404515', '=message=We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.\r\n')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+[Error Message][10:17:06] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09214137150', '=message=We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.\r\n')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+
+
+
+Location : Zone 20 (Pob.) (Poblacion Zone 20, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][10:17:41] : ['09630512425: ANGELITO M. MUÑEZ JR.', '09955373690: DAMIANA JOPIA', '09109250991: ERLINDA TITO']
+   [Fail][10:17:47] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:18:52] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:18:57] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:19:02] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:19:07] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:19:12] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:19:17] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:19:22] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:19:27] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:19:32] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:19:37] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:19:42] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:19:47] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:19:52] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:19:57] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:20:02] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:20:08] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:20:13] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:20:18] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+   [Fail][10:20:23] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR']
+   [Fail][10:20:28] : ['09214137150: GRACE MAE TITO', '09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+[Success][10:20:33] : ['09510404515: SARAH C. ALEONAR', '09214137150: GRACE MAE TITO']
+
+[Error Records]:
+[Error Message][10:17:47] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09214137150', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+[Error Message][10:18:52] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09510404515', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:18:57] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09214137150', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:19:42] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09510404515', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:19:47] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09214137150', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:20:18] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09214137150', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+
+
+
+Location : Zone 21 (Pob.) (Poblacion Zone 21, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+
+[Success][10:21:37] : ['09816324465: ANALISA A. FRUTAS', '09283783764: GILBERT RACAZA', '09389661197: LEA PAÑADAAN ACOJEDO']
+[Success][10:21:44] : ['09307834814: MARIA CRISTINA LAURENTE']
+
+[Rejected Records]:
+GLENN ESPERANZA, 0998343594: Invalid Contact Number
+
+
+
+Location : Zone 21 (Pob.) (Poblacion Zone 21, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][10:22:11] : ['09816324465: ANALISA A. FRUTAS', '09283783764: GILBERT RACAZA', '09389661197: LEA PAÑADAAN ACOJEDO']
+   [Fail][10:22:19] : ['09307834814: MARIA CRISTINA LAURENTE', '09307834814: MARIA CRISTINA LAURENTE', '09307834814: MARIA CRISTINA LAURENTE']
+   [Fail][10:22:24] : ['09307834814: MARIA CRISTINA LAURENTE', '09307834814: MARIA CRISTINA LAURENTE', '09307834814: MARIA CRISTINA LAURENTE']
+   [Fail][10:22:29] : ['09307834814: MARIA CRISTINA LAURENTE', '09307834814: MARIA CRISTINA LAURENTE', '09307834814: MARIA CRISTINA LAURENTE']
+[Success][10:22:34] : ['09307834814: MARIA CRISTINA LAURENTE']
+
+[Rejected Records]:
+GLENN ESPERANZA, 0998343594: Invalid Contact Number
+
+[Error Records]:
+[Error Message][10:22:19] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09307834814', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+
+
+
+Location : Zone 22 (Pob.) (Poblacion Zone 22, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][10:23:04] : ['09467134316: ANECITA BAUTISTA', '09515121105: CORAZON B. REJAS', '09611825658: DINA A.MONDAL']
+[Success][10:23:11] : ['09632673544: ERLINDA CUYNO', '09513940507: EVA MORENO', '09996433036: IRIS HAZEL L. CHIONG']
+[Success][10:23:18] : ['09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC']
+[Success][10:23:25] : ['09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO']
+
+
+
+Location : Zone 22 (Pob.) (Poblacion Zone 22, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][10:24:56] : ['09467134316: ANECITA BAUTISTA', '09515121105: CORAZON B. REJAS', '09611825658: DINA A.MONDAL']
+   [Fail][10:25:13] : ['09632673544: ERLINDA CUYNO', '09513940507: EVA MORENO', '09996433036: IRIS HAZEL L. CHIONG']
+   [Fail][10:25:18] : ['09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC']
+   [Fail][10:25:23] : ['09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO', '09632673544: ERLINDA CUYNO']
+   [Fail][10:25:28] : ['09513940507: EVA MORENO', '09996433036: IRIS HAZEL L. CHIONG', '09120442218: JANETTE N. BAGUIO']
+   [Fail][10:25:33] : ['09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO']
+   [Fail][10:25:38] : ['09068235703: RUEL BAROTO', '09632673544: ERLINDA CUYNO', '09513940507: EVA MORENO']
+   [Fail][10:25:43] : ['09996433036: IRIS HAZEL L. CHIONG', '09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR']
+   [Fail][10:25:49] : ['09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO']
+   [Fail][10:25:54] : ['09632673544: ERLINDA CUYNO', '09513940507: EVA MORENO', '09996433036: IRIS HAZEL L. CHIONG']
+   [Fail][10:25:59] : ['09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC']
+   [Fail][10:26:04] : ['09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO', '09632673544: ERLINDA CUYNO']
+   [Fail][10:26:09] : ['09513940507: EVA MORENO', '09996433036: IRIS HAZEL L. CHIONG', '09120442218: JANETTE N. BAGUIO']
+   [Fail][10:26:14] : ['09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO']
+   [Fail][10:26:19] : ['09068235703: RUEL BAROTO', '09632673544: ERLINDA CUYNO', '09513940507: EVA MORENO']
+   [Fail][10:26:24] : ['09996433036: IRIS HAZEL L. CHIONG', '09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR']
+   [Fail][10:26:29] : ['09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO']
+   [Fail][10:26:34] : ['09632673544: ERLINDA CUYNO', '09513940507: EVA MORENO', '09996433036: IRIS HAZEL L. CHIONG']
+   [Fail][10:26:39] : ['09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC']
+   [Fail][10:26:44] : ['09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO', '09632673544: ERLINDA CUYNO']
+   [Fail][10:26:49] : ['09513940507: EVA MORENO', '09996433036: IRIS HAZEL L. CHIONG', '09120442218: JANETTE N. BAGUIO']
+   [Fail][10:26:54] : ['09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO']
+   [Fail][10:26:59] : ['09068235703: RUEL BAROTO', '09632673544: ERLINDA CUYNO', '09513940507: EVA MORENO']
+   [Fail][10:27:04] : ['09996433036: IRIS HAZEL L. CHIONG', '09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR']
+   [Fail][10:27:09] : ['09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO']
+   [Fail][10:27:14] : ['09632673544: ERLINDA CUYNO', '09513940507: EVA MORENO', '09996433036: IRIS HAZEL L. CHIONG']
+   [Fail][10:27:19] : ['09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC']
+   [Fail][10:27:24] : ['09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO', '09632673544: ERLINDA CUYNO']
+   [Fail][10:27:29] : ['09513940507: EVA MORENO', '09996433036: IRIS HAZEL L. CHIONG', '09120442218: JANETTE N. BAGUIO']
+   [Fail][10:27:34] : ['09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO']
+   [Fail][10:27:40] : ['09068235703: RUEL BAROTO', '09632673544: ERLINDA CUYNO', '09513940507: EVA MORENO']
+   [Fail][10:27:45] : ['09996433036: IRIS HAZEL L. CHIONG', '09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR']
+   [Fail][10:27:50] : ['09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO']
+[Success][10:27:55] : ['09632673544: ERLINDA CUYNO', '09513940507: EVA MORENO', '09996433036: IRIS HAZEL L. CHIONG']
+   [Fail][10:28:02] : ['09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC']
+   [Fail][10:29:07] : ['09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO', '09120442218: JANETTE N. BAGUIO']
+   [Fail][10:29:12] : ['09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO']
+   [Fail][10:29:17] : ['09068235703: RUEL BAROTO', '09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR']
+   [Fail][10:29:22] : ['09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO']
+   [Fail][10:29:27] : ['09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC']
+   [Fail][10:29:32] : ['09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO', '09120442218: JANETTE N. BAGUIO']
+   [Fail][10:29:37] : ['09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO']
+   [Fail][10:29:42] : ['09068235703: RUEL BAROTO', '09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR']
+   [Fail][10:29:48] : ['09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO']
+   [Fail][10:29:53] : ['09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC']
+   [Fail][10:29:58] : ['09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO', '09120442218: JANETTE N. BAGUIO']
+   [Fail][10:30:03] : ['09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO']
+   [Fail][10:30:08] : ['09068235703: RUEL BAROTO', '09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR']
+   [Fail][10:30:13] : ['09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO']
+   [Fail][10:30:18] : ['09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC']
+   [Fail][10:30:23] : ['09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO', '09120442218: JANETTE N. BAGUIO']
+   [Fail][10:30:28] : ['09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO']
+   [Fail][10:30:33] : ['09068235703: RUEL BAROTO', '09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR']
+   [Fail][10:30:38] : ['09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO']
+   [Fail][10:30:43] : ['09120442218: JANETTE N. BAGUIO', '09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC']
+   [Fail][10:30:48] : ['09207276985: ROLDAN BUSTILLO', '09068235703: RUEL BAROTO', '09120442218: JANETTE N. BAGUIO']
+[Success][10:30:53] : ['09207363216: JUVIE LABRADOR', '09305837900: REYNALDO C.GATOC', '09207276985: ROLDAN BUSTILLO']
+[Success][10:31:00] : ['09068235703: RUEL BAROTO', '09120442218: JANETTE N. BAGUIO']
+
+[Error Records]:
+[Error Message][10:25:13] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09632673544', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:25:18] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09120442218', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:25:23] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09207276985', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:25:28] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09513940507', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:25:33] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09207363216', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:25:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09068235703', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:25:43] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09996433036', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:25:49] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09305837900', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: Modem not registred on network! (6)'], ['!done']]
+[Error Message][10:27:04] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09996433036', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:27:09] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09305837900', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:27:14] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09632673544', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:27:19] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09120442218', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:27:24] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09207276985', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:27:29] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09513940507', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:27:34] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09207363216', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:27:40] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09068235703', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+[Error Message][10:28:02] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09120442218', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=action timed out - try again, if error continues contact MikroTik support and send a supout file (13)'], ['!done']]
+[Error Message][10:30:08] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09068235703', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=invalid value for argument port:\r\n    input does not match any value of serial\r\n    input does not match any value of interface'], ['!done']]
+[Error Message][10:30:38] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09305837900', '=message=This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.\r\nPlease be guided, Thank you\r\n#qltbaybay')
+Returned an error: [['!trap', '=message=failure: modem not ready (6)'], ['!done']]
+
+
+
+Location : Zone 23 (Pob.) (Poblacion Zone 23, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][10:32:06] : ['09382495410: BUREAU OF FIRE PROTECTION', '09927841459: CARLITO C GUY-AB JR.', '09619681439: CHIPPY JEAN PRIMA']
+[Success][10:32:13] : ['09950242608: CHONA A. BASLAN', '09074006488: EDELIZA S. ULEP', '09514196340: GIL Q. CORTAGA']
+[Success][10:32:19] : ['09079926118: JAY AMOR S. CORDERO', '09271983928: JOANN L.BENITEZ', '09851831759: JOSEPHINE DE LA CERNA']
+[Success][10:32:26] : ['09361681500: JUNLITO B. MABANTO', '09317425799: NANETTE P. PERNITES', '09482467253: RENANTE A. SORONIO']
+[Success][10:32:33] : ['09518232203: RIZA MAE B. GUCELA', '09700683470: SIMEON D. ABREU']
+
+
+
+Location : Zone 23 (Pob.) (Poblacion Zone 23, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][10:33:27] : ['09382495410: BUREAU OF FIRE PROTECTION', '09927841459: CARLITO C GUY-AB JR.', '09619681439: CHIPPY JEAN PRIMA']
+[Success][10:33:35] : ['09950242608: CHONA A. BASLAN', '09074006488: EDELIZA S. ULEP', '09514196340: GIL Q. CORTAGA']
+[Success][10:33:41] : ['09079926118: JAY AMOR S. CORDERO', '09271983928: JOANN L.BENITEZ', '09851831759: JOSEPHINE DE LA CERNA']
+[Success][10:33:48] : ['09361681500: JUNLITO B. MABANTO', '09317425799: NANETTE P. PERNITES', '09482467253: RENANTE A. SORONIO']
+[Success][10:33:55] : ['09518232203: RIZA MAE B. GUCELA', '09700683470: SIMEON D. ABREU']
+
+
+
+Location : Zone 4 (Pob.) (Poblacion Zone 4, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][10:34:21] : ['09676007370: ARIANA G. MELITON', '09631948031: CRISYIA MAE RONDERO', '09504911203: JARENEIL MELITON']
+[Success][10:34:27] : ['09362713668: JEOFFREY B. LLANERA', '09677005122: MARCENA Y. NUÑEZ']
+
+
+
+Location : Zone 4 (Pob.) (Poblacion Zone 4, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][10:34:48] : ['09676007370: ARIANA G. MELITON', '09631948031: CRISYIA MAE RONDERO', '09504911203: JARENEIL MELITON']
+[Success][10:34:55] : ['09362713668: JEOFFREY B. LLANERA', '09677005122: MARCENA Y. NUÑEZ']
+
+
+
+Location : Zone 5 (Pob.) (Poblacion Zone 5, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+
+[Success][10:35:15] : ['09270817903: EDILINE A. DIAZ', '09484846639: RENE GOJOCO']
+
+
+
+Location : Zone 5 (Pob.) (Poblacion Zone 5, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][10:35:40] : ['09270817903: EDILINE A. DIAZ', '09484846639: RENE GOJOCO']
+
+
+
+Location : Zone 6 (Pob.) (Poblacion Zone 6, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][10:35:59] : ['09369842961: GEORGE GALON']
+
+
+
+Location : Zone 6 (Pob.) (Poblacion Zone 6, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][10:36:12] : ['09369842961: GEORGE GALON']
+
+
+
+Location : Zone 9 (Pob.) (Poblacion Zone 9, Baybay City, Leyte)
+Message : We would like to inform our valued subscribers that our facebook page was hacked, please report to avoid specious post or transaction.
+
+[Success][10:36:32] : ['09550177918: JONATHAN SISON']
+
+
+
+Location : Zone 9 (Pob.) (Poblacion Zone 9, Baybay City, Leyte)
+Message : This is our new facebook page https://www.facebook.com/baybayqlt1 please like and follow.
+Please be guided, Thank you
+#qltbaybay
+
+[Success][10:36:46] : ['09550177918: JONATHAN SISON']
+
+
+

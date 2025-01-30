@@ -1,0 +1,18 @@
+09/28/2024 - 16:49:20
+FTTH Monthly Notification
+Branch : Queens Link - Palompon
+Message : Hello, as of September 2024, you have # pending monthly bills. Contact us at 09623162972 or on our Facebook page. By Queens Link - Palompon.
+[Success][16:49:20] : ['09169108163, JUDITH MALINAO: 1 pending monthly bill', '09858536390, KAREN O.CHIONG: 1 pending monthly bill', '09064445280, RYAN D. PEÑARANDA: 1 pending monthly bill']
+[Success][16:49:25] : ['09623162972, QLTPL: Success notification!', '09094180770, QLTPL: Success notification!']
+
+[Rejected Records]:
+ARSENIA I.ENCIENZO, 9274396755: Invalid Contact Number
+BABY BERNADETTE MONTEMOR, 9554019575: Invalid Contact Number
+DAHLIA E. PACQUIAO, BRGY.JORDAN 1: Invalid Contact Number
+JOSEPH DEMETERIO, 0965610505: Invalid Contact Number
+LUCENO AYA-AY, 0991729564: Invalid Contact Number
+MARK ANTHONY BERNAL, 9198675461: Invalid Contact Number
+SEVENTH DAY ADVENTIST, 095010340033: Invalid Contact Number
+
+
+

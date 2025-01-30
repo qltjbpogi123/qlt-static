@@ -1,0 +1,92 @@
+05/02/2023 - 09:31:52
+FTTH Monthly Notification
+Branch : Queens Link - Baybay
+Message : Hello, as of May 2023, you have # pending monthly bills. Contact us at 09854476003 or on our Facebook page. By Queens Link - Baybay.
+
+[Error Records]:
+[Error Message][09:31:52] : [WinError 10054] An existing connection was forcibly closed by the remote host
+
+
+
+05/02/2023 - 09:48:39
+FTTH Monthly Notification
+Branch : Queens Link - Baybay
+Message : Hello, as of May 2023, you have # pending monthly bills. Contact us at 09854476003 or on our Facebook page. By Queens Link - Baybay.
+[Success][09:48:39] : ['09953532452, ARCHER A. ABELLAR: 1 pending monthly bill', '09985638547, BOFEL UN (2ND ACCOUNT): 1 pending monthly bill', '09662495504, CARLOMAN P. CORMANES: 1 pending monthly bill']05/02/2023 - 10:12:55
+FTTH Monthly Notification
+Branch : Queens Link - Baybay
+Message : Hello, as of May 2023, you have # pending monthly bills. Contact us at 09854476003 or on our Facebook page. By Queens Link - Baybay.
+   [Fail][10:12:55] : ['09953532452, ARCHER A. ABELLAR: 1 pending monthly bill', '09985638547, BOFEL UN (2ND ACCOUNT): 1 pending monthly bill', '09368412796, CESAR B. YAP JR.: 1 pending monthly bill']
+[Success][10:13:04] : ['09977746745, DELIA MONDERONDO: 1 pending monthly bill', '09957325094, ELMER C. TRIGOSA: 1 pending monthly bill', '09672533143, EMAN JEMSON DENDEN: 3 pending monthly bills']
+[Success][10:13:10] : ['09363911531, EVA A. PAYNANDOS: 1 pending monthly bill', '09991569778, JESSEBELLE PAÑA: 1 pending monthly bill', '09072919923, JOVARD B. MORATA: 2 pending monthly bills']
+[Success][10:13:17] : ['09617605337, LEOMANN M. ANDRADE: 1 pending monthly bill', '09166001624, MARIA THERESA C. NUÑEZ: 2 pending monthly bills', '09983380176, MARK JASON M. CASTRO: 1 pending monthly bill']
+[Success][10:13:24] : ['09662985908, MICHAEL T.TOMADA: 1 pending monthly bill', '09612245648, MILONA P. CAPANING: 1 pending monthly bill', '09323461275, NANETTE P. PERNITES: 1 pending monthly bill']
+[Success][10:13:31] : ['09277534625, PAUL ANGELO GUMBA: 1 pending monthly bill', '09150572492, PETER LUKE VALENZONA: 1 pending monthly bill', '09639171586, ROMAREEN KAYCEE CAPITULO: 1 pending monthly bill']
+[Success][10:13:38] : ['09704532342, ROSALIE B. SABORNIDO: 1 pending monthly bill', '09674122840, SAMPAGUITA MANUEL: 1 pending monthly bill', '09700683470, SIMEON D. ABREU: 1 pending monthly bill']
+[Success][10:13:45] : ['09953532452, ARCHER A. ABELLAR: 1 pending monthly bill', '09985638547, BOFEL UN (2ND ACCOUNT): 1 pending monthly bill', '09368412796, CESAR B. YAP JR.: 1 pending monthly bill']
+
+[Advanced Records]:
+ANALISA A. FRUTAS, 09265228129: Advanced payment of 1 month(s)
+ANALYN J. VILLAFAÑA, 09510220984: Advanced payment of 1 month(s)
+ANGIE MARK POLINAR, 09658445062: Advanced payment of 2 month(s)
+ARLEN DIGMAN EEKHOF, 09295388590: Advanced payment of 1 month(s)
+BENVERTO LICAYAN, 09916019169: Advanced payment of 1 month(s)
+BIERNA MARIS P. SURALTA, 09458965140: Advanced payment of 1 month(s)
+CARLOMAN P. CORMANES, 09662495504: Advanced payment of 1 month(s)
+CHIPPY JEAN PRIMA, 09619681439: Advanced payment of 1 month(s)
+DEOGRASCIAS E. PERNITTEZ, 09156505570: Advanced payment of 1 month(s)
+DESERIE RALLOS, 09355306255: Advanced payment of 1 month(s)
+DIAMOND CONSTRUCTION SUPPLIES, 09611799684: Advanced payment of 1 month(s)
+DOMINIC MONTEROLA, 09056892987: Advanced payment of 1 month(s)
+EDELIZA S. ULEP, 09074006488: Advanced payment of 1 month(s)
+EDGAR ROMANO SR., 09855146411: Advanced payment of 1 month(s)
+EDNA CONCINO, 09267993411: Advanced payment of 1 month(s)
+EDRALINA IPIL TABUDLONG, 09777171887: Advanced payment of 1 month(s)
+ELLEN ROSE GALLEGO, 09981567187: Advanced payment of 1 month(s)
+ESTERLITA DELLOSA, 09380231163: Advanced payment of 1 month(s)
+EVA MORENO, 09513940507: Advanced payment of 1 month(s)
+FERNANDO M FAUSTINO, 09916152321: Advanced payment of 1 month(s)
+GEORGE GALON, 09369842961: Advanced payment of 2 month(s)
+GERMAN B. BAÑOC, 09087436644: Advanced payment of 1 month(s)
+GIL Q. CORTAGA, 09514196340: Advanced payment of 1 month(s)
+HILDA PASAYLOON, 09978532813: Advanced payment of 1 month(s)
+JANETTE N. BAGUIO, 09120442218: Advanced payment of 1 month(s)
+JAY AMOR S. CORDERO, 09079926118: Advanced payment of 1 month(s)
+JEFF MARK TABUDLONG, 09154672995: Advanced payment of 1 month(s)
+JEOFFREY B. LLANERA, 09362713668: Advanced payment of 2 month(s)
+JIMMY G.BAÑOC, 09161831951: Advanced payment of 1 month(s)
+JOHN PHILIP L. PRECILDA, 09289228300: Advanced payment of 1 month(s)
+JOSEPHINE DE LA CERNA, 09851831759: Advanced payment of 1 month(s)
+KIM S. MUNDALA, 09094909189: Advanced payment of 1 month(s)
+LEONILO ABREO KINGCO, 09298668960: Advanced payment of 1 month(s)
+MAFELIA S. ABAYA, 09302462407: Advanced payment of 1 month(s)
+MAJA M. ACUÑA, 09395189810: Advanced payment of 1 month(s)
+MARCENA Y. NUÑEZ, 09677005122: Advanced payment of 1 month(s)
+MARILYN DARASIN, 09654301541: Advanced payment of 1 month(s)
+MARLO GARZON, 09070266447: Advanced payment of 1 month(s)
+MAVERICK SANTOS, 09085049088: Advanced payment of 1 month(s)
+MERLYN DE LOS NIEVES, 09171057792: Advanced payment of 1 month(s)
+PASTOR GARCIA, 09395906956: Advanced payment of 1 month(s)
+PEARL VILLO, 09120515430: Advanced payment of 1 month(s)
+RENANTE A. SORONIO, 09482467253: Advanced payment of 1 month(s)
+RENE GOJOCO, 09484846639: Advanced payment of 1 month(s)
+RENELOU CERILLA, 09175603050: Advanced payment of 1 month(s)
+REYNALDO C.GATOC, 09305837900: Advanced payment of 1 month(s)
+ROSIELYN O. MASON, 09690476424: Advanced payment of 1 month(s)
+RUEL BAROTO, 09068235703: Advanced payment of 1 month(s)
+SAMUEL L. DAWAL JR., 09659725236: Advanced payment of 2 month(s)
+SONNY REBUYAS LAPESEROS, 09651333353: Advanced payment of 2 month(s)
+TOMAS CAIDLANG JR., 09656831078: Advanced payment of 1 month(s)
+WILFREDA AMARILLE, 09067200376: Advanced payment of 1 month(s)
+XENA MAE E. GLORIA, 09602946704: Advanced payment of 1 month(s)
+
+[Rejected Records]:
+SARAH C. ALEONAR, 0951040515: Invalid Contact Number
+
+[Error Records]:
+[Error Message][10:12:55] : 
+Command: ('/tool/sms/send', '=port=lte1', '=phone-number=09368412796', '=message=Hello, as of May 2023, you have 1 pending monthly bill. Contact us at 09854476003 or on our Facebook page. By Queens Link - Baybay.')
+Returned an error: [['!trap', '=message=failure: +CMS ERROR: unknown error'], ['!done']]
+
+
+
