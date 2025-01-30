@@ -2,76 +2,68 @@ document.getElementById('showTooltip').addEventListener('click', (e) => {
     e.preventDefault();
     const steps = [
         {
-            content: "Here you can manage and view all users in the system.",
-            title: "Dashboard 💡",
-            target: ".dashboard", 
-            order: 1, 
+            content: "System main functions.",
+            title: "Main 💡",
+            target: ".isp_essentials",
+            order: 1,
             group: "sidebar-isp-provider",
             fixed: true,
         },
         {
-            content: "View and manage the account list.",
-            title: "Account List 💡",
-            target: ".account_list", 
-            order: 2, 
+            content: "View and manage network plans.",
+            title: "Network 💡",
+            target: ".isp_network",
+            order: 2,
             group: "sidebar-isp-provider",
-            fixed: true
+            fixed: true,
         },
         {
-            content: "Add qualified personnel to the system.",
-            title: "Add Personnel 💡",
-            target: ".add_personnel",
+            content: "Add personnel/clients to system.",
+            title: "User Management 💡",
+            target: ".isp_user_management",
             order: 3,
             group: "sidebar-isp-provider",
-            fixed: true
+            fixed: true,
         },
         {
-            content: "Add new clients to the system.",
-            title: "Add Client 💡",
-            target: ".add_client", 
+            content: "View clients and personnels.",
+            title: "Users 💡",
+            target: ".isp_users_list",
             order: 4,
             group: "sidebar-isp-provider",
-            fixed: true
+            fixed: true,
         },
         {
-            content: "Here you can view and manage the list of available features.",
-            title: "Features 💡",
-            target: ".feature", 
+            content: "Manage available network features.",
+            title: "Network Management 💡",
+            target: ".isp_network_management",
             order: 5,
             group: "sidebar-isp-provider",
-            fixed: true
+            fixed: true,
         },
         {
-            content: "Manage ISP personnel here.",
-            title: "ISP Personnels 💡",
-            target: ".isp_personnels", 
+            content: "Handle support and complaints.",
+            title: "Support and Complaints 💡",
+            target: ".isp_support_complaints",
             order: 6,
             group: "sidebar-isp-provider",
-            fixed: true
+            fixed: true,
         },
         {
-            content: "Here you can view and manage the list of clients.",
-            title: "Clients 💡",
-            target: ".clients", 
-            order: 7,
-            group: "sidebar-isp-provider",
-            fixed: true
-        },
-        {
-            content: "If you need help, just click here.",
+            content: "Click here for help and support.",
             title: "Help 💡",
             target: ".help",
+            order: 7,
+            group: "sidebar-isp-provider",
+            fixed: true,
+        },
+        {
+            content: "<div class='mb-4 text-sm'>Welcome to QLT ISMS!</div> <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY5eGNodWVtNDl3aDlheThwdW5wdmQ2dWJnODBiNmhjNHZ0ejdtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lepqb4HZRuudXHkp2E/giphy.webp' alt='Ready to go'/>",
+            title: "Ready to go!! ✨",
+            target: "center",
             order: 8,
             group: "sidebar-isp-provider",
             fixed: true,
-        },
-        {
-            content: "<div class='mb-4 text-sm'>Welcome to QLT ISMS</div> <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY5eGNodWVtNDl3aDlheThwdW5wdmQ2dWJnODBiNmhjNHZ0ejdtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lepqb4HZRuudXHkp2E/giphy.webp' alt='Ready to go'/>",
-            title: "Ready to go!! ✨",
-            target: "center", 
-            order: 9,
-            group: "sidebar-isp-provider",
-            fixed: true
         },
     ];
     const tg = new tourguide.TourGuideClient({
